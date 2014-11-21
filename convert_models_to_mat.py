@@ -3,9 +3,7 @@
 
 ## Load and Process SBML models
 
-# This script will load the M models in the collection using cobrapy, and
-# convert them to the "mat" format used by the COBRA toolbox (which can also be
-# read and written by cobrapy).
+# This script will load the M models in the collection using [libSBML](http://sbml.org/Software/libSBML) through cobrapy, and convert them to the "mat" format used by the COBRA toolbox (which can also be read and written by cobrapy).
 
 # In[1]:
 
@@ -15,13 +13,12 @@ import re
 
 import sympy
 import scipy
+import scipy.io
 
 import cobra
 
 
-# In addition to the usual fields in the "mat" struct, we will also include
-# S_num and S_denom, which are the numerator and denominator of the
-# stoichiometric coefficients encoded as rational numbers.
+# In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
 
 # In[2]:
 
@@ -32,7 +29,10 @@ def convert_to_rational(value):
 def construct_S_num_denom(model):
     """convert model to two S matrices
 
-    they encode the numerator and denominator"""
+    they encode the numerator and denominator of stoichiometric
+    coefficients encoded as rational numbers
+
+    """
     # intialize to 0
     dimensions = (len(model.metabolites), len(model.reactions))
     S_num = scipy.sparse.lil_matrix(dimensions)
@@ -47,10 +47,7 @@ def construct_S_num_denom(model):
     return S_num, S_denom
 
 
-# There is quite a bit of code below to attempt to automatically identify model
-# objectives when none is set. For some models however, the objective had to be
-# determined manually. Additionally, some of the models need their exchange
-# reactions opened.
+# There is quite a bit of code below to attempt to automatically identify model objectives when none is set by searching for reactions with "biomass" in a reaction or metabolite id. For some models however, the objective had to be determined manually. Additionally, some of the models need their exchange reactions opened.
 
 # In[3]:
 
@@ -88,6 +85,8 @@ for i in sorted(listdir(".")):
                   (possible_objectives[0].id, m.id))
             m.change_objective(possible_objectives[0])
         elif len(possible_biomass_metabolites) == 1:
+            # In the case of a biomass metabolite, add a sink reaction for
+            # it and make that the objective.
             biomass_met = possible_biomass_metabolites[0]
             r = cobra.Reaction("added_biomass_sink")
             r.objective_coefficient = 1
