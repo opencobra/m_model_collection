@@ -97,6 +97,10 @@ for i in sorted(listdir(".")):
         else:
             print("no objective found for " + m.id)
             continue
+    # Ensure the biomass objective flux is unconstrained
+    for reaction in m.reactions.query(lambda x: x > 0, "objective_coefficient"):
+        reaction.lower_bound = min(reaction.lower_bound, 0)
+        reaction.upper_bound = max(reaction.upper_bound, 1000)
     if m.id in open_boundaries:
         for reaction in m.reactions:
             if len(reaction.metabolites) == 1:
