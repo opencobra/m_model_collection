@@ -7,6 +7,11 @@
 
 # In[1]:
 
+import cobra
+
+
+# In[2]:
+
 from os import listdir
 import warnings
 import re
@@ -20,7 +25,7 @@ import cobra
 
 # In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
 
-# In[2]:
+# In[3]:
 
 def convert_to_rational(value):
     return sympy.Rational("%.15g" % value)
@@ -49,7 +54,7 @@ def construct_S_num_denom(model):
 
 # There is quite a bit of code below to attempt to automatically identify model objectives when none is set by searching for reactions with "biomass" in a reaction or metabolite id. For some models however, the objective had to be determined manually. Additionally, some of the models need their exchange reactions opened.
 
-# In[3]:
+# In[4]:
 
 curated_objectives = {"VvuMBEL943": "R806",
                       "iAI549": "BIO_CBDB1_DM_855",
@@ -59,19 +64,21 @@ curated_objectives = {"VvuMBEL943": "R806",
                       "PpaMBEL1254": "R01288",
                       "AbyMBEL891": "R761"}
 open_boundaries = {"iRsp1095", "AORYZAE_COBRA", "iFF708"}
+legacy_SBML = {"T_Maritima", "iNJ661m", "iSR432", "iTH366"}
 
 
-# In[4]:
+# In[5]:
 
 models = []
 biomass_re = re.compile("biomass", re.IGNORECASE)
 for i in sorted(listdir(".")):
     if not i.endswith(".xml"):
         continue
+    model_id = i[:-4]
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
-        m = cobra.io.read_legacy_sbml(i)
-    m.id = m.description = i[:-4]
+        m = cobra.io.read_legacy_sbml(i) if model_id in legacy_SBML             else cobra.io.read_sbml_model(i)
+    m.id = m.description = model_id
     # Attempt to detect a biomass function when the model defines none
     if len(m.reactions.query(lambda x: x > 0, "objective_coefficient")) == 0:
         possible_objectives = m.reactions.query(biomass_re)
@@ -112,19 +119,72 @@ for i in sorted(listdir(".")):
     models.append(m)
 
 
-# Some models have erroneous formulas which are removed.
+#### Some models are only available as Microsoft Excel files
 
-# In[5]:
+# In[6]:
 
-for model in models:
-    for metabolite in model.metabolites:
-        if len(metabolite.formula.elements) == 0:
-            metabolite.formula = ''
+from read_excel import read_excel
+
+
+# In[7]:
+
+m = read_excel("xls/Geobacter_metallireducens.xls",
+               verbose=False, rxn_sheet_header=7)
+m.change_objective("agg_GS13m_2")
+models.append(m)
+
+
+# In[8]:
+
+m = read_excel("xls/iSO783.xls", verbose=False, rxn_sheet_header=2)
+m.change_objective("Biomass")
+models.append(m)
+
+
+# In[9]:
+
+m = read_excel("xls/Rhodoferax_ferrireducens.xls", rxn_sheet_header=4, verbose=False)
+m.change_objective("BIO_Rfer3")
+models.append(m)
+
+
+# In[10]:
+
+m = read_excel("xls/iNV213.xls", rxn_str_key="Reaction Formula", verbose=False)
+m.change_objective("R_biomass_target")
+# remove boundary metabolites
+for met in list(m.metabolites):
+    if met.id.endswith("[b]"):
+        met.remove_from_model()
+models.append(m)
+
+
+# In[11]:
+
+m = read_excel("xls/iTL885.xls", verbose=False,
+               rxn_id_key="Rxn name", rxn_gpr_key="Gene-reaction association")
+m.change_objective("SS1240")
+models.append(m)
+
+
+# In[12]:
+
+m = read_excel("xls/iWZ663.xls", verbose=False,
+               rxn_id_key="Reaction name", rxn_gpr_key="Local gene")
+m.change_objective("biomass equation")
+models.append(m)
+
+
+# In[13]:
+
+m = read_excel("xls/iOR363.xls", verbose=False)
+m.change_objective("OF14e_Retli")
+models.append(m)
 
 
 # Save all the models into a single mat file.
 
-# In[6]:
+# In[14]:
 
 all_model_dict = {}
 for model in models:
