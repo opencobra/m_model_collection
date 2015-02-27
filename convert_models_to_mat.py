@@ -128,7 +128,7 @@ from read_excel import read_excel
 
 # In[7]:
 
-m = read_excel("xls/Geobacter_metallireducens.xls",
+m = read_excel("xls/iJS747.xls",
                verbose=False, rxn_sheet_header=7)
 m.change_objective("agg_GS13m_2")
 models.append(m)
@@ -136,19 +136,27 @@ models.append(m)
 
 # In[8]:
 
+m = read_excel("xls/iRM588.xls",
+               verbose=False, rxn_sheet_header=5)
+m.change_objective("agg_GS13m")
+models.append(m)
+
+
+# In[9]:
+
 m = read_excel("xls/iSO783.xls", verbose=False, rxn_sheet_header=2)
 m.change_objective("Biomass")
 models.append(m)
 
 
-# In[9]:
+# In[10]:
 
 m = read_excel("xls/Rhodoferax_ferrireducens.xls", rxn_sheet_header=4, verbose=False)
 m.change_objective("BIO_Rfer3")
 models.append(m)
 
 
-# In[10]:
+# In[11]:
 
 m = read_excel("xls/iNV213.xls", rxn_str_key="Reaction Formula", verbose=False)
 m.change_objective("R_biomass_target")
@@ -159,7 +167,7 @@ for met in list(m.metabolites):
 models.append(m)
 
 
-# In[11]:
+# In[12]:
 
 m = read_excel("xls/iTL885.xls", verbose=False,
                rxn_id_key="Rxn name", rxn_gpr_key="Gene-reaction association")
@@ -167,7 +175,7 @@ m.change_objective("SS1240")
 models.append(m)
 
 
-# In[12]:
+# In[13]:
 
 m = read_excel("xls/iWZ663.xls", verbose=False,
                rxn_id_key="Reaction name", rxn_gpr_key="Local gene")
@@ -175,7 +183,7 @@ m.change_objective("biomass equation")
 models.append(m)
 
 
-# In[13]:
+# In[14]:
 
 m = read_excel("xls/iOR363.xls", verbose=False)
 m.change_objective("OF14e_Retli")
@@ -184,7 +192,7 @@ models.append(m)
 
 # Save all the models into a single mat file.
 
-# In[14]:
+# In[15]:
 
 all_model_dict = {}
 for model in models:

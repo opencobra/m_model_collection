@@ -43,7 +43,9 @@ def guess_name(potential_names, allowed_names, fail=True):
 
 
 def extract(row, keyname, type=str):
-    """extract a value which may be missing"""
+    """extract a value which may be missing, for a potentially missing key"""
+    if keyname is None:
+        return type()
     value = row[keyname]
     return type() if isinstance(value, float) and isnan(value) else type(value)
 
@@ -55,6 +57,7 @@ def read_excel(
         rxn_sheet_header=0,
 
         rxn_id_key=None,
+        rxn_name_key=None,
         rxn_str_key=None,
         rxn_gpr_key=None,
         rxn_lb_key=None,
@@ -97,18 +100,20 @@ def read_excel(
         if met_id_key is None:
             met_id_key = guess_name(met_frame.keys(), MET_ID_KEYS)
         if met_name_key is None:
-            met_name_key = guess_name(met_frame.keys(), MET_NAME_KEYS)
+            met_name_key = guess_name(met_frame.keys(), MET_NAME_KEYS,
+                                      fail=False)
         if met_formula_key is None:
             met_formula_key = guess_name(met_frame.keys(), MET_FORMULA_KEYS,
                                          fail=False)
         for i in met_frame.index:
+            met_row = met_frame.ix[i]
             met_attributes = {}
             if met_formula_key is not None:
-                formula = met_frame.ix[i, met_formula_key]
+                formula = extract(met_row, met_formula_key)
                 if formula is not None and formula.lower() != "None":
                     met_attributes["formula"] = formula
-            met = Metabolite(met_frame.ix[i, met_id_key],
-                             name=met_frame.ix[i, met_id_key],
+            met = Metabolite(met_row[met_id_key],
+                             name=extract(met_row, met_id_key),
                              **met_attributes)
             try:
                 m.add_metabolites(met)
@@ -127,6 +132,10 @@ def read_excel(
         rxn_id_key = guess_name(rxn_frame.keys(), RXN_ID_KEYS)
     if rxn_str_key is None:
         rxn_str_key = guess_name(rxn_frame.keys(), RXN_STR_KEYS)
+    if rxn_name_key is None:
+        rxn_name_key = guess_name(rxn_frame.keys(), RXN_NAME_KEYS, fail=False)
+        if verbose and rxn_name_key is None:
+            print("reaction name column not identified")
     if rxn_gpr_key is None:
         rxn_gpr_key = guess_name(rxn_frame.keys(), RXN_GPR_KEYS, fail=False)
         if verbose and rxn_gpr_key is None:
@@ -149,7 +158,7 @@ def read_excel(
             continue
         rxn = Reaction()
         rxn.id = escape_str(rxn_id)
-        rxn.name = rxn.id  # TODO: actually parse the name
+        rxn.name = extract(row, rxn_name_key)
         if rxn.id in m.reactions:
             if verbose:
                 print("duplicate reaction '%s' found" % rxn.id)
@@ -160,16 +169,35 @@ def read_excel(
         rxn.build_reaction_from_string(
             rxn_str, verbose=verbose, fwd_arrow=rxn_fwd_arrow,
             rev_arrow=rxn_rev_arrow, reversible_arrow=rxn_reversible_arrow)
-        if rxn_gpr_key is not None:
-            gpr = extract(row, rxn_gpr_key)
-            if "," in gpr or "+" in gpr:
-                # break on ',' (which is or) then '+' (which is and)
-                ors = ["( %s  )" % o.replace("+", " and ") if "+" in o else o
-                       for o in gpr.split(",")]
-                gpr = " or ".join(ors)
-            rxn.gene_reaction_rule = str(gpr)
+        gpr = extract(row, rxn_gpr_key)
+        if "," in gpr or "+" in gpr:
+            # break on ',' (which is or) then '+' (which is and)
+            ors = ["( %s  )" % o.replace("+", " and ") if "+" in o else o
+                   for o in gpr.split(",")]
+            gpr = " or ".join(ors)
+        rxn.gene_reaction_rule = gpr
         if rxn_lb_key is not None:
             rxn.lower_bound = float(row[rxn_lb_key])
         if rxn_ub_key is not None:
             rxn.upper_bound = float(row[rxn_ub_key])
+
+    # fix upper and lower bounds if they include infinity
+    inf = float("inf")
+    max_lower_bound = max(abs(i) for i in m.reactions.list_attr("lower_bound")
+                          if abs(i) < inf)
+    max_upper_bound = max(abs(i) for i in m.reactions.list_attr("upper_bound")
+                          if abs(i) < inf)
+    inf_replace = max(max_upper_bound, max_lower_bound, 1000.) * 100
+
+    def clip_inf(value):
+        if value == inf:
+            return inf_replace
+        elif value == -inf:
+            return -inf_replace
+        else:
+            return value
+    for reaction in m.reactions:
+        reaction.lower_bound = clip_inf(reaction.lower_bound)
+        reaction.upper_bound = clip_inf(reaction.upper_bound)
+
     return m
