@@ -151,7 +151,7 @@ models.append(m)
 
 # In[10]:
 
-m = read_excel("xls/Rhodoferax_ferrireducens.xls", rxn_sheet_header=4, verbose=False)
+m = read_excel("xls/iCR744.xls", rxn_sheet_header=4, verbose=False)
 m.change_objective("BIO_Rfer3")
 models.append(m)
 
