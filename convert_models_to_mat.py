@@ -78,7 +78,7 @@ for i in sorted(listdir(".")):
     with warnings.catch_warnings():
         warnings.simplefilter("ignore")
         m = cobra.io.read_legacy_sbml(i) if model_id in legacy_SBML             else cobra.io.read_sbml_model(i)
-    m.id = m.description = model_id
+    m.id = m.description = model_id.replace(".", "_")
     # Attempt to detect a biomass function when the model defines none
     if len(m.reactions.query(lambda x: x > 0, "objective_coefficient")) == 0:
         possible_objectives = m.reactions.query(biomass_re)
