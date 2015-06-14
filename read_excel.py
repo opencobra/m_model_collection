@@ -1,6 +1,6 @@
 from warnings import warn
 
-from six import string_types
+from six import string_types, iteritems
 from math import isnan
 import pandas
 import os
@@ -74,6 +74,7 @@ def read_excel(
         rxn_reversible_arrow=None,
 
         met_sheet_name=None,
+        met_sheet_header=0,
         met_id_key=None,
         met_name_key=None,
         met_formula_key=None,
@@ -100,8 +101,10 @@ def read_excel(
     m = Model(model_id)
 
     # Metabolites - if the sheet is found
+    met_renames = {}
     if met_sheet_name is not None and met_sheet_name != "ignore":
-        met_frame = pandas.read_excel(filename, met_sheet_name)
+        met_frame = pandas.read_excel(filename, met_sheet_name,
+                                      header=met_sheet_header)
         # strip spaces from header
         met_frame.columns = [i.strip() for i in met_frame.keys()]
         if met_id_key is None:
@@ -119,7 +122,16 @@ def read_excel(
                 formula = extract(met_row, met_formula_key)
                 if formula is not None and formula.lower() != "None":
                     met_attributes["formula"] = formula
-            met = Metabolite(extract(met_row, met_id_key),
+            met_id = extract(met_row, met_id_key)
+            if len(met_id) == 0:
+                continue
+            if " " in met_id:
+                new_id = met_id.replace(" ", "_")
+                met_renames[met_id] = new_id
+                if verbose:
+                    print("Renamed metabolite '%s' to '%s'" % (met_id, new_id))
+                met_id = new_id
+            met = Metabolite(met_id,
                              name=extract(met_row, met_id_key),
                              **met_attributes)
 
@@ -129,7 +141,11 @@ def read_excel(
                 if verbose:
                     print("duplicate metabolite '%s' not added" % met.id)
     elif verbose:
+        met_frame = None
         print("metabolite sheet not found")
+    # need to rename longer strings first, then shorter strings
+    met_rename_list = list(sorted((iteritems(met_renames)),
+                                  key=lambda x: len(x[0]), reverse=True))
 
     # Reactions
     rxn_frame = pandas.read_excel(filename, rxn_sheet_name,
@@ -179,13 +195,30 @@ def read_excel(
             while rxn.id in m.reactions:
                 rxn.id += "_"
         m.add_reaction(rxn)
+
+        # Now build the reaction from the string
+
+        # no need to print new metabolite created if no metaboltie sheet
+        verbose_build = verbose and met_frame is not None
+        build_kwargs = {"verbose": verbose, "fwd_arrow": rxn_fwd_arrow,
+                        "rev_arrow": rxn_rev_arrow,
+                        "reversible_arrow": rxn_reversible_arrow}
         try:
-            rxn.build_reaction_from_string(
-                rxn_str, verbose=verbose, fwd_arrow=rxn_fwd_arrow,
-                rev_arrow=rxn_rev_arrow, reversible_arrow=rxn_reversible_arrow)
+            rxn.build_reaction_from_string(rxn_str, **build_kwargs)
         except Exception as e:
-            print("Error parsing reaction '%s' (id %s)." % (rxn_str, rxn_id))
-            raise e
+            # replace metabolites which have spaces, and try again
+            fixed_rxn_str = rxn_str
+            for k, v in met_rename_list:
+                fixed_rxn_str = fixed_rxn_str.replace(k, v)
+            if verbose:
+                print("converted '%s' to '%s'" % (rxn_str, fixed_rxn_str))
+            try:
+                rxn.build_reaction_from_string(fixed_rxn_str, **build_kwargs)
+            except Exception as e:
+                print("Error parsing %s string '%s'" % (repr(rxn), rxn_str))
+                raise e
+
+        # parse gene reaction rule
         gpr = extract(row, rxn_gpr_key)
         if "," in gpr or "+" in gpr:
             # break on ',' (which is or) then '+' (which is and)
