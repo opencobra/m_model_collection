@@ -23,10 +23,11 @@ RXN_UB_KEYS = {"ub", "upper bound", "upper bounds"}
 
 
 def escape_str(potential_str):
-    try:
-        return str(potential_str)
-    except UnicodeEncodeError:
+    if isinstance(potential_str, bytes):
+        return potential_str
+    if hasattr(potential_str, "encode"):
         return potential_str.encode("ascii", "replace")
+    return bytes(potential_str)
 
 
 def guess_name(potential_names, allowed_names, fail=True):
@@ -47,7 +48,12 @@ def extract(row, keyname, type=str):
     if keyname is None:
         return type()
     value = row[keyname]
-    return type() if isinstance(value, float) and isnan(value) else type(value)
+    if isinstance(value, float) and isnan(value):
+        return type()
+    elif type is str:
+        return escape_str(value)
+    else:
+        return type(value)
 
 
 def read_excel(
@@ -55,6 +61,7 @@ def read_excel(
         verbose=True,
         rxn_sheet_name=None,
         rxn_sheet_header=0,
+        rxn_skip_rows=set(),
 
         rxn_id_key=None,
         rxn_name_key=None,
@@ -93,7 +100,7 @@ def read_excel(
     m = Model(model_id)
 
     # Metabolites - if the sheet is found
-    if met_sheet_name is not None:
+    if met_sheet_name is not None and met_sheet_name != "ignore":
         met_frame = pandas.read_excel(filename, met_sheet_name)
         # strip spaces from header
         met_frame.columns = [i.strip() for i in met_frame.keys()]
@@ -112,9 +119,10 @@ def read_excel(
                 formula = extract(met_row, met_formula_key)
                 if formula is not None and formula.lower() != "None":
                     met_attributes["formula"] = formula
-            met = Metabolite(met_row[met_id_key],
+            met = Metabolite(extract(met_row, met_id_key),
                              name=extract(met_row, met_id_key),
                              **met_attributes)
+
             try:
                 m.add_metabolites(met)
             except ValueError:
@@ -125,7 +133,8 @@ def read_excel(
 
     # Reactions
     rxn_frame = pandas.read_excel(filename, rxn_sheet_name,
-                                  header=rxn_sheet_header)
+                                  header=rxn_sheet_header,
+                                  skiprows=rxn_skip_rows)
     # strip spaces from header
     rxn_frame.columns = [i.strip() for i in rxn_frame.keys()]
     if rxn_id_key is None:
@@ -151,13 +160,17 @@ def read_excel(
 
     for i in range(len(rxn_frame)):
         row = rxn_frame.ix[i]
-        rxn_id = row[rxn_id_key]
-        rxn_str = row[rxn_str_key]
+        if rxn_id_key == "auto":
+            rxn_id = "R%04d" % i
+        else:
+            rxn_id = extract(row, rxn_id_key)
+        rxn_str = extract(row, rxn_str_key)
         if not isinstance(rxn_id, string_types) or \
-                not isinstance(rxn_str, string_types):
+                not isinstance(rxn_str, string_types) or \
+                len(rxn_str) == 0 or len(rxn_id) == 0:
             continue
         rxn = Reaction()
-        rxn.id = escape_str(rxn_id)
+        rxn.id = rxn_id
         rxn.name = extract(row, rxn_name_key)
         if rxn.id in m.reactions:
             if verbose:
@@ -166,9 +179,13 @@ def read_excel(
             while rxn.id in m.reactions:
                 rxn.id += "_"
         m.add_reaction(rxn)
-        rxn.build_reaction_from_string(
-            rxn_str, verbose=verbose, fwd_arrow=rxn_fwd_arrow,
-            rev_arrow=rxn_rev_arrow, reversible_arrow=rxn_reversible_arrow)
+        try:
+            rxn.build_reaction_from_string(
+                rxn_str, verbose=verbose, fwd_arrow=rxn_fwd_arrow,
+                rev_arrow=rxn_rev_arrow, reversible_arrow=rxn_reversible_arrow)
+        except Exception as e:
+            print("Error parsing reaction '%s' (id %s)." % (rxn_str, rxn_id))
+            raise e
         gpr = extract(row, rxn_gpr_key)
         if "," in gpr or "+" in gpr:
             # break on ',' (which is or) then '+' (which is and)

@@ -1,3 +1,4 @@
 gurobi.log
 .ipynb_checkpoints
+*.pyc
 all_models.mat
