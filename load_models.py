@@ -503,9 +503,8 @@ models.iCac802.reactions.R0095.gene_reaction_rule =     models.iCac802.reactions
 
 # ## Export Models
 
-# Save all the models into a single mat file.
-# 
-# In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
+# ### mat
+# Save all the models into a single mat file. In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
 
 # In[32]:
 
@@ -543,3 +542,12 @@ for model in models:
     all_model_dict[model.id] = model_dict
 scipy.io.savemat("all_models.mat", all_model_dict, oned_as="column")
 
+
+# ### SBML 3
+# Export the models to the use the draft fbc version 2 extension to SBML level 3 version 1.
+# 
+# Draft FBC 2 support is still [under development](https://github.com/opencobra/cobrapy/pull/152) in cobrapy.
+from cobra.io.sbml3 import write_sbml_model
+
+for model in models:
+    write_sbml_model(model, "sbml3/%s.xml" % model.id)
