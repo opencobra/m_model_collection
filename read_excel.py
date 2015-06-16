@@ -181,9 +181,13 @@ def read_excel(
         else:
             rxn_id = extract(row, rxn_id_key)
         rxn_str = extract(row, rxn_str_key)
+        # skip empty rows
         if not isinstance(rxn_id, string_types) or \
                 not isinstance(rxn_str, string_types) or \
                 len(rxn_str) == 0 or len(rxn_id) == 0:
+            continue
+        # skip duplicated header rows
+        if rxn_id == rxn_id_key and rxn_str == rxn_str_key:
             continue
         rxn = Reaction()
         rxn.id = rxn_id

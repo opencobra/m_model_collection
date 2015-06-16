@@ -232,13 +232,53 @@ m.metabolites.BIOMASS.remove_from_model()
 models.append(m)
 
 
+# In[18]:
+
+m = read_excel("xls/iCS400.xls", rxn_sheet_name="Complete Rxn List",
+               rxn_sheet_header=2, rxn_str_key="Reaction",
+               rxn_id_key="Name", verbose=False)
+m.change_objective("BIOMASS")
+add_exchanges(m, "xt")
+# BIOMASS is just all model metabolites in the Demands list
+m.reactions.BIOMASS.objective_coefficient = 1
+models.append(m)
+
+
+# In[19]:
+
+m = read_excel("xls/iCS291.xls", rxn_sheet_name="Sheet1",
+               rxn_str_key="Reaction",
+               rxn_sheet_header=5, rxn_id_key="Name",
+               verbose=False)
+add_exchanges(m, "xt")
+# BIOMASS is just all model metabolites in the Demands list
+m.add_reaction(cobra.Reaction("BIOMASS"))
+# taken from Table 1 in publication
+biomass_mets = {}
+for i in {"ALA", "ARG", "ASN", "ASP", "CYS", "GLU", "GLN", "GLY",
+          "HIS", "ILE", "LEU", "LYS", "MET", "PHE", "PRO", "SER",
+          "THR", "TRP", "TYR", "VAL", "PTRC", "SPMD", "ATP", "GTP",
+          "CTP", "UTP", "DATP", "DGTP", "DCTP", "DTTP", "PS", "PE",
+          "PG", "PEPTIDO", "LPS", "OPP", "UDPP", "NAD", "NADP", "FAD",
+          "COA", "ACP", "PTH", "THIAMIN", "MTHF", "MK", "DMK"
+         }:
+    biomass_mets[m.metabolites.get_by_id(i)] = -1
+    dm = cobra.Reaction("DM_" + i)
+    m.add_reaction(dm)
+    dm.add_metabolites({m.metabolites.get_by_id(i): -1})
+m.reactions.BIOMASS.add_metabolites(biomass_mets)
+m.change_objective("BIOMASS")
+add_exchanges(m, "xt")
+models.append(m)
+
+
 # ## Fixes of various encoding bugs
 
 # ### General
 
 # GSMN_TB does not use the convention of extracellular metabolites with exchanges. Although the model still solves with this formulation, this is still normalized here. This process does not change the mathematical structure of the model.
 
-# In[18]:
+# In[20]:
 
 h_c = models.GSMN_TB.metabolites.H_c
 for r in models.GSMN_TB.reactions:
@@ -258,7 +298,7 @@ for r in models.GSMN_TB.reactions:
 
 # ### id's
 
-# In[19]:
+# In[21]:
 
 # reaction id's with spaces in them
 models.iJS747.reactions.get_by_id("HDH [deleted 01/16/2007  12:02:30 PM]").id = "HDH_del"
@@ -273,7 +313,7 @@ models.textbook.reactions.query("Biomass")[0].id = "Biomass_Ecoli_core"
 
 # Use the convention underscore + compartment i.e. _c instead of [c] (c) etc.
 
-# In[20]:
+# In[22]:
 
 SQBKT_re = re.compile("\[([a-z])\]$")
 
@@ -295,6 +335,14 @@ for met in models.S_coilicolor_fixed.metabolites:
     if met.id.endswith("_None_"):
         met.id = met.id[:-6]
 
+# Some models only have intra and extracellular metabolites, but don't use _c and _e.
+for m_id in ["iCS291", "iCS400", "iTY425", "iSS724"]:
+    for metabolite in models.get_by_id(m_id).metabolites:
+        if metabolite.id.endswith("xt"):
+            metabolite.id = metabolite.id[:-2] + "_e"
+        elif len(metabolite.id) < 2 or metabolite.id[-2] != "_":
+            metabolite.id = metabolite.id + "_c"
+
 # Exchange reactions should have the id of the metabolite after with the same convention
 for m_id in ["iAF1260", "iJO1366", "iAF692", "iJN746", "iRC1080", "textbook", "iNV213",
              "iIT341", "iJN678", "iJR904", "iND750", "iNJ661", "iPS189_fixed", "iSB619"]:
@@ -309,7 +357,7 @@ for m_id in ["iAF1260", "iJO1366", "iAF692", "iJN746", "iRC1080", "textbook", "i
 
 # Ensure all id's are escaped
 
-# In[21]:
+# In[23]:
 
 def escape_id(id):
     id = id.replace("(", "_LPAREN_").replace(")", "_RPAREN_").replace("[", "_LSQBKT_").replace("]", "_RSQBKT_")
@@ -321,7 +369,7 @@ for model in models:
         x.id = escape_id(x.id)
 
 
-# In[22]:
+# In[24]:
 
 for m in models:
     m.repair()
@@ -329,7 +377,7 @@ for m in models:
 
 # ### Metabolite Formulas
 
-# In[23]:
+# In[25]:
 
 for model in models:
     for metabolite in model.metabolites:
@@ -343,7 +391,7 @@ for model in models:
 
 # ### Metabolite Compartments
 
-# In[24]:
+# In[26]:
 
 compartments = {
     'c': 'Cytoplasm',
@@ -374,7 +422,7 @@ for model in models:
 # ### Metabolite and Reaction Names
 # Names which start with numbers don't need to be escaped with underscores.
 
-# In[25]:
+# In[27]:
 
 for model in models:
     for x in chain(model.metabolites, model.reactions):
@@ -386,7 +434,7 @@ for model in models:
 
 # ### MISC fixes
 
-# In[26]:
+# In[28]:
 
 models.iMM1415.reactions.EX_lnlc_dup_e.remove_from_model()
 models.iMM1415.reactions.EX_retpalm_e.remove_from_model(remove_orphans=True)
@@ -406,7 +454,7 @@ for model_id in ["iRM588", "iJS747", "iCR744", "iSO783"]:
 
 # A lot of genes have characters which won't work in their names
 
-# In[27]:
+# In[29]:
 
 def rename_gene(model, old_id, new_id, regexp=None):
     gene = model.genes.get_by_id(old_id)
@@ -454,7 +502,7 @@ for model_id in ["iAI549", "iMM1415"]:
 
 # Some GPR's have multiple ands/ors in a row
 
-# In[28]:
+# In[30]:
 
 multiple_ors = re.compile("(\s*or\s+){2,}")
 multiple_ands = re.compile("(\s*and\s+){2,}")
@@ -478,7 +526,7 @@ for model_id in ["iRS1563", "iRS1597", "iMM1415"]:
 
 # Some models are missing spaces between the ands/ors in some of their GPR's
 
-# In[29]:
+# In[31]:
 
 for m_id in ["iJN678", "iTL885"]:
     for r in models.get_by_id(m_id).reactions:
@@ -487,7 +535,7 @@ for m_id in ["iJN678", "iTL885"]:
 
 # Some models are missing parenthesis
 
-# In[30]:
+# In[32]:
 
 def insert(string, index, substr):
     return string[:index] + substr + string[index:]
@@ -496,7 +544,7 @@ models.iRS1597.reactions.R01138_c.gene_reaction_rule =     insert(models.iRS1563
 models.iRS1563.reactions.R02235_c.gene_reaction_rule =     insert(models.iRS1563.reactions.R02235_c.gene_reaction_rule, 32, ")")
 
 
-# In[31]:
+# In[33]:
 
 models.iCac802.reactions.R0095.gene_reaction_rule =     models.iCac802.reactions.R0095.gene_reaction_rule.replace(" AND ", " and ")
 
@@ -506,7 +554,7 @@ models.iCac802.reactions.R0095.gene_reaction_rule =     models.iCac802.reactions
 # ### mat
 # Save all the models into a single mat file. In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
 
-# In[32]:
+# In[34]:
 
 def convert_to_rational(value):
     return sympy.Rational("%.15g" % value)
@@ -533,7 +581,7 @@ def construct_S_num_denom(model):
     return S_num, S_denom
 
 
-# In[33]:
+# In[35]:
 
 all_model_dict = {}
 for model in models:
