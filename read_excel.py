@@ -62,6 +62,7 @@ def read_excel(
         rxn_sheet_name=None,
         rxn_sheet_header=0,
         rxn_skip_rows=set(),
+        rxn_sheet_converters=None,
 
         rxn_id_key=None,
         rxn_name_key=None,
@@ -78,6 +79,7 @@ def read_excel(
         met_id_key=None,
         met_name_key=None,
         met_formula_key=None,
+
         ):
 
     # autodetect sheet names
@@ -150,7 +152,8 @@ def read_excel(
     # Reactions
     rxn_frame = pandas.read_excel(filename, rxn_sheet_name,
                                   header=rxn_sheet_header,
-                                  skiprows=rxn_skip_rows)
+                                  skiprows=rxn_skip_rows,
+                                  converters=rxn_sheet_converters)
     # strip spaces from header
     rxn_frame.columns = [i.strip() for i in rxn_frame.keys()]
     if rxn_id_key is None:
