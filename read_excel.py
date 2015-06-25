@@ -51,7 +51,7 @@ def extract(row, keyname, type=str):
     if isinstance(value, float) and isnan(value):
         return type()
     elif type is str:
-        return escape_str(value)
+        return escape_str(value).strip()
     else:
         return type(value)
 
