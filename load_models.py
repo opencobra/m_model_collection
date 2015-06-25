@@ -55,7 +55,7 @@ def add_exchanges(model, extracellular_suffix="[e]", uptake_amount=10):
 # In[3]:
 
 legacy_SBML = {"T_Maritima", "iNJ661m", "iSR432", "iTH366"}
-open_boundaries = {"iRsp1095", "iWV1314", "iFF708"}
+open_boundaries = {"iRsp1095", "iWV1314", "iFF708", "iZM363"}
 
 models = cobra.DictList()
 for i in sorted(os.listdir("sbml")):
@@ -67,6 +67,22 @@ for i in sorted(os.listdir("sbml")):
         warnings.simplefilter("ignore")
         m = cobra.io.read_legacy_sbml(filepath) if model_id in legacy_SBML             else cobra.io.read_sbml_model(filepath)
     m.id = m.description = model_id.replace(".", "_")
+
+    if m.id in open_boundaries:
+        open_exchanges(m)
+
+    models.append(m)
+
+
+# ### Models available in COBRA Toolbox "mat" format
+
+# In[4]:
+
+for i in sorted(os.listdir("mat")):
+    if not i.endswith(".mat"):
+        continue
+    m = cobra.io.load_matlab_model(os.path.join("mat", i))
+    m.id = i[:-4]
     
     if m.id in open_boundaries:
         open_exchanges(m)
@@ -76,33 +92,33 @@ for i in sorted(os.listdir("sbml")):
 
 # ### Some models are only available as Microsoft Excel files
 
-# In[4]:
+# In[5]:
 
 m = read_excel("xls/iJS747.xls",
                verbose=False, rxn_sheet_header=7)
 models.append(m)
 
 
-# In[5]:
+# In[6]:
 
 m = read_excel("xls/iRM588.xls",
                verbose=False, rxn_sheet_header=5)
 models.append(m)
 
 
-# In[6]:
+# In[7]:
 
 m = read_excel("xls/iSO783.xls", verbose=False, rxn_sheet_header=2)
 models.append(m)
 
 
-# In[7]:
+# In[8]:
 
 m = read_excel("xls/iCR744.xls", rxn_sheet_header=4, verbose=False)
 models.append(m)
 
 
-# In[8]:
+# In[9]:
 
 m = read_excel("xls/iNV213.xls", rxn_str_key="Reaction Formula", verbose=False)
 # remove boundary metabolites
@@ -112,40 +128,40 @@ for met in list(m.metabolites):
 models.append(m)
 
 
-# In[9]:
+# In[10]:
 
 m = read_excel("xls/iTL885.xls", verbose=False,
                rxn_id_key="Rxn name", rxn_gpr_key="Gene-reaction association", met_sheet_name="ignore")
 models.append(m)
 
 
-# In[10]:
+# In[11]:
 
 m = read_excel("xls/iWZ663.xls", verbose=False,
                rxn_id_key="auto", rxn_name_key="Reaction name", rxn_gpr_key="Local gene")
 models.append(m)
 
 
-# In[11]:
+# In[12]:
 
 m = read_excel("xls/iOR363.xls", verbose=False)
 models.append(m)
 
 
-# In[12]:
+# In[13]:
 
 m = read_excel("xls/iMA945.xls", verbose=False)
 models.append(m)
 
 
-# In[13]:
+# In[14]:
 
 m = read_excel("xls/iPP668.xls", verbose=False)
 add_exchanges(m)
 models.append(m)
 
 
-# In[14]:
+# In[15]:
 
 m = read_excel("xls/iVM679.xls", verbose=False, met_sheet_name="ignore",
                rxn_id_key="Name", rxn_name_key="Description", rxn_str_key="Reaction")
@@ -153,7 +169,7 @@ open_exchanges(m)
 models.append(m)
 
 
-# In[15]:
+# In[16]:
 
 m = read_excel("xls/iTY425.xls", rxn_sheet_header=1,
                rxn_sheet_name="S8", rxn_id_key="Number", rxn_str_key="Reaction", verbose=False)
@@ -164,7 +180,7 @@ m.id = m.id + "_fixed"
 models.append(m)
 
 
-# In[16]:
+# In[17]:
 
 m = read_excel("xls/iSS724.xls", rxn_str_key="Reactions",
                rxn_sheet_header=1, met_sheet_header=1, rxn_id_key="Name",
@@ -173,7 +189,7 @@ add_exchanges(m, "xt")
 models.append(m)
 
 
-# In[17]:
+# In[18]:
 
 m = read_excel("xls/iCS400.xls", rxn_sheet_name="Complete Rxn List",
                rxn_sheet_header=2, rxn_str_key="Reaction",
@@ -182,7 +198,7 @@ add_exchanges(m, "xt")
 models.append(m)
 
 
-# In[18]:
+# In[19]:
 
 m = read_excel("xls/iCS291.xls", rxn_sheet_name="Sheet1",
                rxn_str_key="Reaction",
@@ -210,7 +226,7 @@ add_exchanges(m, "xt")
 models.append(m)
 
 
-# In[19]:
+# In[20]:
 
 m = read_excel("xls/iYO844.xls", rxn_sheet_name="Reaction and locus", verbose=False, rxn_gpr_key="Locus name",
            rxn_str_key=u'Equation (note [c] and [e] at the beginning refer to the compartment \n'
@@ -240,7 +256,7 @@ r *= 0.001
 models.append(m)
 
 
-# In[20]:
+# In[21]:
 
 models.sort()
 
@@ -249,7 +265,7 @@ models.sort()
 # 
 # Some of these models do not specify an objective (or biomass) reaction. These will be automatically detected if possible, or set from a manually curated list.
 
-# In[21]:
+# In[22]:
 
 # regular expression to detect "biomass"
 biomass_re = re.compile("biomass", re.IGNORECASE)
@@ -270,7 +286,7 @@ curated_objectives = {"VvuMBEL943": "R806",
                       "iTL885": "SS1240"}
 
 
-# In[22]:
+# In[23]:
 
 for m in models:
     if len(m.reactions.query(lambda x: x > 0, "objective_coefficient")):
@@ -320,7 +336,7 @@ for m in models:
 
 # GSMN_TB does not use the convention of extracellular metabolites with exchanges. Although the model still solves with this formulation, this is still normalized here. This process does not change the mathematical structure of the model.
 
-# In[23]:
+# In[24]:
 
 h_c = models.GSMN_TB.metabolites.H_c
 for r in models.GSMN_TB.reactions:
@@ -340,7 +356,7 @@ for r in models.GSMN_TB.reactions:
 
 # ### id's
 
-# In[24]:
+# In[25]:
 
 # reaction id's with spaces in them
 models.iJS747.reactions.get_by_id("HDH [deleted 01/16/2007  12:02:30 PM]").id = "HDH_del"
@@ -355,7 +371,7 @@ models.textbook.reactions.query("Biomass")[0].id = "Biomass_Ecoli_core"
 
 # Use the convention underscore + compartment i.e. _c instead of [c] (c) etc.
 
-# In[25]:
+# In[26]:
 
 SQBKT_re = re.compile("\[([a-z])\]$")
 
@@ -370,7 +386,7 @@ for r in models.iRS1597.reactions:
     r.id = fix_brackets(r.id, re.compile("_LSQBKT_([a-z])_RSQBKT_$"))
 
 for m_id in ["iJS747", "iRM588", "iSO783", "iCR744", "iNV213", "iWZ663", "iOR363", "iMA945", "iPP668",
-             "iTL885", "iVM679", "iYO844"]:
+             "iTL885", "iVM679", "iYO844", "iZM363"]:
     for met in models.get_by_id(m_id).metabolites:
         met.id = fix_brackets(met.id, SQBKT_re)
 
@@ -388,7 +404,7 @@ for m_id in ["iCS291", "iCS400", "iTY425_fixed", "iSS724"]:
 
 # Exchange reactions should have the id of the metabolite after with the same convention
 for m_id in ["iAF1260", "iJO1366", "iAF692", "iJN746", "iRC1080", "textbook", "iNV213",
-             "iIT341", "iJN678", "iJR904", "iND750", "iNJ661", "iPS189_fixed", "iSB619"]:
+             "iIT341", "iJN678", "iJR904", "iND750", "iNJ661", "iPS189_fixed", "iSB619", "iZM363"]:
     for r in models.get_by_id(m_id).reactions:
         if len(r.metabolites) != 1:
             continue
@@ -400,7 +416,7 @@ for m_id in ["iAF1260", "iJO1366", "iAF692", "iJN746", "iRC1080", "textbook", "i
 
 # Ensure all id's are escaped
 
-# In[26]:
+# In[27]:
 
 def escape_id(id):
     id = id.replace("(", "_LPAREN_").replace(")", "_RPAREN_").replace("[", "_LSQBKT_").replace("]", "_RSQBKT_")
@@ -412,7 +428,7 @@ for model in models:
         x.id = escape_id(x.id)
 
 
-# In[27]:
+# In[28]:
 
 for m in models:
     m.repair()
@@ -420,21 +436,24 @@ for m in models:
 
 # ### Metabolite Formulas
 
-# In[28]:
+# In[29]:
 
 for model in models:
     for metabolite in model.metabolites:
-        if metabolite.formula is not None and str(metabolite.formula).lower() == "none":
-            metabolite.formula = None
+        if metabolite.formula is None:
+            metabolite.formula = ""
+            continue
+        if str(metabolite.formula).lower() == "none":
+            metabolite.formula = ""
+            continue
         # some characters should not be in a formula
-        if metabolite.formula is not None:
-            if "(" in metabolite.formula or                     ")" in metabolite.formula or                     "." in metabolite.formula:
-                metabolite.formula = None
+        if "(" in metabolite.formula or                 ")" in metabolite.formula or                 "." in metabolite.formula:
+            metabolite.formula = ""
 
 
 # ### Metabolite Compartments
 
-# In[29]:
+# In[30]:
 
 compartments = {
     'c': 'Cytoplasm',
@@ -465,7 +484,7 @@ for model in models:
 # ### Metabolite and Reaction Names
 # Names which start with numbers don't need to be escaped with underscores.
 
-# In[30]:
+# In[31]:
 
 for model in models:
     for x in chain(model.metabolites, model.reactions):
@@ -473,11 +492,13 @@ for model in models:
             x.name = x.name.lstrip("_")
         if x.name is not None:
             x.name = x.name.strip()
+        if x.name is None:
+            x.name = x.id
 
 
 # ### MISC fixes
 
-# In[31]:
+# In[32]:
 
 models.iMM1415.reactions.EX_lnlc_dup_e.remove_from_model()
 models.iMM1415.reactions.EX_retpalm_e.remove_from_model(remove_orphans=True)
@@ -497,7 +518,7 @@ for model_id in ["iRM588", "iJS747", "iCR744", "iSO783"]:
 
 # A lot of genes have characters which won't work in their names
 
-# In[32]:
+# In[33]:
 
 def rename_gene(model, old_id, new_id, regexp=None):
     gene = model.genes.get_by_id(old_id)
@@ -545,7 +566,7 @@ for model_id in ["iAI549", "iMM1415"]:
 
 # Some GPR's have multiple ands/ors in a row
 
-# In[33]:
+# In[34]:
 
 multiple_ors = re.compile("(\s*or\s+){2,}")
 multiple_ands = re.compile("(\s*and\s+){2,}")
@@ -569,7 +590,7 @@ for model_id in ["iRS1563", "iRS1597", "iMM1415"]:
 
 # Some models are missing spaces between the ands/ors in some of their GPR's
 
-# In[34]:
+# In[35]:
 
 for m_id in ["iJN678", "iTL885"]:
     for r in models.get_by_id(m_id).reactions:
@@ -578,7 +599,7 @@ for m_id in ["iJN678", "iTL885"]:
 
 # Some models are missing parenthesis
 
-# In[35]:
+# In[36]:
 
 def insert(string, index, substr):
     return string[:index] + substr + string[index:]
@@ -587,7 +608,7 @@ models.iRS1597.reactions.R01138_c.gene_reaction_rule =     insert(models.iRS1563
 models.iRS1563.reactions.R02235_c.gene_reaction_rule =     insert(models.iRS1563.reactions.R02235_c.gene_reaction_rule, 32, ")")
 
 
-# In[36]:
+# In[37]:
 
 models.iCac802.reactions.R0095.gene_reaction_rule =     models.iCac802.reactions.R0095.gene_reaction_rule.replace(" AND ", " and ")
 
@@ -599,7 +620,7 @@ models.iCB925.reactions.FDXNRy.gene_reaction_rule = '( Cbei_0661 or Cbei_2182 )'
 # ### mat
 # Save all the models into a single mat file. In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
 
-# In[37]:
+# In[38]:
 
 def convert_to_rational(value):
     return sympy.Rational("%.15g" % value)
@@ -626,7 +647,7 @@ def construct_S_num_denom(model):
     return S_num, S_denom
 
 
-# In[38]:
+# In[39]:
 
 all_model_dict = {}
 for model in models:
