@@ -45,7 +45,7 @@ def guess_name(potential_names, allowed_names, fail=True):
 
 def extract(row, keyname, type=str):
     """extract a value which may be missing, for a potentially missing key"""
-    if keyname is None:
+    if keyname is None or keyname == "skip":
         return type()
     value = row[keyname]
     if isinstance(value, float) and isnan(value):
