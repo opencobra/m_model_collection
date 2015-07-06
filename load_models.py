@@ -4,6 +4,8 @@
 # # Load and Process models
 # 
 # This script will load the M models in the collection using cobrapy, and convert them to a normalized format. They will also be exported to the "mat" format used by the COBRA toolbox.
+# 
+# This requires [cobrapy](https://opencobra.github.io/cobrapy) version 0.4.0b1 or later.
 
 # In[1]:
 
@@ -202,7 +204,7 @@ models.append(m)
 
 m = read_excel("xls/iLL672.xls",
                rxn_id_key="auto", met_sheet_name="Appendix 3 iLL672 metabolites",\
-               rxn_str_key="REACTION", verbose=False,
+               rxn_str_key="REACTION", rxn_gpr_key="skip", verbose=False,
                rxn_sheet_name='Appendix 3 iLL672 reactions')
 m.reactions[-1].objective_coefficient = 1
 m.metabolites.BM.remove_from_model()
@@ -212,14 +214,16 @@ models.append(m)
 
 # In[20]:
 
-# substitute H+ with H, etc.
-plus_re = re.compile("(?<=\S)\+")
+plus_re = re.compile("(?<=\S)\+")  # substitute H+ with H, etc.
 m = read_excel("xls/iMH551.xls", rxn_sheet_name="GPR Annotation", rxn_sheet_header=4,
-               rxn_id_key="auto", rxn_str_key="REACTION", rxn_gpr_key="LOCUS",
+               rxn_id_key="auto", rxn_str_key="REACTION", rxn_gpr_key="skip",
                rxn_name_key="ENZYME", rxn_skip_rows=[625, 782, 787], verbose=False,
-               rxn_sheet_converters={"REACTION": lambda x: plus_re.sub("", x)}
-              )
-add_exchanges(m, "(extracellular)")
+               rxn_sheet_converters={"REACTION": lambda x: plus_re.sub("", x)})
+for met in m.metabolites:
+    if met.id.endswith("(extracellular)"):
+        met.id = met.id[:-15] + "_e"
+m.repair()
+add_exchanges(m, "_e")
 models.append(m)
 
 
@@ -420,10 +424,6 @@ for met in models.S_coilicolor_fixed.metabolites:
     if met.id.endswith("_None_"):
         met.id = met.id[:-6]
 
-for met in models.iMH551.metabolites:
-    if met.id.endswith("(extracellular)"):
-        met.id = met.id[:-15] + "_e"
-
 # Some models only have intra and extracellular metabolites, but don't use _c and _e.
 for m_id in ["iCS291", "iCS400", "iTY425_fixed", "iSS724"]:
     for metabolite in models.get_by_id(m_id).metabolites:
@@ -444,30 +444,13 @@ for m_id in ["iAF1260", "iJO1366", "iAF692", "iJN746", "iRC1080", "textbook", "i
         if r.id.startswith("DM_"):
             r.id = "DM_" + list(r.metabolites.keys())[0].id
 
-
-# Ensure all id's are escaped
-
-# In[29]:
-
-def escape_id(id):
-    id = id.replace("(", "_LPAREN_").replace(")", "_RPAREN_").replace("[", "_LSQBKT_").replace("]", "_RSQBKT_")
-    id = id.replace(",", "__COMMA_").replace("/", "_FSLASH_").replace("_DASH_", "__").replace("-", "__")
-    return id
-
-for model in models:
-    for x in chain(model.reactions, model.metabolites):
-        x.id = escape_id(x.id)
-
-
-# In[30]:
-
 for m in models:
     m.repair()
 
 
 # ### Metabolite Formulas
 
-# In[31]:
+# In[29]:
 
 for model in models:
     for metabolite in model.metabolites:
@@ -484,7 +467,7 @@ for model in models:
 
 # ### Metabolite Compartments
 
-# In[32]:
+# In[30]:
 
 compartments = {
     'c': 'Cytoplasm',
@@ -515,7 +498,7 @@ for model in models:
 # ### Metabolite and Reaction Names
 # Names which start with numbers don't need to be escaped with underscores.
 
-# In[33]:
+# In[31]:
 
 for model in models:
     for x in chain(model.metabolites, model.reactions):
@@ -529,7 +512,7 @@ for model in models:
 
 # ### MISC fixes
 
-# In[34]:
+# In[32]:
 
 models.iMM1415.reactions.EX_lnlc_dup_e.remove_from_model()
 models.iMM1415.reactions.EX_retpalm_e.remove_from_model(remove_orphans=True)
@@ -538,35 +521,15 @@ models.iMM1415.reactions.EX_retpalm_e.remove_from_model(remove_orphans=True)
 for r in models.iCac802.reactions:
     r.name = ""
 
-for model_id in ["iRM588", "iJS747", "iCR744", "iSO783"]:
-    model = models.get_by_id(model_id)
-    for metabolite in model.metabolites:
-        metabolite.id = metabolite.id.replace("4:2", "4_2")
-    model.metabolites._generate_index()
-
 
 # ## Fix Genes and GPR's
 
 # A lot of genes have characters which won't work in their names
 
-# In[35]:
-
-def rename_gene(model, old_id, new_id, regexp=None):
-    gene = model.genes.get_by_id(old_id)
-    gene.id = new_id
-    model.genes._dict[new_id] = model.genes._dict.pop(old_id)
-    for reaction in gene.reactions:
-        if regexp:
-            new_gpr = regexp.sub(new_id, reaction._gene_reaction_rule)
-        else:
-            new_gpr = reaction._gene_reaction_rule.replace(old_id, new_id)
-        reaction._gene_reaction_rule = new_gpr
-
-# Fix N/A
-rename_gene(models.iCac802, "N/A", "N_A")
-rename_gene(models.iRS1563, "N/A", "N_A")
+# In[33]:
 
 # nonbreaking spaces
+models.iCB925.reactions.FDXNRy.gene_reaction_rule = '( Cbei_0661 or Cbei_2182 )'
 for r in models.iCB925.reactions:
     if "\xa0" in r.gene_reaction_rule:
         r.gene_reaction_rule = r.gene_reaction_rule.replace("\xc2", " ").replace("\xa0", " ")
@@ -574,30 +537,10 @@ for g in list(models.iCB925.genes):
     if len(g.reactions) == 0:
         models.iCB925.genes.remove(g)
 
-# dashes in ID's
-for model_id in ["iLC915", "iND750", "iMM904", "iFF708", "iWV1314"]:
-    model = models.get_by_id(model_id)
-    for gene in model.genes:
-        gene.name = gene.id
-        gene.id = gene.id.replace("-", "__")
-    model.repair()
-    for reaction in model.reactions:
-        reaction._gene_reaction_rule = reaction.gene_reaction_rule.replace("-", "__")
 
-# just a number as gene id - needs to start with a character
-for model_id in ["iAI549", "iMM1415"]:
-    model = models.get_by_id(model_id)
-    old_gene_ids = model.genes.list_attr("id")
-    old_gene_ids.sort(key=lambda x: len(x))
-    for old_id in old_gene_ids:
-        # number should not be contained within another number
-        regexp = re.compile("(?<!\d)%s(?!\d)" % old_id)
-        rename_gene(model, old_id, "gene_" + old_id, regexp=regexp)
+# Some GPR's are not valid boolean expressions.
 
-
-# Some GPR's have multiple ands/ors in a row
-
-# In[36]:
+# In[34]:
 
 multiple_ors = re.compile("(\s*or\s+){2,}")
 multiple_ands = re.compile("(\s*and\s+){2,}")
@@ -612,46 +555,45 @@ for model_id in ["iRS1563", "iRS1597", "iMM1415"]:
             gpr = gpr.replace("[", "(").replace("]", ")")
         if gpr.endswith(" or"):
             gpr = gpr[:-3]
+        if gpr.count("(") != gpr.count(")"):
+            gpr = ""  # mismatched parenthesis somewhere
         reaction.gene_reaction_rule = gpr
     for gene in list(model.genes):
         if gene.id.startswith("[") or gene.id.endswith("]"):
             if len(gene.reactions) == 0:
                 model.genes.remove(gene.id)
-
-
+                
 # Some models are missing spaces between the ands/ors in some of their GPR's
-
-# In[37]:
-
 for m_id in ["iJN678", "iTL885"]:
     for r in models.get_by_id(m_id).reactions:
-        r.gene_reaction_rule = r.gene_reaction_rule.replace("and", " and ").replace("or", " or ").replace("  ", " ")
-
-
-# Some models are missing parenthesis
-
-# In[38]:
-
-def insert(string, index, substr):
-    return string[:index] + substr + string[index:]
-
-models.iRS1597.reactions.R01138_c.gene_reaction_rule =     insert(models.iRS1563.reactions.R02235_c.gene_reaction_rule, 32, ")")
-models.iRS1563.reactions.R02235_c.gene_reaction_rule =     insert(models.iRS1563.reactions.R02235_c.gene_reaction_rule, 32, ")")
-
-
-# In[39]:
+        r.gene_reaction_rule = r.gene_reaction_rule.replace("and", " and ").replace("or", " or ")
 
 models.iCac802.reactions.R0095.gene_reaction_rule =     models.iCac802.reactions.R0095.gene_reaction_rule.replace(" AND ", " and ")
 
-models.iCB925.reactions.FDXNRy.gene_reaction_rule = '( Cbei_0661 or Cbei_2182 )'
+
+# ## Ensure all ID's are SBML compliant
+
+# In[35]:
+
+for m in models:
+    cobra.manipulation.escape_ID(m)
 
 
 # ## Export Models
 
+# ### SBML 3
+# Export the models to the use the fbc version 2 (draft RC6) extension to SBML level 3 version 1.
+
+# In[36]:
+
+for model in models:
+    cobra.io.write_sbml_model(model, "sbml3/%s.xml" % model.id)
+
+
 # ### mat
 # Save all the models into a single mat file. In addition to the usual fields in the "mat" struct, we will also include S_num and S_denom, which are the numerator and denominator of the stoichiometric coefficients encoded as rational numbers.
 
-# In[40]:
+# In[37]:
 
 def convert_to_rational(value):
     return sympy.Rational("%.15g" % value)
@@ -678,7 +620,7 @@ def construct_S_num_denom(model):
     return S_num, S_denom
 
 
-# In[41]:
+# In[38]:
 
 all_model_dict = {}
 for model in models:
@@ -687,12 +629,3 @@ for model in models:
     all_model_dict[model.id] = model_dict
 scipy.io.savemat("all_models.mat", all_model_dict, oned_as="column")
 
-
-# ### SBML 3
-# Export the models to the use the draft fbc version 2 extension to SBML level 3 version 1.
-# 
-# Draft FBC 2 support is still [under development](https://github.com/opencobra/cobrapy/pull/152) in cobrapy.
-from cobra.io.sbml3 import write_sbml_model
-
-for model in models:
-    write_sbml_model(model, "sbml3/%s.xml" % model.id)
