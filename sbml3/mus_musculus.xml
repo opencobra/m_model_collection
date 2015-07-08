@@ -2486,43 +2486,43 @@
       <reaction fast="false" id="R_BIO028" name="Biomass synthesis" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00002_biomass" stoichiometry="0.033" />
-          <speciesReference constant="true" species="M_C00157_biomass" stoichiometry="0.069" />
           <speciesReference constant="true" species="M_C01194_biomass" stoichiometry="0.01" />
           <speciesReference constant="true" species="M_C03512" stoichiometry="0.044" />
           <speciesReference constant="true" species="M_C03511" stoichiometry="0.219" />
-          <speciesReference constant="true" species="M_C00344_biomass" stoichiometry="0.001" />
+          <speciesReference constant="true" species="M_C02737_biomass" stoichiometry="0.003" />
           <speciesReference constant="true" species="M_C00044_biomass" stoichiometry="0.0624" />
           <speciesReference constant="true" species="M_C02047" stoichiometry="0.564" />
           <speciesReference constant="true" species="M_C02554" stoichiometry="0.416" />
           <speciesReference constant="true" species="M_C02430" stoichiometry="0.138" />
           <speciesReference constant="true" species="M_C02282" stoichiometry="0.322" />
-          <speciesReference constant="true" species="M_C02702" stoichiometry="0.313" />
+          <speciesReference constant="true" species="M_C02553" stoichiometry="0.43" />
           <speciesReference constant="true" species="M_C02992" stoichiometry="0.386" />
+          <speciesReference constant="true" species="M_C00063_biomass" stoichiometry="0.0551" />
           <speciesReference constant="true" species="M_C05980_biomass" stoichiometry="0.003" />
           <speciesReference constant="true" species="M_C02412" stoichiometry="0.538" />
           <speciesReference constant="true" species="M_C00458_biomass" stoichiometry="0.0099" />
-          <speciesReference constant="true" species="M_C02553" stoichiometry="0.43" />
+          <speciesReference constant="true" species="M_C02702" stoichiometry="0.313" />
           <speciesReference constant="true" species="M_C06113" stoichiometry="0.359" />
           <speciesReference constant="true" species="M_C02163" stoichiometry="0.377" />
           <speciesReference constant="true" species="M_C00459_biomass" stoichiometry="0.0148" />
           <speciesReference constant="true" species="M_C00718_biomass" stoichiometry="0.279" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="15.55" />
-          <speciesReference constant="true" species="M_C00131_biomass" stoichiometry="0.0148" />
+          <speciesReference constant="true" species="M_C00157_biomass" stoichiometry="0.069" />
           <speciesReference constant="true" species="M_C02988" stoichiometry="0.143" />
           <speciesReference constant="true" species="M_C02839" stoichiometry="0.182" />
-          <speciesReference constant="true" species="M_C00063_biomass" stoichiometry="0.0551" />
+          <speciesReference constant="true" species="M_C00350_biomass" stoichiometry="0.026" />
+          <speciesReference constant="true" species="M_C00131_biomass" stoichiometry="0.0148" />
           <speciesReference constant="true" species="M_C00550_biomass" stoichiometry="0.008" />
           <speciesReference constant="true" species="M_C03402" stoichiometry="0.288" />
           <speciesReference constant="true" species="M_C06112" stoichiometry="0.386" />
           <speciesReference constant="true" species="M_C00886" stoichiometry="0.6" />
           <speciesReference constant="true" species="M_C00187_biomass" stoichiometry="0.018" />
-          <speciesReference constant="true" species="M_C00350_biomass" stoichiometry="0.026" />
           <speciesReference constant="true" species="M_C00075_biomass" stoichiometry="0.033" />
           <speciesReference constant="true" species="M_C00286_biomass" stoichiometry="0.0099" />
           <speciesReference constant="true" species="M_C01931" stoichiometry="0.57" />
           <speciesReference constant="true" species="M_C03127" stoichiometry="0.324" />
           <speciesReference constant="true" species="M_C03125" stoichiometry="0.145" />
-          <speciesReference constant="true" species="M_C02737_biomass" stoichiometry="0.003" />
+          <speciesReference constant="true" species="M_C00344_biomass" stoichiometry="0.001" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="15.55" />
@@ -2531,16 +2531,16 @@
       <reaction fast="false" id="R_BIO029" name="MAb synthesis" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C02163" stoichiometry="0.0226" />
-          <speciesReference constant="true" species="M_C06112" stoichiometry="0.0518" />
-          <speciesReference constant="true" species="M_C00886" stoichiometry="0.0585" />
           <speciesReference constant="true" species="M_C02412" stoichiometry="0.066" />
+          <speciesReference constant="true" species="M_C02992" stoichiometry="0.1056" />
+          <speciesReference constant="true" species="M_C06112" stoichiometry="0.0518" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="4.3" />
+          <speciesReference constant="true" species="M_C03125" stoichiometry="0.0252" />
           <speciesReference constant="true" species="M_C01931" stoichiometry="0.0608" />
           <speciesReference constant="true" species="M_C03512" stoichiometry="0.0224" />
           <speciesReference constant="true" species="M_C02988" stoichiometry="0.0229" />
           <speciesReference constant="true" species="M_C03511" stoichiometry="0.0415" />
           <speciesReference constant="true" species="M_C03402" stoichiometry="0.0449" />
-          <speciesReference constant="true" species="M_C03125" stoichiometry="0.0252" />
           <speciesReference constant="true" species="M_C02702" stoichiometry="0.0717" />
           <speciesReference constant="true" species="M_C02839" stoichiometry="0.0288" />
           <speciesReference constant="true" species="M_C02047" stoichiometry="0.063" />
@@ -2550,7 +2550,7 @@
           <speciesReference constant="true" species="M_C03127" stoichiometry="0.0329" />
           <speciesReference constant="true" species="M_C06113" stoichiometry="0.0365" />
           <speciesReference constant="true" species="M_C02553" stoichiometry="0.1064" />
-          <speciesReference constant="true" species="M_C02992" stoichiometry="0.1056" />
+          <speciesReference constant="true" species="M_C00886" stoichiometry="0.0585" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="4.3" />
@@ -2558,8 +2558,8 @@
       </reaction>
       <reaction fast="false" id="R_R02918" name="L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00082" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00082" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
@@ -2569,9 +2569,9 @@
       </reaction>
       <reaction fast="false" id="R_R02918_mt" name="L-Tyrosine:tRNA(Tyr) ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00787_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00082_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00787_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
@@ -2592,9 +2592,9 @@
       </reaction>
       <reaction fast="false" id="R_R03038_mt" name="L-Alanine:tRNA(Ala) ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C01635_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00041_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01635_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
@@ -2688,8 +2688,8 @@
           <speciesReference constant="true" species="M_C00025" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C06112" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C06112" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -2699,8 +2699,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
           <speciesReference constant="true" species="M_C02282" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -2797,8 +2797,8 @@
       </reaction>
       <reaction fast="false" id="R_R03659_mt" name="L-Methionine:tRNAMet ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01647_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00073_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2837,8 +2837,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C03511_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03511_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R03661" name="L-Proline:tRNA(Pro) ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2899,8 +2899,8 @@
       </reaction>
       <reaction fast="false" id="R_R03665" name="L-Valine:tRNAVal ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00183" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00183" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C02554" stoichiometry="1" />
@@ -2969,9 +2969,9 @@
       </reaction>
       <reaction fast="false" id="R_R03905_mt" name="Glu-tRNA(Gln):L-glutamine amido-ligase(ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C06112_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00064_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00064_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C06112_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00025_mt" stoichiometry="1" />
@@ -2983,8 +2983,8 @@
       <reaction fast="false" id="R_R04773_mt" name="Selenomethionine:tRNAMet ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C05335_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01647_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
@@ -3005,12 +3005,12 @@
       </reaction>
       <reaction fast="false" id="R_R03940_mt" name="1NA-Formyltetrahydrofolate:L-methionyl-tRNA N-formyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00234_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C02430_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00234_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00101_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C03294_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00101_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_TF0001" name="Pyruvate mTransporter" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -3374,11 +3374,11 @@
           <speciesReference constant="true" species="M_C06424" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00024" stoichiometry="7" />
+          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01352" stoichiometry="7" />
-          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00004" stoichiometry="7" />
+          <speciesReference constant="true" species="M_C00024" stoichiometry="7" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_K00004" name="fatty acid degradation" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3387,11 +3387,11 @@
           <speciesReference constant="true" species="M_C00249" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00024" stoichiometry="8" />
+          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01352" stoichiometry="8" />
-          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00004" stoichiometry="8" />
+          <speciesReference constant="true" species="M_C00024" stoichiometry="8" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_K00005" name="fatty acid degradation" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3400,18 +3400,18 @@
           <speciesReference constant="true" species="M_C01530" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00024" stoichiometry="9" />
+          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01352" stoichiometry="9" />
-          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00004" stoichiometry="9" />
+          <speciesReference constant="true" species="M_C00024" stoichiometry="9" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_K00006_mt" name="NADH ETC" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00007_mt" stoichiometry="0.5" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007_mt" stoichiometry="0.5" />
           <speciesReference constant="true" species="M_C00008_mt" stoichiometry="2.5" />
           <speciesReference constant="true" species="M_C00009_mt" stoichiometry="2.5" />
         </listOfReactants>
@@ -3430,8 +3430,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1.5" />
-          <speciesReference constant="true" species="M_C00016_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="2.5" />
+          <speciesReference constant="true" species="M_C00016_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_K00007" name="FADH2 ETC" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3470,8 +3470,8 @@
           <speciesReference constant="true" species="M_C01352_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00030_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00016_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00030_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_K00010" name="FADH2-acceptor transhydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -3490,8 +3490,8 @@
           <speciesReference constant="true" species="M_C05764" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00229" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00229" stoichiometry="1" />
           <speciesReference constant="true" species="M_C04088" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011" stoichiometry="1" />
         </listOfProducts>
@@ -3610,8 +3610,8 @@
       </reaction>
       <reaction fast="false" id="R_R00069" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C03680" stoichiometry="2" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03680" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05565" stoichiometry="2" />
@@ -3701,9 +3701,9 @@
           <speciesReference constant="true" species="M_C00051" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00100" name="NADH:ferricytochrome-b5 oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3777,9 +3777,9 @@
           <speciesReference constant="true" species="M_C00051" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00118" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3826,8 +3826,8 @@
       </reaction>
       <reaction fast="false" id="R_R00130" name="ATP:dephospho-CoA 3'-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00882" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00882" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
@@ -3896,8 +3896,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00075" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00157" name="Uridine triphosphate:AMP phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -4060,8 +4060,8 @@
           <speciesReference constant="true" species="M_C00021" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00212" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00155" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00212" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00200" name="ATP:pyruvate O2-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -4083,8 +4083,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00024_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00210_mt" name="pyruvate:NADP+ 2-oxidoreductase (CoA-acetylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -4173,8 +4173,8 @@
           <speciesReference constant="true" species="M_C00083_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00024_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00024_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00233" name="Malonyl-CoA carboxy-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -4200,8 +4200,8 @@
       <reaction fast="false" id="R_R00235_mt" name="Acetate:CoA ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00010_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00033_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
@@ -4272,8 +4272,8 @@
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00026_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00014_mt" stoichiometry="1" />
         </listOfProducts>
@@ -4339,8 +4339,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00064" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00857" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00857" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
@@ -4585,8 +4585,8 @@
           <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00044_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00008_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00044_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00332" name="ATP:(d)GMP phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -4631,9 +4631,9 @@
       </reaction>
       <reaction fast="false" id="R_R00344_mt" name="Pyruvate:carbon-dioxide ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00022_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00288_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00022_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00036_mt" stoichiometry="1" />
@@ -4644,8 +4644,8 @@
       <reaction fast="false" id="R_R00344" name="Pyruvate:carbon-dioxide ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00022" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
@@ -4690,8 +4690,8 @@
           <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00036" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00025" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00036" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00355_mt" name="L-Aspartate:2-oxoglutarate aminotransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -4700,8 +4700,8 @@
           <speciesReference constant="true" species="M_C00049_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00036_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00025_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00036_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00356" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5198,8 +5198,8 @@
           <speciesReference constant="true" species="M_C00055" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00112" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00513" name="ATP:cytidine 5'-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5253,8 +5253,8 @@
       </reaction>
       <reaction fast="false" id="R_R00529" name="ATP:sulfate adenylyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00059" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00059" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
@@ -5441,8 +5441,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00064" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="2" />
+          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="2" />
@@ -5454,8 +5454,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00064" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00049" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00049" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
@@ -5498,8 +5498,8 @@
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00067" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
+          <speciesReference constant="true" species="M_C00067" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00610" name="Sarcosine:oxygen oxidoreductase (demethylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5563,8 +5563,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00091_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00621" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5583,8 +5583,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00071" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00629" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5680,8 +5680,8 @@
           <speciesReference constant="true" species="M_C00437" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00077" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00033" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00077" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00670" name="L-Ornithine carboxy-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5713,8 +5713,8 @@
       </reaction>
       <reaction fast="false" id="R_R00694" name="L-Phenylalanine:2-oxoglutarate aminotransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00079" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00166" stoichiometry="1" />
@@ -5770,8 +5770,8 @@
       </reaction>
       <reaction fast="false" id="R_R00704_mt" name="(R)-Lactate:NAD+ oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00256_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -5788,8 +5788,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00024_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00707_mt" name="L-1-Pyrroline-5-carboxylate:NAD+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -5822,8 +5822,8 @@
           <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00026_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
         </listOfProducts>
@@ -6023,8 +6023,8 @@
       </reaction>
       <reaction fast="false" id="R_R00742" name="Acetyl-CoA:carbon-dioxide ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00024" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6122,8 +6122,8 @@
       </reaction>
       <reaction fast="false" id="R_R00830_mt" name="Succinyl-CoA:glycine C-succinyl-transferase(decarboxylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00091_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00037_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00091_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00010_mt" stoichiometry="1" />
@@ -6133,8 +6133,8 @@
       </reaction>
       <reaction fast="false" id="R_R00831_mt" name="Succinyl-CoA:glycine C-succinyl-transferase(decarboxylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00091_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00037_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00091_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05520_mt" stoichiometry="1" />
@@ -6519,9 +6519,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00101" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R00942_mt" name="Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -6728,8 +6728,8 @@
       </reaction>
       <reaction fast="false" id="R_R00988" name="N-Formylanthranilate amidohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05653" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05653" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00108" stoichiometry="1" />
@@ -6747,9 +6747,9 @@
       </reaction>
       <reaction fast="false" id="R_R01000" name="2-Hydroxybutyrate:NAD+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00109" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00109" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05984" stoichiometry="1" />
@@ -6761,9 +6761,9 @@
           <speciesReference constant="true" species="M_C02291" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00109" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00097" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00109" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01004" name="Dolichyl-diphosphate phosphohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -7065,8 +7065,8 @@
       </reaction>
       <reaction fast="false" id="R_R01090" name="L-Leucine:2-oxoglutarate aminotransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00123" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00233" stoichiometry="1" />
@@ -7157,8 +7157,8 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C03691" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03691" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00996" stoichiometry="2" />
         </listOfProducts>
       </reaction>
@@ -7226,8 +7226,8 @@
           <speciesReference constant="true" species="M_C00294" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00130" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01132" name="IMP:pyrophosphate phosphoribosyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -7329,8 +7329,8 @@
           <speciesReference constant="true" species="M_C00019" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C01152" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00021" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01152" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01166" name="Nalpha-(beta-alanyl)-L-histidine hydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -7557,8 +7557,8 @@
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00014_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00143_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00143_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01221" name="glycine synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -7569,9 +7569,9 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00143" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00143" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01224" name="5-methyltetrahydrofolate:NADP+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -7619,8 +7619,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00064" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00655" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00655" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00144" stoichiometry="1" />
@@ -7701,8 +7701,8 @@
       </reaction>
       <reaction fast="false" id="R_R01251" name="L-Proline:NADP+ 5-oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C03912" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03912" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -7711,9 +7711,9 @@
       </reaction>
       <reaction fast="false" id="R_R01251_mt" name="L-Proline:NADP+ 5-oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C03912_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03912_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00148_mt" stoichiometry="1" />
@@ -7829,8 +7829,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00020_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00154_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00020_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01280" name="Palmitate:CoA ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -7856,8 +7856,8 @@
       </reaction>
       <reaction fast="false" id="R_R01290" name="L-Serine hydro-lyase (adding homocysteine)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00065" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00155" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00065" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -7888,8 +7888,8 @@
       </reaction>
       <reaction fast="false" id="R_R01315" name="Phosphatidylcholine 2-acylhydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00157" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00157" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00162" stoichiometry="1" />
@@ -7902,8 +7902,8 @@
           <speciesReference constant="true" species="M_C06254" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00157" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00157" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01320" name="S-Adenosyl-L-methionine:phosphatidyl-N-methylethanolamine" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -8055,8 +8055,8 @@
           <speciesReference constant="true" species="M_C00164_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00332_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00013_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00332_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -8240,8 +8240,8 @@
           <speciesReference constant="true" species="M_C00187_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00006_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05500_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00006_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -8419,8 +8419,8 @@
       </reaction>
       <reaction fast="false" id="R_R01515" name="3-Phospho-D-glyceroyl phosphate phosphohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00236" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00197" stoichiometry="1" />
@@ -8549,8 +8549,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00213_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00030_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00067_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00030_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01567" name="ATP:thymidine 5'-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -8704,10 +8704,10 @@
       </reaction>
       <reaction fast="false" id="R_R01629" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00230" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00230" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -8719,8 +8719,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00230" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -8740,8 +8740,8 @@
       </reaction>
       <reaction fast="false" id="R_R01641" name="Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00118" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05382" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00118" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00117" stoichiometry="1" />
@@ -9055,8 +9055,8 @@
           <speciesReference constant="true" species="M_C00294" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00262" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00121" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00262" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01786" name="ATP:D-glucose 6-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -9065,8 +9065,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00668" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01787" name="alpha-D-Glucose:NADP+ 1-oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -9099,8 +9099,8 @@
       <reaction fast="false" id="R_R01793" name="NADH:6,7-dihydropteridine oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00268" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00272" stoichiometry="1" />
@@ -9161,8 +9161,8 @@
       <reaction fast="false" id="R_R01803" name="N-acetylneuraminate,ferrocytochrome-b5:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00080" stoichiometry="2" />
-          <speciesReference constant="true" species="M_C00999" stoichiometry="2" />
           <speciesReference constant="true" species="M_C00270" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00999" stoichiometry="2" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -9173,8 +9173,8 @@
       </reaction>
       <reaction fast="false" id="R_R01804" name="N-Acetylneuraminate pyruvate-lyase (pyruvate-phosphorylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00074" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00074" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00645" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -9206,8 +9206,8 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00643" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00268" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -9406,8 +9406,8 @@
       <reaction fast="false" id="R_R01859" name="Propanoyl-CoA:carbon-dioxide ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00100" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00288" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
@@ -9416,8 +9416,8 @@
       </reaction>
       <reaction fast="false" id="R_R01859_mt" name="Propanoyl-CoA:carbon-dioxide ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00288_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00100_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -9651,9 +9651,9 @@
       </reaction>
       <reaction fast="false" id="R_R01933_mt" name="2-Oxoadipate:lipoamde 2-oxidoreductase(decarboxylating and" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00322_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00010_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00322_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -9703,8 +9703,8 @@
           <speciesReference constant="true" species="M_C00956_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00025_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00322_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00025_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01939" name="L-2-Aminoadipate:2-oxoglutarate aminotransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -9713,8 +9713,8 @@
           <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00322" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00025" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00322" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R01940_mt" name="2-Oxoadipate:lipoamde 2-oxidoreductase(decarboxylating and" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -9749,9 +9749,9 @@
       </reaction>
       <reaction fast="false" id="R_R01954" name="L-Citrulline:L-aspartate ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00327" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00049" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00049" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00327" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C03406" stoichiometry="1" />
@@ -9792,9 +9792,9 @@
       <reaction fast="false" id="R_R01960_mt" name="L-Kynurenine,NADPH:oxygen oxidoreductase (3-hydroxylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00328_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00328_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C03227_mt" stoichiometry="1" />
@@ -9804,10 +9804,10 @@
       </reaction>
       <reaction fast="false" id="R_R01960" name="L-Kynurenine,NADPH:oxygen oxidoreductase (3-hydroxylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00328" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -9947,8 +9947,8 @@
       </reaction>
       <reaction fast="false" id="R_R01993" name="(S)-Dihydroorotate amidohydrolase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00337" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00438" stoichiometry="1" />
@@ -9992,8 +9992,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00206" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00343" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00206" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02018" name="2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -10235,8 +10235,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00361" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00361" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02091" name="dGTP:cytidine 5'-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11100,9 +11100,9 @@
       </reaction>
       <reaction fast="false" id="R_R02313_mt" name="N6-(L-1,3-Dicarboxypropyl)-L-lysine:NAD+ oxidoreductase;" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00449_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -11275,9 +11275,9 @@
           <speciesReference constant="true" species="M_C00483" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C03765" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03765" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02382_mt" name="Tyramine:oxygen oxidoreductase(deaminating)(flavin-containing)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11300,8 +11300,8 @@
           <speciesReference constant="true" species="M_C00483" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C03758" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03758" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02389" name="UDPglucuronate beta-D-glucuronosyltransferase(acceptor-unspecific)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11326,9 +11326,9 @@
       </reaction>
       <reaction fast="false" id="R_R02393" name="Bilirubin:NADP+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00500" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00486" stoichiometry="1" />
@@ -11345,9 +11345,9 @@
       </reaction>
       <reaction fast="false" id="R_R02397" name="4-Trimethylammoniobutanoate,2-oxoglutarate:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C01181" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00026" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01181" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00487" stoichiometry="1" />
@@ -11461,9 +11461,9 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C01110" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01110" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02464" name="Sphinganine-1-phosphate pamlmitaldehyde-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11471,8 +11471,8 @@
           <speciesReference constant="true" species="M_C01120" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00517" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00346" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00517" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02466" name="3-Sulfino-L-alanine carboxy-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11523,8 +11523,8 @@
       </reaction>
       <reaction fast="false" id="R_R02485" name="Deoxycytidine aminohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00881" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
@@ -11774,8 +11774,8 @@
       </reaction>
       <reaction fast="false" id="R_R02534" name="S-Adenosyl-L-methionine:catechol O-methyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00019" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00547" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00019" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00021" stoichiometry="1" />
@@ -11785,8 +11785,8 @@
       <reaction fast="false" id="R_R02535" name="3,4-Dihydroxyphenetylamine,ascorbate:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C03758" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00072" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -11847,9 +11847,9 @@
       </reaction>
       <reaction fast="false" id="R_R02567_mt" name="Choline:(acceptor) 1-oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00576_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00016_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00576_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C01352_mt" stoichiometry="1" />
@@ -11984,8 +11984,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00686" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02657" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -12120,9 +12120,9 @@
           <speciesReference constant="true" species="M_C03765" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00642" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00642" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R02701" name="5-Hydroxy-L-tryptophan decarboxy-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -12215,9 +12215,9 @@
       </reaction>
       <reaction fast="false" id="R_R02725" name="Androstenedione,reduced-adrenal-ferredoxin:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
+          <speciesReference constant="true" species="M_C00662" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00280" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00662" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -12329,8 +12329,8 @@
       </reaction>
       <reaction fast="false" id="R_R02757" name="ATP:acylglycerol 3-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C01885" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01885" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
@@ -12407,8 +12407,8 @@
       </reaction>
       <reaction fast="false" id="R_R02824" name="Glutathione:protein-disulfide oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00723" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00051" stoichiometry="2" />
+          <speciesReference constant="true" species="M_C00723" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C02288" stoichiometry="1" />
@@ -12438,8 +12438,8 @@
       <reaction fast="false" id="R_R02838" name="21-Deoxycortisol,hydrogen-donor:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00030" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C05497" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05497" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -12485,8 +12485,8 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00139" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00735" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -12525,10 +12525,10 @@
       </reaction>
       <reaction fast="false" id="R_R02874" name="Squalene,hydrogen-donor:oxygen oxidoreductase (2,3-epoxidizing)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00751" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00751" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -12559,9 +12559,9 @@
       </reaction>
       <reaction fast="false" id="R_R02908_mt" name="5-Hydroxytryptamine:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00780_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00780_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00027_mt" stoichiometry="1" />
@@ -12571,8 +12571,8 @@
       </reaction>
       <reaction fast="false" id="R_R02909" name="5-hydroxytryptamine:oxygen 2,3-dioxygenase (indole-decyclizing)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00780" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00780" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05647" stoichiometry="1" />
@@ -12608,8 +12608,8 @@
       <reaction fast="false" id="R_R02919" name="4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00788" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00218" stoichiometry="1" />
@@ -12620,8 +12620,8 @@
       <reaction fast="false" id="R_R02919_mt" name="4-[(1R)-1-Hydroxy-2-(methylamino)ethyl]-1,2-benzenediol:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00788_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00788_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00027_mt" stoichiometry="1" />
@@ -12668,8 +12668,8 @@
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00804_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -12696,9 +12696,9 @@
       </reaction>
       <reaction fast="false" id="R_R02957_mt" name="D-Glucuronolactone:NAD+ oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="2" />
-          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C02670_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -12708,8 +12708,8 @@
       </reaction>
       <reaction fast="false" id="R_R02957" name="D-Glucuronolactone:NAD+ oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
           <speciesReference constant="true" species="M_C02670" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
@@ -12792,8 +12792,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00857" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00857" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R03018" name="ATP:pantothenate 4'-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -12971,9 +12971,9 @@
           <speciesReference constant="true" species="M_C04076" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00956" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00956" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R03104" name="3-Mercaptolactate:NAD+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -13073,9 +13073,9 @@
           <speciesReference constant="true" species="M_C01025" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
           <speciesReference constant="true" species="M_C01356" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R03170" name="(S)-2-methylbutanoyl-CoA:oxygen 2,3-oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -13271,9 +13271,9 @@
       </reaction>
       <reaction fast="false" id="R_R03283_mt" name="4-Trimethylammoniobutanal:NAD+ 1-oxidoreductase;" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C01149_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01149_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -13803,8 +13803,8 @@
       </reaction>
       <reaction fast="false" id="R_R03429" name="ATP:1D-myo-inositol-1,3,4-trisphosphate 6-phosphotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C01243" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01243" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
@@ -14017,10 +14017,10 @@
       </reaction>
       <reaction fast="false" id="R_R03610" name="calcidiol,NADPH:oxygen oxidoreductase (1-hydroxylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01561" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -14070,8 +14070,8 @@
       </reaction>
       <reaction fast="false" id="R_R03634" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C01613" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01613" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00492" stoichiometry="1" />
@@ -14237,8 +14237,8 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05485" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00028" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -14473,8 +14473,8 @@
           <speciesReference constant="true" species="M_C02320" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C05729" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00025" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05729" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R03919" name="Donor:hydrogen-peroxide oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -14522,8 +14522,8 @@
       </reaction>
       <reaction fast="false" id="R_R03933_mt" name="2NAalpha,22beta-Dihydroxycholesterol,ferredoxin:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05501_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05501_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C02373_mt" stoichiometry="1" />
@@ -14552,9 +14552,9 @@
       </reaction>
       <reaction fast="false" id="R_R03953" name="Iodide:hydrogen-peroxide oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C01060" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
           <speciesReference constant="true" species="M_C02515" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C01060" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
@@ -14701,8 +14701,8 @@
       </reaction>
       <reaction fast="false" id="R_R04018" name="Acylneuraminyl hydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C06128" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C06128" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00270" stoichiometry="1" />
@@ -14794,8 +14794,8 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00027" stoichiometry="2" />
           <speciesReference constant="true" species="M_C05842" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00027" stoichiometry="2" />
           <speciesReference constant="true" species="M_C05843" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -14891,8 +14891,8 @@
       <reaction fast="false" id="R_R04138_mt" name="3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00002_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C03069_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00288_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03069_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C03231_mt" stoichiometry="1" />
@@ -14902,8 +14902,8 @@
       </reaction>
       <reaction fast="false" id="R_R04144" name="5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C03090" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03090" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00037" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -15065,8 +15065,8 @@
           <speciesReference constant="true" species="M_C04640" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C03373" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04209" name="1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -15224,21 +15224,21 @@
       </reaction>
       <reaction fast="false" id="R_R04300" name="4-(2-Aminoethyl)-1,2-benzenediol:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C03758" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03758" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C04043" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C04043" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04300_mt" name="4-(2-Aminoethyl)-1,2-benzenediol:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C03758_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C03758_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00027_mt" stoichiometry="1" />
@@ -15369,8 +15369,8 @@
       </reaction>
       <reaction fast="false" id="R_R04372" name="D-myo-Inositol-3,4-bisphosphate 4-phosphohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C04063" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C04006" stoichiometry="1" />
@@ -15418,8 +15418,8 @@
       </reaction>
       <reaction fast="false" id="R_R04386" name="Acetyl-CoA:carbon-dioxide ligase (ADP-forming)" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C04419" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00024" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C04419" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00083" stoichiometry="1" />
@@ -15495,8 +15495,8 @@
       </reaction>
       <reaction fast="false" id="R_R04435" name="N-Acetylneuraminate 9-phosphate pyruvate-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00074" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00074" stoichiometry="1" />
           <speciesReference constant="true" species="M_C04257" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -15585,8 +15585,8 @@
       </reaction>
       <reaction fast="false" id="R_R04507" name="3alpha,7alpha-Dihydroxy-5beta-cholestanate:CoA ligase (AMP-forming)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C04554" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C04554" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C04644" stoichiometry="1" />
@@ -15859,8 +15859,8 @@
           <speciesReference constant="true" species="M_C05100" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C05145" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05145" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -15905,9 +15905,9 @@
       </reaction>
       <reaction fast="false" id="R_R04674_mt" name="N-Methylhistamine:oxygen oxidoreductase (deaminating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05127_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05127_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05827_mt" stoichiometry="1" />
@@ -16106,8 +16106,8 @@
       </reaction>
       <reaction fast="false" id="R_R04739_mt" name="(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05260_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05260_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -16222,8 +16222,8 @@
           <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05267_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04745" name="(S)-Hydroxyoctanoyl-CoA:NAD+ oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -16499,9 +16499,9 @@
       <reaction fast="false" id="R_R04807_mt" name="5beta-Cholestane-3alpha,7alpha,12alpha-triol,NADPH:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C05454_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05454_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05446_mt" stoichiometry="1" />
@@ -16856,8 +16856,8 @@
       <reaction fast="false" id="R_R04890_mt" name="3-Methoxytyramine:oxygen oxidoreductase (deaminating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C05587_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05587_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C05581_mt" stoichiometry="1" />
@@ -16890,8 +16890,8 @@
       <reaction fast="false" id="R_R04893" name="L-Normetanephrine:oxygen oxidoreductase (deaminating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C05589" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05589" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
@@ -16901,8 +16901,8 @@
       </reaction>
       <reaction fast="false" id="R_R04893_mt" name="L-Normetanephrine:oxygen oxidoreductase (deaminating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05589_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05589_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -16919,8 +16919,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00218" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05583" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04894_mt" name="L-Metanephrine:oxygen oxidoreductase (deaminating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -16930,8 +16930,8 @@
           <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C05583_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05583_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00218_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -16985,8 +16985,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00027_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C05637_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00014_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05637_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04908" name="5-Hydroxykynurenamine:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -16995,9 +16995,9 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C05639" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05639" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04908_mt" name="5-Hydroxykynurenamine:oxygen" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -17022,12 +17022,12 @@
       </reaction>
       <reaction fast="false" id="R_R04911" name="Aryl-formylamine amidohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05648" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05648" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00058" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05651" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00058" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04921" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -17046,8 +17046,8 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05696" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04929" name="ATP:sulfate adenylyltransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -17153,8 +17153,8 @@
           <speciesReference constant="true" species="M_C05745_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05746_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00229_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -17253,8 +17253,8 @@
           <speciesReference constant="true" species="M_C01209" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C05756" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00229" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05756" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00011" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -17264,9 +17264,9 @@
           <speciesReference constant="true" species="M_C05755_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C05756_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00229_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05756_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R04964" name="(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -17414,8 +17414,8 @@
           <speciesReference constant="true" species="M_C05893" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05894" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R05033" name="Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -17449,9 +17449,9 @@
       </reaction>
       <reaction fast="false" id="R_R05050_mt" name="N4-Acetylaminobutanal:NAD+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05936_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
@@ -17461,8 +17461,8 @@
       </reaction>
       <reaction fast="false" id="R_R05050" name="N4-Acetylaminobutanal:NAD+ oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C05936" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C05936" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C02946" stoichiometry="1" />
@@ -17527,8 +17527,8 @@
           <speciesReference constant="true" species="M_C00003_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C06002_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080_mt" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -17538,8 +17538,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_C06002" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00004" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R05085" name="O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -17835,8 +17835,8 @@
       </reaction>
       <reaction fast="false" id="R_R05415" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C08061" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C08061" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C08062" stoichiometry="1" />
@@ -18023,8 +18023,8 @@
           <speciesReference constant="true" species="M_C00146" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C02734" stoichiometry="1" />
           <speciesReference constant="true" species="M_C01371" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C02734" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R05639" name="4,4-dimethyl-5a-cholesta-8,24-dien-3b-ol:NADP+ D14-oxidoreductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -18238,8 +18238,8 @@
           <speciesReference constant="true" species="M_G00023" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00015" stoichiometry="1" />
           <speciesReference constant="true" species="M_G00024" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00015" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R05909" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -18357,8 +18357,8 @@
           <speciesReference constant="true" species="M_G00146" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_G00147" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00165" stoichiometry="1" />
+          <speciesReference constant="true" species="M_G00147" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R05921" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -18403,8 +18403,8 @@
       </reaction>
       <reaction fast="false" id="R_R05925" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00190" stoichiometry="1" />
           <speciesReference constant="true" species="M_C02189" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00190" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00015" stoichiometry="1" />
@@ -18803,8 +18803,8 @@
       </reaction>
       <reaction fast="false" id="R_R05969" name="UDP-N-acetyl-D-glucosamine:dolichyl-phosphate N-acetyl-D-glucosamine" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00043" stoichiometry="1" />
           <speciesReference constant="true" species="M_G10622" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00043" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_G00001" stoichiometry="1" />
@@ -19047,8 +19047,8 @@
           <speciesReference constant="true" species="M_G00036" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00015" stoichiometry="1" />
           <speciesReference constant="true" species="M_G00037" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00015" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06010" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -19423,8 +19423,8 @@
       </reaction>
       <reaction fast="false" id="R_R06215" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00128" stoichiometry="1" />
           <speciesReference constant="true" species="M_G00050" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00128" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_G00061" stoichiometry="1" />
@@ -19494,8 +19494,8 @@
       </reaction>
       <reaction fast="false" id="R_R06238" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_G00004" stoichiometry="1" />
           <speciesReference constant="true" species="M_G10614" stoichiometry="1" />
+          <speciesReference constant="true" species="M_G00004" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_G00005" stoichiometry="1" />
@@ -19646,8 +19646,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
           <speciesReference constant="true" species="M_C11929" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00013" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06370" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -19666,9 +19666,9 @@
           <speciesReference constant="true" species="M_C00002" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C11407" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00008" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06397" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -19686,8 +19686,8 @@
           <speciesReference constant="true" species="M_C11938" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
           <speciesReference constant="true" species="M_C00030" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
           <speciesReference constant="true" species="M_C11939" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -19716,8 +19716,8 @@
           <speciesReference constant="true" species="M_C11943" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C11945" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00020" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C11945" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06411" name="cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -19731,8 +19731,8 @@
       </reaction>
       <reaction fast="false" id="R_R06411_mt" name="cis-2-Methyl-5-isopropylhexa-2,5-dienoyl-CoA hydro-lyase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C11946_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C11947_mt" stoichiometry="1" />
@@ -19830,8 +19830,8 @@
           <speciesReference constant="true" species="M_C06124" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00517" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00346" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00517" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06517" name="acyl-CoA:sphingosine N-acyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -20018,9 +20018,9 @@
           <speciesReference constant="true" species="M_C01672" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C12455" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00014" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C12455" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06853" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -20042,8 +20042,8 @@
       </reaction>
       <reaction fast="false" id="R_R06870" name="Phosphoethanolamine phosphohydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00346" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00346" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00189" stoichiometry="1" />
@@ -20129,8 +20129,8 @@
           <speciesReference constant="true" species="M_C14119" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C14120" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00091" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C14120" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R06908_mt" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -20391,10 +20391,10 @@
       </reaction>
       <reaction fast="false" id="R_R07020" name="beta-Naphthol, NADPH:oxygen oxidoreductase (RH-hydroxylating or" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
           <speciesReference constant="true" species="M_C11713" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20513,8 +20513,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
           <speciesReference constant="true" species="M_C04805" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00127" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R07035" name="Glutathione: 15-HPETE oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -20539,10 +20539,10 @@
       </reaction>
       <reaction fast="false" id="R_R07041" name="Arachidonic acid:oxygen 1-oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20585,10 +20585,10 @@
       </reaction>
       <reaction fast="false" id="R_R07046" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20606,10 +20606,10 @@
       </reaction>
       <reaction fast="false" id="R_R07048" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20627,10 +20627,10 @@
       </reaction>
       <reaction fast="false" id="R_R07050" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20639,10 +20639,10 @@
       </reaction>
       <reaction fast="false" id="R_R07051" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20651,10 +20651,10 @@
       </reaction>
       <reaction fast="false" id="R_R07052" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20672,10 +20672,10 @@
       </reaction>
       <reaction fast="false" id="R_R07054" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00219" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20767,8 +20767,8 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C14840" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C14840" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R07069" name="Bromobenzene-3,4-oxide:glutathione R-transferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -20818,8 +20818,8 @@
       </reaction>
       <reaction fast="false" id="R_R07072" name="bromobenzene-2,3-oxide hydrolase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
           <speciesReference constant="true" species="M_C14840" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C14842" stoichiometry="1" />
@@ -20827,10 +20827,10 @@
       </reaction>
       <reaction fast="false" id="R_R07075" name="4-Bromophenol, NADPH:oxygen oxidoreductase (RH-hydroxylating or" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
           <speciesReference constant="true" species="M_C14453" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20928,16 +20928,16 @@
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C14853" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C14853" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R07087" name="9-Hydroxybenzo[a]pyrene, NADPH:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C14556" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20946,10 +20946,10 @@
       </reaction>
       <reaction fast="false" id="R_R07088" name="1,1-Dichloroethylene, NADPH:oxygen oxidoreductase (RH-hydroxylating" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C14039" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C14039" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20958,10 +20958,10 @@
       </reaction>
       <reaction fast="false" id="R_R07089" name="1,1-Dichloroethylene, NADPH:oxygen oxidoreductase (RH-hydroxylating" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C14039" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C14039" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -20970,10 +20970,10 @@
       </reaction>
       <reaction fast="false" id="R_R07090" name="1,1-Dichloroethylene, NADPH:oxygen oxidoreductase (RH-hydroxylating" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C14039" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C14039" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
@@ -21206,8 +21206,8 @@
       </reaction>
       <reaction fast="false" id="R_R07113_mt" name="1,2-Dibromoethane:glutathione R-transferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00051_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C11088_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00051_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C14874_mt" stoichiometry="1" />
@@ -21532,8 +21532,8 @@
           <speciesReference constant="true" species="M_C05108" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C15915" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C15915" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R07507" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -21640,8 +21640,8 @@
       </reaction>
       <reaction fast="false" id="R_R07603" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00068" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00671" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00068" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00011" stoichiometry="1" />
@@ -21650,8 +21650,8 @@
       </reaction>
       <reaction fast="false" id="R_R07603_mt" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00671_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00068_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00671_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00011_mt" stoichiometry="1" />
@@ -21800,8 +21800,8 @@
       </reaction>
       <reaction fast="false" id="R_R07766_mt" name="octanoyl-[acp]:protein N6-octanoyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C16240_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C05752_mt" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C16240_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C16236_mt" stoichiometry="1" />
@@ -21811,8 +21811,8 @@
       <reaction fast="false" id="R_R07767_mt" name="protein N6-(octanoyl)lysine:sulfur sulfurtransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00087_mt" stoichiometry="2" />
-          <speciesReference constant="true" species="M_C16236_mt" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00019_mt" stoichiometry="2" />
+          <speciesReference constant="true" species="M_C16236_mt" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C16237_mt" stoichiometry="1" />
@@ -22021,8 +22021,8 @@
       <reaction fast="false" id="R_R07861" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00030" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C06427" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C06427" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C00001" stoichiometry="2" />
@@ -22155,14 +22155,14 @@
       </reaction>
       <reaction fast="false" id="R_R07939" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C07481" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00005" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
-          <speciesReference constant="true" species="M_C07481" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00080" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C00067" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C00067" stoichiometry="1" />
           <speciesReference constant="true" species="M_C13747" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -22246,14 +22246,14 @@
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C16356" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00027" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C16356" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R07978" name="3,7-dimethylxanthine:oxygen oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_C07480" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00001" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C07480" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -22275,8 +22275,8 @@
       <reaction fast="false" id="R_R07981" name="NA" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_C00080" stoichiometry="2" />
-          <speciesReference constant="true" species="M_C16361" stoichiometry="1" />
           <speciesReference constant="true" species="M_C00007" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C16361" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_C16362" stoichiometry="1" />

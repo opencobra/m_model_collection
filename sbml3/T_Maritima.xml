@@ -596,493 +596,495 @@
       <species boundaryCondition="false" compartment="e" constant="false" hasOnlySubstanceUnits="false" id="M_zn2_e" name="Zinc" fbc:charge="0" fbc:chemicalFormula="Zn" />
     </listOfSpecies>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct fbc:id="G_TM_1698" fbc:label="TM_1698" fbc:name="TM_1698" />
-      <fbc:geneProduct fbc:id="G_TM_1255" fbc:label="TM_1255" fbc:name="TM_1255" />
-      <fbc:geneProduct fbc:id="G_TM_0920" fbc:label="TM_0920" fbc:name="TM_0920" />
-      <fbc:geneProduct fbc:id="G_TM_0111" fbc:label="TM_0111" fbc:name="TM_0111" />
-      <fbc:geneProduct fbc:id="G_TM_0717" fbc:label="TM_0717" fbc:name="TM_0717" />
-      <fbc:geneProduct fbc:id="G_TM_0716" fbc:label="TM_0716" fbc:name="TM_0716" />
-      <fbc:geneProduct fbc:id="G_TM_1784" fbc:label="TM_1784" fbc:name="TM_1784" />
-      <fbc:geneProduct fbc:id="G_TM_1783" fbc:label="TM_1783" fbc:name="TM_1783" />
-      <fbc:geneProduct fbc:id="G_TM_0549" fbc:label="TM_0549" fbc:name="TM_0549" />
-      <fbc:geneProduct fbc:id="G_TM_0548" fbc:label="TM_0548" fbc:name="TM_0548" />
-      <fbc:geneProduct fbc:id="G_TM_0274" fbc:label="TM_0274" fbc:name="TM_0274" />
-      <fbc:geneProduct fbc:id="G_TM_0802" fbc:label="TM_0802" fbc:name="TM_0802" />
-      <fbc:geneProduct fbc:id="G_TM_0292" fbc:label="TM_0292" fbc:name="TM_0292" />
-      <fbc:geneProduct fbc:id="G_TM_0291" fbc:label="TM_0291" fbc:name="TM_0291" />
-      <fbc:geneProduct fbc:id="G_TM_1785" fbc:label="TM_1785" fbc:name="TM_1785" />
-      <fbc:geneProduct fbc:id="G_TM_0692" fbc:label="TM_0692" fbc:name="TM_0692" />
-      <fbc:geneProduct fbc:id="G_TM_1564" fbc:label="TM_1564" fbc:name="TM_1564" />
-      <fbc:geneProduct fbc:id="G_TM_1479" fbc:label="TM_1479" fbc:name="TM_1479" />
-      <fbc:geneProduct fbc:id="G_TM_1689" fbc:label="TM_1689" fbc:name="TM_1689" />
-      <fbc:geneProduct fbc:id="G_TM_0655" fbc:label="TM_0655" fbc:name="TM_0655" />
-      <fbc:geneProduct fbc:id="G_TM_1384" fbc:label="TM_1384" fbc:name="TM_1384" />
-      <fbc:geneProduct fbc:id="G_TM_1095" fbc:label="TM_1095" fbc:name="TM_1095" />
-      <fbc:geneProduct fbc:id="G_TM_1096" fbc:label="TM_1096" fbc:name="TM_1096" />
-      <fbc:geneProduct fbc:id="G_TM_0814" fbc:label="TM_0814" fbc:name="TM_0814" />
-      <fbc:geneProduct fbc:id="G_TM_1693" fbc:label="TM_1693" fbc:name="TM_1693" />
-      <fbc:geneProduct fbc:id="G_TM_1782" fbc:label="TM_1782" fbc:name="TM_1782" />
-      <fbc:geneProduct fbc:id="G_TM_0172" fbc:label="TM_0172" fbc:name="TM_0172" />
-      <fbc:geneProduct fbc:id="G_TM_1129" fbc:label="TM_1129" fbc:name="TM_1129" />
-      <fbc:geneProduct fbc:id="G_TM_0809" fbc:label="TM_0809" fbc:name="TM_0809" />
-      <fbc:geneProduct fbc:id="G_TM_0788" fbc:label="TM_0788" fbc:name="TM_0788" />
-      <fbc:geneProduct fbc:id="G_TM_0882" fbc:label="TM_0882" fbc:name="TM_0882" />
-      <fbc:geneProduct fbc:id="G_TM_1249" fbc:label="TM_1249" fbc:name="TM_1249" />
-      <fbc:geneProduct fbc:id="G_TM_0446" fbc:label="TM_0446" fbc:name="TM_0446" />
-      <fbc:geneProduct fbc:id="G_TM_0447" fbc:label="TM_0447" fbc:name="TM_0447" />
-      <fbc:geneProduct fbc:id="G_TM_0156" fbc:label="TM_0156" fbc:name="TM_0156" />
-      <fbc:geneProduct fbc:id="G_TM_0259" fbc:label="TM_0259" fbc:name="TM_0259" />
-      <fbc:geneProduct fbc:id="G_TM_1396" fbc:label="TM_1396" fbc:name="TM_1396" />
-      <fbc:geneProduct fbc:id="G_TM_1138" fbc:label="TM_1138" fbc:name="TM_1138" />
-      <fbc:geneProduct fbc:id="G_TM_1135" fbc:label="TM_1135" fbc:name="TM_1135" />
-      <fbc:geneProduct fbc:id="G_TM_1136" fbc:label="TM_1136" fbc:name="TM_1136" />
-      <fbc:geneProduct fbc:id="G_TM_1139" fbc:label="TM_1139" fbc:name="TM_1139" />
-      <fbc:geneProduct fbc:id="G_TM_1137" fbc:label="TM_1137" fbc:name="TM_1137" />
-      <fbc:geneProduct fbc:id="G_TM_0412" fbc:label="TM_0412" fbc:name="TM_0412" />
-      <fbc:geneProduct fbc:id="G_TM_1840" fbc:label="TM_1840" fbc:name="TM_1840" />
-      <fbc:geneProduct fbc:id="G_TM_1845" fbc:label="TM_1845" fbc:name="TM_1845" />
-      <fbc:geneProduct fbc:id="G_TM_0141" fbc:label="TM_0141" fbc:name="TM_0141" />
-      <fbc:geneProduct fbc:id="G_TM_0142" fbc:label="TM_0142" fbc:name="TM_0142" />
-      <fbc:geneProduct fbc:id="G_TM_1828" fbc:label="TM_1828" fbc:name="TM_1828" />
-      <fbc:geneProduct fbc:id="G_TM_0276" fbc:label="TM_0276" fbc:name="TM_0276" />
-      <fbc:geneProduct fbc:id="G_TM_1781" fbc:label="TM_1781" fbc:name="TM_1781" />
-      <fbc:geneProduct fbc:id="G_TM_1780" fbc:label="TM_1780" fbc:name="TM_1780" />
-      <fbc:geneProduct fbc:id="G_TM_1093" fbc:label="TM_1093" fbc:name="TM_1093" />
-      <fbc:geneProduct fbc:id="G_TM_0155" fbc:label="TM_0155" fbc:name="TM_0155" />
-      <fbc:geneProduct fbc:id="G_TM_1523" fbc:label="TM_1523" fbc:name="TM_1523" />
-      <fbc:geneProduct fbc:id="G_TM_1273" fbc:label="TM_1273" fbc:name="TM_1273" />
-      <fbc:geneProduct fbc:id="G_TM_0252" fbc:label="TM_0252" fbc:name="TM_0252" />
-      <fbc:geneProduct fbc:id="G_TM_1272" fbc:label="TM_1272" fbc:name="TM_1272" />
-      <fbc:geneProduct fbc:id="G_TM_0939" fbc:label="TM_0939" fbc:name="TM_0939" />
-      <fbc:geneProduct fbc:id="G_TM_1642" fbc:label="TM_1642" fbc:name="TM_1642" />
-      <fbc:geneProduct fbc:id="G_TM_1518" fbc:label="TM_1518" fbc:name="TM_1518" />
-      <fbc:geneProduct fbc:id="G_TM_0547" fbc:label="TM_0547" fbc:name="TM_0547" />
-      <fbc:geneProduct fbc:id="G_TM_1643" fbc:label="TM_1643" fbc:name="TM_1643" />
-      <fbc:geneProduct fbc:id="G_TM_1400" fbc:label="TM_1400" fbc:name="TM_1400" />
-      <fbc:geneProduct fbc:id="G_TM_1441" fbc:label="TM_1441" fbc:name="TM_1441" />
-      <fbc:geneProduct fbc:id="G_TM_0444" fbc:label="TM_0444" fbc:name="TM_0444" />
-      <fbc:geneProduct fbc:id="G_TM_1042" fbc:label="TM_1042" fbc:name="TM_1042" />
-      <fbc:geneProduct fbc:id="G_TM_1043" fbc:label="TM_1043" fbc:name="TM_1043" />
-      <fbc:geneProduct fbc:id="G_TM_1610" fbc:label="TM_1610" fbc:name="TM_1610" />
-      <fbc:geneProduct fbc:id="G_TM_1613" fbc:label="TM_1613" fbc:name="TM_1613" />
-      <fbc:geneProduct fbc:id="G_TM_1612" fbc:label="TM_1612" fbc:name="TM_1612" />
-      <fbc:geneProduct fbc:id="G_TM_1609" fbc:label="TM_1609" fbc:name="TM_1609" />
-      <fbc:geneProduct fbc:id="G_TM_1615" fbc:label="TM_1615" fbc:name="TM_1615" />
-      <fbc:geneProduct fbc:id="G_TM_1614" fbc:label="TM_1614" fbc:name="TM_1614" />
-      <fbc:geneProduct fbc:id="G_TM_1616" fbc:label="TM_1616" fbc:name="TM_1616" />
-      <fbc:geneProduct fbc:id="G_TM_1611" fbc:label="TM_1611" fbc:name="TM_1611" />
-      <fbc:geneProduct fbc:id="G_TM_0224" fbc:label="TM_0224" fbc:name="TM_0224" />
-      <fbc:geneProduct fbc:id="G_TM_0076" fbc:label="TM_0076" fbc:name="TM_0076" />
-      <fbc:geneProduct fbc:id="G_TM_0025" fbc:label="TM_0025" fbc:name="TM_0025" />
-      <fbc:geneProduct fbc:id="G_TM_1281" fbc:label="TM_1281" fbc:name="TM_1281" />
-      <fbc:geneProduct fbc:id="G_TM_1269" fbc:label="TM_1269" fbc:name="TM_1269" />
-      <fbc:geneProduct fbc:id="G_TM_1754" fbc:label="TM_1754" fbc:name="TM_1754" />
-      <fbc:geneProduct fbc:id="G_TM_0798" fbc:label="TM_0798" fbc:name="TM_0798" />
-      <fbc:geneProduct fbc:id="G_TM_0801" fbc:label="TM_0801" fbc:name="TM_0801" />
-      <fbc:geneProduct fbc:id="G_TM_0800" fbc:label="TM_0800" fbc:name="TM_0800" />
-      <fbc:geneProduct fbc:id="G_TM_1169" fbc:label="TM_1169" fbc:name="TM_1169" />
-      <fbc:geneProduct fbc:id="G_TM_1724" fbc:label="TM_1724" fbc:name="TM_1724" />
-      <fbc:geneProduct fbc:id="G_TM_0558" fbc:label="TM_0558" fbc:name="TM_0558" />
-      <fbc:geneProduct fbc:id="G_TM_0557" fbc:label="TM_0557" fbc:name="TM_0557" />
-      <fbc:geneProduct fbc:id="G_TM_1383" fbc:label="TM_1383" fbc:name="TM_1383" />
-      <fbc:geneProduct fbc:id="G_TM_1220" fbc:label="TM_1220" fbc:name="TM_1220" />
-      <fbc:geneProduct fbc:id="G_TM_1219" fbc:label="TM_1219" fbc:name="TM_1219" />
-      <fbc:geneProduct fbc:id="G_TM_1221" fbc:label="TM_1221" fbc:name="TM_1221" />
-      <fbc:geneProduct fbc:id="G_TM_1226" fbc:label="TM_1226" fbc:name="TM_1226" />
-      <fbc:geneProduct fbc:id="G_TM_1222" fbc:label="TM_1222" fbc:name="TM_1222" />
-      <fbc:geneProduct fbc:id="G_TM_1524" fbc:label="TM_1524" fbc:name="TM_1524" />
-      <fbc:geneProduct fbc:id="G_TM_0027" fbc:label="TM_0027" fbc:name="TM_0027" />
-      <fbc:geneProduct fbc:id="G_TM_0029" fbc:label="TM_0029" fbc:name="TM_0029" />
-      <fbc:geneProduct fbc:id="G_TM_0031" fbc:label="TM_0031" fbc:name="TM_0031" />
-      <fbc:geneProduct fbc:id="G_TM_0030" fbc:label="TM_0030" fbc:name="TM_0030" />
-      <fbc:geneProduct fbc:id="G_TM_0028" fbc:label="TM_0028" fbc:name="TM_0028" />
-      <fbc:geneProduct fbc:id="G_TM_1848" fbc:label="TM_1848" fbc:name="TM_1848" />
-      <fbc:geneProduct fbc:id="G_TM_0347" fbc:label="TM_0347" fbc:name="TM_0347" />
       <fbc:geneProduct fbc:id="G_S_0001" fbc:label="S_0001" fbc:name="S_0001" />
-      <fbc:geneProduct fbc:id="G_TM_0413" fbc:label="TM_0413" fbc:name="TM_0413" />
-      <fbc:geneProduct fbc:id="G_TM_0290" fbc:label="TM_0290" fbc:name="TM_0290" />
-      <fbc:geneProduct fbc:id="G_TM_0803" fbc:label="TM_0803" fbc:name="TM_0803" />
-      <fbc:geneProduct fbc:id="G_TM_0665" fbc:label="TM_0665" fbc:name="TM_0665" />
-      <fbc:geneProduct fbc:id="G_TM_0719" fbc:label="TM_0719" fbc:name="TM_0719" />
-      <fbc:geneProduct fbc:id="G_TM_1410" fbc:label="TM_1410" fbc:name="TM_1410" />
-      <fbc:geneProduct fbc:id="G_TM_0846" fbc:label="TM_0846" fbc:name="TM_0846" />
-      <fbc:geneProduct fbc:id="G_TM_0751" fbc:label="TM_0751" fbc:name="TM_0751" />
-      <fbc:geneProduct fbc:id="G_TM_1443" fbc:label="TM_1443" fbc:name="TM_1443" />
-      <fbc:geneProduct fbc:id="G_TM_1516" fbc:label="TM_1516" fbc:name="TM_1516" />
-      <fbc:geneProduct fbc:id="G_TM_1517" fbc:label="TM_1517" fbc:name="TM_1517" />
-      <fbc:geneProduct fbc:id="G_TM_1522" fbc:label="TM_1522" fbc:name="TM_1522" />
-      <fbc:geneProduct fbc:id="G_TM_1397" fbc:label="TM_1397" fbc:name="TM_1397" />
-      <fbc:geneProduct fbc:id="G_TM_1826" fbc:label="TM_1826" fbc:name="TM_1826" />
-      <fbc:geneProduct fbc:id="G_TM_0404" fbc:label="TM_0404" fbc:name="TM_0404" />
-      <fbc:geneProduct fbc:id="G_TM_0067" fbc:label="TM_0067" fbc:name="TM_0067" />
-      <fbc:geneProduct fbc:id="G_TM_0343" fbc:label="TM_0343" fbc:name="TM_0343" />
-      <fbc:geneProduct fbc:id="G_TM_0128" fbc:label="TM_0128" fbc:name="TM_0128" />
-      <fbc:geneProduct fbc:id="G_TM_0880" fbc:label="TM_0880" fbc:name="TM_0880" />
-      <fbc:geneProduct fbc:id="G_TM_0066" fbc:label="TM_0066" fbc:name="TM_0066" />
-      <fbc:geneProduct fbc:id="G_TM_0551" fbc:label="TM_0551" fbc:name="TM_0551" />
-      <fbc:geneProduct fbc:id="G_TM_1520" fbc:label="TM_1520" fbc:name="TM_1520" />
-      <fbc:geneProduct fbc:id="G_TM_1521" fbc:label="TM_1521" fbc:name="TM_1521" />
-      <fbc:geneProduct fbc:id="G_TM_1641" fbc:label="TM_1641" fbc:name="TM_1641" />
-      <fbc:geneProduct fbc:id="G_TM_0166" fbc:label="TM_0166" fbc:name="TM_0166" />
-      <fbc:geneProduct fbc:id="G_TM_0334" fbc:label="TM_0334" fbc:name="TM_0334" />
-      <fbc:geneProduct fbc:id="G_TM_0333" fbc:label="TM_0333" fbc:name="TM_0333" />
-      <fbc:geneProduct fbc:id="G_TM_0335" fbc:label="TM_0335" fbc:name="TM_0335" />
-      <fbc:geneProduct fbc:id="G_TM_0349" fbc:label="TM_0349" fbc:name="TM_0349" />
-      <fbc:geneProduct fbc:id="G_TM_0348" fbc:label="TM_0348" fbc:name="TM_0348" />
-      <fbc:geneProduct fbc:id="G_TM_0161" fbc:label="TM_0161" fbc:name="TM_0161" />
-      <fbc:geneProduct fbc:id="G_TM_0317" fbc:label="TM_0317" fbc:name="TM_0317" />
-      <fbc:geneProduct fbc:id="G_TM_1387" fbc:label="TM_1387" fbc:name="TM_1387" />
-      <fbc:geneProduct fbc:id="G_TM_0550" fbc:label="TM_0550" fbc:name="TM_0550" />
-      <fbc:geneProduct fbc:id="G_TM_0960" fbc:label="TM_0960" fbc:name="TM_0960" />
-      <fbc:geneProduct fbc:id="G_TM_1559" fbc:label="TM_1559" fbc:name="TM_1559" />
-      <fbc:geneProduct fbc:id="G_TM_1099" fbc:label="TM_1099" fbc:name="TM_1099" />
-      <fbc:geneProduct fbc:id="G_TM_0401" fbc:label="TM_0401" fbc:name="TM_0401" />
-      <fbc:geneProduct fbc:id="G_TM_0913" fbc:label="TM_0913" fbc:name="TM_0913" />
-      <fbc:geneProduct fbc:id="G_TM_0889" fbc:label="TM_0889" fbc:name="TM_0889" />
-      <fbc:geneProduct fbc:id="G_TM_1770" fbc:label="TM_1770" fbc:name="TM_1770" />
-      <fbc:geneProduct fbc:id="G_TM_0305" fbc:label="TM_0305" fbc:name="TM_0305" />
-      <fbc:geneProduct fbc:id="G_TM_1525" fbc:label="TM_1525" fbc:name="TM_1525" />
-      <fbc:geneProduct fbc:id="G_TM_0877" fbc:label="TM_0877" fbc:name="TM_0877" />
-      <fbc:geneProduct fbc:id="G_TM_0273" fbc:label="TM_0273" fbc:name="TM_0273" />
-      <fbc:geneProduct fbc:id="G_TM_1415" fbc:label="TM_1415" fbc:name="TM_1415" />
-      <fbc:geneProduct fbc:id="G_TM_0307" fbc:label="TM_0307" fbc:name="TM_0307" />
-      <fbc:geneProduct fbc:id="G_TM_0189" fbc:label="TM_0189" fbc:name="TM_0189" />
-      <fbc:geneProduct fbc:id="G_TM_0080" fbc:label="TM_0080" fbc:name="TM_0080" />
-      <fbc:geneProduct fbc:id="G_TM_0078" fbc:label="TM_0078" fbc:name="TM_0078" />
-      <fbc:geneProduct fbc:id="G_TM_0079" fbc:label="TM_0079" fbc:name="TM_0079" />
-      <fbc:geneProduct fbc:id="G_TM_0191" fbc:label="TM_0191" fbc:name="TM_0191" />
-      <fbc:geneProduct fbc:id="G_TM_0190" fbc:label="TM_0190" fbc:name="TM_0190" />
-      <fbc:geneProduct fbc:id="G_TM_0528" fbc:label="TM_0528" fbc:name="TM_0528" />
-      <fbc:geneProduct fbc:id="G_TM_0857" fbc:label="TM_0857" fbc:name="TM_0857" />
-      <fbc:geneProduct fbc:id="G_TM_0040" fbc:label="TM_0040" fbc:name="TM_0040" />
-      <fbc:geneProduct fbc:id="G_TM_0828" fbc:label="TM_0828" fbc:name="TM_0828" />
-      <fbc:geneProduct fbc:id="G_TM_1560" fbc:label="TM_1560" fbc:name="TM_1560" />
-      <fbc:geneProduct fbc:id="G_TM_1766" fbc:label="TM_1766" fbc:name="TM_1766" />
-      <fbc:geneProduct fbc:id="G_TM_0306" fbc:label="TM_0306" fbc:name="TM_0306" />
-      <fbc:geneProduct fbc:id="G_TM_0540" fbc:label="TM_0540" fbc:name="TM_0540" />
-      <fbc:geneProduct fbc:id="G_TM_0541" fbc:label="TM_0541" fbc:name="TM_0541" />
-      <fbc:geneProduct fbc:id="G_TM_1629" fbc:label="TM_1629" fbc:name="TM_1629" />
-      <fbc:geneProduct fbc:id="G_TM_1432" fbc:label="TM_1432" fbc:name="TM_1432" />
-      <fbc:geneProduct fbc:id="G_TM_0378" fbc:label="TM_0378" fbc:name="TM_0378" />
-      <fbc:geneProduct fbc:id="G_TM_0293" fbc:label="TM_0293" fbc:name="TM_0293" />
-      <fbc:geneProduct fbc:id="G_TM_0813" fbc:label="TM_0813" fbc:name="TM_0813" />
-      <fbc:geneProduct fbc:id="G_TM_1155" fbc:label="TM_1155" fbc:name="TM_1155" />
-      <fbc:geneProduct fbc:id="G_TM_1190" fbc:label="TM_1190" fbc:name="TM_1190" />
-      <fbc:geneProduct fbc:id="G_TM_0282" fbc:label="TM_0282" fbc:name="TM_0282" />
-      <fbc:geneProduct fbc:id="G_TM_1624" fbc:label="TM_1624" fbc:name="TM_1624" />
-      <fbc:geneProduct fbc:id="G_TM_1192" fbc:label="TM_1192" fbc:name="TM_1192" />
-      <fbc:geneProduct fbc:id="G_TM_1751" fbc:label="TM_1751" fbc:name="TM_1751" />
-      <fbc:geneProduct fbc:id="G_TM_1752" fbc:label="TM_1752" fbc:name="TM_1752" />
-      <fbc:geneProduct fbc:id="G_TM_1746" fbc:label="TM_1746" fbc:name="TM_1746" />
-      <fbc:geneProduct fbc:id="G_TM_1749" fbc:label="TM_1749" fbc:name="TM_1749" />
-      <fbc:geneProduct fbc:id="G_TM_1747" fbc:label="TM_1747" fbc:name="TM_1747" />
-      <fbc:geneProduct fbc:id="G_TM_1750" fbc:label="TM_1750" fbc:name="TM_1750" />
-      <fbc:geneProduct fbc:id="G_TM_1748" fbc:label="TM_1748" fbc:name="TM_1748" />
-      <fbc:geneProduct fbc:id="G_TM_1227" fbc:label="TM_1227" fbc:name="TM_1227" />
-      <fbc:geneProduct fbc:id="G_TM_1191" fbc:label="TM_1191" fbc:name="TM_1191" />
-      <fbc:geneProduct fbc:id="G_TM_0896" fbc:label="TM_0896" fbc:name="TM_0896" />
-      <fbc:geneProduct fbc:id="G_TM_0862" fbc:label="TM_0862" fbc:name="TM_0862" />
-      <fbc:geneProduct fbc:id="G_TM_1203" fbc:label="TM_1203" fbc:name="TM_1203" />
-      <fbc:geneProduct fbc:id="G_TM_1202" fbc:label="TM_1202" fbc:name="TM_1202" />
-      <fbc:geneProduct fbc:id="G_TM_1204" fbc:label="TM_1204" fbc:name="TM_1204" />
-      <fbc:geneProduct fbc:id="G_TM_0688" fbc:label="TM_0688" fbc:name="TM_0688" />
-      <fbc:geneProduct fbc:id="G_TM_1248" fbc:label="TM_1248" fbc:name="TM_1248" />
-      <fbc:geneProduct fbc:id="G_TM_0148" fbc:label="TM_0148" fbc:name="TM_0148" />
-      <fbc:geneProduct fbc:id="G_TM_0720" fbc:label="TM_0720" fbc:name="TM_0720" />
-      <fbc:geneProduct fbc:id="G_TM_1062" fbc:label="TM_1062" fbc:name="TM_1062" />
-      <fbc:geneProduct fbc:id="G_TM_0895" fbc:label="TM_0895" fbc:name="TM_0895" />
-      <fbc:geneProduct fbc:id="G_TM_0434" fbc:label="TM_0434" fbc:name="TM_0434" />
-      <fbc:geneProduct fbc:id="G_TM_0055" fbc:label="TM_0055" fbc:name="TM_0055" />
-      <fbc:geneProduct fbc:id="G_TM_0240" fbc:label="TM_0240" fbc:name="TM_0240" />
-      <fbc:geneProduct fbc:id="G_TM_0239" fbc:label="TM_0239" fbc:name="TM_0239" />
-      <fbc:geneProduct fbc:id="G_TM_0943" fbc:label="TM_0943" fbc:name="TM_0943" />
-      <fbc:geneProduct fbc:id="G_TM_0024" fbc:label="TM_0024" fbc:name="TM_0024" />
-      <fbc:geneProduct fbc:id="G_TM_0294" fbc:label="TM_0294" fbc:name="TM_0294" />
-      <fbc:geneProduct fbc:id="G_TM_0300" fbc:label="TM_0300" fbc:name="TM_0300" />
-      <fbc:geneProduct fbc:id="G_TM_0304" fbc:label="TM_0304" fbc:name="TM_0304" />
-      <fbc:geneProduct fbc:id="G_TM_0301" fbc:label="TM_0301" fbc:name="TM_0301" />
-      <fbc:geneProduct fbc:id="G_TM_0303" fbc:label="TM_0303" fbc:name="TM_0303" />
-      <fbc:geneProduct fbc:id="G_TM_0302" fbc:label="TM_0302" fbc:name="TM_0302" />
-      <fbc:geneProduct fbc:id="G_TM_1015" fbc:label="TM_1015" fbc:name="TM_1015" />
-      <fbc:geneProduct fbc:id="G_TM_0843" fbc:label="TM_0843" fbc:name="TM_0843" />
-      <fbc:geneProduct fbc:id="G_TM_1247" fbc:label="TM_1247" fbc:name="TM_1247" />
-      <fbc:geneProduct fbc:id="G_TM_0397" fbc:label="TM_0397" fbc:name="TM_0397" />
-      <fbc:geneProduct fbc:id="G_TM_1217" fbc:label="TM_1217" fbc:name="TM_1217" />
-      <fbc:geneProduct fbc:id="G_TM_1640" fbc:label="TM_1640" fbc:name="TM_1640" />
-      <fbc:geneProduct fbc:id="G_TM_1351" fbc:label="TM_1351" fbc:name="TM_1351" />
-      <fbc:geneProduct fbc:id="G_TM_1875" fbc:label="TM_1875" fbc:name="TM_1875" />
-      <fbc:geneProduct fbc:id="G_TM_1121" fbc:label="TM_1121" fbc:name="TM_1121" />
-      <fbc:geneProduct fbc:id="G_TM_1122" fbc:label="TM_1122" fbc:name="TM_1122" />
-      <fbc:geneProduct fbc:id="G_TM_1120" fbc:label="TM_1120" fbc:name="TM_1120" />
-      <fbc:geneProduct fbc:id="G_TM_0423" fbc:label="TM_0423" fbc:name="TM_0423" />
-      <fbc:geneProduct fbc:id="G_TM_1585" fbc:label="TM_1585" fbc:name="TM_1585" />
-      <fbc:geneProduct fbc:id="G_TM_0211" fbc:label="TM_0211" fbc:name="TM_0211" />
-      <fbc:geneProduct fbc:id="G_TM_1429" fbc:label="TM_1429" fbc:name="TM_1429" />
-      <fbc:geneProduct fbc:id="G_TM_1401" fbc:label="TM_1401" fbc:name="TM_1401" />
-      <fbc:geneProduct fbc:id="G_TM_1430" fbc:label="TM_1430" fbc:name="TM_1430" />
-      <fbc:geneProduct fbc:id="G_TM_0952" fbc:label="TM_0952" fbc:name="TM_0952" />
-      <fbc:geneProduct fbc:id="G_TM_0217" fbc:label="TM_0217" fbc:name="TM_0217" />
-      <fbc:geneProduct fbc:id="G_TM_0216" fbc:label="TM_0216" fbc:name="TM_0216" />
-      <fbc:geneProduct fbc:id="G_TM_1820" fbc:label="TM_1820" fbc:name="TM_1820" />
-      <fbc:geneProduct fbc:id="G_TM_0438" fbc:label="TM_0438" fbc:name="TM_0438" />
-      <fbc:geneProduct fbc:id="G_TM_0443" fbc:label="TM_0443" fbc:name="TM_0443" />
-      <fbc:geneProduct fbc:id="G_TM_1621" fbc:label="TM_1621" fbc:name="TM_1621" />
-      <fbc:geneProduct fbc:id="G_TM_0039" fbc:label="TM_0039" fbc:name="TM_0039" />
-      <fbc:geneProduct fbc:id="G_TM_0064" fbc:label="TM_0064" fbc:name="TM_0064" />
-      <fbc:geneProduct fbc:id="G_TM_0203" fbc:label="TM_0203" fbc:name="TM_0203" />
-      <fbc:geneProduct fbc:id="G_TM_0202" fbc:label="TM_0202" fbc:name="TM_0202" />
-      <fbc:geneProduct fbc:id="G_TM_0204" fbc:label="TM_0204" fbc:name="TM_0204" />
-      <fbc:geneProduct fbc:id="G_TM_1469" fbc:label="TM_1469" fbc:name="TM_1469" />
-      <fbc:geneProduct fbc:id="G_TM_0296" fbc:label="TM_0296" fbc:name="TM_0296" />
-      <fbc:geneProduct fbc:id="G_TM_1041" fbc:label="TM_1041" fbc:name="TM_1041" />
-      <fbc:geneProduct fbc:id="G_TM_0804" fbc:label="TM_0804" fbc:name="TM_0804" />
-      <fbc:geneProduct fbc:id="G_TM_1090" fbc:label="TM_1090" fbc:name="TM_1090" />
-      <fbc:geneProduct fbc:id="G_TM_0790" fbc:label="TM_0790" fbc:name="TM_0790" />
-      <fbc:geneProduct fbc:id="G_TM_0041" fbc:label="TM_0041" fbc:name="TM_0041" />
-      <fbc:geneProduct fbc:id="G_TM_0578" fbc:label="TM_0578" fbc:name="TM_0578" />
-      <fbc:geneProduct fbc:id="G_TM_0881" fbc:label="TM_0881" fbc:name="TM_0881" />
-      <fbc:geneProduct fbc:id="G_TM_0545" fbc:label="TM_0545" fbc:name="TM_0545" />
-      <fbc:geneProduct fbc:id="G_TM_1040" fbc:label="TM_1040" fbc:name="TM_1040" />
-      <fbc:geneProduct fbc:id="G_TM_0206" fbc:label="TM_0206" fbc:name="TM_0206" />
-      <fbc:geneProduct fbc:id="G_TM_1424" fbc:label="TM_1424" fbc:name="TM_1424" />
-      <fbc:geneProduct fbc:id="G_TM_1426" fbc:label="TM_1426" fbc:name="TM_1426" />
-      <fbc:geneProduct fbc:id="G_TM_1425" fbc:label="TM_1425" fbc:name="TM_1425" />
-      <fbc:geneProduct fbc:id="G_TM_1148" fbc:label="TM_1148" fbc:name="TM_1148" />
-      <fbc:geneProduct fbc:id="G_TM_1038" fbc:label="TM_1038" fbc:name="TM_1038" />
-      <fbc:geneProduct fbc:id="G_TM_1036" fbc:label="TM_1036" fbc:name="TM_1036" />
-      <fbc:geneProduct fbc:id="G_TM_1039" fbc:label="TM_1039" fbc:name="TM_1039" />
-      <fbc:geneProduct fbc:id="G_TM_0140" fbc:label="TM_0140" fbc:name="TM_0140" />
-      <fbc:geneProduct fbc:id="G_TM_0831" fbc:label="TM_0831" fbc:name="TM_0831" />
-      <fbc:geneProduct fbc:id="G_TM_1361" fbc:label="TM_1361" fbc:name="TM_1361" />
-      <fbc:geneProduct fbc:id="G_TM_1418" fbc:label="TM_1418" fbc:name="TM_1418" />
-      <fbc:geneProduct fbc:id="G_TM_1347" fbc:label="TM_1347" fbc:name="TM_1347" />
-      <fbc:geneProduct fbc:id="G_TM_0419" fbc:label="TM_0419" fbc:name="TM_0419" />
-      <fbc:geneProduct fbc:id="G_TM_0420" fbc:label="TM_0420" fbc:name="TM_0420" />
-      <fbc:geneProduct fbc:id="G_TM_0421" fbc:label="TM_0421" fbc:name="TM_0421" />
-      <fbc:geneProduct fbc:id="G_TM_0418" fbc:label="TM_0418" fbc:name="TM_0418" />
-      <fbc:geneProduct fbc:id="G_TM_1444" fbc:label="TM_1444" fbc:name="TM_1444" />
-      <fbc:geneProduct fbc:id="G_TM_0556" fbc:label="TM_0556" fbc:name="TM_0556" />
-      <fbc:geneProduct fbc:id="G_TM_0555" fbc:label="TM_0555" fbc:name="TM_0555" />
-      <fbc:geneProduct fbc:id="G_TM_0554" fbc:label="TM_0554" fbc:name="TM_0554" />
-      <fbc:geneProduct fbc:id="G_TM_0553" fbc:label="TM_0553" fbc:name="TM_0553" />
-      <fbc:geneProduct fbc:id="G_TM_0552" fbc:label="TM_0552" fbc:name="TM_0552" />
-      <fbc:geneProduct fbc:id="G_TM_1193" fbc:label="TM_1193" fbc:name="TM_1193" />
-      <fbc:geneProduct fbc:id="G_TM_1195" fbc:label="TM_1195" fbc:name="TM_1195" />
-      <fbc:geneProduct fbc:id="G_TM_1197" fbc:label="TM_1197" fbc:name="TM_1197" />
-      <fbc:geneProduct fbc:id="G_TM_1199" fbc:label="TM_1199" fbc:name="TM_1199" />
-      <fbc:geneProduct fbc:id="G_TM_1198" fbc:label="TM_1198" fbc:name="TM_1198" />
-      <fbc:geneProduct fbc:id="G_TM_1196" fbc:label="TM_1196" fbc:name="TM_1196" />
-      <fbc:geneProduct fbc:id="G_TM_1194" fbc:label="TM_1194" fbc:name="TM_1194" />
-      <fbc:geneProduct fbc:id="G_TM_1867" fbc:label="TM_1867" fbc:name="TM_1867" />
-      <fbc:geneProduct fbc:id="G_TM_0168" fbc:label="TM_0168" fbc:name="TM_0168" />
-      <fbc:geneProduct fbc:id="G_TM_1705" fbc:label="TM_1705" fbc:name="TM_1705" />
-      <fbc:geneProduct fbc:id="G_TM_1834" fbc:label="TM_1834" fbc:name="TM_1834" />
-      <fbc:geneProduct fbc:id="G_TM_1836" fbc:label="TM_1836" fbc:name="TM_1836" />
-      <fbc:geneProduct fbc:id="G_TM_1839" fbc:label="TM_1839" fbc:name="TM_1839" />
-      <fbc:geneProduct fbc:id="G_TM_1837" fbc:label="TM_1837" fbc:name="TM_1837" />
-      <fbc:geneProduct fbc:id="G_TM_0736" fbc:label="TM_0736" fbc:name="TM_0736" />
-      <fbc:geneProduct fbc:id="G_TM_0068" fbc:label="TM_0068" fbc:name="TM_0068" />
-      <fbc:geneProduct fbc:id="G_TM_1223" fbc:label="TM_1223" fbc:name="TM_1223" />
-      <fbc:geneProduct fbc:id="G_TM_0542" fbc:label="TM_0542" fbc:name="TM_0542" />
-      <fbc:geneProduct fbc:id="G_TM_0891" fbc:label="TM_0891" fbc:name="TM_0891" />
-      <fbc:geneProduct fbc:id="G_TM_0647" fbc:label="TM_0647" fbc:name="TM_0647" />
-      <fbc:geneProduct fbc:id="G_TM_1393" fbc:label="TM_1393" fbc:name="TM_1393" />
-      <fbc:geneProduct fbc:id="G_TM_1658" fbc:label="TM_1658" fbc:name="TM_1658" />
-      <fbc:geneProduct fbc:id="G_TM_1270" fbc:label="TM_1270" fbc:name="TM_1270" />
-      <fbc:geneProduct fbc:id="G_TM_0269" fbc:label="TM_0269" fbc:name="TM_0269" />
-      <fbc:geneProduct fbc:id="G_TM_0268" fbc:label="TM_0268" fbc:name="TM_0268" />
-      <fbc:geneProduct fbc:id="G_TM_1085" fbc:label="TM_1085" fbc:name="TM_1085" />
-      <fbc:geneProduct fbc:id="G_TM_1185" fbc:label="TM_1185" fbc:name="TM_1185" />
-      <fbc:geneProduct fbc:id="G_TM_0561" fbc:label="TM_0561" fbc:name="TM_0561" />
-      <fbc:geneProduct fbc:id="G_TM_1161" fbc:label="TM_1161" fbc:name="TM_1161" />
-      <fbc:geneProduct fbc:id="G_TM_1419" fbc:label="TM_1419" fbc:name="TM_1419" />
-      <fbc:geneProduct fbc:id="G_TM_1438" fbc:label="TM_1438" fbc:name="TM_1438" />
-      <fbc:geneProduct fbc:id="G_TM_1835" fbc:label="TM_1835" fbc:name="TM_1835" />
-      <fbc:geneProduct fbc:id="G_TM_0298" fbc:label="TM_0298" fbc:name="TM_0298" />
-      <fbc:geneProduct fbc:id="G_TM_0069" fbc:label="TM_0069" fbc:name="TM_0069" />
-      <fbc:geneProduct fbc:id="G_TM_1728" fbc:label="TM_1728" fbc:name="TM_1728" />
-      <fbc:geneProduct fbc:id="G_TM_1767" fbc:label="TM_1767" fbc:name="TM_1767" />
-      <fbc:geneProduct fbc:id="G_TM_0270" fbc:label="TM_0270" fbc:name="TM_0270" />
-      <fbc:geneProduct fbc:id="G_TM_1286" fbc:label="TM_1286" fbc:name="TM_1286" />
-      <fbc:geneProduct fbc:id="G_TM_0911" fbc:label="TM_0911" fbc:name="TM_0911" />
-      <fbc:geneProduct fbc:id="G_TM_1213" fbc:label="TM_1213" fbc:name="TM_1213" />
       <fbc:geneProduct fbc:id="G_TM_0010" fbc:label="TM_0010" fbc:name="TM_0010" />
       <fbc:geneProduct fbc:id="G_TM_0012" fbc:label="TM_0012" fbc:name="TM_0012" />
-      <fbc:geneProduct fbc:id="G_TM_0228" fbc:label="TM_0228" fbc:name="TM_0228" />
-      <fbc:geneProduct fbc:id="G_TM_1105" fbc:label="TM_1105" fbc:name="TM_1105" />
-      <fbc:geneProduct fbc:id="G_TM_1215" fbc:label="TM_1215" fbc:name="TM_1215" />
-      <fbc:geneProduct fbc:id="G_TM_1214" fbc:label="TM_1214" fbc:name="TM_1214" />
-      <fbc:geneProduct fbc:id="G_TM_0201" fbc:label="TM_0201" fbc:name="TM_0201" />
-      <fbc:geneProduct fbc:id="G_TM_1216" fbc:label="TM_1216" fbc:name="TM_1216" />
-      <fbc:geneProduct fbc:id="G_TM_1211" fbc:label="TM_1211" fbc:name="TM_1211" />
-      <fbc:geneProduct fbc:id="G_TM_1212" fbc:label="TM_1212" fbc:name="TM_1212" />
-      <fbc:geneProduct fbc:id="G_TM_1733" fbc:label="TM_1733" fbc:name="TM_1733" />
-      <fbc:geneProduct fbc:id="G_TM_0428" fbc:label="TM_0428" fbc:name="TM_0428" />
-      <fbc:geneProduct fbc:id="G_TM_0427" fbc:label="TM_0427" fbc:name="TM_0427" />
-      <fbc:geneProduct fbc:id="G_TM_1253" fbc:label="TM_1253" fbc:name="TM_1253" />
-      <fbc:geneProduct fbc:id="G_TM_0645" fbc:label="TM_0645" fbc:name="TM_0645" />
-      <fbc:geneProduct fbc:id="G_TM_1088" fbc:label="TM_1088" fbc:name="TM_1088" />
-      <fbc:geneProduct fbc:id="G_TM_1089" fbc:label="TM_1089" fbc:name="TM_1089" />
-      <fbc:geneProduct fbc:id="G_TM_0402" fbc:label="TM_0402" fbc:name="TM_0402" />
-      <fbc:geneProduct fbc:id="G_TM_0097" fbc:label="TM_0097" fbc:name="TM_0097" />
-      <fbc:geneProduct fbc:id="G_TM_0475" fbc:label="TM_0475" fbc:name="TM_0475" />
-      <fbc:geneProduct fbc:id="G_TM_1645" fbc:label="TM_1645" fbc:name="TM_1645" />
-      <fbc:geneProduct fbc:id="G_TM_1433" fbc:label="TM_1433" fbc:name="TM_1433" />
-      <fbc:geneProduct fbc:id="G_TM_1737" fbc:label="TM_1737" fbc:name="TM_1737" />
-      <fbc:geneProduct fbc:id="G_TM_1596" fbc:label="TM_1596" fbc:name="TM_1596" />
-      <fbc:geneProduct fbc:id="G_TM_1878" fbc:label="TM_1878" fbc:name="TM_1878" />
-      <fbc:geneProduct fbc:id="G_TM_1662" fbc:label="TM_1662" fbc:name="TM_1662" />
-      <fbc:geneProduct fbc:id="G_TM_1097" fbc:label="TM_1097" fbc:name="TM_1097" />
-      <fbc:geneProduct fbc:id="G_TM_1535" fbc:label="TM_1535" fbc:name="TM_1535" />
-      <fbc:geneProduct fbc:id="G_TM_0332" fbc:label="TM_0332" fbc:name="TM_0332" />
-      <fbc:geneProduct fbc:id="G_TM_0406" fbc:label="TM_0406" fbc:name="TM_0406" />
-      <fbc:geneProduct fbc:id="G_TM_1164" fbc:label="TM_1164" fbc:name="TM_1164" />
-      <fbc:geneProduct fbc:id="G_TM_0405" fbc:label="TM_0405" fbc:name="TM_0405" />
-      <fbc:geneProduct fbc:id="G_TM_1165" fbc:label="TM_1165" fbc:name="TM_1165" />
-      <fbc:geneProduct fbc:id="G_TM_1873" fbc:label="TM_1873" fbc:name="TM_1873" />
-      <fbc:geneProduct fbc:id="G_TM_0331" fbc:label="TM_0331" fbc:name="TM_0331" />
-      <fbc:geneProduct fbc:id="G_TM_1077" fbc:label="TM_1077" fbc:name="TM_1077" />
-      <fbc:geneProduct fbc:id="G_TM_0235" fbc:label="TM_0235" fbc:name="TM_0235" />
-      <fbc:geneProduct fbc:id="G_TM_1755" fbc:label="TM_1755" fbc:name="TM_1755" />
-      <fbc:geneProduct fbc:id="G_TM_0209" fbc:label="TM_0209" fbc:name="TM_0209" />
-      <fbc:geneProduct fbc:id="G_TM_0289" fbc:label="TM_0289" fbc:name="TM_0289" />
-      <fbc:geneProduct fbc:id="G_TM_0184" fbc:label="TM_0184" fbc:name="TM_0184" />
-      <fbc:geneProduct fbc:id="G_TM_0327" fbc:label="TM_0327" fbc:name="TM_0327" />
-      <fbc:geneProduct fbc:id="G_TM_1385" fbc:label="TM_1385" fbc:name="TM_1385" />
-      <fbc:geneProduct fbc:id="G_TM_0689" fbc:label="TM_0689" fbc:name="TM_0689" />
-      <fbc:geneProduct fbc:id="G_TM_1154" fbc:label="TM_1154" fbc:name="TM_1154" />
-      <fbc:geneProduct fbc:id="G_TM_1774" fbc:label="TM_1774" fbc:name="TM_1774" />
-      <fbc:geneProduct fbc:id="G_TM_1374" fbc:label="TM_1374" fbc:name="TM_1374" />
-      <fbc:geneProduct fbc:id="G_TM_1861" fbc:label="TM_1861" fbc:name="TM_1861" />
-      <fbc:geneProduct fbc:id="G_TM_0821" fbc:label="TM_0821" fbc:name="TM_0821" />
-      <fbc:geneProduct fbc:id="G_TM_0822" fbc:label="TM_0822" fbc:name="TM_0822" />
-      <fbc:geneProduct fbc:id="G_TM_1261" fbc:label="TM_1261" fbc:name="TM_1261" />
-      <fbc:geneProduct fbc:id="G_TM_1263" fbc:label="TM_1263" fbc:name="TM_1263" />
-      <fbc:geneProduct fbc:id="G_TM_1264" fbc:label="TM_1264" fbc:name="TM_1264" />
-      <fbc:geneProduct fbc:id="G_TM_1262" fbc:label="TM_1262" fbc:name="TM_1262" />
-      <fbc:geneProduct fbc:id="G_TM_0917" fbc:label="TM_0917" fbc:name="TM_0917" />
-      <fbc:geneProduct fbc:id="G_TM_0261" fbc:label="TM_0261" fbc:name="TM_0261" />
-      <fbc:geneProduct fbc:id="G_TM_0472" fbc:label="TM_0472" fbc:name="TM_0472" />
-      <fbc:geneProduct fbc:id="G_TM_0473" fbc:label="TM_0473" fbc:name="TM_0473" />
-      <fbc:geneProduct fbc:id="G_TM_0883" fbc:label="TM_0883" fbc:name="TM_0883" />
-      <fbc:geneProduct fbc:id="G_TM_0017" fbc:label="TM_0017" fbc:name="TM_0017" />
       <fbc:geneProduct fbc:id="G_TM_0015" fbc:label="TM_0015" fbc:name="TM_0015" />
-      <fbc:geneProduct fbc:id="G_TM_0018" fbc:label="TM_0018" fbc:name="TM_0018" />
       <fbc:geneProduct fbc:id="G_TM_0016" fbc:label="TM_0016" fbc:name="TM_0016" />
-      <fbc:geneProduct fbc:id="G_TM_0587" fbc:label="TM_0587" fbc:name="TM_0587" />
-      <fbc:geneProduct fbc:id="G_TM_0174" fbc:label="TM_0174" fbc:name="TM_0174" />
-      <fbc:geneProduct fbc:id="G_TM_1687" fbc:label="TM_1687" fbc:name="TM_1687" />
-      <fbc:geneProduct fbc:id="G_TM_0272" fbc:label="TM_0272" fbc:name="TM_0272" />
-      <fbc:geneProduct fbc:id="G_TM_0167" fbc:label="TM_0167" fbc:name="TM_0167" />
-      <fbc:geneProduct fbc:id="G_TM_0344" fbc:label="TM_0344" fbc:name="TM_0344" />
-      <fbc:geneProduct fbc:id="G_TM_1250" fbc:label="TM_1250" fbc:name="TM_1250" />
-      <fbc:geneProduct fbc:id="G_TM_0139" fbc:label="TM_0139" fbc:name="TM_0139" />
-      <fbc:geneProduct fbc:id="G_TM_1251" fbc:label="TM_1251" fbc:name="TM_1251" />
-      <fbc:geneProduct fbc:id="G_TM_1035" fbc:label="TM_1035" fbc:name="TM_1035" />
-      <fbc:geneProduct fbc:id="G_TM_1243" fbc:label="TM_1243" fbc:name="TM_1243" />
-      <fbc:geneProduct fbc:id="G_TM_1244" fbc:label="TM_1244" fbc:name="TM_1244" />
-      <fbc:geneProduct fbc:id="G_TM_1246" fbc:label="TM_1246" fbc:name="TM_1246" />
-      <fbc:geneProduct fbc:id="G_TM_1245" fbc:label="TM_1245" fbc:name="TM_1245" />
-      <fbc:geneProduct fbc:id="G_TM_1037" fbc:label="TM_1037" fbc:name="TM_1037" />
-      <fbc:geneProduct fbc:id="G_TM_0514" fbc:label="TM_0514" fbc:name="TM_0514" />
-      <fbc:geneProduct fbc:id="G_TM_1628" fbc:label="TM_1628" fbc:name="TM_1628" />
-      <fbc:geneProduct fbc:id="G_TM_0345" fbc:label="TM_0345" fbc:name="TM_0345" />
-      <fbc:geneProduct fbc:id="G_TM_1130" fbc:label="TM_1130" fbc:name="TM_1130" />
+      <fbc:geneProduct fbc:id="G_TM_0017" fbc:label="TM_0017" fbc:name="TM_0017" />
+      <fbc:geneProduct fbc:id="G_TM_0018" fbc:label="TM_0018" fbc:name="TM_0018" />
+      <fbc:geneProduct fbc:id="G_TM_0024" fbc:label="TM_0024" fbc:name="TM_0024" />
+      <fbc:geneProduct fbc:id="G_TM_0025" fbc:label="TM_0025" fbc:name="TM_0025" />
+      <fbc:geneProduct fbc:id="G_TM_0027" fbc:label="TM_0027" fbc:name="TM_0027" />
+      <fbc:geneProduct fbc:id="G_TM_0028" fbc:label="TM_0028" fbc:name="TM_0028" />
+      <fbc:geneProduct fbc:id="G_TM_0029" fbc:label="TM_0029" fbc:name="TM_0029" />
+      <fbc:geneProduct fbc:id="G_TM_0030" fbc:label="TM_0030" fbc:name="TM_0030" />
+      <fbc:geneProduct fbc:id="G_TM_0031" fbc:label="TM_0031" fbc:name="TM_0031" />
       <fbc:geneProduct fbc:id="G_TM_0038" fbc:label="TM_0038" fbc:name="TM_0038" />
-      <fbc:geneProduct fbc:id="G_TM_0741" fbc:label="TM_0741" fbc:name="TM_0741" />
-      <fbc:geneProduct fbc:id="G_TM_1376" fbc:label="TM_1376" fbc:name="TM_1376" />
-      <fbc:geneProduct fbc:id="G_TM_1378" fbc:label="TM_1378" fbc:name="TM_1378" />
-      <fbc:geneProduct fbc:id="G_TM_1377" fbc:label="TM_1377" fbc:name="TM_1377" />
-      <fbc:geneProduct fbc:id="G_TM_1375" fbc:label="TM_1375" fbc:name="TM_1375" />
-      <fbc:geneProduct fbc:id="G_TM_0208" fbc:label="TM_0208" fbc:name="TM_0208" />
-      <fbc:geneProduct fbc:id="G_TM_1653" fbc:label="TM_1653" fbc:name="TM_1653" />
-      <fbc:geneProduct fbc:id="G_TM_1644" fbc:label="TM_1644" fbc:name="TM_1644" />
-      <fbc:geneProduct fbc:id="G_TM_1414" fbc:label="TM_1414" fbc:name="TM_1414" />
-      <fbc:geneProduct fbc:id="G_TM_1827" fbc:label="TM_1827" fbc:name="TM_1827" />
-      <fbc:geneProduct fbc:id="G_TM_1825" fbc:label="TM_1825" fbc:name="TM_1825" />
-      <fbc:geneProduct fbc:id="G_TM_0284" fbc:label="TM_0284" fbc:name="TM_0284" />
-      <fbc:geneProduct fbc:id="G_TM_0283" fbc:label="TM_0283" fbc:name="TM_0283" />
-      <fbc:geneProduct fbc:id="G_TM_0958" fbc:label="TM_0958" fbc:name="TM_0958" />
-      <fbc:geneProduct fbc:id="G_TM_0956" fbc:label="TM_0956" fbc:name="TM_0956" />
-      <fbc:geneProduct fbc:id="G_TM_0959" fbc:label="TM_0959" fbc:name="TM_0959" />
-      <fbc:geneProduct fbc:id="G_TM_0955" fbc:label="TM_0955" fbc:name="TM_0955" />
-      <fbc:geneProduct fbc:id="G_TM_1071" fbc:label="TM_1071" fbc:name="TM_1071" />
-      <fbc:geneProduct fbc:id="G_TM_1073" fbc:label="TM_1073" fbc:name="TM_1073" />
-      <fbc:geneProduct fbc:id="G_TM_1066" fbc:label="TM_1066" fbc:name="TM_1066" />
-      <fbc:geneProduct fbc:id="G_TM_1065" fbc:label="TM_1065" fbc:name="TM_1065" />
-      <fbc:geneProduct fbc:id="G_TM_1067" fbc:label="TM_1067" fbc:name="TM_1067" />
-      <fbc:geneProduct fbc:id="G_TM_1063" fbc:label="TM_1063" fbc:name="TM_1063" />
-      <fbc:geneProduct fbc:id="G_TM_1064" fbc:label="TM_1064" fbc:name="TM_1064" />
-      <fbc:geneProduct fbc:id="G_TM_1072" fbc:label="TM_1072" fbc:name="TM_1072" />
-      <fbc:geneProduct fbc:id="G_TM_0118" fbc:label="TM_0118" fbc:name="TM_0118" />
-      <fbc:geneProduct fbc:id="G_TM_0385" fbc:label="TM_0385" fbc:name="TM_0385" />
-      <fbc:geneProduct fbc:id="G_TM_1718" fbc:label="TM_1718" fbc:name="TM_1718" />
-      <fbc:geneProduct fbc:id="G_TM_1080" fbc:label="TM_1080" fbc:name="TM_1080" />
-      <fbc:geneProduct fbc:id="G_TM_0666" fbc:label="TM_0666" fbc:name="TM_0666" />
-      <fbc:geneProduct fbc:id="G_TM_0356" fbc:label="TM_0356" fbc:name="TM_0356" />
-      <fbc:geneProduct fbc:id="G_TM_1379" fbc:label="TM_1379" fbc:name="TM_1379" />
-      <fbc:geneProduct fbc:id="G_TM_0346" fbc:label="TM_0346" fbc:name="TM_0346" />
-      <fbc:geneProduct fbc:id="G_TM_0654" fbc:label="TM_0654" fbc:name="TM_0654" />
-      <fbc:geneProduct fbc:id="G_TM_0752" fbc:label="TM_0752" fbc:name="TM_0752" />
-      <fbc:geneProduct fbc:id="G_TM_1068" fbc:label="TM_1068" fbc:name="TM_1068" />
-      <fbc:geneProduct fbc:id="G_TM_0295" fbc:label="TM_0295" fbc:name="TM_0295" />
-      <fbc:geneProduct fbc:id="G_TM_1519" fbc:label="TM_1519" fbc:name="TM_1519" />
-      <fbc:geneProduct fbc:id="G_TM_1744" fbc:label="TM_1744" fbc:name="TM_1744" />
-      <fbc:geneProduct fbc:id="G_TM_0546" fbc:label="TM_0546" fbc:name="TM_0546" />
-      <fbc:geneProduct fbc:id="G_TM_0740" fbc:label="TM_0740" fbc:name="TM_0740" />
-      <fbc:geneProduct fbc:id="G_TM_1267" fbc:label="TM_1267" fbc:name="TM_1267" />
-      <fbc:geneProduct fbc:id="G_TM_0953" fbc:label="TM_0953" fbc:name="TM_0953" />
-      <fbc:geneProduct fbc:id="G_TM_0954" fbc:label="TM_0954" fbc:name="TM_0954" />
-      <fbc:geneProduct fbc:id="G_TM_1762" fbc:label="TM_1762" fbc:name="TM_1762" />
-      <fbc:geneProduct fbc:id="G_TM_0449" fbc:label="TM_0449" fbc:name="TM_0449" />
-      <fbc:geneProduct fbc:id="G_TM_0134" fbc:label="TM_0134" fbc:name="TM_0134" />
-      <fbc:geneProduct fbc:id="G_TM_0869" fbc:label="TM_0869" fbc:name="TM_0869" />
-      <fbc:geneProduct fbc:id="G_TM_0138" fbc:label="TM_0138" fbc:name="TM_0138" />
-      <fbc:geneProduct fbc:id="G_TM_0137" fbc:label="TM_0137" fbc:name="TM_0137" />
-      <fbc:geneProduct fbc:id="G_TM_0539" fbc:label="TM_0539" fbc:name="TM_0539" />
-      <fbc:geneProduct fbc:id="G_TM_0492" fbc:label="TM_0492" fbc:name="TM_0492" />
-      <fbc:geneProduct fbc:id="G_TM_0478" fbc:label="TM_0478" fbc:name="TM_0478" />
-      <fbc:geneProduct fbc:id="G_TM_0237" fbc:label="TM_0237" fbc:name="TM_0237" />
-      <fbc:geneProduct fbc:id="G_TM_0108" fbc:label="TM_0108" fbc:name="TM_0108" />
-      <fbc:geneProduct fbc:id="G_TM_0232" fbc:label="TM_0232" fbc:name="TM_0232" />
-      <fbc:geneProduct fbc:id="G_TM_0234" fbc:label="TM_0234" fbc:name="TM_0234" />
-      <fbc:geneProduct fbc:id="G_TM_0231" fbc:label="TM_0231" fbc:name="TM_0231" />
-      <fbc:geneProduct fbc:id="G_TM_1714" fbc:label="TM_1714" fbc:name="TM_1714" />
-      <fbc:geneProduct fbc:id="G_TM_1398" fbc:label="TM_1398" fbc:name="TM_1398" />
-      <fbc:geneProduct fbc:id="G_TM_0509" fbc:label="TM_0509" fbc:name="TM_0509" />
-      <fbc:geneProduct fbc:id="G_TM_0583" fbc:label="TM_0583" fbc:name="TM_0583" />
-      <fbc:geneProduct fbc:id="G_TM_0236" fbc:label="TM_0236" fbc:name="TM_0236" />
-      <fbc:geneProduct fbc:id="G_TM_0721" fbc:label="TM_0721" fbc:name="TM_0721" />
-      <fbc:geneProduct fbc:id="G_TM_0819" fbc:label="TM_0819" fbc:name="TM_0819" />
-      <fbc:geneProduct fbc:id="G_TM_1817" fbc:label="TM_1817" fbc:name="TM_1817" />
-      <fbc:geneProduct fbc:id="G_TM_0061" fbc:label="TM_0061" fbc:name="TM_0061" />
-      <fbc:geneProduct fbc:id="G_TM_0070" fbc:label="TM_0070" fbc:name="TM_0070" />
-      <fbc:geneProduct fbc:id="G_TM_0075" fbc:label="TM_0075" fbc:name="TM_0075" />
-      <fbc:geneProduct fbc:id="G_TM_0073" fbc:label="TM_0073" fbc:name="TM_0073" />
-      <fbc:geneProduct fbc:id="G_TM_0071" fbc:label="TM_0071" fbc:name="TM_0071" />
-      <fbc:geneProduct fbc:id="G_TM_0074" fbc:label="TM_0074" fbc:name="TM_0074" />
-      <fbc:geneProduct fbc:id="G_TM_0072" fbc:label="TM_0072" fbc:name="TM_0072" />
+      <fbc:geneProduct fbc:id="G_TM_0039" fbc:label="TM_0039" fbc:name="TM_0039" />
+      <fbc:geneProduct fbc:id="G_TM_0040" fbc:label="TM_0040" fbc:name="TM_0040" />
+      <fbc:geneProduct fbc:id="G_TM_0041" fbc:label="TM_0041" fbc:name="TM_0041" />
+      <fbc:geneProduct fbc:id="G_TM_0055" fbc:label="TM_0055" fbc:name="TM_0055" />
       <fbc:geneProduct fbc:id="G_TM_0056" fbc:label="TM_0056" fbc:name="TM_0056" />
       <fbc:geneProduct fbc:id="G_TM_0057" fbc:label="TM_0057" fbc:name="TM_0057" />
-      <fbc:geneProduct fbc:id="G_TM_0059" fbc:label="TM_0059" fbc:name="TM_0059" />
       <fbc:geneProduct fbc:id="G_TM_0058" fbc:label="TM_0058" fbc:name="TM_0058" />
+      <fbc:geneProduct fbc:id="G_TM_0059" fbc:label="TM_0059" fbc:name="TM_0059" />
       <fbc:geneProduct fbc:id="G_TM_0060" fbc:label="TM_0060" fbc:name="TM_0060" />
-      <fbc:geneProduct fbc:id="G_TM_1667" fbc:label="TM_1667" fbc:name="TM_1667" />
-      <fbc:geneProduct fbc:id="G_TM_0116" fbc:label="TM_0116" fbc:name="TM_0116" />
+      <fbc:geneProduct fbc:id="G_TM_0061" fbc:label="TM_0061" fbc:name="TM_0061" />
+      <fbc:geneProduct fbc:id="G_TM_0064" fbc:label="TM_0064" fbc:name="TM_0064" />
+      <fbc:geneProduct fbc:id="G_TM_0066" fbc:label="TM_0066" fbc:name="TM_0066" />
+      <fbc:geneProduct fbc:id="G_TM_0067" fbc:label="TM_0067" fbc:name="TM_0067" />
+      <fbc:geneProduct fbc:id="G_TM_0068" fbc:label="TM_0068" fbc:name="TM_0068" />
+      <fbc:geneProduct fbc:id="G_TM_0069" fbc:label="TM_0069" fbc:name="TM_0069" />
+      <fbc:geneProduct fbc:id="G_TM_0070" fbc:label="TM_0070" fbc:name="TM_0070" />
+      <fbc:geneProduct fbc:id="G_TM_0071" fbc:label="TM_0071" fbc:name="TM_0071" />
+      <fbc:geneProduct fbc:id="G_TM_0072" fbc:label="TM_0072" fbc:name="TM_0072" />
+      <fbc:geneProduct fbc:id="G_TM_0073" fbc:label="TM_0073" fbc:name="TM_0073" />
+      <fbc:geneProduct fbc:id="G_TM_0074" fbc:label="TM_0074" fbc:name="TM_0074" />
+      <fbc:geneProduct fbc:id="G_TM_0075" fbc:label="TM_0075" fbc:name="TM_0075" />
+      <fbc:geneProduct fbc:id="G_TM_0076" fbc:label="TM_0076" fbc:name="TM_0076" />
+      <fbc:geneProduct fbc:id="G_TM_0078" fbc:label="TM_0078" fbc:name="TM_0078" />
+      <fbc:geneProduct fbc:id="G_TM_0079" fbc:label="TM_0079" fbc:name="TM_0079" />
+      <fbc:geneProduct fbc:id="G_TM_0080" fbc:label="TM_0080" fbc:name="TM_0080" />
+      <fbc:geneProduct fbc:id="G_TM_0097" fbc:label="TM_0097" fbc:name="TM_0097" />
+      <fbc:geneProduct fbc:id="G_TM_0108" fbc:label="TM_0108" fbc:name="TM_0108" />
+      <fbc:geneProduct fbc:id="G_TM_0111" fbc:label="TM_0111" fbc:name="TM_0111" />
       <fbc:geneProduct fbc:id="G_TM_0112" fbc:label="TM_0112" fbc:name="TM_0112" />
       <fbc:geneProduct fbc:id="G_TM_0114" fbc:label="TM_0114" fbc:name="TM_0114" />
       <fbc:geneProduct fbc:id="G_TM_0115" fbc:label="TM_0115" fbc:name="TM_0115" />
-      <fbc:geneProduct fbc:id="G_TM_0124" fbc:label="TM_0124" fbc:name="TM_0124" />
+      <fbc:geneProduct fbc:id="G_TM_0116" fbc:label="TM_0116" fbc:name="TM_0116" />
+      <fbc:geneProduct fbc:id="G_TM_0118" fbc:label="TM_0118" fbc:name="TM_0118" />
       <fbc:geneProduct fbc:id="G_TM_0123" fbc:label="TM_0123" fbc:name="TM_0123" />
+      <fbc:geneProduct fbc:id="G_TM_0124" fbc:label="TM_0124" fbc:name="TM_0124" />
       <fbc:geneProduct fbc:id="G_TM_0125" fbc:label="TM_0125" fbc:name="TM_0125" />
+      <fbc:geneProduct fbc:id="G_TM_0128" fbc:label="TM_0128" fbc:name="TM_0128" />
+      <fbc:geneProduct fbc:id="G_TM_0134" fbc:label="TM_0134" fbc:name="TM_0134" />
+      <fbc:geneProduct fbc:id="G_TM_0137" fbc:label="TM_0137" fbc:name="TM_0137" />
+      <fbc:geneProduct fbc:id="G_TM_0138" fbc:label="TM_0138" fbc:name="TM_0138" />
+      <fbc:geneProduct fbc:id="G_TM_0139" fbc:label="TM_0139" fbc:name="TM_0139" />
+      <fbc:geneProduct fbc:id="G_TM_0140" fbc:label="TM_0140" fbc:name="TM_0140" />
+      <fbc:geneProduct fbc:id="G_TM_0141" fbc:label="TM_0141" fbc:name="TM_0141" />
+      <fbc:geneProduct fbc:id="G_TM_0142" fbc:label="TM_0142" fbc:name="TM_0142" />
+      <fbc:geneProduct fbc:id="G_TM_0148" fbc:label="TM_0148" fbc:name="TM_0148" />
+      <fbc:geneProduct fbc:id="G_TM_0155" fbc:label="TM_0155" fbc:name="TM_0155" />
+      <fbc:geneProduct fbc:id="G_TM_0156" fbc:label="TM_0156" fbc:name="TM_0156" />
+      <fbc:geneProduct fbc:id="G_TM_0161" fbc:label="TM_0161" fbc:name="TM_0161" />
+      <fbc:geneProduct fbc:id="G_TM_0166" fbc:label="TM_0166" fbc:name="TM_0166" />
+      <fbc:geneProduct fbc:id="G_TM_0167" fbc:label="TM_0167" fbc:name="TM_0167" />
+      <fbc:geneProduct fbc:id="G_TM_0168" fbc:label="TM_0168" fbc:name="TM_0168" />
+      <fbc:geneProduct fbc:id="G_TM_0172" fbc:label="TM_0172" fbc:name="TM_0172" />
+      <fbc:geneProduct fbc:id="G_TM_0174" fbc:label="TM_0174" fbc:name="TM_0174" />
+      <fbc:geneProduct fbc:id="G_TM_0184" fbc:label="TM_0184" fbc:name="TM_0184" />
+      <fbc:geneProduct fbc:id="G_TM_0189" fbc:label="TM_0189" fbc:name="TM_0189" />
+      <fbc:geneProduct fbc:id="G_TM_0190" fbc:label="TM_0190" fbc:name="TM_0190" />
+      <fbc:geneProduct fbc:id="G_TM_0191" fbc:label="TM_0191" fbc:name="TM_0191" />
+      <fbc:geneProduct fbc:id="G_TM_0201" fbc:label="TM_0201" fbc:name="TM_0201" />
+      <fbc:geneProduct fbc:id="G_TM_0202" fbc:label="TM_0202" fbc:name="TM_0202" />
+      <fbc:geneProduct fbc:id="G_TM_0203" fbc:label="TM_0203" fbc:name="TM_0203" />
+      <fbc:geneProduct fbc:id="G_TM_0204" fbc:label="TM_0204" fbc:name="TM_0204" />
+      <fbc:geneProduct fbc:id="G_TM_0206" fbc:label="TM_0206" fbc:name="TM_0206" />
+      <fbc:geneProduct fbc:id="G_TM_0208" fbc:label="TM_0208" fbc:name="TM_0208" />
+      <fbc:geneProduct fbc:id="G_TM_0209" fbc:label="TM_0209" fbc:name="TM_0209" />
+      <fbc:geneProduct fbc:id="G_TM_0211" fbc:label="TM_0211" fbc:name="TM_0211" />
+      <fbc:geneProduct fbc:id="G_TM_0216" fbc:label="TM_0216" fbc:name="TM_0216" />
+      <fbc:geneProduct fbc:id="G_TM_0217" fbc:label="TM_0217" fbc:name="TM_0217" />
+      <fbc:geneProduct fbc:id="G_TM_0224" fbc:label="TM_0224" fbc:name="TM_0224" />
+      <fbc:geneProduct fbc:id="G_TM_0228" fbc:label="TM_0228" fbc:name="TM_0228" />
+      <fbc:geneProduct fbc:id="G_TM_0231" fbc:label="TM_0231" fbc:name="TM_0231" />
+      <fbc:geneProduct fbc:id="G_TM_0232" fbc:label="TM_0232" fbc:name="TM_0232" />
+      <fbc:geneProduct fbc:id="G_TM_0234" fbc:label="TM_0234" fbc:name="TM_0234" />
+      <fbc:geneProduct fbc:id="G_TM_0235" fbc:label="TM_0235" fbc:name="TM_0235" />
+      <fbc:geneProduct fbc:id="G_TM_0236" fbc:label="TM_0236" fbc:name="TM_0236" />
+      <fbc:geneProduct fbc:id="G_TM_0237" fbc:label="TM_0237" fbc:name="TM_0237" />
+      <fbc:geneProduct fbc:id="G_TM_0239" fbc:label="TM_0239" fbc:name="TM_0239" />
+      <fbc:geneProduct fbc:id="G_TM_0240" fbc:label="TM_0240" fbc:name="TM_0240" />
+      <fbc:geneProduct fbc:id="G_TM_0252" fbc:label="TM_0252" fbc:name="TM_0252" />
+      <fbc:geneProduct fbc:id="G_TM_0259" fbc:label="TM_0259" fbc:name="TM_0259" />
+      <fbc:geneProduct fbc:id="G_TM_0261" fbc:label="TM_0261" fbc:name="TM_0261" />
+      <fbc:geneProduct fbc:id="G_TM_0268" fbc:label="TM_0268" fbc:name="TM_0268" />
+      <fbc:geneProduct fbc:id="G_TM_0269" fbc:label="TM_0269" fbc:name="TM_0269" />
+      <fbc:geneProduct fbc:id="G_TM_0270" fbc:label="TM_0270" fbc:name="TM_0270" />
+      <fbc:geneProduct fbc:id="G_TM_0272" fbc:label="TM_0272" fbc:name="TM_0272" />
+      <fbc:geneProduct fbc:id="G_TM_0273" fbc:label="TM_0273" fbc:name="TM_0273" />
+      <fbc:geneProduct fbc:id="G_TM_0274" fbc:label="TM_0274" fbc:name="TM_0274" />
+      <fbc:geneProduct fbc:id="G_TM_0276" fbc:label="TM_0276" fbc:name="TM_0276" />
+      <fbc:geneProduct fbc:id="G_TM_0282" fbc:label="TM_0282" fbc:name="TM_0282" />
+      <fbc:geneProduct fbc:id="G_TM_0283" fbc:label="TM_0283" fbc:name="TM_0283" />
+      <fbc:geneProduct fbc:id="G_TM_0284" fbc:label="TM_0284" fbc:name="TM_0284" />
+      <fbc:geneProduct fbc:id="G_TM_0289" fbc:label="TM_0289" fbc:name="TM_0289" />
+      <fbc:geneProduct fbc:id="G_TM_0290" fbc:label="TM_0290" fbc:name="TM_0290" />
+      <fbc:geneProduct fbc:id="G_TM_0291" fbc:label="TM_0291" fbc:name="TM_0291" />
+      <fbc:geneProduct fbc:id="G_TM_0292" fbc:label="TM_0292" fbc:name="TM_0292" />
+      <fbc:geneProduct fbc:id="G_TM_0293" fbc:label="TM_0293" fbc:name="TM_0293" />
+      <fbc:geneProduct fbc:id="G_TM_0294" fbc:label="TM_0294" fbc:name="TM_0294" />
+      <fbc:geneProduct fbc:id="G_TM_0295" fbc:label="TM_0295" fbc:name="TM_0295" />
+      <fbc:geneProduct fbc:id="G_TM_0296" fbc:label="TM_0296" fbc:name="TM_0296" />
+      <fbc:geneProduct fbc:id="G_TM_0298" fbc:label="TM_0298" fbc:name="TM_0298" />
+      <fbc:geneProduct fbc:id="G_TM_0300" fbc:label="TM_0300" fbc:name="TM_0300" />
+      <fbc:geneProduct fbc:id="G_TM_0301" fbc:label="TM_0301" fbc:name="TM_0301" />
+      <fbc:geneProduct fbc:id="G_TM_0302" fbc:label="TM_0302" fbc:name="TM_0302" />
+      <fbc:geneProduct fbc:id="G_TM_0303" fbc:label="TM_0303" fbc:name="TM_0303" />
+      <fbc:geneProduct fbc:id="G_TM_0304" fbc:label="TM_0304" fbc:name="TM_0304" />
+      <fbc:geneProduct fbc:id="G_TM_0305" fbc:label="TM_0305" fbc:name="TM_0305" />
+      <fbc:geneProduct fbc:id="G_TM_0306" fbc:label="TM_0306" fbc:name="TM_0306" />
+      <fbc:geneProduct fbc:id="G_TM_0307" fbc:label="TM_0307" fbc:name="TM_0307" />
+      <fbc:geneProduct fbc:id="G_TM_0317" fbc:label="TM_0317" fbc:name="TM_0317" />
+      <fbc:geneProduct fbc:id="G_TM_0327" fbc:label="TM_0327" fbc:name="TM_0327" />
+      <fbc:geneProduct fbc:id="G_TM_0331" fbc:label="TM_0331" fbc:name="TM_0331" />
+      <fbc:geneProduct fbc:id="G_TM_0332" fbc:label="TM_0332" fbc:name="TM_0332" />
+      <fbc:geneProduct fbc:id="G_TM_0333" fbc:label="TM_0333" fbc:name="TM_0333" />
+      <fbc:geneProduct fbc:id="G_TM_0334" fbc:label="TM_0334" fbc:name="TM_0334" />
+      <fbc:geneProduct fbc:id="G_TM_0335" fbc:label="TM_0335" fbc:name="TM_0335" />
+      <fbc:geneProduct fbc:id="G_TM_0343" fbc:label="TM_0343" fbc:name="TM_0343" />
+      <fbc:geneProduct fbc:id="G_TM_0344" fbc:label="TM_0344" fbc:name="TM_0344" />
+      <fbc:geneProduct fbc:id="G_TM_0345" fbc:label="TM_0345" fbc:name="TM_0345" />
+      <fbc:geneProduct fbc:id="G_TM_0346" fbc:label="TM_0346" fbc:name="TM_0346" />
+      <fbc:geneProduct fbc:id="G_TM_0347" fbc:label="TM_0347" fbc:name="TM_0347" />
+      <fbc:geneProduct fbc:id="G_TM_0348" fbc:label="TM_0348" fbc:name="TM_0348" />
+      <fbc:geneProduct fbc:id="G_TM_0349" fbc:label="TM_0349" fbc:name="TM_0349" />
+      <fbc:geneProduct fbc:id="G_TM_0356" fbc:label="TM_0356" fbc:name="TM_0356" />
+      <fbc:geneProduct fbc:id="G_TM_0378" fbc:label="TM_0378" fbc:name="TM_0378" />
+      <fbc:geneProduct fbc:id="G_TM_0385" fbc:label="TM_0385" fbc:name="TM_0385" />
+      <fbc:geneProduct fbc:id="G_TM_0397" fbc:label="TM_0397" fbc:name="TM_0397" />
+      <fbc:geneProduct fbc:id="G_TM_0401" fbc:label="TM_0401" fbc:name="TM_0401" />
+      <fbc:geneProduct fbc:id="G_TM_0402" fbc:label="TM_0402" fbc:name="TM_0402" />
+      <fbc:geneProduct fbc:id="G_TM_0404" fbc:label="TM_0404" fbc:name="TM_0404" />
+      <fbc:geneProduct fbc:id="G_TM_0405" fbc:label="TM_0405" fbc:name="TM_0405" />
+      <fbc:geneProduct fbc:id="G_TM_0406" fbc:label="TM_0406" fbc:name="TM_0406" />
+      <fbc:geneProduct fbc:id="G_TM_0412" fbc:label="TM_0412" fbc:name="TM_0412" />
+      <fbc:geneProduct fbc:id="G_TM_0413" fbc:label="TM_0413" fbc:name="TM_0413" />
+      <fbc:geneProduct fbc:id="G_TM_0418" fbc:label="TM_0418" fbc:name="TM_0418" />
+      <fbc:geneProduct fbc:id="G_TM_0419" fbc:label="TM_0419" fbc:name="TM_0419" />
+      <fbc:geneProduct fbc:id="G_TM_0420" fbc:label="TM_0420" fbc:name="TM_0420" />
+      <fbc:geneProduct fbc:id="G_TM_0421" fbc:label="TM_0421" fbc:name="TM_0421" />
+      <fbc:geneProduct fbc:id="G_TM_0423" fbc:label="TM_0423" fbc:name="TM_0423" />
+      <fbc:geneProduct fbc:id="G_TM_0427" fbc:label="TM_0427" fbc:name="TM_0427" />
+      <fbc:geneProduct fbc:id="G_TM_0428" fbc:label="TM_0428" fbc:name="TM_0428" />
+      <fbc:geneProduct fbc:id="G_TM_0434" fbc:label="TM_0434" fbc:name="TM_0434" />
+      <fbc:geneProduct fbc:id="G_TM_0438" fbc:label="TM_0438" fbc:name="TM_0438" />
+      <fbc:geneProduct fbc:id="G_TM_0443" fbc:label="TM_0443" fbc:name="TM_0443" />
+      <fbc:geneProduct fbc:id="G_TM_0444" fbc:label="TM_0444" fbc:name="TM_0444" />
+      <fbc:geneProduct fbc:id="G_TM_0446" fbc:label="TM_0446" fbc:name="TM_0446" />
+      <fbc:geneProduct fbc:id="G_TM_0447" fbc:label="TM_0447" fbc:name="TM_0447" />
+      <fbc:geneProduct fbc:id="G_TM_0449" fbc:label="TM_0449" fbc:name="TM_0449" />
+      <fbc:geneProduct fbc:id="G_TM_0472" fbc:label="TM_0472" fbc:name="TM_0472" />
+      <fbc:geneProduct fbc:id="G_TM_0473" fbc:label="TM_0473" fbc:name="TM_0473" />
+      <fbc:geneProduct fbc:id="G_TM_0475" fbc:label="TM_0475" fbc:name="TM_0475" />
+      <fbc:geneProduct fbc:id="G_TM_0478" fbc:label="TM_0478" fbc:name="TM_0478" />
+      <fbc:geneProduct fbc:id="G_TM_0492" fbc:label="TM_0492" fbc:name="TM_0492" />
+      <fbc:geneProduct fbc:id="G_TM_0509" fbc:label="TM_0509" fbc:name="TM_0509" />
+      <fbc:geneProduct fbc:id="G_TM_0514" fbc:label="TM_0514" fbc:name="TM_0514" />
+      <fbc:geneProduct fbc:id="G_TM_0528" fbc:label="TM_0528" fbc:name="TM_0528" />
+      <fbc:geneProduct fbc:id="G_TM_0539" fbc:label="TM_0539" fbc:name="TM_0539" />
+      <fbc:geneProduct fbc:id="G_TM_0540" fbc:label="TM_0540" fbc:name="TM_0540" />
+      <fbc:geneProduct fbc:id="G_TM_0541" fbc:label="TM_0541" fbc:name="TM_0541" />
+      <fbc:geneProduct fbc:id="G_TM_0542" fbc:label="TM_0542" fbc:name="TM_0542" />
+      <fbc:geneProduct fbc:id="G_TM_0545" fbc:label="TM_0545" fbc:name="TM_0545" />
+      <fbc:geneProduct fbc:id="G_TM_0546" fbc:label="TM_0546" fbc:name="TM_0546" />
+      <fbc:geneProduct fbc:id="G_TM_0547" fbc:label="TM_0547" fbc:name="TM_0547" />
+      <fbc:geneProduct fbc:id="G_TM_0548" fbc:label="TM_0548" fbc:name="TM_0548" />
+      <fbc:geneProduct fbc:id="G_TM_0549" fbc:label="TM_0549" fbc:name="TM_0549" />
+      <fbc:geneProduct fbc:id="G_TM_0550" fbc:label="TM_0550" fbc:name="TM_0550" />
+      <fbc:geneProduct fbc:id="G_TM_0551" fbc:label="TM_0551" fbc:name="TM_0551" />
+      <fbc:geneProduct fbc:id="G_TM_0552" fbc:label="TM_0552" fbc:name="TM_0552" />
+      <fbc:geneProduct fbc:id="G_TM_0553" fbc:label="TM_0553" fbc:name="TM_0553" />
+      <fbc:geneProduct fbc:id="G_TM_0554" fbc:label="TM_0554" fbc:name="TM_0554" />
+      <fbc:geneProduct fbc:id="G_TM_0555" fbc:label="TM_0555" fbc:name="TM_0555" />
+      <fbc:geneProduct fbc:id="G_TM_0556" fbc:label="TM_0556" fbc:name="TM_0556" />
+      <fbc:geneProduct fbc:id="G_TM_0557" fbc:label="TM_0557" fbc:name="TM_0557" />
+      <fbc:geneProduct fbc:id="G_TM_0558" fbc:label="TM_0558" fbc:name="TM_0558" />
+      <fbc:geneProduct fbc:id="G_TM_0561" fbc:label="TM_0561" fbc:name="TM_0561" />
+      <fbc:geneProduct fbc:id="G_TM_0578" fbc:label="TM_0578" fbc:name="TM_0578" />
+      <fbc:geneProduct fbc:id="G_TM_0583" fbc:label="TM_0583" fbc:name="TM_0583" />
+      <fbc:geneProduct fbc:id="G_TM_0587" fbc:label="TM_0587" fbc:name="TM_0587" />
+      <fbc:geneProduct fbc:id="G_TM_0645" fbc:label="TM_0645" fbc:name="TM_0645" />
+      <fbc:geneProduct fbc:id="G_TM_0647" fbc:label="TM_0647" fbc:name="TM_0647" />
+      <fbc:geneProduct fbc:id="G_TM_0654" fbc:label="TM_0654" fbc:name="TM_0654" />
+      <fbc:geneProduct fbc:id="G_TM_0655" fbc:label="TM_0655" fbc:name="TM_0655" />
+      <fbc:geneProduct fbc:id="G_TM_0665" fbc:label="TM_0665" fbc:name="TM_0665" />
+      <fbc:geneProduct fbc:id="G_TM_0666" fbc:label="TM_0666" fbc:name="TM_0666" />
+      <fbc:geneProduct fbc:id="G_TM_0688" fbc:label="TM_0688" fbc:name="TM_0688" />
+      <fbc:geneProduct fbc:id="G_TM_0689" fbc:label="TM_0689" fbc:name="TM_0689" />
+      <fbc:geneProduct fbc:id="G_TM_0692" fbc:label="TM_0692" fbc:name="TM_0692" />
+      <fbc:geneProduct fbc:id="G_TM_0716" fbc:label="TM_0716" fbc:name="TM_0716" />
+      <fbc:geneProduct fbc:id="G_TM_0717" fbc:label="TM_0717" fbc:name="TM_0717" />
+      <fbc:geneProduct fbc:id="G_TM_0719" fbc:label="TM_0719" fbc:name="TM_0719" />
+      <fbc:geneProduct fbc:id="G_TM_0720" fbc:label="TM_0720" fbc:name="TM_0720" />
+      <fbc:geneProduct fbc:id="G_TM_0721" fbc:label="TM_0721" fbc:name="TM_0721" />
+      <fbc:geneProduct fbc:id="G_TM_0736" fbc:label="TM_0736" fbc:name="TM_0736" />
+      <fbc:geneProduct fbc:id="G_TM_0740" fbc:label="TM_0740" fbc:name="TM_0740" />
+      <fbc:geneProduct fbc:id="G_TM_0741" fbc:label="TM_0741" fbc:name="TM_0741" />
+      <fbc:geneProduct fbc:id="G_TM_0751" fbc:label="TM_0751" fbc:name="TM_0751" />
+      <fbc:geneProduct fbc:id="G_TM_0752" fbc:label="TM_0752" fbc:name="TM_0752" />
+      <fbc:geneProduct fbc:id="G_TM_0788" fbc:label="TM_0788" fbc:name="TM_0788" />
+      <fbc:geneProduct fbc:id="G_TM_0790" fbc:label="TM_0790" fbc:name="TM_0790" />
+      <fbc:geneProduct fbc:id="G_TM_0798" fbc:label="TM_0798" fbc:name="TM_0798" />
+      <fbc:geneProduct fbc:id="G_TM_0800" fbc:label="TM_0800" fbc:name="TM_0800" />
+      <fbc:geneProduct fbc:id="G_TM_0801" fbc:label="TM_0801" fbc:name="TM_0801" />
+      <fbc:geneProduct fbc:id="G_TM_0802" fbc:label="TM_0802" fbc:name="TM_0802" />
+      <fbc:geneProduct fbc:id="G_TM_0803" fbc:label="TM_0803" fbc:name="TM_0803" />
+      <fbc:geneProduct fbc:id="G_TM_0804" fbc:label="TM_0804" fbc:name="TM_0804" />
+      <fbc:geneProduct fbc:id="G_TM_0809" fbc:label="TM_0809" fbc:name="TM_0809" />
+      <fbc:geneProduct fbc:id="G_TM_0813" fbc:label="TM_0813" fbc:name="TM_0813" />
+      <fbc:geneProduct fbc:id="G_TM_0814" fbc:label="TM_0814" fbc:name="TM_0814" />
+      <fbc:geneProduct fbc:id="G_TM_0819" fbc:label="TM_0819" fbc:name="TM_0819" />
+      <fbc:geneProduct fbc:id="G_TM_0821" fbc:label="TM_0821" fbc:name="TM_0821" />
+      <fbc:geneProduct fbc:id="G_TM_0822" fbc:label="TM_0822" fbc:name="TM_0822" />
+      <fbc:geneProduct fbc:id="G_TM_0828" fbc:label="TM_0828" fbc:name="TM_0828" />
+      <fbc:geneProduct fbc:id="G_TM_0831" fbc:label="TM_0831" fbc:name="TM_0831" />
+      <fbc:geneProduct fbc:id="G_TM_0843" fbc:label="TM_0843" fbc:name="TM_0843" />
+      <fbc:geneProduct fbc:id="G_TM_0846" fbc:label="TM_0846" fbc:name="TM_0846" />
+      <fbc:geneProduct fbc:id="G_TM_0857" fbc:label="TM_0857" fbc:name="TM_0857" />
+      <fbc:geneProduct fbc:id="G_TM_0862" fbc:label="TM_0862" fbc:name="TM_0862" />
+      <fbc:geneProduct fbc:id="G_TM_0869" fbc:label="TM_0869" fbc:name="TM_0869" />
+      <fbc:geneProduct fbc:id="G_TM_0877" fbc:label="TM_0877" fbc:name="TM_0877" />
+      <fbc:geneProduct fbc:id="G_TM_0880" fbc:label="TM_0880" fbc:name="TM_0880" />
+      <fbc:geneProduct fbc:id="G_TM_0881" fbc:label="TM_0881" fbc:name="TM_0881" />
+      <fbc:geneProduct fbc:id="G_TM_0882" fbc:label="TM_0882" fbc:name="TM_0882" />
+      <fbc:geneProduct fbc:id="G_TM_0883" fbc:label="TM_0883" fbc:name="TM_0883" />
+      <fbc:geneProduct fbc:id="G_TM_0889" fbc:label="TM_0889" fbc:name="TM_0889" />
+      <fbc:geneProduct fbc:id="G_TM_0891" fbc:label="TM_0891" fbc:name="TM_0891" />
+      <fbc:geneProduct fbc:id="G_TM_0895" fbc:label="TM_0895" fbc:name="TM_0895" />
+      <fbc:geneProduct fbc:id="G_TM_0896" fbc:label="TM_0896" fbc:name="TM_0896" />
+      <fbc:geneProduct fbc:id="G_TM_0911" fbc:label="TM_0911" fbc:name="TM_0911" />
+      <fbc:geneProduct fbc:id="G_TM_0913" fbc:label="TM_0913" fbc:name="TM_0913" />
+      <fbc:geneProduct fbc:id="G_TM_0917" fbc:label="TM_0917" fbc:name="TM_0917" />
+      <fbc:geneProduct fbc:id="G_TM_0920" fbc:label="TM_0920" fbc:name="TM_0920" />
+      <fbc:geneProduct fbc:id="G_TM_0939" fbc:label="TM_0939" fbc:name="TM_0939" />
+      <fbc:geneProduct fbc:id="G_TM_0943" fbc:label="TM_0943" fbc:name="TM_0943" />
+      <fbc:geneProduct fbc:id="G_TM_0952" fbc:label="TM_0952" fbc:name="TM_0952" />
+      <fbc:geneProduct fbc:id="G_TM_0953" fbc:label="TM_0953" fbc:name="TM_0953" />
+      <fbc:geneProduct fbc:id="G_TM_0954" fbc:label="TM_0954" fbc:name="TM_0954" />
+      <fbc:geneProduct fbc:id="G_TM_0955" fbc:label="TM_0955" fbc:name="TM_0955" />
+      <fbc:geneProduct fbc:id="G_TM_0956" fbc:label="TM_0956" fbc:name="TM_0956" />
+      <fbc:geneProduct fbc:id="G_TM_0958" fbc:label="TM_0958" fbc:name="TM_0958" />
+      <fbc:geneProduct fbc:id="G_TM_0959" fbc:label="TM_0959" fbc:name="TM_0959" />
+      <fbc:geneProduct fbc:id="G_TM_0960" fbc:label="TM_0960" fbc:name="TM_0960" />
+      <fbc:geneProduct fbc:id="G_TM_1015" fbc:label="TM_1015" fbc:name="TM_1015" />
+      <fbc:geneProduct fbc:id="G_TM_1035" fbc:label="TM_1035" fbc:name="TM_1035" />
+      <fbc:geneProduct fbc:id="G_TM_1036" fbc:label="TM_1036" fbc:name="TM_1036" />
+      <fbc:geneProduct fbc:id="G_TM_1037" fbc:label="TM_1037" fbc:name="TM_1037" />
+      <fbc:geneProduct fbc:id="G_TM_1038" fbc:label="TM_1038" fbc:name="TM_1038" />
+      <fbc:geneProduct fbc:id="G_TM_1039" fbc:label="TM_1039" fbc:name="TM_1039" />
+      <fbc:geneProduct fbc:id="G_TM_1040" fbc:label="TM_1040" fbc:name="TM_1040" />
+      <fbc:geneProduct fbc:id="G_TM_1041" fbc:label="TM_1041" fbc:name="TM_1041" />
+      <fbc:geneProduct fbc:id="G_TM_1042" fbc:label="TM_1042" fbc:name="TM_1042" />
+      <fbc:geneProduct fbc:id="G_TM_1043" fbc:label="TM_1043" fbc:name="TM_1043" />
+      <fbc:geneProduct fbc:id="G_TM_1062" fbc:label="TM_1062" fbc:name="TM_1062" />
+      <fbc:geneProduct fbc:id="G_TM_1063" fbc:label="TM_1063" fbc:name="TM_1063" />
+      <fbc:geneProduct fbc:id="G_TM_1064" fbc:label="TM_1064" fbc:name="TM_1064" />
+      <fbc:geneProduct fbc:id="G_TM_1065" fbc:label="TM_1065" fbc:name="TM_1065" />
+      <fbc:geneProduct fbc:id="G_TM_1066" fbc:label="TM_1066" fbc:name="TM_1066" />
+      <fbc:geneProduct fbc:id="G_TM_1067" fbc:label="TM_1067" fbc:name="TM_1067" />
+      <fbc:geneProduct fbc:id="G_TM_1068" fbc:label="TM_1068" fbc:name="TM_1068" />
+      <fbc:geneProduct fbc:id="G_TM_1071" fbc:label="TM_1071" fbc:name="TM_1071" />
+      <fbc:geneProduct fbc:id="G_TM_1072" fbc:label="TM_1072" fbc:name="TM_1072" />
+      <fbc:geneProduct fbc:id="G_TM_1073" fbc:label="TM_1073" fbc:name="TM_1073" />
+      <fbc:geneProduct fbc:id="G_TM_1077" fbc:label="TM_1077" fbc:name="TM_1077" />
+      <fbc:geneProduct fbc:id="G_TM_1080" fbc:label="TM_1080" fbc:name="TM_1080" />
+      <fbc:geneProduct fbc:id="G_TM_1085" fbc:label="TM_1085" fbc:name="TM_1085" />
+      <fbc:geneProduct fbc:id="G_TM_1088" fbc:label="TM_1088" fbc:name="TM_1088" />
+      <fbc:geneProduct fbc:id="G_TM_1089" fbc:label="TM_1089" fbc:name="TM_1089" />
+      <fbc:geneProduct fbc:id="G_TM_1090" fbc:label="TM_1090" fbc:name="TM_1090" />
+      <fbc:geneProduct fbc:id="G_TM_1093" fbc:label="TM_1093" fbc:name="TM_1093" />
+      <fbc:geneProduct fbc:id="G_TM_1095" fbc:label="TM_1095" fbc:name="TM_1095" />
+      <fbc:geneProduct fbc:id="G_TM_1096" fbc:label="TM_1096" fbc:name="TM_1096" />
+      <fbc:geneProduct fbc:id="G_TM_1097" fbc:label="TM_1097" fbc:name="TM_1097" />
+      <fbc:geneProduct fbc:id="G_TM_1099" fbc:label="TM_1099" fbc:name="TM_1099" />
+      <fbc:geneProduct fbc:id="G_TM_1105" fbc:label="TM_1105" fbc:name="TM_1105" />
+      <fbc:geneProduct fbc:id="G_TM_1120" fbc:label="TM_1120" fbc:name="TM_1120" />
+      <fbc:geneProduct fbc:id="G_TM_1121" fbc:label="TM_1121" fbc:name="TM_1121" />
+      <fbc:geneProduct fbc:id="G_TM_1122" fbc:label="TM_1122" fbc:name="TM_1122" />
+      <fbc:geneProduct fbc:id="G_TM_1129" fbc:label="TM_1129" fbc:name="TM_1129" />
+      <fbc:geneProduct fbc:id="G_TM_1130" fbc:label="TM_1130" fbc:name="TM_1130" />
+      <fbc:geneProduct fbc:id="G_TM_1135" fbc:label="TM_1135" fbc:name="TM_1135" />
+      <fbc:geneProduct fbc:id="G_TM_1136" fbc:label="TM_1136" fbc:name="TM_1136" />
+      <fbc:geneProduct fbc:id="G_TM_1137" fbc:label="TM_1137" fbc:name="TM_1137" />
+      <fbc:geneProduct fbc:id="G_TM_1138" fbc:label="TM_1138" fbc:name="TM_1138" />
+      <fbc:geneProduct fbc:id="G_TM_1139" fbc:label="TM_1139" fbc:name="TM_1139" />
+      <fbc:geneProduct fbc:id="G_TM_1148" fbc:label="TM_1148" fbc:name="TM_1148" />
+      <fbc:geneProduct fbc:id="G_TM_1154" fbc:label="TM_1154" fbc:name="TM_1154" />
+      <fbc:geneProduct fbc:id="G_TM_1155" fbc:label="TM_1155" fbc:name="TM_1155" />
+      <fbc:geneProduct fbc:id="G_TM_1161" fbc:label="TM_1161" fbc:name="TM_1161" />
+      <fbc:geneProduct fbc:id="G_TM_1164" fbc:label="TM_1164" fbc:name="TM_1164" />
+      <fbc:geneProduct fbc:id="G_TM_1165" fbc:label="TM_1165" fbc:name="TM_1165" />
+      <fbc:geneProduct fbc:id="G_TM_1169" fbc:label="TM_1169" fbc:name="TM_1169" />
+      <fbc:geneProduct fbc:id="G_TM_1185" fbc:label="TM_1185" fbc:name="TM_1185" />
+      <fbc:geneProduct fbc:id="G_TM_1190" fbc:label="TM_1190" fbc:name="TM_1190" />
+      <fbc:geneProduct fbc:id="G_TM_1191" fbc:label="TM_1191" fbc:name="TM_1191" />
+      <fbc:geneProduct fbc:id="G_TM_1192" fbc:label="TM_1192" fbc:name="TM_1192" />
+      <fbc:geneProduct fbc:id="G_TM_1193" fbc:label="TM_1193" fbc:name="TM_1193" />
+      <fbc:geneProduct fbc:id="G_TM_1194" fbc:label="TM_1194" fbc:name="TM_1194" />
+      <fbc:geneProduct fbc:id="G_TM_1195" fbc:label="TM_1195" fbc:name="TM_1195" />
+      <fbc:geneProduct fbc:id="G_TM_1196" fbc:label="TM_1196" fbc:name="TM_1196" />
+      <fbc:geneProduct fbc:id="G_TM_1197" fbc:label="TM_1197" fbc:name="TM_1197" />
+      <fbc:geneProduct fbc:id="G_TM_1198" fbc:label="TM_1198" fbc:name="TM_1198" />
+      <fbc:geneProduct fbc:id="G_TM_1199" fbc:label="TM_1199" fbc:name="TM_1199" />
+      <fbc:geneProduct fbc:id="G_TM_1202" fbc:label="TM_1202" fbc:name="TM_1202" />
+      <fbc:geneProduct fbc:id="G_TM_1203" fbc:label="TM_1203" fbc:name="TM_1203" />
+      <fbc:geneProduct fbc:id="G_TM_1204" fbc:label="TM_1204" fbc:name="TM_1204" />
+      <fbc:geneProduct fbc:id="G_TM_1211" fbc:label="TM_1211" fbc:name="TM_1211" />
+      <fbc:geneProduct fbc:id="G_TM_1212" fbc:label="TM_1212" fbc:name="TM_1212" />
+      <fbc:geneProduct fbc:id="G_TM_1213" fbc:label="TM_1213" fbc:name="TM_1213" />
+      <fbc:geneProduct fbc:id="G_TM_1214" fbc:label="TM_1214" fbc:name="TM_1214" />
+      <fbc:geneProduct fbc:id="G_TM_1215" fbc:label="TM_1215" fbc:name="TM_1215" />
+      <fbc:geneProduct fbc:id="G_TM_1216" fbc:label="TM_1216" fbc:name="TM_1216" />
+      <fbc:geneProduct fbc:id="G_TM_1217" fbc:label="TM_1217" fbc:name="TM_1217" />
+      <fbc:geneProduct fbc:id="G_TM_1219" fbc:label="TM_1219" fbc:name="TM_1219" />
+      <fbc:geneProduct fbc:id="G_TM_1220" fbc:label="TM_1220" fbc:name="TM_1220" />
+      <fbc:geneProduct fbc:id="G_TM_1221" fbc:label="TM_1221" fbc:name="TM_1221" />
+      <fbc:geneProduct fbc:id="G_TM_1222" fbc:label="TM_1222" fbc:name="TM_1222" />
+      <fbc:geneProduct fbc:id="G_TM_1223" fbc:label="TM_1223" fbc:name="TM_1223" />
+      <fbc:geneProduct fbc:id="G_TM_1226" fbc:label="TM_1226" fbc:name="TM_1226" />
+      <fbc:geneProduct fbc:id="G_TM_1227" fbc:label="TM_1227" fbc:name="TM_1227" />
+      <fbc:geneProduct fbc:id="G_TM_1243" fbc:label="TM_1243" fbc:name="TM_1243" />
+      <fbc:geneProduct fbc:id="G_TM_1244" fbc:label="TM_1244" fbc:name="TM_1244" />
+      <fbc:geneProduct fbc:id="G_TM_1245" fbc:label="TM_1245" fbc:name="TM_1245" />
+      <fbc:geneProduct fbc:id="G_TM_1246" fbc:label="TM_1246" fbc:name="TM_1246" />
+      <fbc:geneProduct fbc:id="G_TM_1247" fbc:label="TM_1247" fbc:name="TM_1247" />
+      <fbc:geneProduct fbc:id="G_TM_1248" fbc:label="TM_1248" fbc:name="TM_1248" />
+      <fbc:geneProduct fbc:id="G_TM_1249" fbc:label="TM_1249" fbc:name="TM_1249" />
+      <fbc:geneProduct fbc:id="G_TM_1250" fbc:label="TM_1250" fbc:name="TM_1250" />
+      <fbc:geneProduct fbc:id="G_TM_1251" fbc:label="TM_1251" fbc:name="TM_1251" />
+      <fbc:geneProduct fbc:id="G_TM_1253" fbc:label="TM_1253" fbc:name="TM_1253" />
+      <fbc:geneProduct fbc:id="G_TM_1255" fbc:label="TM_1255" fbc:name="TM_1255" />
+      <fbc:geneProduct fbc:id="G_TM_1261" fbc:label="TM_1261" fbc:name="TM_1261" />
+      <fbc:geneProduct fbc:id="G_TM_1262" fbc:label="TM_1262" fbc:name="TM_1262" />
+      <fbc:geneProduct fbc:id="G_TM_1263" fbc:label="TM_1263" fbc:name="TM_1263" />
+      <fbc:geneProduct fbc:id="G_TM_1264" fbc:label="TM_1264" fbc:name="TM_1264" />
+      <fbc:geneProduct fbc:id="G_TM_1267" fbc:label="TM_1267" fbc:name="TM_1267" />
+      <fbc:geneProduct fbc:id="G_TM_1269" fbc:label="TM_1269" fbc:name="TM_1269" />
+      <fbc:geneProduct fbc:id="G_TM_1270" fbc:label="TM_1270" fbc:name="TM_1270" />
+      <fbc:geneProduct fbc:id="G_TM_1272" fbc:label="TM_1272" fbc:name="TM_1272" />
+      <fbc:geneProduct fbc:id="G_TM_1273" fbc:label="TM_1273" fbc:name="TM_1273" />
+      <fbc:geneProduct fbc:id="G_TM_1281" fbc:label="TM_1281" fbc:name="TM_1281" />
+      <fbc:geneProduct fbc:id="G_TM_1286" fbc:label="TM_1286" fbc:name="TM_1286" />
+      <fbc:geneProduct fbc:id="G_TM_1347" fbc:label="TM_1347" fbc:name="TM_1347" />
+      <fbc:geneProduct fbc:id="G_TM_1351" fbc:label="TM_1351" fbc:name="TM_1351" />
+      <fbc:geneProduct fbc:id="G_TM_1361" fbc:label="TM_1361" fbc:name="TM_1361" />
+      <fbc:geneProduct fbc:id="G_TM_1374" fbc:label="TM_1374" fbc:name="TM_1374" />
+      <fbc:geneProduct fbc:id="G_TM_1375" fbc:label="TM_1375" fbc:name="TM_1375" />
+      <fbc:geneProduct fbc:id="G_TM_1376" fbc:label="TM_1376" fbc:name="TM_1376" />
+      <fbc:geneProduct fbc:id="G_TM_1377" fbc:label="TM_1377" fbc:name="TM_1377" />
+      <fbc:geneProduct fbc:id="G_TM_1378" fbc:label="TM_1378" fbc:name="TM_1378" />
+      <fbc:geneProduct fbc:id="G_TM_1379" fbc:label="TM_1379" fbc:name="TM_1379" />
+      <fbc:geneProduct fbc:id="G_TM_1383" fbc:label="TM_1383" fbc:name="TM_1383" />
+      <fbc:geneProduct fbc:id="G_TM_1384" fbc:label="TM_1384" fbc:name="TM_1384" />
+      <fbc:geneProduct fbc:id="G_TM_1385" fbc:label="TM_1385" fbc:name="TM_1385" />
+      <fbc:geneProduct fbc:id="G_TM_1387" fbc:label="TM_1387" fbc:name="TM_1387" />
+      <fbc:geneProduct fbc:id="G_TM_1393" fbc:label="TM_1393" fbc:name="TM_1393" />
+      <fbc:geneProduct fbc:id="G_TM_1396" fbc:label="TM_1396" fbc:name="TM_1396" />
+      <fbc:geneProduct fbc:id="G_TM_1397" fbc:label="TM_1397" fbc:name="TM_1397" />
+      <fbc:geneProduct fbc:id="G_TM_1398" fbc:label="TM_1398" fbc:name="TM_1398" />
+      <fbc:geneProduct fbc:id="G_TM_1400" fbc:label="TM_1400" fbc:name="TM_1400" />
+      <fbc:geneProduct fbc:id="G_TM_1401" fbc:label="TM_1401" fbc:name="TM_1401" />
+      <fbc:geneProduct fbc:id="G_TM_1410" fbc:label="TM_1410" fbc:name="TM_1410" />
+      <fbc:geneProduct fbc:id="G_TM_1414" fbc:label="TM_1414" fbc:name="TM_1414" />
+      <fbc:geneProduct fbc:id="G_TM_1415" fbc:label="TM_1415" fbc:name="TM_1415" />
+      <fbc:geneProduct fbc:id="G_TM_1418" fbc:label="TM_1418" fbc:name="TM_1418" />
+      <fbc:geneProduct fbc:id="G_TM_1419" fbc:label="TM_1419" fbc:name="TM_1419" />
+      <fbc:geneProduct fbc:id="G_TM_1424" fbc:label="TM_1424" fbc:name="TM_1424" />
+      <fbc:geneProduct fbc:id="G_TM_1425" fbc:label="TM_1425" fbc:name="TM_1425" />
+      <fbc:geneProduct fbc:id="G_TM_1426" fbc:label="TM_1426" fbc:name="TM_1426" />
+      <fbc:geneProduct fbc:id="G_TM_1429" fbc:label="TM_1429" fbc:name="TM_1429" />
+      <fbc:geneProduct fbc:id="G_TM_1430" fbc:label="TM_1430" fbc:name="TM_1430" />
+      <fbc:geneProduct fbc:id="G_TM_1432" fbc:label="TM_1432" fbc:name="TM_1432" />
+      <fbc:geneProduct fbc:id="G_TM_1433" fbc:label="TM_1433" fbc:name="TM_1433" />
+      <fbc:geneProduct fbc:id="G_TM_1438" fbc:label="TM_1438" fbc:name="TM_1438" />
+      <fbc:geneProduct fbc:id="G_TM_1441" fbc:label="TM_1441" fbc:name="TM_1441" />
+      <fbc:geneProduct fbc:id="G_TM_1443" fbc:label="TM_1443" fbc:name="TM_1443" />
+      <fbc:geneProduct fbc:id="G_TM_1444" fbc:label="TM_1444" fbc:name="TM_1444" />
+      <fbc:geneProduct fbc:id="G_TM_1469" fbc:label="TM_1469" fbc:name="TM_1469" />
+      <fbc:geneProduct fbc:id="G_TM_1479" fbc:label="TM_1479" fbc:name="TM_1479" />
+      <fbc:geneProduct fbc:id="G_TM_1516" fbc:label="TM_1516" fbc:name="TM_1516" />
+      <fbc:geneProduct fbc:id="G_TM_1517" fbc:label="TM_1517" fbc:name="TM_1517" />
+      <fbc:geneProduct fbc:id="G_TM_1518" fbc:label="TM_1518" fbc:name="TM_1518" />
+      <fbc:geneProduct fbc:id="G_TM_1519" fbc:label="TM_1519" fbc:name="TM_1519" />
+      <fbc:geneProduct fbc:id="G_TM_1520" fbc:label="TM_1520" fbc:name="TM_1520" />
+      <fbc:geneProduct fbc:id="G_TM_1521" fbc:label="TM_1521" fbc:name="TM_1521" />
+      <fbc:geneProduct fbc:id="G_TM_1522" fbc:label="TM_1522" fbc:name="TM_1522" />
+      <fbc:geneProduct fbc:id="G_TM_1523" fbc:label="TM_1523" fbc:name="TM_1523" />
+      <fbc:geneProduct fbc:id="G_TM_1524" fbc:label="TM_1524" fbc:name="TM_1524" />
+      <fbc:geneProduct fbc:id="G_TM_1525" fbc:label="TM_1525" fbc:name="TM_1525" />
+      <fbc:geneProduct fbc:id="G_TM_1535" fbc:label="TM_1535" fbc:name="TM_1535" />
+      <fbc:geneProduct fbc:id="G_TM_1559" fbc:label="TM_1559" fbc:name="TM_1559" />
+      <fbc:geneProduct fbc:id="G_TM_1560" fbc:label="TM_1560" fbc:name="TM_1560" />
+      <fbc:geneProduct fbc:id="G_TM_1564" fbc:label="TM_1564" fbc:name="TM_1564" />
+      <fbc:geneProduct fbc:id="G_TM_1585" fbc:label="TM_1585" fbc:name="TM_1585" />
+      <fbc:geneProduct fbc:id="G_TM_1596" fbc:label="TM_1596" fbc:name="TM_1596" />
+      <fbc:geneProduct fbc:id="G_TM_1609" fbc:label="TM_1609" fbc:name="TM_1609" />
+      <fbc:geneProduct fbc:id="G_TM_1610" fbc:label="TM_1610" fbc:name="TM_1610" />
+      <fbc:geneProduct fbc:id="G_TM_1611" fbc:label="TM_1611" fbc:name="TM_1611" />
+      <fbc:geneProduct fbc:id="G_TM_1612" fbc:label="TM_1612" fbc:name="TM_1612" />
+      <fbc:geneProduct fbc:id="G_TM_1613" fbc:label="TM_1613" fbc:name="TM_1613" />
+      <fbc:geneProduct fbc:id="G_TM_1614" fbc:label="TM_1614" fbc:name="TM_1614" />
+      <fbc:geneProduct fbc:id="G_TM_1615" fbc:label="TM_1615" fbc:name="TM_1615" />
+      <fbc:geneProduct fbc:id="G_TM_1616" fbc:label="TM_1616" fbc:name="TM_1616" />
+      <fbc:geneProduct fbc:id="G_TM_1621" fbc:label="TM_1621" fbc:name="TM_1621" />
+      <fbc:geneProduct fbc:id="G_TM_1624" fbc:label="TM_1624" fbc:name="TM_1624" />
+      <fbc:geneProduct fbc:id="G_TM_1628" fbc:label="TM_1628" fbc:name="TM_1628" />
+      <fbc:geneProduct fbc:id="G_TM_1629" fbc:label="TM_1629" fbc:name="TM_1629" />
+      <fbc:geneProduct fbc:id="G_TM_1640" fbc:label="TM_1640" fbc:name="TM_1640" />
+      <fbc:geneProduct fbc:id="G_TM_1641" fbc:label="TM_1641" fbc:name="TM_1641" />
+      <fbc:geneProduct fbc:id="G_TM_1642" fbc:label="TM_1642" fbc:name="TM_1642" />
+      <fbc:geneProduct fbc:id="G_TM_1643" fbc:label="TM_1643" fbc:name="TM_1643" />
+      <fbc:geneProduct fbc:id="G_TM_1644" fbc:label="TM_1644" fbc:name="TM_1644" />
+      <fbc:geneProduct fbc:id="G_TM_1645" fbc:label="TM_1645" fbc:name="TM_1645" />
+      <fbc:geneProduct fbc:id="G_TM_1653" fbc:label="TM_1653" fbc:name="TM_1653" />
+      <fbc:geneProduct fbc:id="G_TM_1658" fbc:label="TM_1658" fbc:name="TM_1658" />
+      <fbc:geneProduct fbc:id="G_TM_1662" fbc:label="TM_1662" fbc:name="TM_1662" />
+      <fbc:geneProduct fbc:id="G_TM_1667" fbc:label="TM_1667" fbc:name="TM_1667" />
+      <fbc:geneProduct fbc:id="G_TM_1687" fbc:label="TM_1687" fbc:name="TM_1687" />
+      <fbc:geneProduct fbc:id="G_TM_1689" fbc:label="TM_1689" fbc:name="TM_1689" />
+      <fbc:geneProduct fbc:id="G_TM_1693" fbc:label="TM_1693" fbc:name="TM_1693" />
+      <fbc:geneProduct fbc:id="G_TM_1698" fbc:label="TM_1698" fbc:name="TM_1698" />
+      <fbc:geneProduct fbc:id="G_TM_1705" fbc:label="TM_1705" fbc:name="TM_1705" />
+      <fbc:geneProduct fbc:id="G_TM_1714" fbc:label="TM_1714" fbc:name="TM_1714" />
+      <fbc:geneProduct fbc:id="G_TM_1718" fbc:label="TM_1718" fbc:name="TM_1718" />
+      <fbc:geneProduct fbc:id="G_TM_1724" fbc:label="TM_1724" fbc:name="TM_1724" />
+      <fbc:geneProduct fbc:id="G_TM_1728" fbc:label="TM_1728" fbc:name="TM_1728" />
+      <fbc:geneProduct fbc:id="G_TM_1733" fbc:label="TM_1733" fbc:name="TM_1733" />
+      <fbc:geneProduct fbc:id="G_TM_1737" fbc:label="TM_1737" fbc:name="TM_1737" />
+      <fbc:geneProduct fbc:id="G_TM_1744" fbc:label="TM_1744" fbc:name="TM_1744" />
+      <fbc:geneProduct fbc:id="G_TM_1746" fbc:label="TM_1746" fbc:name="TM_1746" />
+      <fbc:geneProduct fbc:id="G_TM_1747" fbc:label="TM_1747" fbc:name="TM_1747" />
+      <fbc:geneProduct fbc:id="G_TM_1748" fbc:label="TM_1748" fbc:name="TM_1748" />
+      <fbc:geneProduct fbc:id="G_TM_1749" fbc:label="TM_1749" fbc:name="TM_1749" />
+      <fbc:geneProduct fbc:id="G_TM_1750" fbc:label="TM_1750" fbc:name="TM_1750" />
+      <fbc:geneProduct fbc:id="G_TM_1751" fbc:label="TM_1751" fbc:name="TM_1751" />
+      <fbc:geneProduct fbc:id="G_TM_1752" fbc:label="TM_1752" fbc:name="TM_1752" />
+      <fbc:geneProduct fbc:id="G_TM_1754" fbc:label="TM_1754" fbc:name="TM_1754" />
+      <fbc:geneProduct fbc:id="G_TM_1755" fbc:label="TM_1755" fbc:name="TM_1755" />
+      <fbc:geneProduct fbc:id="G_TM_1762" fbc:label="TM_1762" fbc:name="TM_1762" />
+      <fbc:geneProduct fbc:id="G_TM_1766" fbc:label="TM_1766" fbc:name="TM_1766" />
+      <fbc:geneProduct fbc:id="G_TM_1767" fbc:label="TM_1767" fbc:name="TM_1767" />
+      <fbc:geneProduct fbc:id="G_TM_1770" fbc:label="TM_1770" fbc:name="TM_1770" />
+      <fbc:geneProduct fbc:id="G_TM_1774" fbc:label="TM_1774" fbc:name="TM_1774" />
+      <fbc:geneProduct fbc:id="G_TM_1780" fbc:label="TM_1780" fbc:name="TM_1780" />
+      <fbc:geneProduct fbc:id="G_TM_1781" fbc:label="TM_1781" fbc:name="TM_1781" />
+      <fbc:geneProduct fbc:id="G_TM_1782" fbc:label="TM_1782" fbc:name="TM_1782" />
+      <fbc:geneProduct fbc:id="G_TM_1783" fbc:label="TM_1783" fbc:name="TM_1783" />
+      <fbc:geneProduct fbc:id="G_TM_1784" fbc:label="TM_1784" fbc:name="TM_1784" />
+      <fbc:geneProduct fbc:id="G_TM_1785" fbc:label="TM_1785" fbc:name="TM_1785" />
+      <fbc:geneProduct fbc:id="G_TM_1817" fbc:label="TM_1817" fbc:name="TM_1817" />
+      <fbc:geneProduct fbc:id="G_TM_1820" fbc:label="TM_1820" fbc:name="TM_1820" />
+      <fbc:geneProduct fbc:id="G_TM_1825" fbc:label="TM_1825" fbc:name="TM_1825" />
+      <fbc:geneProduct fbc:id="G_TM_1826" fbc:label="TM_1826" fbc:name="TM_1826" />
+      <fbc:geneProduct fbc:id="G_TM_1827" fbc:label="TM_1827" fbc:name="TM_1827" />
+      <fbc:geneProduct fbc:id="G_TM_1828" fbc:label="TM_1828" fbc:name="TM_1828" />
+      <fbc:geneProduct fbc:id="G_TM_1834" fbc:label="TM_1834" fbc:name="TM_1834" />
+      <fbc:geneProduct fbc:id="G_TM_1835" fbc:label="TM_1835" fbc:name="TM_1835" />
+      <fbc:geneProduct fbc:id="G_TM_1836" fbc:label="TM_1836" fbc:name="TM_1836" />
+      <fbc:geneProduct fbc:id="G_TM_1837" fbc:label="TM_1837" fbc:name="TM_1837" />
+      <fbc:geneProduct fbc:id="G_TM_1839" fbc:label="TM_1839" fbc:name="TM_1839" />
+      <fbc:geneProduct fbc:id="G_TM_1840" fbc:label="TM_1840" fbc:name="TM_1840" />
+      <fbc:geneProduct fbc:id="G_TM_1845" fbc:label="TM_1845" fbc:name="TM_1845" />
+      <fbc:geneProduct fbc:id="G_TM_1848" fbc:label="TM_1848" fbc:name="TM_1848" />
+      <fbc:geneProduct fbc:id="G_TM_1861" fbc:label="TM_1861" fbc:name="TM_1861" />
+      <fbc:geneProduct fbc:id="G_TM_1867" fbc:label="TM_1867" fbc:name="TM_1867" />
+      <fbc:geneProduct fbc:id="G_TM_1873" fbc:label="TM_1873" fbc:name="TM_1873" />
+      <fbc:geneProduct fbc:id="G_TM_1875" fbc:label="TM_1875" fbc:name="TM_1875" />
+      <fbc:geneProduct fbc:id="G_TM_1878" fbc:label="TM_1878" fbc:name="TM_1878" />
     </fbc:listOfGeneProducts>
     <listOfReactions>
       <reaction fast="false" id="R_BiomassEcoli_TM" name="Biomass Thermotoga - values taken from iJR904" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_val_L_c" stoichiometry="0.402" />
-          <speciesReference constant="true" species="M_succoa_c" stoichiometry="3e-06" />
+          <speciesReference constant="true" species="M_asp_L_c" stoichiometry="0.458" />
           <speciesReference constant="true" species="M_pgp160_c" stoichiometry="0.001398" />
+          <speciesReference constant="true" species="M_succoa_c" stoichiometry="3e-06" />
           <speciesReference constant="true" species="M_cys_L_c" stoichiometry="0.087" />
+          <speciesReference constant="true" species="M_leu_L_c" stoichiometry="0.428" />
           <speciesReference constant="true" species="M_fad_c" stoichiometry="1e-05" />
           <speciesReference constant="true" species="M_peptido_TM_c" stoichiometry="0.0276" />
           <speciesReference constant="true" species="M_utp_c" stoichiometry="0.136" />
@@ -1092,30 +1094,29 @@
           <speciesReference constant="true" species="M_coa_c" stoichiometry="6e-06" />
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="0.25" />
           <speciesReference constant="true" species="M_dmtaACP_c" stoichiometry="0.001398" />
+          <speciesReference constant="true" species="M_udcpdp_c" stoichiometry="0.001398" />
           <speciesReference constant="true" species="M_glycogen_c" stoichiometry="0.154" />
-          <speciesReference constant="true" species="M_dttp_c" stoichiometry="0.0247" />
+          <speciesReference constant="true" species="M_ala_L_c" stoichiometry="0.488" />
           <speciesReference constant="true" species="M_phe_L_c" stoichiometry="0.176" />
-          <speciesReference constant="true" species="M_lys_L_c" stoichiometry="0.326" />
+          <speciesReference constant="true" species="M_dgtp_c" stoichiometry="0.0254" />
           <speciesReference constant="true" species="M_gtp_c" stoichiometry="0.203" />
           <speciesReference constant="true" species="M_pro_L_c" stoichiometry="0.21" />
           <speciesReference constant="true" species="M_thr_L_c" stoichiometry="0.241" />
-          <speciesReference constant="true" species="M_his_L_c" stoichiometry="0.09" />
+          <speciesReference constant="true" species="M_ser_L_c" stoichiometry="0.205" />
           <speciesReference constant="true" species="M_spmd_c" stoichiometry="0.007" />
-          <speciesReference constant="true" species="M_dgtp_c" stoichiometry="0.0254" />
+          <speciesReference constant="true" species="M_nadp_c" stoichiometry="0.00013" />
           <speciesReference constant="true" species="M_ile_L_c" stoichiometry="0.276" />
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="45.5608" />
           <speciesReference constant="true" species="M_dmosACP_c" stoichiometry="0.001398" />
           <speciesReference constant="true" species="M_met_L_c" stoichiometry="0.146" />
-          <speciesReference constant="true" species="M_nadp_c" stoichiometry="0.00013" />
-          <speciesReference constant="true" species="M_5mthf_c" stoichiometry="0.05" />
           <speciesReference constant="true" species="M_pa160_c" stoichiometry="0.001398" />
+          <speciesReference constant="true" species="M_5mthf_c" stoichiometry="0.05" />
           <speciesReference constant="true" species="M_ptrc_c" stoichiometry="0.035" />
           <speciesReference constant="true" species="M_accoa_c" stoichiometry="5e-05" />
-          <speciesReference constant="true" species="M_ser_L_c" stoichiometry="0.205" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="45.5608" />
           <speciesReference constant="true" species="M_nadph_c" stoichiometry="0.0004" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="0.25" />
-          <speciesReference constant="true" species="M_asp_L_c" stoichiometry="0.458" />
-          <speciesReference constant="true" species="M_leu_L_c" stoichiometry="0.428" />
+          <speciesReference constant="true" species="M_his_L_c" stoichiometry="0.09" />
+          <speciesReference constant="true" species="M_lys_L_c" stoichiometry="0.326" />
           <speciesReference constant="true" species="M_nad_c" stoichiometry="0.00215" />
           <speciesReference constant="true" species="M_amp_c" stoichiometry="0.001" />
           <speciesReference constant="true" species="M_arg_L_c" stoichiometry="0.281" />
@@ -1125,8 +1126,7 @@
           <speciesReference constant="true" species="M_trp_L_c" stoichiometry="0.054" />
           <speciesReference constant="true" species="M_gly_c" stoichiometry="0.582" />
           <speciesReference constant="true" species="M_TM_GL2_c" stoichiometry="0.003495" />
-          <speciesReference constant="true" species="M_ala_L_c" stoichiometry="0.488" />
-          <speciesReference constant="true" species="M_udcpdp_c" stoichiometry="0.001398" />
+          <speciesReference constant="true" species="M_dttp_c" stoichiometry="0.0247" />
           <speciesReference constant="true" species="M_datp_c" stoichiometry="0.0247" />
         </listOfReactants>
         <listOfProducts>
@@ -1566,8 +1566,8 @@
       <reaction fast="false" id="R_ACALDi" name="acetaldehyde dehydrogenase (acetylating)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_nad_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_coa_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_acald_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_coa_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_accoa_c" stoichiometry="1" />
@@ -1615,8 +1615,8 @@
       </reaction>
       <reaction fast="false" id="R_ACGS" name="N-acetylglutamate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_accoa_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
@@ -1861,8 +1861,8 @@
       </reaction>
       <reaction fast="false" id="R_ADSS" name="adenylosuccinate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_asp_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gtp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_asp_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_imp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2031,10 +2031,10 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_alaala_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_alaala_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0259" />
@@ -2050,9 +2050,9 @@
       </reaction>
       <reaction fast="false" id="R_ALATRS" name="Alanyl-tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_trnaala_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ala_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnaala_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
@@ -2066,8 +2066,8 @@
       <reaction fast="false" id="R_ALAabc" name="L-alanine transport via ABC system" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ala_L_e" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
@@ -2149,8 +2149,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_glc_D_e" stoichiometry="100" />
-          <speciesReference constant="true" species="M_malttr_e" stoichiometry="300" />
           <speciesReference constant="true" species="M_malt_e" stoichiometry="100" />
+          <speciesReference constant="true" species="M_malttr_e" stoichiometry="300" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -2181,8 +2181,8 @@
           <speciesReference constant="true" species="M_chor_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_pyr_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pyr_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_anth_c" stoichiometry="1" />
         </listOfProducts>
@@ -2225,10 +2225,10 @@
           <speciesReference constant="true" species="M_arab_L_e" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_arab_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_arab_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_ARGSL" name="argininosuccinate lyase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -2294,8 +2294,8 @@
           <speciesReference constant="true" species="M_aspsa_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadph_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_4pasp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -2306,8 +2306,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_asptrna_asn__c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
@@ -2374,8 +2374,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_iasp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadh_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_iasp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_1643" />
@@ -2616,11 +2616,11 @@
           <speciesReference constant="true" species="M_malACP_c" stoichiometry="3" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="4" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="3" />
-          <speciesReference constant="true" species="M_nadp_c" stoichiometry="8" />
           <speciesReference constant="true" species="M_dcaACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_co2_c" stoichiometry="3" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="3" />
+          <speciesReference constant="true" species="M_nadp_c" stoichiometry="8" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="4" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -2643,11 +2643,11 @@
           <speciesReference constant="true" species="M_hco3_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_cbp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="2" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_cbp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -2843,8 +2843,8 @@
       </reaction>
       <reaction fast="false" id="R_CS" name="citrate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_accoa_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_oaa_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2868,8 +2868,8 @@
       </reaction>
       <reaction fast="false" id="R_CTPS2" name="CTP synthase (glutamine)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_utp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
@@ -2951,8 +2951,8 @@
       </reaction>
       <reaction fast="false" id="R_CYTDK2" name="cytidine kinase (GTP)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_cytd_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gtp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_cytd_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
@@ -3328,8 +3328,8 @@
       </reaction>
       <reaction fast="false" id="R_DPCOAK" name="dephospho-CoA kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_dpcoa_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_dpcoa_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
@@ -3512,11 +3512,11 @@
           <speciesReference constant="true" species="M_malACP_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ddcaACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
           <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ddcaACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3540,10 +3540,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_myrsACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3567,10 +3567,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_tdeACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3593,11 +3593,11 @@
           <speciesReference constant="true" species="M_malACP_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_palmACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
           <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_palmACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3621,10 +3621,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_hdeACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3648,10 +3648,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ocdcaACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3674,11 +3674,11 @@
           <speciesReference constant="true" species="M_malACP_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_octeACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_octeACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3701,9 +3701,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ocdcyaACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ocdcyaACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3727,10 +3727,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_arachACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3754,10 +3754,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_aracheACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3781,10 +3781,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
           <speciesReference constant="true" species="M_behenACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3808,10 +3808,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_beheneACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3835,10 +3835,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_lgnACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4019,9 +4019,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_adp_c" stoichiometry="4" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="4" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="4" />
           <speciesReference constant="true" species="M_thfglu_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="4" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0166" />
@@ -4048,10 +4048,10 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_fru_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_fru_c" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_FTCD_r" name="formimidoyltransferase cyclodeaminase reversible" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -4358,9 +4358,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_galman6_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_galman6_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4686,8 +4686,8 @@
       </reaction>
       <reaction fast="false" id="R_GLCabc" name="D-glucose transport via ABC system" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glc_D_e" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -4730,8 +4730,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0943" />
@@ -4755,17 +4755,17 @@
       </reaction>
       <reaction fast="false" id="R_GLNTRAT" name="glutamyl-tRNA(Gln) amidotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glutrna_gln__c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_glntrna_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glntrna_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4901,10 +4901,10 @@
           <speciesReference constant="true" species="M_glucan4_e" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_glucan4_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glucan4_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4962,13 +4962,13 @@
       </reaction>
       <reaction fast="false" id="R_GLUPRT" name="glutamine phosphoribosyldiphosphate amidotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_prpp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pram_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -4985,10 +4985,10 @@
       </reaction>
       <reaction fast="false" id="R_GLUSy" name="glutamate synthase (NADPH)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_akg_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadph_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_akg_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="2" />
@@ -5029,8 +5029,8 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glutrna_gln__c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_amp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -5096,9 +5096,9 @@
           <speciesReference constant="true" species="M_nh4_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_thf_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nad_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gly_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nad_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_thf_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0211" />
@@ -5185,10 +5185,10 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gmp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_amp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -5243,8 +5243,8 @@
           <speciesReference constant="true" species="M_g3pe_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_etha_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_glyc3p_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_etha_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -5472,12 +5472,12 @@
       <reaction fast="false" id="R_HISTRS" name="Histidyl-tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_his_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_trnahis_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_his_L_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_histrna_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_amp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -5490,9 +5490,9 @@
           <speciesReference constant="true" species="M_4ahmmp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_4ampm_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0790" />
@@ -5617,8 +5617,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_akg_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadph_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_akg_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_1148" />
@@ -5684,8 +5684,8 @@
       <reaction fast="false" id="R_ILETRS" name="Isoleucyl-tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_trnaile_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ile_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnaile_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
@@ -5737,8 +5737,8 @@
           <speciesReference constant="true" species="M_mi1p_D_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_cdp_inost_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_cdp_inost_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_1418" />
@@ -5849,9 +5849,9 @@
       </reaction>
       <reaction fast="false" id="R_IPPS" name="2-isopropylmalate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_3mob_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_accoa_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_3mob_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
@@ -5917,9 +5917,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_3hpalmACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -5942,10 +5942,10 @@
           <speciesReference constant="true" species="M_malACP_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_3hoctaACP_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_3hoctaACP_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_co2_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -5988,8 +5988,8 @@
       </reaction>
       <reaction fast="false" id="R_LCAD" name="lactaldehyde dehydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_lald_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nad_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6026,8 +6026,8 @@
           <speciesReference constant="true" species="M_Lcyst_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_3spyr_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -6123,9 +6123,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_lmn2_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_lmn2_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -6190,9 +6190,9 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_malttr_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -6237,9 +6237,9 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_malt_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -6313,8 +6313,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nadh_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_fruur_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadh_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0068" />
@@ -6327,10 +6327,10 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_manb_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_manb_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -6375,8 +6375,8 @@
       </reaction>
       <reaction fast="false" id="R_MANTTRabc" name="mannotetraose transport via ABC transporter" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_manttr_e" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6496,10 +6496,10 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_melib_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_melib_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -6703,8 +6703,8 @@
       <reaction fast="false" id="R_MOHMT" name="3-methyl-2-oxobutanoate hydroxymethyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_mlthf_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_3mob_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_mlthf_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_2dhp_c" stoichiometry="1" />
@@ -6852,8 +6852,8 @@
       </reaction>
       <reaction fast="false" id="R_NADK" name="NAD kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_nad_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nad_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
@@ -6872,8 +6872,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_fadh2_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_e" stoichiometry="2" />
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_e" stoichiometry="2" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -7520,8 +7520,8 @@
           <speciesReference constant="true" species="M_orot5p_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_prpp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_orot_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_prpp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0331" />
@@ -7543,9 +7543,9 @@
       </reaction>
       <reaction fast="false" id="R_P5CRyr" name="pyrroline-5-carboxylase reductase (NADP) reversible" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_1pyr5c_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="2" />
           <speciesReference constant="true" species="M_nadph_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="2" />
+          <speciesReference constant="true" species="M_1pyr5c_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
@@ -7604,10 +7604,10 @@
           <speciesReference constant="true" species="M_hco3_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_oaa_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_oaa_c" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_PFK" name="phosphofructokinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -7758,8 +7758,8 @@
       <reaction fast="false" id="R_PHETRS" name="Phenylalanyl-tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_trnaphe_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_phe_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_phe_L_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
@@ -7816,11 +7816,11 @@
           <speciesReference constant="true" species="M_g3p_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="3" />
           <speciesReference constant="true" species="M_glu_L_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pydx5p_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="3" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -7841,8 +7841,8 @@
       </reaction>
       <reaction fast="false" id="R_PMPK" name="phosphomethylpyrimidine kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_4ampm_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
@@ -8119,9 +8119,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_25aics_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_25aics_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_1243" />
@@ -8412,8 +8412,8 @@
       <reaction fast="false" id="R_RAFFabc" name="raffinose transport via ABC system (import)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_raffin_e" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
@@ -8435,8 +8435,8 @@
           <speciesReference constant="true" species="M_raffin_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_melib_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_fru_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_melib_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_1414" />
@@ -8534,10 +8534,10 @@
           <speciesReference constant="true" species="M_rib_D_e" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_rib_D_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_rib_D_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -8561,8 +8561,8 @@
       </reaction>
       <reaction fast="false" id="R_RMK" name="rhamnulokinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_rml_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_rml_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_rml1p_c" stoichiometry="1" />
@@ -8743,8 +8743,8 @@
       </reaction>
       <reaction fast="false" id="R_SERAT" name="serine O-acetyltransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ser_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_accoa_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ser_L_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_acser_c" stoichiometry="1" />
@@ -8862,10 +8862,10 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_spmd_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_spmd_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -8916,8 +8916,8 @@
       </reaction>
       <reaction fast="false" id="R_SUCD1" name="succinate dehydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_succ_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_fad_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_succ_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_fum_c" stoichiometry="1" />
@@ -8948,8 +8948,8 @@
       </reaction>
       <reaction fast="false" id="R_SUCOAS" name="succinyl-CoA synthetase (ADP-forming)" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_succ_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_coa_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -9014,8 +9014,8 @@
       </reaction>
       <reaction fast="false" id="R_TALA" name="transaldolase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_g3p_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_s7p_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_g3p_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_e4p_c" stoichiometry="1" />
@@ -9152,8 +9152,8 @@
           <speciesReference constant="true" species="M_xu5p_D_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_s7p_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_g3p_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_s7p_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9213,15 +9213,15 @@
       </reaction>
       <reaction fast="false" id="R_TMDS3" name="thymidylate synthase (FAD dependent)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_mlthf_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_dump_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_mlthf_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadph_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_dtmp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_thf_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_dtmp_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0449" />
@@ -9269,8 +9269,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="2" />
-          <speciesReference constant="true" species="M_TM_GL2_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_ACP_c" stoichiometry="2" />
+          <speciesReference constant="true" species="M_TM_GL2_c" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_TPI" name="triose-phosphate isomerase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -9369,8 +9369,8 @@
           <speciesReference constant="true" species="M_3ig3p_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_indole_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_g3p_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_indole_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_TM_0137" />
@@ -9413,8 +9413,8 @@
       <reaction fast="false" id="R_TYRTRS" name="tyrosyl-tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_tyr_L_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_trnatyr_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_c" stoichiometry="1" />
@@ -9649,8 +9649,8 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ump_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ump_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -9663,8 +9663,8 @@
           <speciesReference constant="true" species="M_gtp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ump_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ump_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_gdp_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -9706,10 +9706,10 @@
           <speciesReference constant="true" species="M_val_L_e" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_val_L_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -9777,9 +9777,9 @@
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_c" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1" />
           <speciesReference constant="true" species="M_xyl3_c" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>

@@ -525,717 +525,717 @@
       <species boundaryCondition="false" compartment="c" constant="false" hasOnlySubstanceUnits="false" id="M_XYLITOL" name="XYLITOL_" fbc:charge="0" />
     </listOfSpecies>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct fbc:id="G_SCO1660" fbc:label="SCO1660" fbc:name="SCO1660" />
+      <fbc:geneProduct fbc:id="G_SCO0046" fbc:label="SCO0046" fbc:name="SCO0046" />
+      <fbc:geneProduct fbc:id="G_SCO0136" fbc:label="SCO0136" fbc:name="SCO0136" />
+      <fbc:geneProduct fbc:id="G_SCO0171" fbc:label="SCO0171" fbc:name="SCO0171" />
+      <fbc:geneProduct fbc:id="G_SCO0199" fbc:label="SCO0199" fbc:name="SCO0199" />
+      <fbc:geneProduct fbc:id="G_SCO0208" fbc:label="SCO0208" fbc:name="SCO0208" />
+      <fbc:geneProduct fbc:id="G_SCO0216" fbc:label="SCO0216" fbc:name="SCO0216" />
+      <fbc:geneProduct fbc:id="G_SCO0217" fbc:label="SCO0217" fbc:name="SCO0217" />
+      <fbc:geneProduct fbc:id="G_SCO0218" fbc:label="SCO0218" fbc:name="SCO0218" />
+      <fbc:geneProduct fbc:id="G_SCO0219" fbc:label="SCO0219" fbc:name="SCO0219" />
+      <fbc:geneProduct fbc:id="G_SCO0293" fbc:label="SCO0293" fbc:name="SCO0293" />
+      <fbc:geneProduct fbc:id="G_SCO0330" fbc:label="SCO0330" fbc:name="SCO0330" />
+      <fbc:geneProduct fbc:id="G_SCO0364" fbc:label="SCO0364" fbc:name="SCO0364" />
+      <fbc:geneProduct fbc:id="G_SCO0379" fbc:label="SCO0379" fbc:name="SCO0379" />
+      <fbc:geneProduct fbc:id="G_SCO0386" fbc:label="SCO0386" fbc:name="SCO0386" />
+      <fbc:geneProduct fbc:id="G_SCO0434" fbc:label="SCO0434" fbc:name="SCO0434" />
+      <fbc:geneProduct fbc:id="G_SCO0458" fbc:label="SCO0458" fbc:name="SCO0458" />
+      <fbc:geneProduct fbc:id="G_SCO0506" fbc:label="SCO0506" fbc:name="SCO0506" />
       <fbc:geneProduct fbc:id="G_SCO0509" fbc:label="SCO0509" fbc:name="SCO0509" />
-      <fbc:geneProduct fbc:id="G_SCO7004" fbc:label="SCO7004" fbc:name="SCO7004" />
-      <fbc:geneProduct fbc:id="G_SCO1661" fbc:label="SCO1661" fbc:name="SCO1661" />
-      <fbc:geneProduct fbc:id="G_SCO7006" fbc:label="SCO7006" fbc:name="SCO7006" />
-      <fbc:geneProduct fbc:id="G_SCO7005" fbc:label="SCO7005" fbc:name="SCO7005" />
+      <fbc:geneProduct fbc:id="G_SCO0524" fbc:label="SCO0524" fbc:name="SCO0524" />
+      <fbc:geneProduct fbc:id="G_SCO0541" fbc:label="SCO0541" fbc:name="SCO0541" />
+      <fbc:geneProduct fbc:id="G_SCO0546" fbc:label="SCO0546" fbc:name="SCO0546" />
+      <fbc:geneProduct fbc:id="G_SCO0548" fbc:label="SCO0548" fbc:name="SCO0548" />
+      <fbc:geneProduct fbc:id="G_SCO0549" fbc:label="SCO0549" fbc:name="SCO0549" />
+      <fbc:geneProduct fbc:id="G_SCO0560" fbc:label="SCO0560" fbc:name="SCO0560" />
+      <fbc:geneProduct fbc:id="G_SCO0572" fbc:label="SCO0572" fbc:name="SCO0572" />
+      <fbc:geneProduct fbc:id="G_SCO0579" fbc:label="SCO0579" fbc:name="SCO0579" />
+      <fbc:geneProduct fbc:id="G_SCO0613" fbc:label="SCO0613" fbc:name="SCO0613" />
+      <fbc:geneProduct fbc:id="G_SCO0666" fbc:label="SCO0666" fbc:name="SCO0666" />
       <fbc:geneProduct fbc:id="G_SCO0670" fbc:label="SCO0670" fbc:name="SCO0670" />
-      <fbc:geneProduct fbc:id="G_SCO4774" fbc:label="SCO4774" fbc:name="SCO4774" />
-      <fbc:geneProduct fbc:id="G_SCO1174" fbc:label="SCO1174" fbc:name="SCO1174" />
-      <fbc:geneProduct fbc:id="G_SCO1706" fbc:label="SCO1706" fbc:name="SCO1706" />
-      <fbc:geneProduct fbc:id="G_SCO3420" fbc:label="SCO3420" fbc:name="SCO3420" />
-      <fbc:geneProduct fbc:id="G_SCO4913" fbc:label="SCO4913" fbc:name="SCO4913" />
-      <fbc:geneProduct fbc:id="G_SCO2145" fbc:label="SCO2145" fbc:name="SCO2145" />
-      <fbc:geneProduct fbc:id="G_SCO6466" fbc:label="SCO6466" fbc:name="SCO6466" />
-      <fbc:geneProduct fbc:id="G_SCO2748" fbc:label="SCO2748" fbc:name="SCO2748" />
+      <fbc:geneProduct fbc:id="G_SCO0681" fbc:label="SCO0681" fbc:name="SCO0681" />
+      <fbc:geneProduct fbc:id="G_SCO0782" fbc:label="SCO0782" fbc:name="SCO0782" />
+      <fbc:geneProduct fbc:id="G_SCO0812" fbc:label="SCO0812" fbc:name="SCO0812" />
       <fbc:geneProduct fbc:id="G_SCO0814" fbc:label="SCO0814" fbc:name="SCO0814" />
+      <fbc:geneProduct fbc:id="G_SCO0828" fbc:label="SCO0828" fbc:name="SCO0828" />
+      <fbc:geneProduct fbc:id="G_SCO0851" fbc:label="SCO0851" fbc:name="SCO0851" />
+      <fbc:geneProduct fbc:id="G_SCO0852" fbc:label="SCO0852" fbc:name="SCO0852" />
+      <fbc:geneProduct fbc:id="G_SCO0884" fbc:label="SCO0884" fbc:name="SCO0884" />
+      <fbc:geneProduct fbc:id="G_SCO0907" fbc:label="SCO0907" fbc:name="SCO0907" />
+      <fbc:geneProduct fbc:id="G_SCO0922" fbc:label="SCO0922" fbc:name="SCO0922" />
+      <fbc:geneProduct fbc:id="G_SCO0923" fbc:label="SCO0923" fbc:name="SCO0923" />
+      <fbc:geneProduct fbc:id="G_SCO0924" fbc:label="SCO0924" fbc:name="SCO0924" />
+      <fbc:geneProduct fbc:id="G_SCO0975" fbc:label="SCO0975" fbc:name="SCO0975" />
+      <fbc:geneProduct fbc:id="G_SCO0978" fbc:label="SCO0978" fbc:name="SCO0978" />
+      <fbc:geneProduct fbc:id="G_SCO0982" fbc:label="SCO0982" fbc:name="SCO0982" />
+      <fbc:geneProduct fbc:id="G_SCO0983" fbc:label="SCO0983" fbc:name="SCO0983" />
+      <fbc:geneProduct fbc:id="G_SCO0984" fbc:label="SCO0984" fbc:name="SCO0984" />
+      <fbc:geneProduct fbc:id="G_SCO0985" fbc:label="SCO0985" fbc:name="SCO0985" />
+      <fbc:geneProduct fbc:id="G_SCO1012" fbc:label="SCO1012" fbc:name="SCO1012" />
+      <fbc:geneProduct fbc:id="G_SCO1018" fbc:label="SCO1018" fbc:name="SCO1018" />
+      <fbc:geneProduct fbc:id="G_SCO1028" fbc:label="SCO1028" fbc:name="SCO1028" />
+      <fbc:geneProduct fbc:id="G_SCO1059" fbc:label="SCO1059" fbc:name="SCO1059" />
+      <fbc:geneProduct fbc:id="G_SCO1077" fbc:label="SCO1077" fbc:name="SCO1077" />
+      <fbc:geneProduct fbc:id="G_SCO1081" fbc:label="SCO1081" fbc:name="SCO1081" />
+      <fbc:geneProduct fbc:id="G_SCO1082" fbc:label="SCO1082" fbc:name="SCO1082" />
+      <fbc:geneProduct fbc:id="G_SCO1083" fbc:label="SCO1083" fbc:name="SCO1083" />
+      <fbc:geneProduct fbc:id="G_SCO1087" fbc:label="SCO1087" fbc:name="SCO1087" />
       <fbc:geneProduct fbc:id="G_SCO1169" fbc:label="SCO1169" fbc:name="SCO1169" />
       <fbc:geneProduct fbc:id="G_SCO1170" fbc:label="SCO1170" fbc:name="SCO1170" />
-      <fbc:geneProduct fbc:id="G_SCO0812" fbc:label="SCO0812" fbc:name="SCO0812" />
-      <fbc:geneProduct fbc:id="G_SCO3197" fbc:label="SCO3197" fbc:name="SCO3197" />
-      <fbc:geneProduct fbc:id="G_SCO3649" fbc:label="SCO3649" fbc:name="SCO3649" />
+      <fbc:geneProduct fbc:id="G_SCO1174" fbc:label="SCO1174" fbc:name="SCO1174" />
+      <fbc:geneProduct fbc:id="G_SCO1176" fbc:label="SCO1176" fbc:name="SCO1176" />
+      <fbc:geneProduct fbc:id="G_SCO1204" fbc:label="SCO1204" fbc:name="SCO1204" />
+      <fbc:geneProduct fbc:id="G_SCO1214" fbc:label="SCO1214" fbc:name="SCO1214" />
+      <fbc:geneProduct fbc:id="G_SCO1223" fbc:label="SCO1223" fbc:name="SCO1223" />
+      <fbc:geneProduct fbc:id="G_SCO1224" fbc:label="SCO1224" fbc:name="SCO1224" />
+      <fbc:geneProduct fbc:id="G_SCO1228" fbc:label="SCO1228" fbc:name="SCO1228" />
+      <fbc:geneProduct fbc:id="G_SCO1231" fbc:label="SCO1231" fbc:name="SCO1231" />
+      <fbc:geneProduct fbc:id="G_SCO1232" fbc:label="SCO1232" fbc:name="SCO1232" />
+      <fbc:geneProduct fbc:id="G_SCO1233" fbc:label="SCO1233" fbc:name="SCO1233" />
+      <fbc:geneProduct fbc:id="G_SCO1234" fbc:label="SCO1234" fbc:name="SCO1234" />
+      <fbc:geneProduct fbc:id="G_SCO1235" fbc:label="SCO1235" fbc:name="SCO1235" />
+      <fbc:geneProduct fbc:id="G_SCO1236" fbc:label="SCO1236" fbc:name="SCO1236" />
+      <fbc:geneProduct fbc:id="G_SCO1246" fbc:label="SCO1246" fbc:name="SCO1246" />
+      <fbc:geneProduct fbc:id="G_SCO1254" fbc:label="SCO1254" fbc:name="SCO1254" />
+      <fbc:geneProduct fbc:id="G_SCO1266" fbc:label="SCO1266" fbc:name="SCO1266" />
+      <fbc:geneProduct fbc:id="G_SCO1267" fbc:label="SCO1267" fbc:name="SCO1267" />
+      <fbc:geneProduct fbc:id="G_SCO1269" fbc:label="SCO1269" fbc:name="SCO1269" />
+      <fbc:geneProduct fbc:id="G_SCO1270" fbc:label="SCO1270" fbc:name="SCO1270" />
+      <fbc:geneProduct fbc:id="G_SCO1271" fbc:label="SCO1271" fbc:name="SCO1271" />
+      <fbc:geneProduct fbc:id="G_SCO1284" fbc:label="SCO1284" fbc:name="SCO1284" />
+      <fbc:geneProduct fbc:id="G_SCO1294" fbc:label="SCO1294" fbc:name="SCO1294" />
+      <fbc:geneProduct fbc:id="G_SCO1324" fbc:label="SCO1324" fbc:name="SCO1324" />
+      <fbc:geneProduct fbc:id="G_SCO1326" fbc:label="SCO1326" fbc:name="SCO1326" />
+      <fbc:geneProduct fbc:id="G_SCO1378" fbc:label="SCO1378" fbc:name="SCO1378" />
+      <fbc:geneProduct fbc:id="G_SCO1380" fbc:label="SCO1380" fbc:name="SCO1380" />
+      <fbc:geneProduct fbc:id="G_SCO1388" fbc:label="SCO1388" fbc:name="SCO1388" />
+      <fbc:geneProduct fbc:id="G_SCO1389" fbc:label="SCO1389" fbc:name="SCO1389" />
+      <fbc:geneProduct fbc:id="G_SCO1390" fbc:label="SCO1390" fbc:name="SCO1390" />
+      <fbc:geneProduct fbc:id="G_SCO1391" fbc:label="SCO1391" fbc:name="SCO1391" />
+      <fbc:geneProduct fbc:id="G_SCO1393" fbc:label="SCO1393" fbc:name="SCO1393" />
+      <fbc:geneProduct fbc:id="G_SCO1394" fbc:label="SCO1394" fbc:name="SCO1394" />
+      <fbc:geneProduct fbc:id="G_SCO1438" fbc:label="SCO1438" fbc:name="SCO1438" />
+      <fbc:geneProduct fbc:id="G_SCO1439" fbc:label="SCO1439" fbc:name="SCO1439" />
+      <fbc:geneProduct fbc:id="G_SCO1440" fbc:label="SCO1440" fbc:name="SCO1440" />
+      <fbc:geneProduct fbc:id="G_SCO1441" fbc:label="SCO1441" fbc:name="SCO1441" />
+      <fbc:geneProduct fbc:id="G_SCO1443" fbc:label="SCO1443" fbc:name="SCO1443" />
+      <fbc:geneProduct fbc:id="G_SCO1461" fbc:label="SCO1461" fbc:name="SCO1461" />
+      <fbc:geneProduct fbc:id="G_SCO1464" fbc:label="SCO1464" fbc:name="SCO1464" />
+      <fbc:geneProduct fbc:id="G_SCO1473" fbc:label="SCO1473" fbc:name="SCO1473" />
+      <fbc:geneProduct fbc:id="G_SCO1476" fbc:label="SCO1476" fbc:name="SCO1476" />
+      <fbc:geneProduct fbc:id="G_SCO1478" fbc:label="SCO1478" fbc:name="SCO1478" />
+      <fbc:geneProduct fbc:id="G_SCO1479" fbc:label="SCO1479" fbc:name="SCO1479" />
+      <fbc:geneProduct fbc:id="G_SCO1481" fbc:label="SCO1481" fbc:name="SCO1481" />
+      <fbc:geneProduct fbc:id="G_SCO1482" fbc:label="SCO1482" fbc:name="SCO1482" />
+      <fbc:geneProduct fbc:id="G_SCO1483" fbc:label="SCO1483" fbc:name="SCO1483" />
+      <fbc:geneProduct fbc:id="G_SCO1484" fbc:label="SCO1484" fbc:name="SCO1484" />
+      <fbc:geneProduct fbc:id="G_SCO1486" fbc:label="SCO1486" fbc:name="SCO1486" />
+      <fbc:geneProduct fbc:id="G_SCO1487" fbc:label="SCO1487" fbc:name="SCO1487" />
+      <fbc:geneProduct fbc:id="G_SCO1488" fbc:label="SCO1488" fbc:name="SCO1488" />
+      <fbc:geneProduct fbc:id="G_SCO1494" fbc:label="SCO1494" fbc:name="SCO1494" />
+      <fbc:geneProduct fbc:id="G_SCO1495" fbc:label="SCO1495" fbc:name="SCO1495" />
+      <fbc:geneProduct fbc:id="G_SCO1496" fbc:label="SCO1496" fbc:name="SCO1496" />
+      <fbc:geneProduct fbc:id="G_SCO1498" fbc:label="SCO1498" fbc:name="SCO1498" />
+      <fbc:geneProduct fbc:id="G_SCO1501" fbc:label="SCO1501" fbc:name="SCO1501" />
+      <fbc:geneProduct fbc:id="G_SCO1508" fbc:label="SCO1508" fbc:name="SCO1508" />
+      <fbc:geneProduct fbc:id="G_SCO1513" fbc:label="SCO1513" fbc:name="SCO1513" />
+      <fbc:geneProduct fbc:id="G_SCO1514" fbc:label="SCO1514" fbc:name="SCO1514" />
+      <fbc:geneProduct fbc:id="G_SCO1527" fbc:label="SCO1527" fbc:name="SCO1527" />
+      <fbc:geneProduct fbc:id="G_SCO1531" fbc:label="SCO1531" fbc:name="SCO1531" />
+      <fbc:geneProduct fbc:id="G_SCO1546" fbc:label="SCO1546" fbc:name="SCO1546" />
+      <fbc:geneProduct fbc:id="G_SCO1560" fbc:label="SCO1560" fbc:name="SCO1560" />
+      <fbc:geneProduct fbc:id="G_SCO1566" fbc:label="SCO1566" fbc:name="SCO1566" />
+      <fbc:geneProduct fbc:id="G_SCO1570" fbc:label="SCO1570" fbc:name="SCO1570" />
+      <fbc:geneProduct fbc:id="G_SCO1577" fbc:label="SCO1577" fbc:name="SCO1577" />
+      <fbc:geneProduct fbc:id="G_SCO1578" fbc:label="SCO1578" fbc:name="SCO1578" />
+      <fbc:geneProduct fbc:id="G_SCO1579" fbc:label="SCO1579" fbc:name="SCO1579" />
+      <fbc:geneProduct fbc:id="G_SCO1580" fbc:label="SCO1580" fbc:name="SCO1580" />
+      <fbc:geneProduct fbc:id="G_SCO1591" fbc:label="SCO1591" fbc:name="SCO1591" />
+      <fbc:geneProduct fbc:id="G_SCO1594" fbc:label="SCO1594" fbc:name="SCO1594" />
+      <fbc:geneProduct fbc:id="G_SCO1595" fbc:label="SCO1595" fbc:name="SCO1595" />
+      <fbc:geneProduct fbc:id="G_SCO1612" fbc:label="SCO1612" fbc:name="SCO1612" />
+      <fbc:geneProduct fbc:id="G_SCO1613" fbc:label="SCO1613" fbc:name="SCO1613" />
+      <fbc:geneProduct fbc:id="G_SCO1657" fbc:label="SCO1657" fbc:name="SCO1657" />
+      <fbc:geneProduct fbc:id="G_SCO1659" fbc:label="SCO1659" fbc:name="SCO1659" />
+      <fbc:geneProduct fbc:id="G_SCO1660" fbc:label="SCO1660" fbc:name="SCO1660" />
+      <fbc:geneProduct fbc:id="G_SCO1661" fbc:label="SCO1661" fbc:name="SCO1661" />
+      <fbc:geneProduct fbc:id="G_SCO1663" fbc:label="SCO1663" fbc:name="SCO1663" />
+      <fbc:geneProduct fbc:id="G_SCO1679" fbc:label="SCO1679" fbc:name="SCO1679" />
+      <fbc:geneProduct fbc:id="G_SCO1680" fbc:label="SCO1680" fbc:name="SCO1680" />
+      <fbc:geneProduct fbc:id="G_SCO1690" fbc:label="SCO1690" fbc:name="SCO1690" />
+      <fbc:geneProduct fbc:id="G_SCO1706" fbc:label="SCO1706" fbc:name="SCO1706" />
+      <fbc:geneProduct fbc:id="G_SCO1715" fbc:label="SCO1715" fbc:name="SCO1715" />
+      <fbc:geneProduct fbc:id="G_SCO1724" fbc:label="SCO1724" fbc:name="SCO1724" />
+      <fbc:geneProduct fbc:id="G_SCO1760" fbc:label="SCO1760" fbc:name="SCO1760" />
+      <fbc:geneProduct fbc:id="G_SCO1761" fbc:label="SCO1761" fbc:name="SCO1761" />
+      <fbc:geneProduct fbc:id="G_SCO1762" fbc:label="SCO1762" fbc:name="SCO1762" />
+      <fbc:geneProduct fbc:id="G_SCO1773" fbc:label="SCO1773" fbc:name="SCO1773" />
+      <fbc:geneProduct fbc:id="G_SCO1776" fbc:label="SCO1776" fbc:name="SCO1776" />
+      <fbc:geneProduct fbc:id="G_SCO1781" fbc:label="SCO1781" fbc:name="SCO1781" />
+      <fbc:geneProduct fbc:id="G_SCO1808" fbc:label="SCO1808" fbc:name="SCO1808" />
+      <fbc:geneProduct fbc:id="G_SCO1814" fbc:label="SCO1814" fbc:name="SCO1814" />
+      <fbc:geneProduct fbc:id="G_SCO1815" fbc:label="SCO1815" fbc:name="SCO1815" />
+      <fbc:geneProduct fbc:id="G_SCO1818" fbc:label="SCO1818" fbc:name="SCO1818" />
+      <fbc:geneProduct fbc:id="G_SCO1827" fbc:label="SCO1827" fbc:name="SCO1827" />
+      <fbc:geneProduct fbc:id="G_SCO1831" fbc:label="SCO1831" fbc:name="SCO1831" />
+      <fbc:geneProduct fbc:id="G_SCO1859" fbc:label="SCO1859" fbc:name="SCO1859" />
+      <fbc:geneProduct fbc:id="G_SCO1888" fbc:label="SCO1888" fbc:name="SCO1888" />
+      <fbc:geneProduct fbc:id="G_SCO1912" fbc:label="SCO1912" fbc:name="SCO1912" />
+      <fbc:geneProduct fbc:id="G_SCO1916" fbc:label="SCO1916" fbc:name="SCO1916" />
+      <fbc:geneProduct fbc:id="G_SCO1930" fbc:label="SCO1930" fbc:name="SCO1930" />
+      <fbc:geneProduct fbc:id="G_SCO1934" fbc:label="SCO1934" fbc:name="SCO1934" />
+      <fbc:geneProduct fbc:id="G_SCO1935" fbc:label="SCO1935" fbc:name="SCO1935" />
+      <fbc:geneProduct fbc:id="G_SCO1936" fbc:label="SCO1936" fbc:name="SCO1936" />
+      <fbc:geneProduct fbc:id="G_SCO1937" fbc:label="SCO1937" fbc:name="SCO1937" />
+      <fbc:geneProduct fbc:id="G_SCO1939" fbc:label="SCO1939" fbc:name="SCO1939" />
+      <fbc:geneProduct fbc:id="G_SCO1942" fbc:label="SCO1942" fbc:name="SCO1942" />
+      <fbc:geneProduct fbc:id="G_SCO1945" fbc:label="SCO1945" fbc:name="SCO1945" />
+      <fbc:geneProduct fbc:id="G_SCO1946" fbc:label="SCO1946" fbc:name="SCO1946" />
+      <fbc:geneProduct fbc:id="G_SCO1947" fbc:label="SCO1947" fbc:name="SCO1947" />
       <fbc:geneProduct fbc:id="G_SCO1957" fbc:label="SCO1957" fbc:name="SCO1957" />
+      <fbc:geneProduct fbc:id="G_SCO1961" fbc:label="SCO1961" fbc:name="SCO1961" />
+      <fbc:geneProduct fbc:id="G_SCO1977" fbc:label="SCO1977" fbc:name="SCO1977" />
+      <fbc:geneProduct fbc:id="G_SCO1996" fbc:label="SCO1996" fbc:name="SCO1996" />
+      <fbc:geneProduct fbc:id="G_SCO2003" fbc:label="SCO2003" fbc:name="SCO2003" />
+      <fbc:geneProduct fbc:id="G_SCO2014" fbc:label="SCO2014" fbc:name="SCO2014" />
+      <fbc:geneProduct fbc:id="G_SCO2019" fbc:label="SCO2019" fbc:name="SCO2019" />
+      <fbc:geneProduct fbc:id="G_SCO2025" fbc:label="SCO2025" fbc:name="SCO2025" />
+      <fbc:geneProduct fbc:id="G_SCO2026" fbc:label="SCO2026" fbc:name="SCO2026" />
+      <fbc:geneProduct fbc:id="G_SCO2033" fbc:label="SCO2033" fbc:name="SCO2033" />
+      <fbc:geneProduct fbc:id="G_SCO2036" fbc:label="SCO2036" fbc:name="SCO2036" />
+      <fbc:geneProduct fbc:id="G_SCO2037" fbc:label="SCO2037" fbc:name="SCO2037" />
+      <fbc:geneProduct fbc:id="G_SCO2039" fbc:label="SCO2039" fbc:name="SCO2039" />
+      <fbc:geneProduct fbc:id="G_SCO2043" fbc:label="SCO2043" fbc:name="SCO2043" />
+      <fbc:geneProduct fbc:id="G_SCO2044" fbc:label="SCO2044" fbc:name="SCO2044" />
+      <fbc:geneProduct fbc:id="G_SCO2050" fbc:label="SCO2050" fbc:name="SCO2050" />
+      <fbc:geneProduct fbc:id="G_SCO2051" fbc:label="SCO2051" fbc:name="SCO2051" />
+      <fbc:geneProduct fbc:id="G_SCO2052" fbc:label="SCO2052" fbc:name="SCO2052" />
+      <fbc:geneProduct fbc:id="G_SCO2053" fbc:label="SCO2053" fbc:name="SCO2053" />
+      <fbc:geneProduct fbc:id="G_SCO2054" fbc:label="SCO2054" fbc:name="SCO2054" />
+      <fbc:geneProduct fbc:id="G_SCO2073" fbc:label="SCO2073" fbc:name="SCO2073" />
+      <fbc:geneProduct fbc:id="G_SCO2076" fbc:label="SCO2076" fbc:name="SCO2076" />
+      <fbc:geneProduct fbc:id="G_SCO2084" fbc:label="SCO2084" fbc:name="SCO2084" />
+      <fbc:geneProduct fbc:id="G_SCO2086" fbc:label="SCO2086" fbc:name="SCO2086" />
+      <fbc:geneProduct fbc:id="G_SCO2087" fbc:label="SCO2087" fbc:name="SCO2087" />
+      <fbc:geneProduct fbc:id="G_SCO2088" fbc:label="SCO2088" fbc:name="SCO2088" />
+      <fbc:geneProduct fbc:id="G_SCO2089" fbc:label="SCO2089" fbc:name="SCO2089" />
+      <fbc:geneProduct fbc:id="G_SCO2103" fbc:label="SCO2103" fbc:name="SCO2103" />
+      <fbc:geneProduct fbc:id="G_SCO2115" fbc:label="SCO2115" fbc:name="SCO2115" />
+      <fbc:geneProduct fbc:id="G_SCO2118" fbc:label="SCO2118" fbc:name="SCO2118" />
+      <fbc:geneProduct fbc:id="G_SCO2119" fbc:label="SCO2119" fbc:name="SCO2119" />
+      <fbc:geneProduct fbc:id="G_SCO2122" fbc:label="SCO2122" fbc:name="SCO2122" />
+      <fbc:geneProduct fbc:id="G_SCO2126" fbc:label="SCO2126" fbc:name="SCO2126" />
+      <fbc:geneProduct fbc:id="G_SCO2144" fbc:label="SCO2144" fbc:name="SCO2144" />
+      <fbc:geneProduct fbc:id="G_SCO2145" fbc:label="SCO2145" fbc:name="SCO2145" />
+      <fbc:geneProduct fbc:id="G_SCO2147" fbc:label="SCO2147" fbc:name="SCO2147" />
+      <fbc:geneProduct fbc:id="G_SCO2148" fbc:label="SCO2148" fbc:name="SCO2148" />
+      <fbc:geneProduct fbc:id="G_SCO2149" fbc:label="SCO2149" fbc:name="SCO2149" />
+      <fbc:geneProduct fbc:id="G_SCO2150" fbc:label="SCO2150" fbc:name="SCO2150" />
+      <fbc:geneProduct fbc:id="G_SCO2151" fbc:label="SCO2151" fbc:name="SCO2151" />
+      <fbc:geneProduct fbc:id="G_SCO2155" fbc:label="SCO2155" fbc:name="SCO2155" />
+      <fbc:geneProduct fbc:id="G_SCO2156" fbc:label="SCO2156" fbc:name="SCO2156" />
+      <fbc:geneProduct fbc:id="G_SCO2162" fbc:label="SCO2162" fbc:name="SCO2162" />
+      <fbc:geneProduct fbc:id="G_SCO2180" fbc:label="SCO2180" fbc:name="SCO2180" />
+      <fbc:geneProduct fbc:id="G_SCO2181" fbc:label="SCO2181" fbc:name="SCO2181" />
+      <fbc:geneProduct fbc:id="G_SCO2183" fbc:label="SCO2183" fbc:name="SCO2183" />
+      <fbc:geneProduct fbc:id="G_SCO2198" fbc:label="SCO2198" fbc:name="SCO2198" />
+      <fbc:geneProduct fbc:id="G_SCO2210" fbc:label="SCO2210" fbc:name="SCO2210" />
+      <fbc:geneProduct fbc:id="G_SCO2228" fbc:label="SCO2228" fbc:name="SCO2228" />
+      <fbc:geneProduct fbc:id="G_SCO2229" fbc:label="SCO2229" fbc:name="SCO2229" />
+      <fbc:geneProduct fbc:id="G_SCO2230" fbc:label="SCO2230" fbc:name="SCO2230" />
+      <fbc:geneProduct fbc:id="G_SCO2231" fbc:label="SCO2231" fbc:name="SCO2231" />
+      <fbc:geneProduct fbc:id="G_SCO2238" fbc:label="SCO2238" fbc:name="SCO2238" />
+      <fbc:geneProduct fbc:id="G_SCO2241" fbc:label="SCO2241" fbc:name="SCO2241" />
+      <fbc:geneProduct fbc:id="G_SCO2256" fbc:label="SCO2256" fbc:name="SCO2256" />
+      <fbc:geneProduct fbc:id="G_SCO2298" fbc:label="SCO2298" fbc:name="SCO2298" />
+      <fbc:geneProduct fbc:id="G_SCO2346" fbc:label="SCO2346" fbc:name="SCO2346" />
+      <fbc:geneProduct fbc:id="G_SCO2371" fbc:label="SCO2371" fbc:name="SCO2371" />
+      <fbc:geneProduct fbc:id="G_SCO2387" fbc:label="SCO2387" fbc:name="SCO2387" />
+      <fbc:geneProduct fbc:id="G_SCO2388" fbc:label="SCO2388" fbc:name="SCO2388" />
+      <fbc:geneProduct fbc:id="G_SCO2389" fbc:label="SCO2389" fbc:name="SCO2389" />
+      <fbc:geneProduct fbc:id="G_SCO2390" fbc:label="SCO2390" fbc:name="SCO2390" />
+      <fbc:geneProduct fbc:id="G_SCO2393" fbc:label="SCO2393" fbc:name="SCO2393" />
+      <fbc:geneProduct fbc:id="G_SCO2407" fbc:label="SCO2407" fbc:name="SCO2407" />
+      <fbc:geneProduct fbc:id="G_SCO2445" fbc:label="SCO2445" fbc:name="SCO2445" />
+      <fbc:geneProduct fbc:id="G_SCO2455" fbc:label="SCO2455" fbc:name="SCO2455" />
+      <fbc:geneProduct fbc:id="G_SCO2470" fbc:label="SCO2470" fbc:name="SCO2470" />
+      <fbc:geneProduct fbc:id="G_SCO2473" fbc:label="SCO2473" fbc:name="SCO2473" />
+      <fbc:geneProduct fbc:id="G_SCO2486" fbc:label="SCO2486" fbc:name="SCO2486" />
+      <fbc:geneProduct fbc:id="G_SCO2487" fbc:label="SCO2487" fbc:name="SCO2487" />
+      <fbc:geneProduct fbc:id="G_SCO2488" fbc:label="SCO2488" fbc:name="SCO2488" />
+      <fbc:geneProduct fbc:id="G_SCO2494" fbc:label="SCO2494" fbc:name="SCO2494" />
+      <fbc:geneProduct fbc:id="G_SCO2504" fbc:label="SCO2504" fbc:name="SCO2504" />
+      <fbc:geneProduct fbc:id="G_SCO2528" fbc:label="SCO2528" fbc:name="SCO2528" />
+      <fbc:geneProduct fbc:id="G_SCO2531" fbc:label="SCO2531" fbc:name="SCO2531" />
+      <fbc:geneProduct fbc:id="G_SCO2546" fbc:label="SCO2546" fbc:name="SCO2546" />
+      <fbc:geneProduct fbc:id="G_SCO2564" fbc:label="SCO2564" fbc:name="SCO2564" />
+      <fbc:geneProduct fbc:id="G_SCO2571" fbc:label="SCO2571" fbc:name="SCO2571" />
+      <fbc:geneProduct fbc:id="G_SCO2576" fbc:label="SCO2576" fbc:name="SCO2576" />
+      <fbc:geneProduct fbc:id="G_SCO2579" fbc:label="SCO2579" fbc:name="SCO2579" />
+      <fbc:geneProduct fbc:id="G_SCO2585" fbc:label="SCO2585" fbc:name="SCO2585" />
+      <fbc:geneProduct fbc:id="G_SCO2587" fbc:label="SCO2587" fbc:name="SCO2587" />
+      <fbc:geneProduct fbc:id="G_SCO2612" fbc:label="SCO2612" fbc:name="SCO2612" />
+      <fbc:geneProduct fbc:id="G_SCO2614" fbc:label="SCO2614" fbc:name="SCO2614" />
+      <fbc:geneProduct fbc:id="G_SCO2615" fbc:label="SCO2615" fbc:name="SCO2615" />
+      <fbc:geneProduct fbc:id="G_SCO2627" fbc:label="SCO2627" fbc:name="SCO2627" />
+      <fbc:geneProduct fbc:id="G_SCO2640" fbc:label="SCO2640" fbc:name="SCO2640" />
+      <fbc:geneProduct fbc:id="G_SCO2661" fbc:label="SCO2661" fbc:name="SCO2661" />
+      <fbc:geneProduct fbc:id="G_SCO2687" fbc:label="SCO2687" fbc:name="SCO2687" />
+      <fbc:geneProduct fbc:id="G_SCO2688" fbc:label="SCO2688" fbc:name="SCO2688" />
+      <fbc:geneProduct fbc:id="G_SCO2726" fbc:label="SCO2726" fbc:name="SCO2726" />
+      <fbc:geneProduct fbc:id="G_SCO2736" fbc:label="SCO2736" fbc:name="SCO2736" />
+      <fbc:geneProduct fbc:id="G_SCO2748" fbc:label="SCO2748" fbc:name="SCO2748" />
+      <fbc:geneProduct fbc:id="G_SCO2769" fbc:label="SCO2769" fbc:name="SCO2769" />
+      <fbc:geneProduct fbc:id="G_SCO2774" fbc:label="SCO2774" fbc:name="SCO2774" />
+      <fbc:geneProduct fbc:id="G_SCO2776" fbc:label="SCO2776" fbc:name="SCO2776" />
+      <fbc:geneProduct fbc:id="G_SCO2777" fbc:label="SCO2777" fbc:name="SCO2777" />
+      <fbc:geneProduct fbc:id="G_SCO2778" fbc:label="SCO2778" fbc:name="SCO2778" />
+      <fbc:geneProduct fbc:id="G_SCO2779" fbc:label="SCO2779" fbc:name="SCO2779" />
+      <fbc:geneProduct fbc:id="G_SCO2789" fbc:label="SCO2789" fbc:name="SCO2789" />
+      <fbc:geneProduct fbc:id="G_SCO2796" fbc:label="SCO2796" fbc:name="SCO2796" />
+      <fbc:geneProduct fbc:id="G_SCO2797" fbc:label="SCO2797" fbc:name="SCO2797" />
+      <fbc:geneProduct fbc:id="G_SCO2798" fbc:label="SCO2798" fbc:name="SCO2798" />
+      <fbc:geneProduct fbc:id="G_SCO2906" fbc:label="SCO2906" fbc:name="SCO2906" />
+      <fbc:geneProduct fbc:id="G_SCO2907" fbc:label="SCO2907" fbc:name="SCO2907" />
+      <fbc:geneProduct fbc:id="G_SCO2910" fbc:label="SCO2910" fbc:name="SCO2910" />
+      <fbc:geneProduct fbc:id="G_SCO2918" fbc:label="SCO2918" fbc:name="SCO2918" />
+      <fbc:geneProduct fbc:id="G_SCO2925" fbc:label="SCO2925" fbc:name="SCO2925" />
+      <fbc:geneProduct fbc:id="G_SCO2927" fbc:label="SCO2927" fbc:name="SCO2927" />
+      <fbc:geneProduct fbc:id="G_SCO2949" fbc:label="SCO2949" fbc:name="SCO2949" />
+      <fbc:geneProduct fbc:id="G_SCO2951" fbc:label="SCO2951" fbc:name="SCO2951" />
+      <fbc:geneProduct fbc:id="G_SCO2988" fbc:label="SCO2988" fbc:name="SCO2988" />
+      <fbc:geneProduct fbc:id="G_SCO3023" fbc:label="SCO3023" fbc:name="SCO3023" />
       <fbc:geneProduct fbc:id="G_SCO3025" fbc:label="SCO3025" fbc:name="SCO3025" />
       <fbc:geneProduct fbc:id="G_SCO3028" fbc:label="SCO3028" fbc:name="SCO3028" />
-      <fbc:geneProduct fbc:id="G_SCO4736" fbc:label="SCO4736" fbc:name="SCO4736" />
-      <fbc:geneProduct fbc:id="G_SCO4916" fbc:label="SCO4916" fbc:name="SCO4916" />
-      <fbc:geneProduct fbc:id="G_SCO1388" fbc:label="SCO1388" fbc:name="SCO1388" />
+      <fbc:geneProduct fbc:id="G_SCO3029" fbc:label="SCO3029" fbc:name="SCO3029" />
       <fbc:geneProduct fbc:id="G_SCO3039" fbc:label="SCO3039" fbc:name="SCO3039" />
+      <fbc:geneProduct fbc:id="G_SCO3052" fbc:label="SCO3052" fbc:name="SCO3052" />
+      <fbc:geneProduct fbc:id="G_SCO3059" fbc:label="SCO3059" fbc:name="SCO3059" />
+      <fbc:geneProduct fbc:id="G_SCO3060" fbc:label="SCO3060" fbc:name="SCO3060" />
+      <fbc:geneProduct fbc:id="G_SCO3070" fbc:label="SCO3070" fbc:name="SCO3070" />
+      <fbc:geneProduct fbc:id="G_SCO3071" fbc:label="SCO3071" fbc:name="SCO3071" />
+      <fbc:geneProduct fbc:id="G_SCO3072" fbc:label="SCO3072" fbc:name="SCO3072" />
+      <fbc:geneProduct fbc:id="G_SCO3073" fbc:label="SCO3073" fbc:name="SCO3073" />
+      <fbc:geneProduct fbc:id="G_SCO3077" fbc:label="SCO3077" fbc:name="SCO3077" />
+      <fbc:geneProduct fbc:id="G_SCO3079" fbc:label="SCO3079" fbc:name="SCO3079" />
+      <fbc:geneProduct fbc:id="G_SCO3096" fbc:label="SCO3096" fbc:name="SCO3096" />
+      <fbc:geneProduct fbc:id="G_SCO3123" fbc:label="SCO3123" fbc:name="SCO3123" />
+      <fbc:geneProduct fbc:id="G_SCO3127" fbc:label="SCO3127" fbc:name="SCO3127" />
       <fbc:geneProduct fbc:id="G_SCO3136" fbc:label="SCO3136" fbc:name="SCO3136" />
       <fbc:geneProduct fbc:id="G_SCO3137" fbc:label="SCO3137" fbc:name="SCO3137" />
       <fbc:geneProduct fbc:id="G_SCO3138" fbc:label="SCO3138" fbc:name="SCO3138" />
-      <fbc:geneProduct fbc:id="G_SCO2988" fbc:label="SCO2988" fbc:name="SCO2988" />
-      <fbc:geneProduct fbc:id="G_SCO3326" fbc:label="SCO3326" fbc:name="SCO3326" />
+      <fbc:geneProduct fbc:id="G_SCO3139" fbc:label="SCO3139" fbc:name="SCO3139" />
+      <fbc:geneProduct fbc:id="G_SCO3148" fbc:label="SCO3148" fbc:name="SCO3148" />
       <fbc:geneProduct fbc:id="G_SCO3182" fbc:label="SCO3182" fbc:name="SCO3182" />
-      <fbc:geneProduct fbc:id="G_SCO0541" fbc:label="SCO0541" fbc:name="SCO0541" />
-      <fbc:geneProduct fbc:id="G_SCO1679" fbc:label="SCO1679" fbc:name="SCO1679" />
-      <fbc:geneProduct fbc:id="G_SCO3486" fbc:label="SCO3486" fbc:name="SCO3486" />
-      <fbc:geneProduct fbc:id="G_SCO2661" fbc:label="SCO2661" fbc:name="SCO2661" />
-      <fbc:geneProduct fbc:id="G_SCO6670" fbc:label="SCO6670" fbc:name="SCO6670" />
-      <fbc:geneProduct fbc:id="G_SCO1394" fbc:label="SCO1394" fbc:name="SCO1394" />
-      <fbc:geneProduct fbc:id="G_SCO2228" fbc:label="SCO2228" fbc:name="SCO2228" />
-      <fbc:geneProduct fbc:id="G_SCO3780" fbc:label="SCO3780" fbc:name="SCO3780" />
-      <fbc:geneProduct fbc:id="G_SCO7010" fbc:label="SCO7010" fbc:name="SCO7010" />
-      <fbc:geneProduct fbc:id="G_SCO3479" fbc:label="SCO3479" fbc:name="SCO3479" />
-      <fbc:geneProduct fbc:id="G_SCO5689" fbc:label="SCO5689" fbc:name="SCO5689" />
-      <fbc:geneProduct fbc:id="G_SCO6347" fbc:label="SCO6347" fbc:name="SCO6347" />
-      <fbc:geneProduct fbc:id="G_SCO6457" fbc:label="SCO6457" fbc:name="SCO6457" />
-      <fbc:geneProduct fbc:id="G_SCO7407" fbc:label="SCO7407" fbc:name="SCO7407" />
-      <fbc:geneProduct fbc:id="G_SCO0293" fbc:label="SCO0293" fbc:name="SCO0293" />
-      <fbc:geneProduct fbc:id="G_SCO0458" fbc:label="SCO0458" fbc:name="SCO0458" />
-      <fbc:geneProduct fbc:id="G_SCO1059" fbc:label="SCO1059" fbc:name="SCO1059" />
-      <fbc:geneProduct fbc:id="G_SCO2531" fbc:label="SCO2531" fbc:name="SCO2531" />
-      <fbc:geneProduct fbc:id="G_SCO2798" fbc:label="SCO2798" fbc:name="SCO2798" />
-      <fbc:geneProduct fbc:id="G_SCO5685" fbc:label="SCO5685" fbc:name="SCO5685" />
-      <fbc:geneProduct fbc:id="G_SCO7031" fbc:label="SCO7031" fbc:name="SCO7031" />
-      <fbc:geneProduct fbc:id="G_SCO7558" fbc:label="SCO7558" fbc:name="SCO7558" />
-      <fbc:geneProduct fbc:id="G_SCO4288" fbc:label="SCO4288" fbc:name="SCO4288" />
-      <fbc:geneProduct fbc:id="G_SCO6561" fbc:label="SCO6561" fbc:name="SCO6561" />
+      <fbc:geneProduct fbc:id="G_SCO3185" fbc:label="SCO3185" fbc:name="SCO3185" />
+      <fbc:geneProduct fbc:id="G_SCO3196" fbc:label="SCO3196" fbc:name="SCO3196" />
+      <fbc:geneProduct fbc:id="G_SCO3197" fbc:label="SCO3197" fbc:name="SCO3197" />
+      <fbc:geneProduct fbc:id="G_SCO3210" fbc:label="SCO3210" fbc:name="SCO3210" />
+      <fbc:geneProduct fbc:id="G_SCO3211" fbc:label="SCO3211" fbc:name="SCO3211" />
+      <fbc:geneProduct fbc:id="G_SCO3212" fbc:label="SCO3212" fbc:name="SCO3212" />
+      <fbc:geneProduct fbc:id="G_SCO3213" fbc:label="SCO3213" fbc:name="SCO3213" />
+      <fbc:geneProduct fbc:id="G_SCO3214" fbc:label="SCO3214" fbc:name="SCO3214" />
+      <fbc:geneProduct fbc:id="G_SCO3215" fbc:label="SCO3215" fbc:name="SCO3215" />
+      <fbc:geneProduct fbc:id="G_SCO3221" fbc:label="SCO3221" fbc:name="SCO3221" />
+      <fbc:geneProduct fbc:id="G_SCO3227" fbc:label="SCO3227" fbc:name="SCO3227" />
+      <fbc:geneProduct fbc:id="G_SCO3228" fbc:label="SCO3228" fbc:name="SCO3228" />
+      <fbc:geneProduct fbc:id="G_SCO3229" fbc:label="SCO3229" fbc:name="SCO3229" />
+      <fbc:geneProduct fbc:id="G_SCO3230" fbc:label="SCO3230" fbc:name="SCO3230" />
+      <fbc:geneProduct fbc:id="G_SCO3231" fbc:label="SCO3231" fbc:name="SCO3231" />
+      <fbc:geneProduct fbc:id="G_SCO3232" fbc:label="SCO3232" fbc:name="SCO3232" />
+      <fbc:geneProduct fbc:id="G_SCO3236" fbc:label="SCO3236" fbc:name="SCO3236" />
+      <fbc:geneProduct fbc:id="G_SCO3243" fbc:label="SCO3243" fbc:name="SCO3243" />
+      <fbc:geneProduct fbc:id="G_SCO3245" fbc:label="SCO3245" fbc:name="SCO3245" />
+      <fbc:geneProduct fbc:id="G_SCO3246" fbc:label="SCO3246" fbc:name="SCO3246" />
+      <fbc:geneProduct fbc:id="G_SCO3247" fbc:label="SCO3247" fbc:name="SCO3247" />
+      <fbc:geneProduct fbc:id="G_SCO3248" fbc:label="SCO3248" fbc:name="SCO3248" />
+      <fbc:geneProduct fbc:id="G_SCO3249" fbc:label="SCO3249" fbc:name="SCO3249" />
+      <fbc:geneProduct fbc:id="G_SCO3304" fbc:label="SCO3304" fbc:name="SCO3304" />
+      <fbc:geneProduct fbc:id="G_SCO3326" fbc:label="SCO3326" fbc:name="SCO3326" />
+      <fbc:geneProduct fbc:id="G_SCO3337" fbc:label="SCO3337" fbc:name="SCO3337" />
+      <fbc:geneProduct fbc:id="G_SCO3345" fbc:label="SCO3345" fbc:name="SCO3345" />
+      <fbc:geneProduct fbc:id="G_SCO3381" fbc:label="SCO3381" fbc:name="SCO3381" />
+      <fbc:geneProduct fbc:id="G_SCO3382" fbc:label="SCO3382" fbc:name="SCO3382" />
+      <fbc:geneProduct fbc:id="G_SCO3383" fbc:label="SCO3383" fbc:name="SCO3383" />
+      <fbc:geneProduct fbc:id="G_SCO3392" fbc:label="SCO3392" fbc:name="SCO3392" />
+      <fbc:geneProduct fbc:id="G_SCO3398" fbc:label="SCO3398" fbc:name="SCO3398" />
+      <fbc:geneProduct fbc:id="G_SCO3400" fbc:label="SCO3400" fbc:name="SCO3400" />
+      <fbc:geneProduct fbc:id="G_SCO3401" fbc:label="SCO3401" fbc:name="SCO3401" />
+      <fbc:geneProduct fbc:id="G_SCO3403" fbc:label="SCO3403" fbc:name="SCO3403" />
+      <fbc:geneProduct fbc:id="G_SCO3405" fbc:label="SCO3405" fbc:name="SCO3405" />
+      <fbc:geneProduct fbc:id="G_SCO3409" fbc:label="SCO3409" fbc:name="SCO3409" />
       <fbc:geneProduct fbc:id="G_SCO3416" fbc:label="SCO3416" fbc:name="SCO3416" />
-      <fbc:geneProduct fbc:id="G_SCO5676" fbc:label="SCO5676" fbc:name="SCO5676" />
-      <fbc:geneProduct fbc:id="G_SCO1204" fbc:label="SCO1204" fbc:name="SCO1204" />
-      <fbc:geneProduct fbc:id="G_SCO4780" fbc:label="SCO4780" fbc:name="SCO4780" />
-      <fbc:geneProduct fbc:id="G_SCO7049" fbc:label="SCO7049" fbc:name="SCO7049" />
-      <fbc:geneProduct fbc:id="G_SCO5520" fbc:label="SCO5520" fbc:name="SCO5520" />
-      <fbc:geneProduct fbc:id="G_SCO0613" fbc:label="SCO0613" fbc:name="SCO0613" />
-      <fbc:geneProduct fbc:id="G_SCO5975" fbc:label="SCO5975" fbc:name="SCO5975" />
-      <fbc:geneProduct fbc:id="G_SCO1223" fbc:label="SCO1223" fbc:name="SCO1223" />
-      <fbc:geneProduct fbc:id="G_SCO1284" fbc:label="SCO1284" fbc:name="SCO1284" />
-      <fbc:geneProduct fbc:id="G_SCO5976" fbc:label="SCO5976" fbc:name="SCO5976" />
-      <fbc:geneProduct fbc:id="G_SCO6035" fbc:label="SCO6035" fbc:name="SCO6035" />
-      <fbc:geneProduct fbc:id="G_SCO2455" fbc:label="SCO2455" fbc:name="SCO2455" />
-      <fbc:geneProduct fbc:id="G_SCO1232" fbc:label="SCO1232" fbc:name="SCO1232" />
-      <fbc:geneProduct fbc:id="G_SCO1233" fbc:label="SCO1233" fbc:name="SCO1233" />
-      <fbc:geneProduct fbc:id="G_SCO1231" fbc:label="SCO1231" fbc:name="SCO1231" />
-      <fbc:geneProduct fbc:id="G_SCO1236" fbc:label="SCO1236" fbc:name="SCO1236" />
-      <fbc:geneProduct fbc:id="G_SCO1234" fbc:label="SCO1234" fbc:name="SCO1234" />
-      <fbc:geneProduct fbc:id="G_SCO1235" fbc:label="SCO1235" fbc:name="SCO1235" />
-      <fbc:geneProduct fbc:id="G_SCO5526" fbc:label="SCO5526" fbc:name="SCO5526" />
-      <fbc:geneProduct fbc:id="G_SCO5525" fbc:label="SCO5525" fbc:name="SCO5525" />
-      <fbc:geneProduct fbc:id="G_SCO4089" fbc:label="SCO4089" fbc:name="SCO4089" />
-      <fbc:geneProduct fbc:id="G_SCO3817" fbc:label="SCO3817" fbc:name="SCO3817" />
-      <fbc:geneProduct fbc:id="G_SCO3816" fbc:label="SCO3816" fbc:name="SCO3816" />
-      <fbc:geneProduct fbc:id="G_SCO3831" fbc:label="SCO3831" fbc:name="SCO3831" />
-      <fbc:geneProduct fbc:id="G_SCO3830" fbc:label="SCO3830" fbc:name="SCO3830" />
+      <fbc:geneProduct fbc:id="G_SCO3420" fbc:label="SCO3420" fbc:name="SCO3420" />
+      <fbc:geneProduct fbc:id="G_SCO3473" fbc:label="SCO3473" fbc:name="SCO3473" />
+      <fbc:geneProduct fbc:id="G_SCO3474" fbc:label="SCO3474" fbc:name="SCO3474" />
+      <fbc:geneProduct fbc:id="G_SCO3479" fbc:label="SCO3479" fbc:name="SCO3479" />
+      <fbc:geneProduct fbc:id="G_SCO3486" fbc:label="SCO3486" fbc:name="SCO3486" />
+      <fbc:geneProduct fbc:id="G_SCO3494" fbc:label="SCO3494" fbc:name="SCO3494" />
+      <fbc:geneProduct fbc:id="G_SCO3495" fbc:label="SCO3495" fbc:name="SCO3495" />
+      <fbc:geneProduct fbc:id="G_SCO3541" fbc:label="SCO3541" fbc:name="SCO3541" />
+      <fbc:geneProduct fbc:id="G_SCO3547" fbc:label="SCO3547" fbc:name="SCO3547" />
+      <fbc:geneProduct fbc:id="G_SCO3563" fbc:label="SCO3563" fbc:name="SCO3563" />
+      <fbc:geneProduct fbc:id="G_SCO3564" fbc:label="SCO3564" fbc:name="SCO3564" />
+      <fbc:geneProduct fbc:id="G_SCO3603" fbc:label="SCO3603" fbc:name="SCO3603" />
+      <fbc:geneProduct fbc:id="G_SCO3614" fbc:label="SCO3614" fbc:name="SCO3614" />
+      <fbc:geneProduct fbc:id="G_SCO3615" fbc:label="SCO3615" fbc:name="SCO3615" />
+      <fbc:geneProduct fbc:id="G_SCO3629" fbc:label="SCO3629" fbc:name="SCO3629" />
+      <fbc:geneProduct fbc:id="G_SCO3649" fbc:label="SCO3649" fbc:name="SCO3649" />
+      <fbc:geneProduct fbc:id="G_SCO3650" fbc:label="SCO3650" fbc:name="SCO3650" />
+      <fbc:geneProduct fbc:id="G_SCO3658" fbc:label="SCO3658" fbc:name="SCO3658" />
+      <fbc:geneProduct fbc:id="G_SCO3678" fbc:label="SCO3678" fbc:name="SCO3678" />
+      <fbc:geneProduct fbc:id="G_SCO3780" fbc:label="SCO3780" fbc:name="SCO3780" />
+      <fbc:geneProduct fbc:id="G_SCO3792" fbc:label="SCO3792" fbc:name="SCO3792" />
+      <fbc:geneProduct fbc:id="G_SCO3795" fbc:label="SCO3795" fbc:name="SCO3795" />
       <fbc:geneProduct fbc:id="G_SCO3815" fbc:label="SCO3815" fbc:name="SCO3815" />
+      <fbc:geneProduct fbc:id="G_SCO3816" fbc:label="SCO3816" fbc:name="SCO3816" />
+      <fbc:geneProduct fbc:id="G_SCO3817" fbc:label="SCO3817" fbc:name="SCO3817" />
       <fbc:geneProduct fbc:id="G_SCO3829" fbc:label="SCO3829" fbc:name="SCO3829" />
-      <fbc:geneProduct fbc:id="G_SCO1690" fbc:label="SCO1690" fbc:name="SCO1690" />
-      <fbc:geneProduct fbc:id="G_SCO2774" fbc:label="SCO2774" fbc:name="SCO2774" />
-      <fbc:geneProduct fbc:id="G_SCO6787" fbc:label="SCO6787" fbc:name="SCO6787" />
-      <fbc:geneProduct fbc:id="G_SCO0364" fbc:label="SCO0364" fbc:name="SCO0364" />
-      <fbc:geneProduct fbc:id="G_SCO4930" fbc:label="SCO4930" fbc:name="SCO4930" />
-      <fbc:geneProduct fbc:id="G_SCO5144" fbc:label="SCO5144" fbc:name="SCO5144" />
-      <fbc:geneProduct fbc:id="G_SCO6732" fbc:label="SCO6732" fbc:name="SCO6732" />
-      <fbc:geneProduct fbc:id="G_SCO6789" fbc:label="SCO6789" fbc:name="SCO6789" />
-      <fbc:geneProduct fbc:id="G_SCO0984" fbc:label="SCO0984" fbc:name="SCO0984" />
-      <fbc:geneProduct fbc:id="G_SCO1591" fbc:label="SCO1591" fbc:name="SCO1591" />
-      <fbc:geneProduct fbc:id="G_SCO6297" fbc:label="SCO6297" fbc:name="SCO6297" />
-      <fbc:geneProduct fbc:id="G_SCO1324" fbc:label="SCO1324" fbc:name="SCO1324" />
-      <fbc:geneProduct fbc:id="G_SCO3079" fbc:label="SCO3079" fbc:name="SCO3079" />
-      <fbc:geneProduct fbc:id="G_SCO4502" fbc:label="SCO4502" fbc:name="SCO4502" />
-      <fbc:geneProduct fbc:id="G_SCO6701" fbc:label="SCO6701" fbc:name="SCO6701" />
-      <fbc:geneProduct fbc:id="G_SCO6731" fbc:label="SCO6731" fbc:name="SCO6731" />
-      <fbc:geneProduct fbc:id="G_SCO6788" fbc:label="SCO6788" fbc:name="SCO6788" />
-      <fbc:geneProduct fbc:id="G_SCO6967" fbc:label="SCO6967" fbc:name="SCO6967" />
-      <fbc:geneProduct fbc:id="G_SCO4381" fbc:label="SCO4381" fbc:name="SCO4381" />
-      <fbc:geneProduct fbc:id="G_SCO4380" fbc:label="SCO4380" fbc:name="SCO4380" />
-      <fbc:geneProduct fbc:id="G_SCO2777" fbc:label="SCO2777" fbc:name="SCO2777" />
-      <fbc:geneProduct fbc:id="G_SCO2776" fbc:label="SCO2776" fbc:name="SCO2776" />
-      <fbc:geneProduct fbc:id="G_SCO4926" fbc:label="SCO4926" fbc:name="SCO4926" />
-      <fbc:geneProduct fbc:id="G_SCO4921" fbc:label="SCO4921" fbc:name="SCO4921" />
-      <fbc:geneProduct fbc:id="G_SCO6833" fbc:label="SCO6833" fbc:name="SCO6833" />
-      <fbc:geneProduct fbc:id="G_SCO4800" fbc:label="SCO4800" fbc:name="SCO4800" />
-      <fbc:geneProduct fbc:id="G_SCO6472" fbc:label="SCO6472" fbc:name="SCO6472" />
-      <fbc:geneProduct fbc:id="G_SCO4869" fbc:label="SCO4869" fbc:name="SCO4869" />
-      <fbc:geneProduct fbc:id="G_SCO5415" fbc:label="SCO5415" fbc:name="SCO5415" />
-      <fbc:geneProduct fbc:id="G_SCO6832" fbc:label="SCO6832" fbc:name="SCO6832" />
-      <fbc:geneProduct fbc:id="G_SCO2779" fbc:label="SCO2779" fbc:name="SCO2779" />
-      <fbc:geneProduct fbc:id="G_SCO2778" fbc:label="SCO2778" fbc:name="SCO2778" />
-      <fbc:geneProduct fbc:id="G_SCO1393" fbc:label="SCO1393" fbc:name="SCO1393" />
-      <fbc:geneProduct fbc:id="G_SCO6702" fbc:label="SCO6702" fbc:name="SCO6702" />
-      <fbc:geneProduct fbc:id="G_SCO6703" fbc:label="SCO6703" fbc:name="SCO6703" />
-      <fbc:geneProduct fbc:id="G_SCO0907" fbc:label="SCO0907" fbc:name="SCO0907" />
-      <fbc:geneProduct fbc:id="G_SCO2726" fbc:label="SCO2726" fbc:name="SCO2726" />
-      <fbc:geneProduct fbc:id="G_SCO1087" fbc:label="SCO1087" fbc:name="SCO1087" />
-      <fbc:geneProduct fbc:id="G_SCO6799" fbc:label="SCO6799" fbc:name="SCO6799" />
-      <fbc:geneProduct fbc:id="G_SCO6800" fbc:label="SCO6800" fbc:name="SCO6800" />
-      <fbc:geneProduct fbc:id="G_SCO7311" fbc:label="SCO7311" fbc:name="SCO7311" />
-      <fbc:geneProduct fbc:id="G_SCO5472" fbc:label="SCO5472" fbc:name="SCO5472" />
-      <fbc:geneProduct fbc:id="G_SCO5470" fbc:label="SCO5470" fbc:name="SCO5470" />
-      <fbc:geneProduct fbc:id="G_SCO1378" fbc:label="SCO1378" fbc:name="SCO1378" />
-      <fbc:geneProduct fbc:id="G_SCO0884" fbc:label="SCO0884" fbc:name="SCO0884" />
-      <fbc:geneProduct fbc:id="G_SCO2180" fbc:label="SCO2180" fbc:name="SCO2180" />
-      <fbc:geneProduct fbc:id="G_SCO4919" fbc:label="SCO4919" fbc:name="SCO4919" />
-      <fbc:geneProduct fbc:id="G_SCO5469" fbc:label="SCO5469" fbc:name="SCO5469" />
-      <fbc:geneProduct fbc:id="G_SCO4962" fbc:label="SCO4962" fbc:name="SCO4962" />
+      <fbc:geneProduct fbc:id="G_SCO3830" fbc:label="SCO3830" fbc:name="SCO3830" />
+      <fbc:geneProduct fbc:id="G_SCO3831" fbc:label="SCO3831" fbc:name="SCO3831" />
+      <fbc:geneProduct fbc:id="G_SCO3834" fbc:label="SCO3834" fbc:name="SCO3834" />
+      <fbc:geneProduct fbc:id="G_SCO3851" fbc:label="SCO3851" fbc:name="SCO3851" />
+      <fbc:geneProduct fbc:id="G_SCO3877" fbc:label="SCO3877" fbc:name="SCO3877" />
+      <fbc:geneProduct fbc:id="G_SCO3878" fbc:label="SCO3878" fbc:name="SCO3878" />
+      <fbc:geneProduct fbc:id="G_SCO3890" fbc:label="SCO3890" fbc:name="SCO3890" />
       <fbc:geneProduct fbc:id="G_SCO3920" fbc:label="SCO3920" fbc:name="SCO3920" />
-      <fbc:geneProduct fbc:id="G_SCO4932" fbc:label="SCO4932" fbc:name="SCO4932" />
-      <fbc:geneProduct fbc:id="G_SCO3073" fbc:label="SCO3073" fbc:name="SCO3073" />
-      <fbc:geneProduct fbc:id="G_SCO5321" fbc:label="SCO5321" fbc:name="SCO5321" />
-      <fbc:geneProduct fbc:id="G_SCO3071" fbc:label="SCO3071" fbc:name="SCO3071" />
-      <fbc:geneProduct fbc:id="G_SCO3072" fbc:label="SCO3072" fbc:name="SCO3072" />
-      <fbc:geneProduct fbc:id="G_SCO3070" fbc:label="SCO3070" fbc:name="SCO3070" />
-      <fbc:geneProduct fbc:id="G_SCO4645" fbc:label="SCO4645" fbc:name="SCO4645" />
-      <fbc:geneProduct fbc:id="G_SCO4984" fbc:label="SCO4984" fbc:name="SCO4984" />
-      <fbc:geneProduct fbc:id="G_SCO5136" fbc:label="SCO5136" fbc:name="SCO5136" />
-      <fbc:geneProduct fbc:id="G_SCO6222" fbc:label="SCO6222" fbc:name="SCO6222" />
-      <fbc:geneProduct fbc:id="G_SCO1859" fbc:label="SCO1859" fbc:name="SCO1859" />
-      <fbc:geneProduct fbc:id="G_SCO2053" fbc:label="SCO2053" fbc:name="SCO2053" />
-      <fbc:geneProduct fbc:id="G_SCO2927" fbc:label="SCO2927" fbc:name="SCO2927" />
-      <fbc:geneProduct fbc:id="G_SCO1715" fbc:label="SCO1715" fbc:name="SCO1715" />
-      <fbc:geneProduct fbc:id="G_SCO4580" fbc:label="SCO4580" fbc:name="SCO4580" />
       <fbc:geneProduct fbc:id="G_SCO3944" fbc:label="SCO3944" fbc:name="SCO3944" />
-      <fbc:geneProduct fbc:id="G_SCO1612" fbc:label="SCO1612" fbc:name="SCO1612" />
+      <fbc:geneProduct fbc:id="G_SCO3945" fbc:label="SCO3945" fbc:name="SCO3945" />
+      <fbc:geneProduct fbc:id="G_SCO3946" fbc:label="SCO3946" fbc:name="SCO3946" />
+      <fbc:geneProduct fbc:id="G_SCO3961" fbc:label="SCO3961" fbc:name="SCO3961" />
+      <fbc:geneProduct fbc:id="G_SCO3962" fbc:label="SCO3962" fbc:name="SCO3962" />
+      <fbc:geneProduct fbc:id="G_SCO4041" fbc:label="SCO4041" fbc:name="SCO4041" />
+      <fbc:geneProduct fbc:id="G_SCO4067" fbc:label="SCO4067" fbc:name="SCO4067" />
+      <fbc:geneProduct fbc:id="G_SCO4068" fbc:label="SCO4068" fbc:name="SCO4068" />
+      <fbc:geneProduct fbc:id="G_SCO4071" fbc:label="SCO4071" fbc:name="SCO4071" />
+      <fbc:geneProduct fbc:id="G_SCO4077" fbc:label="SCO4077" fbc:name="SCO4077" />
+      <fbc:geneProduct fbc:id="G_SCO4078" fbc:label="SCO4078" fbc:name="SCO4078" />
+      <fbc:geneProduct fbc:id="G_SCO4079" fbc:label="SCO4079" fbc:name="SCO4079" />
+      <fbc:geneProduct fbc:id="G_SCO4086" fbc:label="SCO4086" fbc:name="SCO4086" />
+      <fbc:geneProduct fbc:id="G_SCO4087" fbc:label="SCO4087" fbc:name="SCO4087" />
+      <fbc:geneProduct fbc:id="G_SCO4089" fbc:label="SCO4089" fbc:name="SCO4089" />
+      <fbc:geneProduct fbc:id="G_SCO4106" fbc:label="SCO4106" fbc:name="SCO4106" />
+      <fbc:geneProduct fbc:id="G_SCO4138" fbc:label="SCO4138" fbc:name="SCO4138" />
+      <fbc:geneProduct fbc:id="G_SCO4139" fbc:label="SCO4139" fbc:name="SCO4139" />
+      <fbc:geneProduct fbc:id="G_SCO4140" fbc:label="SCO4140" fbc:name="SCO4140" />
+      <fbc:geneProduct fbc:id="G_SCO4141" fbc:label="SCO4141" fbc:name="SCO4141" />
+      <fbc:geneProduct fbc:id="G_SCO4142" fbc:label="SCO4142" fbc:name="SCO4142" />
+      <fbc:geneProduct fbc:id="G_SCO4145" fbc:label="SCO4145" fbc:name="SCO4145" />
+      <fbc:geneProduct fbc:id="G_SCO4209" fbc:label="SCO4209" fbc:name="SCO4209" />
+      <fbc:geneProduct fbc:id="G_SCO4233" fbc:label="SCO4233" fbc:name="SCO4233" />
+      <fbc:geneProduct fbc:id="G_SCO4234" fbc:label="SCO4234" fbc:name="SCO4234" />
+      <fbc:geneProduct fbc:id="G_SCO4235" fbc:label="SCO4235" fbc:name="SCO4235" />
+      <fbc:geneProduct fbc:id="G_SCO4240" fbc:label="SCO4240" fbc:name="SCO4240" />
+      <fbc:geneProduct fbc:id="G_SCO4280" fbc:label="SCO4280" fbc:name="SCO4280" />
+      <fbc:geneProduct fbc:id="G_SCO4288" fbc:label="SCO4288" fbc:name="SCO4288" />
+      <fbc:geneProduct fbc:id="G_SCO4293" fbc:label="SCO4293" fbc:name="SCO4293" />
+      <fbc:geneProduct fbc:id="G_SCO4366" fbc:label="SCO4366" fbc:name="SCO4366" />
+      <fbc:geneProduct fbc:id="G_SCO4380" fbc:label="SCO4380" fbc:name="SCO4380" />
+      <fbc:geneProduct fbc:id="G_SCO4381" fbc:label="SCO4381" fbc:name="SCO4381" />
+      <fbc:geneProduct fbc:id="G_SCO4388" fbc:label="SCO4388" fbc:name="SCO4388" />
+      <fbc:geneProduct fbc:id="G_SCO4495" fbc:label="SCO4495" fbc:name="SCO4495" />
+      <fbc:geneProduct fbc:id="G_SCO4502" fbc:label="SCO4502" fbc:name="SCO4502" />
+      <fbc:geneProduct fbc:id="G_SCO4562" fbc:label="SCO4562" fbc:name="SCO4562" />
+      <fbc:geneProduct fbc:id="G_SCO4563" fbc:label="SCO4563" fbc:name="SCO4563" />
+      <fbc:geneProduct fbc:id="G_SCO4564" fbc:label="SCO4564" fbc:name="SCO4564" />
+      <fbc:geneProduct fbc:id="G_SCO4565" fbc:label="SCO4565" fbc:name="SCO4565" />
+      <fbc:geneProduct fbc:id="G_SCO4566" fbc:label="SCO4566" fbc:name="SCO4566" />
+      <fbc:geneProduct fbc:id="G_SCO4567" fbc:label="SCO4567" fbc:name="SCO4567" />
+      <fbc:geneProduct fbc:id="G_SCO4568" fbc:label="SCO4568" fbc:name="SCO4568" />
+      <fbc:geneProduct fbc:id="G_SCO4569" fbc:label="SCO4569" fbc:name="SCO4569" />
+      <fbc:geneProduct fbc:id="G_SCO4570" fbc:label="SCO4570" fbc:name="SCO4570" />
+      <fbc:geneProduct fbc:id="G_SCO4571" fbc:label="SCO4571" fbc:name="SCO4571" />
+      <fbc:geneProduct fbc:id="G_SCO4572" fbc:label="SCO4572" fbc:name="SCO4572" />
+      <fbc:geneProduct fbc:id="G_SCO4573" fbc:label="SCO4573" fbc:name="SCO4573" />
+      <fbc:geneProduct fbc:id="G_SCO4574" fbc:label="SCO4574" fbc:name="SCO4574" />
+      <fbc:geneProduct fbc:id="G_SCO4575" fbc:label="SCO4575" fbc:name="SCO4575" />
+      <fbc:geneProduct fbc:id="G_SCO4580" fbc:label="SCO4580" fbc:name="SCO4580" />
+      <fbc:geneProduct fbc:id="G_SCO4583" fbc:label="SCO4583" fbc:name="SCO4583" />
+      <fbc:geneProduct fbc:id="G_SCO4594" fbc:label="SCO4594" fbc:name="SCO4594" />
+      <fbc:geneProduct fbc:id="G_SCO4595" fbc:label="SCO4595" fbc:name="SCO4595" />
+      <fbc:geneProduct fbc:id="G_SCO4599" fbc:label="SCO4599" fbc:name="SCO4599" />
+      <fbc:geneProduct fbc:id="G_SCO4600" fbc:label="SCO4600" fbc:name="SCO4600" />
+      <fbc:geneProduct fbc:id="G_SCO4602" fbc:label="SCO4602" fbc:name="SCO4602" />
+      <fbc:geneProduct fbc:id="G_SCO4603" fbc:label="SCO4603" fbc:name="SCO4603" />
+      <fbc:geneProduct fbc:id="G_SCO4604" fbc:label="SCO4604" fbc:name="SCO4604" />
+      <fbc:geneProduct fbc:id="G_SCO4605" fbc:label="SCO4605" fbc:name="SCO4605" />
+      <fbc:geneProduct fbc:id="G_SCO4606" fbc:label="SCO4606" fbc:name="SCO4606" />
+      <fbc:geneProduct fbc:id="G_SCO4607" fbc:label="SCO4607" fbc:name="SCO4607" />
+      <fbc:geneProduct fbc:id="G_SCO4608" fbc:label="SCO4608" fbc:name="SCO4608" />
+      <fbc:geneProduct fbc:id="G_SCO4643" fbc:label="SCO4643" fbc:name="SCO4643" />
+      <fbc:geneProduct fbc:id="G_SCO4644" fbc:label="SCO4644" fbc:name="SCO4644" />
+      <fbc:geneProduct fbc:id="G_SCO4645" fbc:label="SCO4645" fbc:name="SCO4645" />
+      <fbc:geneProduct fbc:id="G_SCO4654" fbc:label="SCO4654" fbc:name="SCO4654" />
+      <fbc:geneProduct fbc:id="G_SCO4681" fbc:label="SCO4681" fbc:name="SCO4681" />
+      <fbc:geneProduct fbc:id="G_SCO4683" fbc:label="SCO4683" fbc:name="SCO4683" />
+      <fbc:geneProduct fbc:id="G_SCO4723" fbc:label="SCO4723" fbc:name="SCO4723" />
+      <fbc:geneProduct fbc:id="G_SCO4729" fbc:label="SCO4729" fbc:name="SCO4729" />
+      <fbc:geneProduct fbc:id="G_SCO4736" fbc:label="SCO4736" fbc:name="SCO4736" />
+      <fbc:geneProduct fbc:id="G_SCO4738" fbc:label="SCO4738" fbc:name="SCO4738" />
+      <fbc:geneProduct fbc:id="G_SCO4740" fbc:label="SCO4740" fbc:name="SCO4740" />
+      <fbc:geneProduct fbc:id="G_SCO4744" fbc:label="SCO4744" fbc:name="SCO4744" />
+      <fbc:geneProduct fbc:id="G_SCO4745" fbc:label="SCO4745" fbc:name="SCO4745" />
+      <fbc:geneProduct fbc:id="G_SCO4770" fbc:label="SCO4770" fbc:name="SCO4770" />
+      <fbc:geneProduct fbc:id="G_SCO4771" fbc:label="SCO4771" fbc:name="SCO4771" />
+      <fbc:geneProduct fbc:id="G_SCO4774" fbc:label="SCO4774" fbc:name="SCO4774" />
+      <fbc:geneProduct fbc:id="G_SCO4780" fbc:label="SCO4780" fbc:name="SCO4780" />
+      <fbc:geneProduct fbc:id="G_SCO4785" fbc:label="SCO4785" fbc:name="SCO4785" />
+      <fbc:geneProduct fbc:id="G_SCO4800" fbc:label="SCO4800" fbc:name="SCO4800" />
+      <fbc:geneProduct fbc:id="G_SCO4808" fbc:label="SCO4808" fbc:name="SCO4808" />
+      <fbc:geneProduct fbc:id="G_SCO4809" fbc:label="SCO4809" fbc:name="SCO4809" />
+      <fbc:geneProduct fbc:id="G_SCO4813" fbc:label="SCO4813" fbc:name="SCO4813" />
+      <fbc:geneProduct fbc:id="G_SCO4814" fbc:label="SCO4814" fbc:name="SCO4814" />
+      <fbc:geneProduct fbc:id="G_SCO4824" fbc:label="SCO4824" fbc:name="SCO4824" />
+      <fbc:geneProduct fbc:id="G_SCO4827" fbc:label="SCO4827" fbc:name="SCO4827" />
+      <fbc:geneProduct fbc:id="G_SCO4837" fbc:label="SCO4837" fbc:name="SCO4837" />
+      <fbc:geneProduct fbc:id="G_SCO4839" fbc:label="SCO4839" fbc:name="SCO4839" />
+      <fbc:geneProduct fbc:id="G_SCO4855" fbc:label="SCO4855" fbc:name="SCO4855" />
+      <fbc:geneProduct fbc:id="G_SCO4856" fbc:label="SCO4856" fbc:name="SCO4856" />
+      <fbc:geneProduct fbc:id="G_SCO4857" fbc:label="SCO4857" fbc:name="SCO4857" />
+      <fbc:geneProduct fbc:id="G_SCO4858" fbc:label="SCO4858" fbc:name="SCO4858" />
+      <fbc:geneProduct fbc:id="G_SCO4869" fbc:label="SCO4869" fbc:name="SCO4869" />
+      <fbc:geneProduct fbc:id="G_SCO4890" fbc:label="SCO4890" fbc:name="SCO4890" />
+      <fbc:geneProduct fbc:id="G_SCO4901" fbc:label="SCO4901" fbc:name="SCO4901" />
+      <fbc:geneProduct fbc:id="G_SCO4913" fbc:label="SCO4913" fbc:name="SCO4913" />
+      <fbc:geneProduct fbc:id="G_SCO4914" fbc:label="SCO4914" fbc:name="SCO4914" />
+      <fbc:geneProduct fbc:id="G_SCO4916" fbc:label="SCO4916" fbc:name="SCO4916" />
+      <fbc:geneProduct fbc:id="G_SCO4917" fbc:label="SCO4917" fbc:name="SCO4917" />
+      <fbc:geneProduct fbc:id="G_SCO4919" fbc:label="SCO4919" fbc:name="SCO4919" />
+      <fbc:geneProduct fbc:id="G_SCO4921" fbc:label="SCO4921" fbc:name="SCO4921" />
+      <fbc:geneProduct fbc:id="G_SCO4926" fbc:label="SCO4926" fbc:name="SCO4926" />
+      <fbc:geneProduct fbc:id="G_SCO4928" fbc:label="SCO4928" fbc:name="SCO4928" />
+      <fbc:geneProduct fbc:id="G_SCO4930" fbc:label="SCO4930" fbc:name="SCO4930" />
+      <fbc:geneProduct fbc:id="G_SCO4932" fbc:label="SCO4932" fbc:name="SCO4932" />
+      <fbc:geneProduct fbc:id="G_SCO4945" fbc:label="SCO4945" fbc:name="SCO4945" />
+      <fbc:geneProduct fbc:id="G_SCO4947" fbc:label="SCO4947" fbc:name="SCO4947" />
+      <fbc:geneProduct fbc:id="G_SCO4948" fbc:label="SCO4948" fbc:name="SCO4948" />
+      <fbc:geneProduct fbc:id="G_SCO4949" fbc:label="SCO4949" fbc:name="SCO4949" />
+      <fbc:geneProduct fbc:id="G_SCO4950" fbc:label="SCO4950" fbc:name="SCO4950" />
+      <fbc:geneProduct fbc:id="G_SCO4958" fbc:label="SCO4958" fbc:name="SCO4958" />
+      <fbc:geneProduct fbc:id="G_SCO4962" fbc:label="SCO4962" fbc:name="SCO4962" />
+      <fbc:geneProduct fbc:id="G_SCO4971" fbc:label="SCO4971" fbc:name="SCO4971" />
+      <fbc:geneProduct fbc:id="G_SCO4972" fbc:label="SCO4972" fbc:name="SCO4972" />
+      <fbc:geneProduct fbc:id="G_SCO4979" fbc:label="SCO4979" fbc:name="SCO4979" />
+      <fbc:geneProduct fbc:id="G_SCO4984" fbc:label="SCO4984" fbc:name="SCO4984" />
+      <fbc:geneProduct fbc:id="G_SCO5042" fbc:label="SCO5042" fbc:name="SCO5042" />
+      <fbc:geneProduct fbc:id="G_SCO5044" fbc:label="SCO5044" fbc:name="SCO5044" />
+      <fbc:geneProduct fbc:id="G_SCO5047" fbc:label="SCO5047" fbc:name="SCO5047" />
+      <fbc:geneProduct fbc:id="G_SCO5058" fbc:label="SCO5058" fbc:name="SCO5058" />
+      <fbc:geneProduct fbc:id="G_SCO5059" fbc:label="SCO5059" fbc:name="SCO5059" />
+      <fbc:geneProduct fbc:id="G_SCO5076" fbc:label="SCO5076" fbc:name="SCO5076" />
+      <fbc:geneProduct fbc:id="G_SCO5077" fbc:label="SCO5077" fbc:name="SCO5077" />
+      <fbc:geneProduct fbc:id="G_SCO5078" fbc:label="SCO5078" fbc:name="SCO5078" />
+      <fbc:geneProduct fbc:id="G_SCO5079" fbc:label="SCO5079" fbc:name="SCO5079" />
+      <fbc:geneProduct fbc:id="G_SCO5080" fbc:label="SCO5080" fbc:name="SCO5080" />
+      <fbc:geneProduct fbc:id="G_SCO5081" fbc:label="SCO5081" fbc:name="SCO5081" />
+      <fbc:geneProduct fbc:id="G_SCO5082" fbc:label="SCO5082" fbc:name="SCO5082" />
+      <fbc:geneProduct fbc:id="G_SCO5083" fbc:label="SCO5083" fbc:name="SCO5083" />
+      <fbc:geneProduct fbc:id="G_SCO5084" fbc:label="SCO5084" fbc:name="SCO5084" />
+      <fbc:geneProduct fbc:id="G_SCO5085" fbc:label="SCO5085" fbc:name="SCO5085" />
+      <fbc:geneProduct fbc:id="G_SCO5086" fbc:label="SCO5086" fbc:name="SCO5086" />
+      <fbc:geneProduct fbc:id="G_SCO5087" fbc:label="SCO5087" fbc:name="SCO5087" />
+      <fbc:geneProduct fbc:id="G_SCO5088" fbc:label="SCO5088" fbc:name="SCO5088" />
+      <fbc:geneProduct fbc:id="G_SCO5089" fbc:label="SCO5089" fbc:name="SCO5089" />
+      <fbc:geneProduct fbc:id="G_SCO5090" fbc:label="SCO5090" fbc:name="SCO5090" />
+      <fbc:geneProduct fbc:id="G_SCO5091" fbc:label="SCO5091" fbc:name="SCO5091" />
+      <fbc:geneProduct fbc:id="G_SCO5092" fbc:label="SCO5092" fbc:name="SCO5092" />
+      <fbc:geneProduct fbc:id="G_SCO5106" fbc:label="SCO5106" fbc:name="SCO5106" />
+      <fbc:geneProduct fbc:id="G_SCO5107" fbc:label="SCO5107" fbc:name="SCO5107" />
+      <fbc:geneProduct fbc:id="G_SCO5136" fbc:label="SCO5136" fbc:name="SCO5136" />
+      <fbc:geneProduct fbc:id="G_SCO5139" fbc:label="SCO5139" fbc:name="SCO5139" />
+      <fbc:geneProduct fbc:id="G_SCO5141" fbc:label="SCO5141" fbc:name="SCO5141" />
+      <fbc:geneProduct fbc:id="G_SCO5144" fbc:label="SCO5144" fbc:name="SCO5144" />
+      <fbc:geneProduct fbc:id="G_SCO5184" fbc:label="SCO5184" fbc:name="SCO5184" />
+      <fbc:geneProduct fbc:id="G_SCO5188" fbc:label="SCO5188" fbc:name="SCO5188" />
+      <fbc:geneProduct fbc:id="G_SCO5212" fbc:label="SCO5212" fbc:name="SCO5212" />
+      <fbc:geneProduct fbc:id="G_SCO5225" fbc:label="SCO5225" fbc:name="SCO5225" />
+      <fbc:geneProduct fbc:id="G_SCO5226" fbc:label="SCO5226" fbc:name="SCO5226" />
+      <fbc:geneProduct fbc:id="G_SCO5236" fbc:label="SCO5236" fbc:name="SCO5236" />
+      <fbc:geneProduct fbc:id="G_SCO5246" fbc:label="SCO5246" fbc:name="SCO5246" />
+      <fbc:geneProduct fbc:id="G_SCO5250" fbc:label="SCO5250" fbc:name="SCO5250" />
+      <fbc:geneProduct fbc:id="G_SCO5261" fbc:label="SCO5261" fbc:name="SCO5261" />
+      <fbc:geneProduct fbc:id="G_SCO5262" fbc:label="SCO5262" fbc:name="SCO5262" />
+      <fbc:geneProduct fbc:id="G_SCO5281" fbc:label="SCO5281" fbc:name="SCO5281" />
+      <fbc:geneProduct fbc:id="G_SCO5321" fbc:label="SCO5321" fbc:name="SCO5321" />
+      <fbc:geneProduct fbc:id="G_SCO5353" fbc:label="SCO5353" fbc:name="SCO5353" />
+      <fbc:geneProduct fbc:id="G_SCO5354" fbc:label="SCO5354" fbc:name="SCO5354" />
+      <fbc:geneProduct fbc:id="G_SCO5355" fbc:label="SCO5355" fbc:name="SCO5355" />
+      <fbc:geneProduct fbc:id="G_SCO5356" fbc:label="SCO5356" fbc:name="SCO5356" />
+      <fbc:geneProduct fbc:id="G_SCO5366" fbc:label="SCO5366" fbc:name="SCO5366" />
+      <fbc:geneProduct fbc:id="G_SCO5367" fbc:label="SCO5367" fbc:name="SCO5367" />
+      <fbc:geneProduct fbc:id="G_SCO5368" fbc:label="SCO5368" fbc:name="SCO5368" />
+      <fbc:geneProduct fbc:id="G_SCO5369" fbc:label="SCO5369" fbc:name="SCO5369" />
+      <fbc:geneProduct fbc:id="G_SCO5370" fbc:label="SCO5370" fbc:name="SCO5370" />
+      <fbc:geneProduct fbc:id="G_SCO5371" fbc:label="SCO5371" fbc:name="SCO5371" />
+      <fbc:geneProduct fbc:id="G_SCO5372" fbc:label="SCO5372" fbc:name="SCO5372" />
+      <fbc:geneProduct fbc:id="G_SCO5373" fbc:label="SCO5373" fbc:name="SCO5373" />
+      <fbc:geneProduct fbc:id="G_SCO5374" fbc:label="SCO5374" fbc:name="SCO5374" />
+      <fbc:geneProduct fbc:id="G_SCO5385" fbc:label="SCO5385" fbc:name="SCO5385" />
+      <fbc:geneProduct fbc:id="G_SCO5399" fbc:label="SCO5399" fbc:name="SCO5399" />
+      <fbc:geneProduct fbc:id="G_SCO5415" fbc:label="SCO5415" fbc:name="SCO5415" />
+      <fbc:geneProduct fbc:id="G_SCO5423" fbc:label="SCO5423" fbc:name="SCO5423" />
+      <fbc:geneProduct fbc:id="G_SCO5424" fbc:label="SCO5424" fbc:name="SCO5424" />
+      <fbc:geneProduct fbc:id="G_SCO5425" fbc:label="SCO5425" fbc:name="SCO5425" />
+      <fbc:geneProduct fbc:id="G_SCO5426" fbc:label="SCO5426" fbc:name="SCO5426" />
+      <fbc:geneProduct fbc:id="G_SCO5469" fbc:label="SCO5469" fbc:name="SCO5469" />
+      <fbc:geneProduct fbc:id="G_SCO5470" fbc:label="SCO5470" fbc:name="SCO5470" />
+      <fbc:geneProduct fbc:id="G_SCO5472" fbc:label="SCO5472" fbc:name="SCO5472" />
+      <fbc:geneProduct fbc:id="G_SCO5512" fbc:label="SCO5512" fbc:name="SCO5512" />
+      <fbc:geneProduct fbc:id="G_SCO5513" fbc:label="SCO5513" fbc:name="SCO5513" />
+      <fbc:geneProduct fbc:id="G_SCO5514" fbc:label="SCO5514" fbc:name="SCO5514" />
+      <fbc:geneProduct fbc:id="G_SCO5515" fbc:label="SCO5515" fbc:name="SCO5515" />
+      <fbc:geneProduct fbc:id="G_SCO5520" fbc:label="SCO5520" fbc:name="SCO5520" />
+      <fbc:geneProduct fbc:id="G_SCO5522" fbc:label="SCO5522" fbc:name="SCO5522" />
+      <fbc:geneProduct fbc:id="G_SCO5523" fbc:label="SCO5523" fbc:name="SCO5523" />
+      <fbc:geneProduct fbc:id="G_SCO5525" fbc:label="SCO5525" fbc:name="SCO5525" />
+      <fbc:geneProduct fbc:id="G_SCO5526" fbc:label="SCO5526" fbc:name="SCO5526" />
+      <fbc:geneProduct fbc:id="G_SCO5529" fbc:label="SCO5529" fbc:name="SCO5529" />
+      <fbc:geneProduct fbc:id="G_SCO5535" fbc:label="SCO5535" fbc:name="SCO5535" />
+      <fbc:geneProduct fbc:id="G_SCO5547" fbc:label="SCO5547" fbc:name="SCO5547" />
+      <fbc:geneProduct fbc:id="G_SCO5553" fbc:label="SCO5553" fbc:name="SCO5553" />
+      <fbc:geneProduct fbc:id="G_SCO5554" fbc:label="SCO5554" fbc:name="SCO5554" />
+      <fbc:geneProduct fbc:id="G_SCO5559" fbc:label="SCO5559" fbc:name="SCO5559" />
+      <fbc:geneProduct fbc:id="G_SCO5560" fbc:label="SCO5560" fbc:name="SCO5560" />
+      <fbc:geneProduct fbc:id="G_SCO5568" fbc:label="SCO5568" fbc:name="SCO5568" />
+      <fbc:geneProduct fbc:id="G_SCO5576" fbc:label="SCO5576" fbc:name="SCO5576" />
+      <fbc:geneProduct fbc:id="G_SCO5628" fbc:label="SCO5628" fbc:name="SCO5628" />
+      <fbc:geneProduct fbc:id="G_SCO5662" fbc:label="SCO5662" fbc:name="SCO5662" />
+      <fbc:geneProduct fbc:id="G_SCO5676" fbc:label="SCO5676" fbc:name="SCO5676" />
+      <fbc:geneProduct fbc:id="G_SCO5679" fbc:label="SCO5679" fbc:name="SCO5679" />
+      <fbc:geneProduct fbc:id="G_SCO5685" fbc:label="SCO5685" fbc:name="SCO5685" />
+      <fbc:geneProduct fbc:id="G_SCO5689" fbc:label="SCO5689" fbc:name="SCO5689" />
+      <fbc:geneProduct fbc:id="G_SCO5694" fbc:label="SCO5694" fbc:name="SCO5694" />
+      <fbc:geneProduct fbc:id="G_SCO5696" fbc:label="SCO5696" fbc:name="SCO5696" />
+      <fbc:geneProduct fbc:id="G_SCO5699" fbc:label="SCO5699" fbc:name="SCO5699" />
+      <fbc:geneProduct fbc:id="G_SCO5711" fbc:label="SCO5711" fbc:name="SCO5711" />
+      <fbc:geneProduct fbc:id="G_SCO5739" fbc:label="SCO5739" fbc:name="SCO5739" />
+      <fbc:geneProduct fbc:id="G_SCO5743" fbc:label="SCO5743" fbc:name="SCO5743" />
+      <fbc:geneProduct fbc:id="G_SCO5744" fbc:label="SCO5744" fbc:name="SCO5744" />
+      <fbc:geneProduct fbc:id="G_SCO5753" fbc:label="SCO5753" fbc:name="SCO5753" />
+      <fbc:geneProduct fbc:id="G_SCO5775" fbc:label="SCO5775" fbc:name="SCO5775" />
+      <fbc:geneProduct fbc:id="G_SCO5776" fbc:label="SCO5776" fbc:name="SCO5776" />
+      <fbc:geneProduct fbc:id="G_SCO5777" fbc:label="SCO5777" fbc:name="SCO5777" />
+      <fbc:geneProduct fbc:id="G_SCO5793" fbc:label="SCO5793" fbc:name="SCO5793" />
+      <fbc:geneProduct fbc:id="G_SCO5794" fbc:label="SCO5794" fbc:name="SCO5794" />
+      <fbc:geneProduct fbc:id="G_SCO5805" fbc:label="SCO5805" fbc:name="SCO5805" />
+      <fbc:geneProduct fbc:id="G_SCO5832" fbc:label="SCO5832" fbc:name="SCO5832" />
+      <fbc:geneProduct fbc:id="G_SCO5841" fbc:label="SCO5841" fbc:name="SCO5841" />
+      <fbc:geneProduct fbc:id="G_SCO5845" fbc:label="SCO5845" fbc:name="SCO5845" />
+      <fbc:geneProduct fbc:id="G_SCO5868" fbc:label="SCO5868" fbc:name="SCO5868" />
+      <fbc:geneProduct fbc:id="G_SCO5877" fbc:label="SCO5877" fbc:name="SCO5877" />
+      <fbc:geneProduct fbc:id="G_SCO5879" fbc:label="SCO5879" fbc:name="SCO5879" />
+      <fbc:geneProduct fbc:id="G_SCO5886" fbc:label="SCO5886" fbc:name="SCO5886" />
+      <fbc:geneProduct fbc:id="G_SCO5887" fbc:label="SCO5887" fbc:name="SCO5887" />
+      <fbc:geneProduct fbc:id="G_SCO5888" fbc:label="SCO5888" fbc:name="SCO5888" />
+      <fbc:geneProduct fbc:id="G_SCO5889" fbc:label="SCO5889" fbc:name="SCO5889" />
+      <fbc:geneProduct fbc:id="G_SCO5891" fbc:label="SCO5891" fbc:name="SCO5891" />
+      <fbc:geneProduct fbc:id="G_SCO5975" fbc:label="SCO5975" fbc:name="SCO5975" />
+      <fbc:geneProduct fbc:id="G_SCO5976" fbc:label="SCO5976" fbc:name="SCO5976" />
+      <fbc:geneProduct fbc:id="G_SCO5983" fbc:label="SCO5983" fbc:name="SCO5983" />
+      <fbc:geneProduct fbc:id="G_SCO5999" fbc:label="SCO5999" fbc:name="SCO5999" />
+      <fbc:geneProduct fbc:id="G_SCO6035" fbc:label="SCO6035" fbc:name="SCO6035" />
+      <fbc:geneProduct fbc:id="G_SCO6058" fbc:label="SCO6058" fbc:name="SCO6058" />
+      <fbc:geneProduct fbc:id="G_SCO6060" fbc:label="SCO6060" fbc:name="SCO6060" />
+      <fbc:geneProduct fbc:id="G_SCO6075" fbc:label="SCO6075" fbc:name="SCO6075" />
+      <fbc:geneProduct fbc:id="G_SCO6084" fbc:label="SCO6084" fbc:name="SCO6084" />
       <fbc:geneProduct fbc:id="G_SCO6097" fbc:label="SCO6097" fbc:name="SCO6097" />
       <fbc:geneProduct fbc:id="G_SCO6098" fbc:label="SCO6098" fbc:name="SCO6098" />
       <fbc:geneProduct fbc:id="G_SCO6099" fbc:label="SCO6099" fbc:name="SCO6099" />
       <fbc:geneProduct fbc:id="G_SCO6100" fbc:label="SCO6100" fbc:name="SCO6100" />
       <fbc:geneProduct fbc:id="G_SCO6102" fbc:label="SCO6102" fbc:name="SCO6102" />
-      <fbc:geneProduct fbc:id="G_SCO0217" fbc:label="SCO0217" fbc:name="SCO0217" />
-      <fbc:geneProduct fbc:id="G_SCO0218" fbc:label="SCO0218" fbc:name="SCO0218" />
-      <fbc:geneProduct fbc:id="G_SCO0216" fbc:label="SCO0216" fbc:name="SCO0216" />
-      <fbc:geneProduct fbc:id="G_SCO0219" fbc:label="SCO0219" fbc:name="SCO0219" />
-      <fbc:geneProduct fbc:id="G_SCO4950" fbc:label="SCO4950" fbc:name="SCO4950" />
-      <fbc:geneProduct fbc:id="G_SCO4948" fbc:label="SCO4948" fbc:name="SCO4948" />
-      <fbc:geneProduct fbc:id="G_SCO4947" fbc:label="SCO4947" fbc:name="SCO4947" />
-      <fbc:geneProduct fbc:id="G_SCO4949" fbc:label="SCO4949" fbc:name="SCO4949" />
-      <fbc:geneProduct fbc:id="G_SCO6532" fbc:label="SCO6532" fbc:name="SCO6532" />
-      <fbc:geneProduct fbc:id="G_SCO6535" fbc:label="SCO6535" fbc:name="SCO6535" />
-      <fbc:geneProduct fbc:id="G_SCO6533" fbc:label="SCO6533" fbc:name="SCO6533" />
-      <fbc:geneProduct fbc:id="G_SCO6534" fbc:label="SCO6534" fbc:name="SCO6534" />
-      <fbc:geneProduct fbc:id="G_SCO2473" fbc:label="SCO2473" fbc:name="SCO2473" />
-      <fbc:geneProduct fbc:id="G_SCO2488" fbc:label="SCO2488" fbc:name="SCO2488" />
-      <fbc:geneProduct fbc:id="G_SCO2486" fbc:label="SCO2486" fbc:name="SCO2486" />
-      <fbc:geneProduct fbc:id="G_SCO2487" fbc:label="SCO2487" fbc:name="SCO2487" />
-      <fbc:geneProduct fbc:id="G_SCO2126" fbc:label="SCO2126" fbc:name="SCO2126" />
-      <fbc:geneProduct fbc:id="G_SCO6260" fbc:label="SCO6260" fbc:name="SCO6260" />
-      <fbc:geneProduct fbc:id="G_SCO1077" fbc:label="SCO1077" fbc:name="SCO1077" />
-      <fbc:geneProduct fbc:id="G_SCO5059" fbc:label="SCO5059" fbc:name="SCO5059" />
-      <fbc:geneProduct fbc:id="G_SCO2393" fbc:label="SCO2393" fbc:name="SCO2393" />
-      <fbc:geneProduct fbc:id="G_SCO2407" fbc:label="SCO2407" fbc:name="SCO2407" />
-      <fbc:geneProduct fbc:id="G_SCO1942" fbc:label="SCO1942" fbc:name="SCO1942" />
-      <fbc:geneProduct fbc:id="G_SCO6659" fbc:label="SCO6659" fbc:name="SCO6659" />
-      <fbc:geneProduct fbc:id="G_SCO7443" fbc:label="SCO7443" fbc:name="SCO7443" />
-      <fbc:geneProduct fbc:id="G_SCO2119" fbc:label="SCO2119" fbc:name="SCO2119" />
-      <fbc:geneProduct fbc:id="G_SCO5426" fbc:label="SCO5426" fbc:name="SCO5426" />
-      <fbc:geneProduct fbc:id="G_SCO1214" fbc:label="SCO1214" fbc:name="SCO1214" />
-      <fbc:geneProduct fbc:id="G_SCO5047" fbc:label="SCO5047" fbc:name="SCO5047" />
-      <fbc:geneProduct fbc:id="G_SCO1945" fbc:label="SCO1945" fbc:name="SCO1945" />
-      <fbc:geneProduct fbc:id="G_SCO1947" fbc:label="SCO1947" fbc:name="SCO1947" />
-      <fbc:geneProduct fbc:id="G_SCO7511" fbc:label="SCO7511" fbc:name="SCO7511" />
-      <fbc:geneProduct fbc:id="G_SCO7040" fbc:label="SCO7040" fbc:name="SCO7040" />
-      <fbc:geneProduct fbc:id="G_SCO5679" fbc:label="SCO5679" fbc:name="SCO5679" />
-      <fbc:geneProduct fbc:id="G_SCO1946" fbc:label="SCO1946" fbc:name="SCO1946" />
-      <fbc:geneProduct fbc:id="G_SCO5576" fbc:label="SCO5576" fbc:name="SCO5576" />
-      <fbc:geneProduct fbc:id="G_SCO4209" fbc:label="SCO4209" fbc:name="SCO4209" />
-      <fbc:geneProduct fbc:id="G_SCO2576" fbc:label="SCO2576" fbc:name="SCO2576" />
-      <fbc:geneProduct fbc:id="G_SCO6818" fbc:label="SCO6818" fbc:name="SCO6818" />
-      <fbc:geneProduct fbc:id="G_SCO3096" fbc:label="SCO3096" fbc:name="SCO3096" />
-      <fbc:geneProduct fbc:id="G_SCO7638" fbc:label="SCO7638" fbc:name="SCO7638" />
-      <fbc:geneProduct fbc:id="G_SCO2014" fbc:label="SCO2014" fbc:name="SCO2014" />
-      <fbc:geneProduct fbc:id="G_SCO5423" fbc:label="SCO5423" fbc:name="SCO5423" />
-      <fbc:geneProduct fbc:id="G_SCO2183" fbc:label="SCO2183" fbc:name="SCO2183" />
-      <fbc:geneProduct fbc:id="G_SCO2371" fbc:label="SCO2371" fbc:name="SCO2371" />
-      <fbc:geneProduct fbc:id="G_SCO7124" fbc:label="SCO7124" fbc:name="SCO7124" />
-      <fbc:geneProduct fbc:id="G_SCO1270" fbc:label="SCO1270" fbc:name="SCO1270" />
-      <fbc:geneProduct fbc:id="G_SCO1269" fbc:label="SCO1269" fbc:name="SCO1269" />
-      <fbc:geneProduct fbc:id="G_SCO2736" fbc:label="SCO2736" fbc:name="SCO2736" />
-      <fbc:geneProduct fbc:id="G_SCO4388" fbc:label="SCO4388" fbc:name="SCO4388" />
-      <fbc:geneProduct fbc:id="G_SCO5832" fbc:label="SCO5832" fbc:name="SCO5832" />
-      <fbc:geneProduct fbc:id="G_SCO5999" fbc:label="SCO5999" fbc:name="SCO5999" />
-      <fbc:geneProduct fbc:id="G_SCO7000" fbc:label="SCO7000" fbc:name="SCO7000" />
-      <fbc:geneProduct fbc:id="G_SCO5281" fbc:label="SCO5281" fbc:name="SCO5281" />
-      <fbc:geneProduct fbc:id="G_SCO2181" fbc:label="SCO2181" fbc:name="SCO2181" />
-      <fbc:geneProduct fbc:id="G_SCO7123" fbc:label="SCO7123" fbc:name="SCO7123" />
-      <fbc:geneProduct fbc:id="G_SCO6270" fbc:label="SCO6270" fbc:name="SCO6270" />
-      <fbc:geneProduct fbc:id="G_SCO6269" fbc:label="SCO6269" fbc:name="SCO6269" />
-      <fbc:geneProduct fbc:id="G_SCO4594" fbc:label="SCO4594" fbc:name="SCO4594" />
-      <fbc:geneProduct fbc:id="G_SCO4595" fbc:label="SCO4595" fbc:name="SCO4595" />
-      <fbc:geneProduct fbc:id="G_SCO4809" fbc:label="SCO4809" fbc:name="SCO4809" />
-      <fbc:geneProduct fbc:id="G_SCO4808" fbc:label="SCO4808" fbc:name="SCO4808" />
-      <fbc:geneProduct fbc:id="G_SCO6585" fbc:label="SCO6585" fbc:name="SCO6585" />
-      <fbc:geneProduct fbc:id="G_SCO6586" fbc:label="SCO6586" fbc:name="SCO6586" />
-      <fbc:geneProduct fbc:id="G_SCO5044" fbc:label="SCO5044" fbc:name="SCO5044" />
-      <fbc:geneProduct fbc:id="G_SCO5042" fbc:label="SCO5042" fbc:name="SCO5042" />
-      <fbc:geneProduct fbc:id="G_SCO4827" fbc:label="SCO4827" fbc:name="SCO4827" />
-      <fbc:geneProduct fbc:id="G_SCO2033" fbc:label="SCO2033" fbc:name="SCO2033" />
-      <fbc:geneProduct fbc:id="G_SCO6471" fbc:label="SCO6471" fbc:name="SCO6471" />
-      <fbc:geneProduct fbc:id="G_SCO3563" fbc:label="SCO3563" fbc:name="SCO3563" />
-      <fbc:geneProduct fbc:id="G_SCO5983" fbc:label="SCO5983" fbc:name="SCO5983" />
-      <fbc:geneProduct fbc:id="G_SCO6195" fbc:label="SCO6195" fbc:name="SCO6195" />
-      <fbc:geneProduct fbc:id="G_SCO0208" fbc:label="SCO0208" fbc:name="SCO0208" />
-      <fbc:geneProduct fbc:id="G_SCO2494" fbc:label="SCO2494" fbc:name="SCO2494" />
-      <fbc:geneProduct fbc:id="G_SCO2118" fbc:label="SCO2118" fbc:name="SCO2118" />
-      <fbc:geneProduct fbc:id="G_SCO2951" fbc:label="SCO2951" fbc:name="SCO2951" />
-      <fbc:geneProduct fbc:id="G_SCO5261" fbc:label="SCO5261" fbc:name="SCO5261" />
-      <fbc:geneProduct fbc:id="G_SCO2445" fbc:label="SCO2445" fbc:name="SCO2445" />
       <fbc:geneProduct fbc:id="G_SCO6155" fbc:label="SCO6155" fbc:name="SCO6155" />
-      <fbc:geneProduct fbc:id="G_SCO0199" fbc:label="SCO0199" fbc:name="SCO0199" />
-      <fbc:geneProduct fbc:id="G_SCO5262" fbc:label="SCO5262" fbc:name="SCO5262" />
-      <fbc:geneProduct fbc:id="G_SCO4945" fbc:label="SCO4945" fbc:name="SCO4945" />
-      <fbc:geneProduct fbc:id="G_SCO5424" fbc:label="SCO5424" fbc:name="SCO5424" />
-      <fbc:geneProduct fbc:id="G_SCO5425" fbc:label="SCO5425" fbc:name="SCO5425" />
-      <fbc:geneProduct fbc:id="G_SCO5535" fbc:label="SCO5535" fbc:name="SCO5535" />
-      <fbc:geneProduct fbc:id="G_SCO6284" fbc:label="SCO6284" fbc:name="SCO6284" />
-      <fbc:geneProduct fbc:id="G_SCO3834" fbc:label="SCO3834" fbc:name="SCO3834" />
-      <fbc:geneProduct fbc:id="G_SCO5385" fbc:label="SCO5385" fbc:name="SCO5385" />
-      <fbc:geneProduct fbc:id="G_SCO1012" fbc:label="SCO1012" fbc:name="SCO1012" />
-      <fbc:geneProduct fbc:id="G_SCO6661" fbc:label="SCO6661" fbc:name="SCO6661" />
-      <fbc:geneProduct fbc:id="G_SCO1937" fbc:label="SCO1937" fbc:name="SCO1937" />
-      <fbc:geneProduct fbc:id="G_SCO1939" fbc:label="SCO1939" fbc:name="SCO1939" />
-      <fbc:geneProduct fbc:id="G_SCO0975" fbc:label="SCO0975" fbc:name="SCO0975" />
-      <fbc:geneProduct fbc:id="G_SCO3877" fbc:label="SCO3877" fbc:name="SCO3877" />
-      <fbc:geneProduct fbc:id="G_SCO6658" fbc:label="SCO6658" fbc:name="SCO6658" />
-      <fbc:geneProduct fbc:id="G_SCO1464" fbc:label="SCO1464" fbc:name="SCO1464" />
-      <fbc:geneProduct fbc:id="G_SCO0579" fbc:label="SCO0579" fbc:name="SCO0579" />
-      <fbc:geneProduct fbc:id="G_SCO1224" fbc:label="SCO1224" fbc:name="SCO1224" />
-      <fbc:geneProduct fbc:id="G_SCO2627" fbc:label="SCO2627" fbc:name="SCO2627" />
-      <fbc:geneProduct fbc:id="G_SCO1935" fbc:label="SCO1935" fbc:name="SCO1935" />
-      <fbc:geneProduct fbc:id="G_SCO6497" fbc:label="SCO6497" fbc:name="SCO6497" />
-      <fbc:geneProduct fbc:id="G_SCO6663" fbc:label="SCO6663" fbc:name="SCO6663" />
-      <fbc:geneProduct fbc:id="G_SCO6662" fbc:label="SCO6662" fbc:name="SCO6662" />
-      <fbc:geneProduct fbc:id="G_SCO1936" fbc:label="SCO1936" fbc:name="SCO1936" />
-      <fbc:geneProduct fbc:id="G_SCO4914" fbc:label="SCO4914" fbc:name="SCO4914" />
-      <fbc:geneProduct fbc:id="G_SCO0524" fbc:label="SCO0524" fbc:name="SCO0524" />
-      <fbc:geneProduct fbc:id="G_SCO0852" fbc:label="SCO0852" fbc:name="SCO0852" />
-      <fbc:geneProduct fbc:id="G_SCO2298" fbc:label="SCO2298" fbc:name="SCO2298" />
-      <fbc:geneProduct fbc:id="G_SCO3473" fbc:label="SCO3473" fbc:name="SCO3473" />
-      <fbc:geneProduct fbc:id="G_SCO3495" fbc:label="SCO3495" fbc:name="SCO3495" />
-      <fbc:geneProduct fbc:id="G_SCO3494" fbc:label="SCO3494" fbc:name="SCO3494" />
-      <fbc:geneProduct fbc:id="G_SCO0851" fbc:label="SCO0851" fbc:name="SCO0851" />
-      <fbc:geneProduct fbc:id="G_SCO3474" fbc:label="SCO3474" fbc:name="SCO3474" />
-      <fbc:geneProduct fbc:id="G_SCO3052" fbc:label="SCO3052" fbc:name="SCO3052" />
-      <fbc:geneProduct fbc:id="G_SCO0546" fbc:label="SCO0546" fbc:name="SCO0546" />
-      <fbc:geneProduct fbc:id="G_SCO4979" fbc:label="SCO4979" fbc:name="SCO4979" />
-      <fbc:geneProduct fbc:id="G_SCO3127" fbc:label="SCO3127" fbc:name="SCO3127" />
-      <fbc:geneProduct fbc:id="G_SCO0982" fbc:label="SCO0982" fbc:name="SCO0982" />
-      <fbc:geneProduct fbc:id="G_SCO6243" fbc:label="SCO6243" fbc:name="SCO6243" />
-      <fbc:geneProduct fbc:id="G_SCO0983" fbc:label="SCO0983" fbc:name="SCO0983" />
+      <fbc:geneProduct fbc:id="G_SCO6195" fbc:label="SCO6195" fbc:name="SCO6195" />
+      <fbc:geneProduct fbc:id="G_SCO6201" fbc:label="SCO6201" fbc:name="SCO6201" />
+      <fbc:geneProduct fbc:id="G_SCO6204" fbc:label="SCO6204" fbc:name="SCO6204" />
       <fbc:geneProduct fbc:id="G_SCO6205" fbc:label="SCO6205" fbc:name="SCO6205" />
       <fbc:geneProduct fbc:id="G_SCO6206" fbc:label="SCO6206" fbc:name="SCO6206" />
-      <fbc:geneProduct fbc:id="G_SCO6201" fbc:label="SCO6201" fbc:name="SCO6201" />
-      <fbc:geneProduct fbc:id="G_SCO3228" fbc:label="SCO3228" fbc:name="SCO3228" />
-      <fbc:geneProduct fbc:id="G_SCO2925" fbc:label="SCO2925" fbc:name="SCO2925" />
-      <fbc:geneProduct fbc:id="G_SCO0379" fbc:label="SCO0379" fbc:name="SCO0379" />
-      <fbc:geneProduct fbc:id="G_SCO6204" fbc:label="SCO6204" fbc:name="SCO6204" />
-      <fbc:geneProduct fbc:id="G_SCO7590" fbc:label="SCO7590" fbc:name="SCO7590" />
-      <fbc:geneProduct fbc:id="G_SCO0666" fbc:label="SCO0666" fbc:name="SCO0666" />
-      <fbc:geneProduct fbc:id="G_SCO0560" fbc:label="SCO0560" fbc:name="SCO0560" />
-      <fbc:geneProduct fbc:id="G_SCO4824" fbc:label="SCO4824" fbc:name="SCO4824" />
-      <fbc:geneProduct fbc:id="G_SCO2103" fbc:label="SCO2103" fbc:name="SCO2103" />
-      <fbc:geneProduct fbc:id="G_SCO1083" fbc:label="SCO1083" fbc:name="SCO1083" />
-      <fbc:geneProduct fbc:id="G_SCO4280" fbc:label="SCO4280" fbc:name="SCO4280" />
-      <fbc:geneProduct fbc:id="G_SCO4606" fbc:label="SCO4606" fbc:name="SCO4606" />
-      <fbc:geneProduct fbc:id="G_SCO4607" fbc:label="SCO4607" fbc:name="SCO4607" />
-      <fbc:geneProduct fbc:id="G_SCO4569" fbc:label="SCO4569" fbc:name="SCO4569" />
-      <fbc:geneProduct fbc:id="G_SCO4568" fbc:label="SCO4568" fbc:name="SCO4568" />
-      <fbc:geneProduct fbc:id="G_SCO4602" fbc:label="SCO4602" fbc:name="SCO4602" />
-      <fbc:geneProduct fbc:id="G_SCO4603" fbc:label="SCO4603" fbc:name="SCO4603" />
-      <fbc:geneProduct fbc:id="G_SCO3392" fbc:label="SCO3392" fbc:name="SCO3392" />
-      <fbc:geneProduct fbc:id="G_SCO4572" fbc:label="SCO4572" fbc:name="SCO4572" />
-      <fbc:geneProduct fbc:id="G_SCO4573" fbc:label="SCO4573" fbc:name="SCO4573" />
-      <fbc:geneProduct fbc:id="G_SCO4570" fbc:label="SCO4570" fbc:name="SCO4570" />
-      <fbc:geneProduct fbc:id="G_SCO4571" fbc:label="SCO4571" fbc:name="SCO4571" />
-      <fbc:geneProduct fbc:id="G_SCO4599" fbc:label="SCO4599" fbc:name="SCO4599" />
-      <fbc:geneProduct fbc:id="G_SCO4574" fbc:label="SCO4574" fbc:name="SCO4574" />
-      <fbc:geneProduct fbc:id="G_SCO4575" fbc:label="SCO4575" fbc:name="SCO4575" />
-      <fbc:geneProduct fbc:id="G_SCO6560" fbc:label="SCO6560" fbc:name="SCO6560" />
-      <fbc:geneProduct fbc:id="G_SCO6954" fbc:label="SCO6954" fbc:name="SCO6954" />
-      <fbc:geneProduct fbc:id="G_SCO4605" fbc:label="SCO4605" fbc:name="SCO4605" />
-      <fbc:geneProduct fbc:id="G_SCO4565" fbc:label="SCO4565" fbc:name="SCO4565" />
-      <fbc:geneProduct fbc:id="G_SCO4564" fbc:label="SCO4564" fbc:name="SCO4564" />
-      <fbc:geneProduct fbc:id="G_SCO4567" fbc:label="SCO4567" fbc:name="SCO4567" />
-      <fbc:geneProduct fbc:id="G_SCO4566" fbc:label="SCO4566" fbc:name="SCO4566" />
-      <fbc:geneProduct fbc:id="G_SCO4608" fbc:label="SCO4608" fbc:name="SCO4608" />
-      <fbc:geneProduct fbc:id="G_SCO4563" fbc:label="SCO4563" fbc:name="SCO4563" />
-      <fbc:geneProduct fbc:id="G_SCO4562" fbc:label="SCO4562" fbc:name="SCO4562" />
-      <fbc:geneProduct fbc:id="G_SCO4604" fbc:label="SCO4604" fbc:name="SCO4604" />
-      <fbc:geneProduct fbc:id="G_SCO4600" fbc:label="SCO4600" fbc:name="SCO4600" />
-      <fbc:geneProduct fbc:id="G_SCO0922" fbc:label="SCO0922" fbc:name="SCO0922" />
-      <fbc:geneProduct fbc:id="G_SCO0924" fbc:label="SCO0924" fbc:name="SCO0924" />
-      <fbc:geneProduct fbc:id="G_SCO7109" fbc:label="SCO7109" fbc:name="SCO7109" />
-      <fbc:geneProduct fbc:id="G_SCO5106" fbc:label="SCO5106" fbc:name="SCO5106" />
-      <fbc:geneProduct fbc:id="G_SCO5107" fbc:label="SCO5107" fbc:name="SCO5107" />
-      <fbc:geneProduct fbc:id="G_SCO4858" fbc:label="SCO4858" fbc:name="SCO4858" />
-      <fbc:geneProduct fbc:id="G_SCO4855" fbc:label="SCO4855" fbc:name="SCO4855" />
-      <fbc:geneProduct fbc:id="G_SCO4857" fbc:label="SCO4857" fbc:name="SCO4857" />
-      <fbc:geneProduct fbc:id="G_SCO4856" fbc:label="SCO4856" fbc:name="SCO4856" />
-      <fbc:geneProduct fbc:id="G_SCO0923" fbc:label="SCO0923" fbc:name="SCO0923" />
-      <fbc:geneProduct fbc:id="G_SCO3946" fbc:label="SCO3946" fbc:name="SCO3946" />
-      <fbc:geneProduct fbc:id="G_SCO3945" fbc:label="SCO3945" fbc:name="SCO3945" />
-      <fbc:geneProduct fbc:id="G_SCO2148" fbc:label="SCO2148" fbc:name="SCO2148" />
-      <fbc:geneProduct fbc:id="G_SCO1082" fbc:label="SCO1082" fbc:name="SCO1082" />
-      <fbc:geneProduct fbc:id="G_SCO7236" fbc:label="SCO7236" fbc:name="SCO7236" />
-      <fbc:geneProduct fbc:id="G_SCO1930" fbc:label="SCO1930" fbc:name="SCO1930" />
-      <fbc:geneProduct fbc:id="G_SCO2150" fbc:label="SCO2150" fbc:name="SCO2150" />
-      <fbc:geneProduct fbc:id="G_SCO7234" fbc:label="SCO7234" fbc:name="SCO7234" />
-      <fbc:geneProduct fbc:id="G_SCO2156" fbc:label="SCO2156" fbc:name="SCO2156" />
-      <fbc:geneProduct fbc:id="G_SCO2155" fbc:label="SCO2155" fbc:name="SCO2155" />
-      <fbc:geneProduct fbc:id="G_SCO1934" fbc:label="SCO1934" fbc:name="SCO1934" />
-      <fbc:geneProduct fbc:id="G_SCO1081" fbc:label="SCO1081" fbc:name="SCO1081" />
-      <fbc:geneProduct fbc:id="G_SCO2151" fbc:label="SCO2151" fbc:name="SCO2151" />
-      <fbc:geneProduct fbc:id="G_SCO2149" fbc:label="SCO2149" fbc:name="SCO2149" />
-      <fbc:geneProduct fbc:id="G_SCO7120" fbc:label="SCO7120" fbc:name="SCO7120" />
-      <fbc:geneProduct fbc:id="G_SCO5369" fbc:label="SCO5369" fbc:name="SCO5369" />
-      <fbc:geneProduct fbc:id="G_SCO5374" fbc:label="SCO5374" fbc:name="SCO5374" />
-      <fbc:geneProduct fbc:id="G_SCO5372" fbc:label="SCO5372" fbc:name="SCO5372" />
-      <fbc:geneProduct fbc:id="G_SCO5368" fbc:label="SCO5368" fbc:name="SCO5368" />
-      <fbc:geneProduct fbc:id="G_SCO5371" fbc:label="SCO5371" fbc:name="SCO5371" />
-      <fbc:geneProduct fbc:id="G_SCO5370" fbc:label="SCO5370" fbc:name="SCO5370" />
-      <fbc:geneProduct fbc:id="G_SCO5373" fbc:label="SCO5373" fbc:name="SCO5373" />
-      <fbc:geneProduct fbc:id="G_SCO5366" fbc:label="SCO5366" fbc:name="SCO5366" />
-      <fbc:geneProduct fbc:id="G_SCO5367" fbc:label="SCO5367" fbc:name="SCO5367" />
-      <fbc:geneProduct fbc:id="G_SCO3409" fbc:label="SCO3409" fbc:name="SCO3409" />
-      <fbc:geneProduct fbc:id="G_SCO3547" fbc:label="SCO3547" fbc:name="SCO3547" />
-      <fbc:geneProduct fbc:id="G_SCO4145" fbc:label="SCO4145" fbc:name="SCO4145" />
-      <fbc:geneProduct fbc:id="G_SCO0681" fbc:label="SCO0681" fbc:name="SCO0681" />
-      <fbc:geneProduct fbc:id="G_SCO1613" fbc:label="SCO1613" fbc:name="SCO1613" />
-      <fbc:geneProduct fbc:id="G_SCO2198" fbc:label="SCO2198" fbc:name="SCO2198" />
-      <fbc:geneProduct fbc:id="G_SCO2210" fbc:label="SCO2210" fbc:name="SCO2210" />
-      <fbc:geneProduct fbc:id="G_SCO2241" fbc:label="SCO2241" fbc:name="SCO2241" />
-      <fbc:geneProduct fbc:id="G_SCO2026" fbc:label="SCO2026" fbc:name="SCO2026" />
-      <fbc:geneProduct fbc:id="G_SCO2025" fbc:label="SCO2025" fbc:name="SCO2025" />
-      <fbc:geneProduct fbc:id="G_SCO1977" fbc:label="SCO1977" fbc:name="SCO1977" />
-      <fbc:geneProduct fbc:id="G_SCO4683" fbc:label="SCO4683" fbc:name="SCO4683" />
-      <fbc:geneProduct fbc:id="G_SCO2587" fbc:label="SCO2587" fbc:name="SCO2587" />
-      <fbc:geneProduct fbc:id="G_SCO2585" fbc:label="SCO2585" fbc:name="SCO2585" />
-      <fbc:geneProduct fbc:id="G_SCO3337" fbc:label="SCO3337" fbc:name="SCO3337" />
-      <fbc:geneProduct fbc:id="G_SCO1578" fbc:label="SCO1578" fbc:name="SCO1578" />
-      <fbc:geneProduct fbc:id="G_SCO1580" fbc:label="SCO1580" fbc:name="SCO1580" />
-      <fbc:geneProduct fbc:id="G_SCO1577" fbc:label="SCO1577" fbc:name="SCO1577" />
-      <fbc:geneProduct fbc:id="G_SCO1579" fbc:label="SCO1579" fbc:name="SCO1579" />
-      <fbc:geneProduct fbc:id="G_SCO1483" fbc:label="SCO1483" fbc:name="SCO1483" />
-      <fbc:geneProduct fbc:id="G_SCO1484" fbc:label="SCO1484" fbc:name="SCO1484" />
-      <fbc:geneProduct fbc:id="G_SCO7036" fbc:label="SCO7036" fbc:name="SCO7036" />
-      <fbc:geneProduct fbc:id="G_SCO1570" fbc:label="SCO1570" fbc:name="SCO1570" />
-      <fbc:geneProduct fbc:id="G_SCO5513" fbc:label="SCO5513" fbc:name="SCO5513" />
-      <fbc:geneProduct fbc:id="G_SCO5512" fbc:label="SCO5512" fbc:name="SCO5512" />
-      <fbc:geneProduct fbc:id="G_SCO2769" fbc:label="SCO2769" fbc:name="SCO2769" />
-      <fbc:geneProduct fbc:id="G_SCO5514" fbc:label="SCO5514" fbc:name="SCO5514" />
-      <fbc:geneProduct fbc:id="G_SCO7154" fbc:label="SCO7154" fbc:name="SCO7154" />
-      <fbc:geneProduct fbc:id="G_SCO3345" fbc:label="SCO3345" fbc:name="SCO3345" />
-      <fbc:geneProduct fbc:id="G_SCO1176" fbc:label="SCO1176" fbc:name="SCO1176" />
-      <fbc:geneProduct fbc:id="G_SCO1888" fbc:label="SCO1888" fbc:name="SCO1888" />
-      <fbc:geneProduct fbc:id="G_SCO5523" fbc:label="SCO5523" fbc:name="SCO5523" />
-      <fbc:geneProduct fbc:id="G_SCO1546" fbc:label="SCO1546" fbc:name="SCO1546" />
-      <fbc:geneProduct fbc:id="G_SCO2528" fbc:label="SCO2528" fbc:name="SCO2528" />
-      <fbc:geneProduct fbc:id="G_SCO5529" fbc:label="SCO5529" fbc:name="SCO5529" />
-      <fbc:geneProduct fbc:id="G_SCO5553" fbc:label="SCO5553" fbc:name="SCO5553" />
-      <fbc:geneProduct fbc:id="G_SCO5554" fbc:label="SCO5554" fbc:name="SCO5554" />
-      <fbc:geneProduct fbc:id="G_SCO5522" fbc:label="SCO5522" fbc:name="SCO5522" />
-      <fbc:geneProduct fbc:id="G_SCO0386" fbc:label="SCO0386" fbc:name="SCO0386" />
-      <fbc:geneProduct fbc:id="G_SCO3615" fbc:label="SCO3615" fbc:name="SCO3615" />
-      <fbc:geneProduct fbc:id="G_SCO2640" fbc:label="SCO2640" fbc:name="SCO2640" />
-      <fbc:geneProduct fbc:id="G_SCO3614" fbc:label="SCO3614" fbc:name="SCO3614" />
-      <fbc:geneProduct fbc:id="G_SCO5354" fbc:label="SCO5354" fbc:name="SCO5354" />
-      <fbc:geneProduct fbc:id="G_SCO5356" fbc:label="SCO5356" fbc:name="SCO5356" />
-      <fbc:geneProduct fbc:id="G_SCO5355" fbc:label="SCO5355" fbc:name="SCO5355" />
-      <fbc:geneProduct fbc:id="G_SCO4293" fbc:label="SCO4293" fbc:name="SCO4293" />
-      <fbc:geneProduct fbc:id="G_SCO5744" fbc:label="SCO5744" fbc:name="SCO5744" />
-      <fbc:geneProduct fbc:id="G_SCO1912" fbc:label="SCO1912" fbc:name="SCO1912" />
-      <fbc:geneProduct fbc:id="G_SCO6292" fbc:label="SCO6292" fbc:name="SCO6292" />
-      <fbc:geneProduct fbc:id="G_SCO5739" fbc:label="SCO5739" fbc:name="SCO5739" />
-      <fbc:geneProduct fbc:id="G_SCO1916" fbc:label="SCO1916" fbc:name="SCO1916" />
-      <fbc:geneProduct fbc:id="G_SCO3658" fbc:label="SCO3658" fbc:name="SCO3658" />
-      <fbc:geneProduct fbc:id="G_SCO5139" fbc:label="SCO5139" fbc:name="SCO5139" />
-      <fbc:geneProduct fbc:id="G_SCO5793" fbc:label="SCO5793" fbc:name="SCO5793" />
-      <fbc:geneProduct fbc:id="G_SCO5353" fbc:label="SCO5353" fbc:name="SCO5353" />
-      <fbc:geneProduct fbc:id="G_SCO6438" fbc:label="SCO6438" fbc:name="SCO6438" />
-      <fbc:geneProduct fbc:id="G_SCO1294" fbc:label="SCO1294" fbc:name="SCO1294" />
-      <fbc:geneProduct fbc:id="G_SCO4958" fbc:label="SCO4958" fbc:name="SCO4958" />
-      <fbc:geneProduct fbc:id="G_SCO0985" fbc:label="SCO0985" fbc:name="SCO0985" />
-      <fbc:geneProduct fbc:id="G_SCO1657" fbc:label="SCO1657" fbc:name="SCO1657" />
-      <fbc:geneProduct fbc:id="G_SCO1773" fbc:label="SCO1773" fbc:name="SCO1773" />
-      <fbc:geneProduct fbc:id="G_SCO5515" fbc:label="SCO5515" fbc:name="SCO5515" />
-      <fbc:geneProduct fbc:id="G_SCO4366" fbc:label="SCO4366" fbc:name="SCO4366" />
-      <fbc:geneProduct fbc:id="G_SCO1808" fbc:label="SCO1808" fbc:name="SCO1808" />
-      <fbc:geneProduct fbc:id="G_SCO4837" fbc:label="SCO4837" fbc:name="SCO4837" />
-      <fbc:geneProduct fbc:id="G_SCO1028" fbc:label="SCO1028" fbc:name="SCO1028" />
-      <fbc:geneProduct fbc:id="G_SCO2910" fbc:label="SCO2910" fbc:name="SCO2910" />
-      <fbc:geneProduct fbc:id="G_SCO3077" fbc:label="SCO3077" fbc:name="SCO3077" />
-      <fbc:geneProduct fbc:id="G_SCO1476" fbc:label="SCO1476" fbc:name="SCO1476" />
-      <fbc:geneProduct fbc:id="G_SCO3023" fbc:label="SCO3023" fbc:name="SCO3023" />
-      <fbc:geneProduct fbc:id="G_SCO1438" fbc:label="SCO1438" fbc:name="SCO1438" />
-      <fbc:geneProduct fbc:id="G_SCO1439" fbc:label="SCO1439" fbc:name="SCO1439" />
-      <fbc:geneProduct fbc:id="G_SCO2044" fbc:label="SCO2044" fbc:name="SCO2044" />
-      <fbc:geneProduct fbc:id="G_SCO2050" fbc:label="SCO2050" fbc:name="SCO2050" />
-      <fbc:geneProduct fbc:id="G_SCO2051" fbc:label="SCO2051" fbc:name="SCO2051" />
-      <fbc:geneProduct fbc:id="G_SCO2052" fbc:label="SCO2052" fbc:name="SCO2052" />
-      <fbc:geneProduct fbc:id="G_SCO2054" fbc:label="SCO2054" fbc:name="SCO2054" />
-      <fbc:geneProduct fbc:id="G_SCO2115" fbc:label="SCO2115" fbc:name="SCO2115" />
-      <fbc:geneProduct fbc:id="G_SCO3210" fbc:label="SCO3210" fbc:name="SCO3210" />
-      <fbc:geneProduct fbc:id="G_SCO1494" fbc:label="SCO1494" fbc:name="SCO1494" />
-      <fbc:geneProduct fbc:id="G_SCO1961" fbc:label="SCO1961" fbc:name="SCO1961" />
-      <fbc:geneProduct fbc:id="G_SCO1498" fbc:label="SCO1498" fbc:name="SCO1498" />
-      <fbc:geneProduct fbc:id="G_SCO1495" fbc:label="SCO1495" fbc:name="SCO1495" />
-      <fbc:geneProduct fbc:id="G_SCO5212" fbc:label="SCO5212" fbc:name="SCO5212" />
-      <fbc:geneProduct fbc:id="G_SCO6819" fbc:label="SCO6819" fbc:name="SCO6819" />
-      <fbc:geneProduct fbc:id="G_SCO1496" fbc:label="SCO1496" fbc:name="SCO1496" />
-      <fbc:geneProduct fbc:id="G_SCO2043" fbc:label="SCO2043" fbc:name="SCO2043" />
-      <fbc:geneProduct fbc:id="G_SCO2147" fbc:label="SCO2147" fbc:name="SCO2147" />
-      <fbc:geneProduct fbc:id="G_SCO2039" fbc:label="SCO2039" fbc:name="SCO2039" />
-      <fbc:geneProduct fbc:id="G_SCO2037" fbc:label="SCO2037" fbc:name="SCO2037" />
-      <fbc:geneProduct fbc:id="G_SCO2036" fbc:label="SCO2036" fbc:name="SCO2036" />
-      <fbc:geneProduct fbc:id="G_SCO1762" fbc:label="SCO1762" fbc:name="SCO1762" />
-      <fbc:geneProduct fbc:id="G_SCO2019" fbc:label="SCO2019" fbc:name="SCO2019" />
-      <fbc:geneProduct fbc:id="G_SCO3962" fbc:label="SCO3962" fbc:name="SCO3962" />
-      <fbc:geneProduct fbc:id="G_SCO1761" fbc:label="SCO1761" fbc:name="SCO1761" />
-      <fbc:geneProduct fbc:id="G_SCO3221" fbc:label="SCO3221" fbc:name="SCO3221" />
-      <fbc:geneProduct fbc:id="G_SCO0782" fbc:label="SCO0782" fbc:name="SCO0782" />
-      <fbc:geneProduct fbc:id="G_SCO3123" fbc:label="SCO3123" fbc:name="SCO3123" />
-      <fbc:geneProduct fbc:id="G_SCO1487" fbc:label="SCO1487" fbc:name="SCO1487" />
-      <fbc:geneProduct fbc:id="G_SCO1486" fbc:label="SCO1486" fbc:name="SCO1486" />
-      <fbc:geneProduct fbc:id="G_SCO1482" fbc:label="SCO1482" fbc:name="SCO1482" />
-      <fbc:geneProduct fbc:id="G_SCO3650" fbc:label="SCO3650" fbc:name="SCO3650" />
-      <fbc:geneProduct fbc:id="G_SCO1481" fbc:label="SCO1481" fbc:name="SCO1481" />
-      <fbc:geneProduct fbc:id="G_SCO1760" fbc:label="SCO1760" fbc:name="SCO1760" />
-      <fbc:geneProduct fbc:id="G_SCO2612" fbc:label="SCO2612" fbc:name="SCO2612" />
-      <fbc:geneProduct fbc:id="G_SCO1776" fbc:label="SCO1776" fbc:name="SCO1776" />
-      <fbc:geneProduct fbc:id="G_SCO5225" fbc:label="SCO5225" fbc:name="SCO5225" />
-      <fbc:geneProduct fbc:id="G_SCO5226" fbc:label="SCO5226" fbc:name="SCO5226" />
-      <fbc:geneProduct fbc:id="G_SCO5805" fbc:label="SCO5805" fbc:name="SCO5805" />
-      <fbc:geneProduct fbc:id="G_SCO4890" fbc:label="SCO4890" fbc:name="SCO4890" />
-      <fbc:geneProduct fbc:id="G_SCO5845" fbc:label="SCO5845" fbc:name="SCO5845" />
-      <fbc:geneProduct fbc:id="G_SCO3678" fbc:label="SCO3678" fbc:name="SCO3678" />
-      <fbc:geneProduct fbc:id="G_SCO5868" fbc:label="SCO5868" fbc:name="SCO5868" />
-      <fbc:geneProduct fbc:id="G_SCO5743" fbc:label="SCO5743" fbc:name="SCO5743" />
-      <fbc:geneProduct fbc:id="G_SCO3890" fbc:label="SCO3890" fbc:name="SCO3890" />
-      <fbc:geneProduct fbc:id="G_SCO6834" fbc:label="SCO6834" fbc:name="SCO6834" />
-      <fbc:geneProduct fbc:id="G_SCO1488" fbc:label="SCO1488" fbc:name="SCO1488" />
-      <fbc:geneProduct fbc:id="G_SCO4041" fbc:label="SCO4041" fbc:name="SCO4041" />
-      <fbc:geneProduct fbc:id="G_SCO2073" fbc:label="SCO2073" fbc:name="SCO2073" />
-      <fbc:geneProduct fbc:id="G_SCO4086" fbc:label="SCO4086" fbc:name="SCO4086" />
-      <fbc:geneProduct fbc:id="G_SCO4068" fbc:label="SCO4068" fbc:name="SCO4068" />
-      <fbc:geneProduct fbc:id="G_SCO4813" fbc:label="SCO4813" fbc:name="SCO4813" />
-      <fbc:geneProduct fbc:id="G_SCO4079" fbc:label="SCO4079" fbc:name="SCO4079" />
-      <fbc:geneProduct fbc:id="G_SCO4077" fbc:label="SCO4077" fbc:name="SCO4077" />
-      <fbc:geneProduct fbc:id="G_SCO4078" fbc:label="SCO4078" fbc:name="SCO4078" />
-      <fbc:geneProduct fbc:id="G_SCO4087" fbc:label="SCO4087" fbc:name="SCO4087" />
-      <fbc:geneProduct fbc:id="G_SCO3060" fbc:label="SCO3060" fbc:name="SCO3060" />
-      <fbc:geneProduct fbc:id="G_SCO3059" fbc:label="SCO3059" fbc:name="SCO3059" />
-      <fbc:geneProduct fbc:id="G_SCO4071" fbc:label="SCO4071" fbc:name="SCO4071" />
-      <fbc:geneProduct fbc:id="G_SCO1254" fbc:label="SCO1254" fbc:name="SCO1254" />
-      <fbc:geneProduct fbc:id="G_SCO4814" fbc:label="SCO4814" fbc:name="SCO4814" />
-      <fbc:geneProduct fbc:id="G_SCO4928" fbc:label="SCO4928" fbc:name="SCO4928" />
-      <fbc:geneProduct fbc:id="G_SCO6075" fbc:label="SCO6075" fbc:name="SCO6075" />
-      <fbc:geneProduct fbc:id="G_SCO1479" fbc:label="SCO1479" fbc:name="SCO1479" />
-      <fbc:geneProduct fbc:id="G_SCO1514" fbc:label="SCO1514" fbc:name="SCO1514" />
-      <fbc:geneProduct fbc:id="G_SCO3405" fbc:label="SCO3405" fbc:name="SCO3405" />
-      <fbc:geneProduct fbc:id="G_SCO4917" fbc:label="SCO4917" fbc:name="SCO4917" />
-      <fbc:geneProduct fbc:id="G_SCO2546" fbc:label="SCO2546" fbc:name="SCO2546" />
-      <fbc:geneProduct fbc:id="G_SCO4644" fbc:label="SCO4644" fbc:name="SCO4644" />
-      <fbc:geneProduct fbc:id="G_SCO4901" fbc:label="SCO4901" fbc:name="SCO4901" />
-      <fbc:geneProduct fbc:id="G_SCO5662" fbc:label="SCO5662" fbc:name="SCO5662" />
-      <fbc:geneProduct fbc:id="G_SCO7268" fbc:label="SCO7268" fbc:name="SCO7268" />
-      <fbc:geneProduct fbc:id="G_SCO4972" fbc:label="SCO4972" fbc:name="SCO4972" />
-      <fbc:geneProduct fbc:id="G_SCO4971" fbc:label="SCO4971" fbc:name="SCO4971" />
+      <fbc:geneProduct fbc:id="G_SCO6222" fbc:label="SCO6222" fbc:name="SCO6222" />
+      <fbc:geneProduct fbc:id="G_SCO6243" fbc:label="SCO6243" fbc:name="SCO6243" />
       <fbc:geneProduct fbc:id="G_SCO6247" fbc:label="SCO6247" fbc:name="SCO6247" />
       <fbc:geneProduct fbc:id="G_SCO6248" fbc:label="SCO6248" fbc:name="SCO6248" />
-      <fbc:geneProduct fbc:id="G_SCO2470" fbc:label="SCO2470" fbc:name="SCO2470" />
-      <fbc:geneProduct fbc:id="G_SCO1513" fbc:label="SCO1513" fbc:name="SCO1513" />
-      <fbc:geneProduct fbc:id="G_SCO5794" fbc:label="SCO5794" fbc:name="SCO5794" />
-      <fbc:geneProduct fbc:id="G_SCO3629" fbc:label="SCO3629" fbc:name="SCO3629" />
-      <fbc:geneProduct fbc:id="G_SCO4723" fbc:label="SCO4723" fbc:name="SCO4723" />
-      <fbc:geneProduct fbc:id="G_SCO1461" fbc:label="SCO1461" fbc:name="SCO1461" />
-      <fbc:geneProduct fbc:id="G_SCO4771" fbc:label="SCO4771" fbc:name="SCO4771" />
-      <fbc:geneProduct fbc:id="G_SCO4770" fbc:label="SCO4770" fbc:name="SCO4770" />
-      <fbc:geneProduct fbc:id="G_SCO4785" fbc:label="SCO4785" fbc:name="SCO4785" />
-      <fbc:geneProduct fbc:id="G_SCO2389" fbc:label="SCO2389" fbc:name="SCO2389" />
-      <fbc:geneProduct fbc:id="G_SCO2387" fbc:label="SCO2387" fbc:name="SCO2387" />
-      <fbc:geneProduct fbc:id="G_SCO1267" fbc:label="SCO1267" fbc:name="SCO1267" />
-      <fbc:geneProduct fbc:id="G_SCO3249" fbc:label="SCO3249" fbc:name="SCO3249" />
-      <fbc:geneProduct fbc:id="G_SCO0549" fbc:label="SCO0549" fbc:name="SCO0549" />
-      <fbc:geneProduct fbc:id="G_SCO5887" fbc:label="SCO5887" fbc:name="SCO5887" />
-      <fbc:geneProduct fbc:id="G_SCO3248" fbc:label="SCO3248" fbc:name="SCO3248" />
-      <fbc:geneProduct fbc:id="G_SCO5888" fbc:label="SCO5888" fbc:name="SCO5888" />
-      <fbc:geneProduct fbc:id="G_SCO1271" fbc:label="SCO1271" fbc:name="SCO1271" />
-      <fbc:geneProduct fbc:id="G_SCO2390" fbc:label="SCO2390" fbc:name="SCO2390" />
-      <fbc:geneProduct fbc:id="G_SCO0548" fbc:label="SCO0548" fbc:name="SCO0548" />
-      <fbc:geneProduct fbc:id="G_SCO2388" fbc:label="SCO2388" fbc:name="SCO2388" />
-      <fbc:geneProduct fbc:id="G_SCO1266" fbc:label="SCO1266" fbc:name="SCO1266" />
-      <fbc:geneProduct fbc:id="G_SCO6564" fbc:label="SCO6564" fbc:name="SCO6564" />
-      <fbc:geneProduct fbc:id="G_SCO3246" fbc:label="SCO3246" fbc:name="SCO3246" />
-      <fbc:geneProduct fbc:id="G_SCO5886" fbc:label="SCO5886" fbc:name="SCO5886" />
-      <fbc:geneProduct fbc:id="G_SCO1815" fbc:label="SCO1815" fbc:name="SCO1815" />
-      <fbc:geneProduct fbc:id="G_SCO1814" fbc:label="SCO1814" fbc:name="SCO1814" />
-      <fbc:geneProduct fbc:id="G_SCO1246" fbc:label="SCO1246" fbc:name="SCO1246" />
-      <fbc:geneProduct fbc:id="G_SCO4681" fbc:label="SCO4681" fbc:name="SCO4681" />
-      <fbc:geneProduct fbc:id="G_SCO0330" fbc:label="SCO0330" fbc:name="SCO0330" />
-      <fbc:geneProduct fbc:id="G_SCO1831" fbc:label="SCO1831" fbc:name="SCO1831" />
-      <fbc:geneProduct fbc:id="G_SCO5399" fbc:label="SCO5399" fbc:name="SCO5399" />
-      <fbc:geneProduct fbc:id="G_SCO1228" fbc:label="SCO1228" fbc:name="SCO1228" />
-      <fbc:geneProduct fbc:id="G_SCO1566" fbc:label="SCO1566" fbc:name="SCO1566" />
-      <fbc:geneProduct fbc:id="G_SCO2122" fbc:label="SCO2122" fbc:name="SCO2122" />
-      <fbc:geneProduct fbc:id="G_SCO5628" fbc:label="SCO5628" fbc:name="SCO5628" />
+      <fbc:geneProduct fbc:id="G_SCO6260" fbc:label="SCO6260" fbc:name="SCO6260" />
+      <fbc:geneProduct fbc:id="G_SCO6269" fbc:label="SCO6269" fbc:name="SCO6269" />
+      <fbc:geneProduct fbc:id="G_SCO6270" fbc:label="SCO6270" fbc:name="SCO6270" />
+      <fbc:geneProduct fbc:id="G_SCO6284" fbc:label="SCO6284" fbc:name="SCO6284" />
+      <fbc:geneProduct fbc:id="G_SCO6292" fbc:label="SCO6292" fbc:name="SCO6292" />
+      <fbc:geneProduct fbc:id="G_SCO6297" fbc:label="SCO6297" fbc:name="SCO6297" />
+      <fbc:geneProduct fbc:id="G_SCO6347" fbc:label="SCO6347" fbc:name="SCO6347" />
+      <fbc:geneProduct fbc:id="G_SCO6438" fbc:label="SCO6438" fbc:name="SCO6438" />
+      <fbc:geneProduct fbc:id="G_SCO6457" fbc:label="SCO6457" fbc:name="SCO6457" />
+      <fbc:geneProduct fbc:id="G_SCO6466" fbc:label="SCO6466" fbc:name="SCO6466" />
       <fbc:geneProduct fbc:id="G_SCO6467" fbc:label="SCO6467" fbc:name="SCO6467" />
       <fbc:geneProduct fbc:id="G_SCO6468" fbc:label="SCO6468" fbc:name="SCO6468" />
-      <fbc:geneProduct fbc:id="G_SCO5559" fbc:label="SCO5559" fbc:name="SCO5559" />
-      <fbc:geneProduct fbc:id="G_SCO1389" fbc:label="SCO1389" fbc:name="SCO1389" />
-      <fbc:geneProduct fbc:id="G_SCO1527" fbc:label="SCO1527" fbc:name="SCO1527" />
-      <fbc:geneProduct fbc:id="G_SCO5753" fbc:label="SCO5753" fbc:name="SCO5753" />
-      <fbc:geneProduct fbc:id="G_SCO6768" fbc:label="SCO6768" fbc:name="SCO6768" />
-      <fbc:geneProduct fbc:id="G_SCO5694" fbc:label="SCO5694" fbc:name="SCO5694" />
-      <fbc:geneProduct fbc:id="G_SCO4233" fbc:label="SCO4233" fbc:name="SCO4233" />
-      <fbc:geneProduct fbc:id="G_SCO3148" fbc:label="SCO3148" fbc:name="SCO3148" />
-      <fbc:geneProduct fbc:id="G_SCO4234" fbc:label="SCO4234" fbc:name="SCO4234" />
-      <fbc:geneProduct fbc:id="G_SCO5696" fbc:label="SCO5696" fbc:name="SCO5696" />
-      <fbc:geneProduct fbc:id="G_SCO6767" fbc:label="SCO6767" fbc:name="SCO6767" />
-      <fbc:geneProduct fbc:id="G_SCO5058" fbc:label="SCO5058" fbc:name="SCO5058" />
+      <fbc:geneProduct fbc:id="G_SCO6471" fbc:label="SCO6471" fbc:name="SCO6471" />
+      <fbc:geneProduct fbc:id="G_SCO6472" fbc:label="SCO6472" fbc:name="SCO6472" />
+      <fbc:geneProduct fbc:id="G_SCO6497" fbc:label="SCO6497" fbc:name="SCO6497" />
+      <fbc:geneProduct fbc:id="G_SCO6532" fbc:label="SCO6532" fbc:name="SCO6532" />
+      <fbc:geneProduct fbc:id="G_SCO6533" fbc:label="SCO6533" fbc:name="SCO6533" />
+      <fbc:geneProduct fbc:id="G_SCO6534" fbc:label="SCO6534" fbc:name="SCO6534" />
+      <fbc:geneProduct fbc:id="G_SCO6535" fbc:label="SCO6535" fbc:name="SCO6535" />
+      <fbc:geneProduct fbc:id="G_SCO6560" fbc:label="SCO6560" fbc:name="SCO6560" />
+      <fbc:geneProduct fbc:id="G_SCO6561" fbc:label="SCO6561" fbc:name="SCO6561" />
+      <fbc:geneProduct fbc:id="G_SCO6562" fbc:label="SCO6562" fbc:name="SCO6562" />
+      <fbc:geneProduct fbc:id="G_SCO6564" fbc:label="SCO6564" fbc:name="SCO6564" />
+      <fbc:geneProduct fbc:id="G_SCO6585" fbc:label="SCO6585" fbc:name="SCO6585" />
+      <fbc:geneProduct fbc:id="G_SCO6586" fbc:label="SCO6586" fbc:name="SCO6586" />
+      <fbc:geneProduct fbc:id="G_SCO6640" fbc:label="SCO6640" fbc:name="SCO6640" />
+      <fbc:geneProduct fbc:id="G_SCO6655" fbc:label="SCO6655" fbc:name="SCO6655" />
+      <fbc:geneProduct fbc:id="G_SCO6658" fbc:label="SCO6658" fbc:name="SCO6658" />
+      <fbc:geneProduct fbc:id="G_SCO6659" fbc:label="SCO6659" fbc:name="SCO6659" />
+      <fbc:geneProduct fbc:id="G_SCO6661" fbc:label="SCO6661" fbc:name="SCO6661" />
+      <fbc:geneProduct fbc:id="G_SCO6662" fbc:label="SCO6662" fbc:name="SCO6662" />
+      <fbc:geneProduct fbc:id="G_SCO6663" fbc:label="SCO6663" fbc:name="SCO6663" />
+      <fbc:geneProduct fbc:id="G_SCO6670" fbc:label="SCO6670" fbc:name="SCO6670" />
+      <fbc:geneProduct fbc:id="G_SCO6701" fbc:label="SCO6701" fbc:name="SCO6701" />
+      <fbc:geneProduct fbc:id="G_SCO6702" fbc:label="SCO6702" fbc:name="SCO6702" />
+      <fbc:geneProduct fbc:id="G_SCO6703" fbc:label="SCO6703" fbc:name="SCO6703" />
+      <fbc:geneProduct fbc:id="G_SCO6731" fbc:label="SCO6731" fbc:name="SCO6731" />
+      <fbc:geneProduct fbc:id="G_SCO6732" fbc:label="SCO6732" fbc:name="SCO6732" />
+      <fbc:geneProduct fbc:id="G_SCO6734" fbc:label="SCO6734" fbc:name="SCO6734" />
       <fbc:geneProduct fbc:id="G_SCO6750" fbc:label="SCO6750" fbc:name="SCO6750" />
-      <fbc:geneProduct fbc:id="G_SCO5250" fbc:label="SCO5250" fbc:name="SCO5250" />
       <fbc:geneProduct fbc:id="G_SCO6763" fbc:label="SCO6763" fbc:name="SCO6763" />
-      <fbc:geneProduct fbc:id="G_SCO4583" fbc:label="SCO4583" fbc:name="SCO4583" />
-      <fbc:geneProduct fbc:id="G_SCO1018" fbc:label="SCO1018" fbc:name="SCO1018" />
-      <fbc:geneProduct fbc:id="G_SCO4745" fbc:label="SCO4745" fbc:name="SCO4745" />
-      <fbc:geneProduct fbc:id="G_SCO5560" fbc:label="SCO5560" fbc:name="SCO5560" />
-      <fbc:geneProduct fbc:id="G_SCO2789" fbc:label="SCO2789" fbc:name="SCO2789" />
-      <fbc:geneProduct fbc:id="G_SCO4740" fbc:label="SCO4740" fbc:name="SCO4740" />
-      <fbc:geneProduct fbc:id="G_SCO5236" fbc:label="SCO5236" fbc:name="SCO5236" />
-      <fbc:geneProduct fbc:id="G_SCO2949" fbc:label="SCO2949" fbc:name="SCO2949" />
-      <fbc:geneProduct fbc:id="G_SCO4643" fbc:label="SCO4643" fbc:name="SCO4643" />
-      <fbc:geneProduct fbc:id="G_SCO3382" fbc:label="SCO3382" fbc:name="SCO3382" />
-      <fbc:geneProduct fbc:id="G_SCO2162" fbc:label="SCO2162" fbc:name="SCO2162" />
-      <fbc:geneProduct fbc:id="G_SCO3381" fbc:label="SCO3381" fbc:name="SCO3381" />
-      <fbc:geneProduct fbc:id="G_SCO2918" fbc:label="SCO2918" fbc:name="SCO2918" />
-      <fbc:geneProduct fbc:id="G_SCO0171" fbc:label="SCO0171" fbc:name="SCO0171" />
-      <fbc:geneProduct fbc:id="G_SCO2579" fbc:label="SCO2579" fbc:name="SCO2579" />
-      <fbc:geneProduct fbc:id="G_SCO0506" fbc:label="SCO0506" fbc:name="SCO0506" />
-      <fbc:geneProduct fbc:id="G_SCO2238" fbc:label="SCO2238" fbc:name="SCO2238" />
-      <fbc:geneProduct fbc:id="G_SCO1724" fbc:label="SCO1724" fbc:name="SCO1724" />
+      <fbc:geneProduct fbc:id="G_SCO6767" fbc:label="SCO6767" fbc:name="SCO6767" />
+      <fbc:geneProduct fbc:id="G_SCO6768" fbc:label="SCO6768" fbc:name="SCO6768" />
+      <fbc:geneProduct fbc:id="G_SCO6787" fbc:label="SCO6787" fbc:name="SCO6787" />
+      <fbc:geneProduct fbc:id="G_SCO6788" fbc:label="SCO6788" fbc:name="SCO6788" />
+      <fbc:geneProduct fbc:id="G_SCO6789" fbc:label="SCO6789" fbc:name="SCO6789" />
+      <fbc:geneProduct fbc:id="G_SCO6799" fbc:label="SCO6799" fbc:name="SCO6799" />
+      <fbc:geneProduct fbc:id="G_SCO6800" fbc:label="SCO6800" fbc:name="SCO6800" />
+      <fbc:geneProduct fbc:id="G_SCO6818" fbc:label="SCO6818" fbc:name="SCO6818" />
+      <fbc:geneProduct fbc:id="G_SCO6819" fbc:label="SCO6819" fbc:name="SCO6819" />
+      <fbc:geneProduct fbc:id="G_SCO6832" fbc:label="SCO6832" fbc:name="SCO6832" />
+      <fbc:geneProduct fbc:id="G_SCO6833" fbc:label="SCO6833" fbc:name="SCO6833" />
+      <fbc:geneProduct fbc:id="G_SCO6834" fbc:label="SCO6834" fbc:name="SCO6834" />
+      <fbc:geneProduct fbc:id="G_SCO6954" fbc:label="SCO6954" fbc:name="SCO6954" />
+      <fbc:geneProduct fbc:id="G_SCO6967" fbc:label="SCO6967" fbc:name="SCO6967" />
+      <fbc:geneProduct fbc:id="G_SCO7000" fbc:label="SCO7000" fbc:name="SCO7000" />
+      <fbc:geneProduct fbc:id="G_SCO7004" fbc:label="SCO7004" fbc:name="SCO7004" />
+      <fbc:geneProduct fbc:id="G_SCO7005" fbc:label="SCO7005" fbc:name="SCO7005" />
+      <fbc:geneProduct fbc:id="G_SCO7006" fbc:label="SCO7006" fbc:name="SCO7006" />
+      <fbc:geneProduct fbc:id="G_SCO7010" fbc:label="SCO7010" fbc:name="SCO7010" />
+      <fbc:geneProduct fbc:id="G_SCO7031" fbc:label="SCO7031" fbc:name="SCO7031" />
+      <fbc:geneProduct fbc:id="G_SCO7036" fbc:label="SCO7036" fbc:name="SCO7036" />
+      <fbc:geneProduct fbc:id="G_SCO7040" fbc:label="SCO7040" fbc:name="SCO7040" />
+      <fbc:geneProduct fbc:id="G_SCO7047" fbc:label="SCO7047" fbc:name="SCO7047" />
+      <fbc:geneProduct fbc:id="G_SCO7049" fbc:label="SCO7049" fbc:name="SCO7049" />
+      <fbc:geneProduct fbc:id="G_SCO7109" fbc:label="SCO7109" fbc:name="SCO7109" />
+      <fbc:geneProduct fbc:id="G_SCO7120" fbc:label="SCO7120" fbc:name="SCO7120" />
+      <fbc:geneProduct fbc:id="G_SCO7123" fbc:label="SCO7123" fbc:name="SCO7123" />
+      <fbc:geneProduct fbc:id="G_SCO7124" fbc:label="SCO7124" fbc:name="SCO7124" />
+      <fbc:geneProduct fbc:id="G_SCO7154" fbc:label="SCO7154" fbc:name="SCO7154" />
+      <fbc:geneProduct fbc:id="G_SCO7234" fbc:label="SCO7234" fbc:name="SCO7234" />
+      <fbc:geneProduct fbc:id="G_SCO7236" fbc:label="SCO7236" fbc:name="SCO7236" />
+      <fbc:geneProduct fbc:id="G_SCO7268" fbc:label="SCO7268" fbc:name="SCO7268" />
+      <fbc:geneProduct fbc:id="G_SCO7311" fbc:label="SCO7311" fbc:name="SCO7311" />
+      <fbc:geneProduct fbc:id="G_SCO7407" fbc:label="SCO7407" fbc:name="SCO7407" />
+      <fbc:geneProduct fbc:id="G_SCO7443" fbc:label="SCO7443" fbc:name="SCO7443" />
+      <fbc:geneProduct fbc:id="G_SCO7511" fbc:label="SCO7511" fbc:name="SCO7511" />
+      <fbc:geneProduct fbc:id="G_SCO7558" fbc:label="SCO7558" fbc:name="SCO7558" />
+      <fbc:geneProduct fbc:id="G_SCO7590" fbc:label="SCO7590" fbc:name="SCO7590" />
       <fbc:geneProduct fbc:id="G_SCO7622" fbc:label="SCO7622" fbc:name="SCO7622" />
       <fbc:geneProduct fbc:id="G_SCO7623" fbc:label="SCO7623" fbc:name="SCO7623" />
-      <fbc:geneProduct fbc:id="G_SCO1781" fbc:label="SCO1781" fbc:name="SCO1781" />
-      <fbc:geneProduct fbc:id="G_SCO1560" fbc:label="SCO1560" fbc:name="SCO1560" />
-      <fbc:geneProduct fbc:id="G_SCO2346" fbc:label="SCO2346" fbc:name="SCO2346" />
-      <fbc:geneProduct fbc:id="G_SCO1441" fbc:label="SCO1441" fbc:name="SCO1441" />
-      <fbc:geneProduct fbc:id="G_SCO2687" fbc:label="SCO2687" fbc:name="SCO2687" />
-      <fbc:geneProduct fbc:id="G_SCO6655" fbc:label="SCO6655" fbc:name="SCO6655" />
-      <fbc:geneProduct fbc:id="G_SCO2688" fbc:label="SCO2688" fbc:name="SCO2688" />
-      <fbc:geneProduct fbc:id="G_SCO4106" fbc:label="SCO4106" fbc:name="SCO4106" />
-      <fbc:geneProduct fbc:id="G_SCO6058" fbc:label="SCO6058" fbc:name="SCO6058" />
-      <fbc:geneProduct fbc:id="G_SCO1440" fbc:label="SCO1440" fbc:name="SCO1440" />
-      <fbc:geneProduct fbc:id="G_SCO1443" fbc:label="SCO1443" fbc:name="SCO1443" />
-      <fbc:geneProduct fbc:id="G_SCO5711" fbc:label="SCO5711" fbc:name="SCO5711" />
-      <fbc:geneProduct fbc:id="G_SCO2256" fbc:label="SCO2256" fbc:name="SCO2256" />
-      <fbc:geneProduct fbc:id="G_SCO6562" fbc:label="SCO6562" fbc:name="SCO6562" />
-      <fbc:geneProduct fbc:id="G_SCO0978" fbc:label="SCO0978" fbc:name="SCO0978" />
-      <fbc:geneProduct fbc:id="G_SCO3383" fbc:label="SCO3383" fbc:name="SCO3383" />
-      <fbc:geneProduct fbc:id="G_SCO4738" fbc:label="SCO4738" fbc:name="SCO4738" />
-      <fbc:geneProduct fbc:id="G_SCO5568" fbc:label="SCO5568" fbc:name="SCO5568" />
-      <fbc:geneProduct fbc:id="G_SCO1996" fbc:label="SCO1996" fbc:name="SCO1996" />
-      <fbc:geneProduct fbc:id="G_SCO4744" fbc:label="SCO4744" fbc:name="SCO4744" />
-      <fbc:geneProduct fbc:id="G_SCO0046" fbc:label="SCO0046" fbc:name="SCO0046" />
-      <fbc:geneProduct fbc:id="G_SCO3403" fbc:label="SCO3403" fbc:name="SCO3403" />
-      <fbc:geneProduct fbc:id="G_SCO0828" fbc:label="SCO0828" fbc:name="SCO0828" />
-      <fbc:geneProduct fbc:id="G_SCO5184" fbc:label="SCO5184" fbc:name="SCO5184" />
-      <fbc:geneProduct fbc:id="G_SCO5188" fbc:label="SCO5188" fbc:name="SCO5188" />
-      <fbc:geneProduct fbc:id="G_SCO6640" fbc:label="SCO6640" fbc:name="SCO6640" />
-      <fbc:geneProduct fbc:id="G_SCO3400" fbc:label="SCO3400" fbc:name="SCO3400" />
-      <fbc:geneProduct fbc:id="G_SCO3401" fbc:label="SCO3401" fbc:name="SCO3401" />
-      <fbc:geneProduct fbc:id="G_SCO3851" fbc:label="SCO3851" fbc:name="SCO3851" />
-      <fbc:geneProduct fbc:id="G_SCO3398" fbc:label="SCO3398" fbc:name="SCO3398" />
-      <fbc:geneProduct fbc:id="G_SCO5141" fbc:label="SCO5141" fbc:name="SCO5141" />
-      <fbc:geneProduct fbc:id="G_SCO2614" fbc:label="SCO2614" fbc:name="SCO2614" />
-      <fbc:geneProduct fbc:id="G_SCO4495" fbc:label="SCO4495" fbc:name="SCO4495" />
-      <fbc:geneProduct fbc:id="G_SCO3878" fbc:label="SCO3878" fbc:name="SCO3878" />
-      <fbc:geneProduct fbc:id="G_SCO1380" fbc:label="SCO1380" fbc:name="SCO1380" />
-      <fbc:geneProduct fbc:id="G_SCO1827" fbc:label="SCO1827" fbc:name="SCO1827" />
-      <fbc:geneProduct fbc:id="G_SCO2003" fbc:label="SCO2003" fbc:name="SCO2003" />
-      <fbc:geneProduct fbc:id="G_SCO3541" fbc:label="SCO3541" fbc:name="SCO3541" />
-      <fbc:geneProduct fbc:id="G_SCO6084" fbc:label="SCO6084" fbc:name="SCO6084" />
-      <fbc:geneProduct fbc:id="G_SCO4067" fbc:label="SCO4067" fbc:name="SCO4067" />
-      <fbc:geneProduct fbc:id="G_SCO2564" fbc:label="SCO2564" fbc:name="SCO2564" />
-      <fbc:geneProduct fbc:id="G_SCO4729" fbc:label="SCO4729" fbc:name="SCO4729" />
-      <fbc:geneProduct fbc:id="G_SCO1478" fbc:label="SCO1478" fbc:name="SCO1478" />
-      <fbc:geneProduct fbc:id="G_SCO4654" fbc:label="SCO4654" fbc:name="SCO4654" />
-      <fbc:geneProduct fbc:id="G_SCO4839" fbc:label="SCO4839" fbc:name="SCO4839" />
-      <fbc:geneProduct fbc:id="G_SCO1501" fbc:label="SCO1501" fbc:name="SCO1501" />
-      <fbc:geneProduct fbc:id="G_SCO1595" fbc:label="SCO1595" fbc:name="SCO1595" />
-      <fbc:geneProduct fbc:id="G_SCO2504" fbc:label="SCO2504" fbc:name="SCO2504" />
-      <fbc:geneProduct fbc:id="G_SCO5699" fbc:label="SCO5699" fbc:name="SCO5699" />
-      <fbc:geneProduct fbc:id="G_SCO5547" fbc:label="SCO5547" fbc:name="SCO5547" />
-      <fbc:geneProduct fbc:id="G_SCO2571" fbc:label="SCO2571" fbc:name="SCO2571" />
-      <fbc:geneProduct fbc:id="G_SCO2076" fbc:label="SCO2076" fbc:name="SCO2076" />
-      <fbc:geneProduct fbc:id="G_SCO1508" fbc:label="SCO1508" fbc:name="SCO1508" />
-      <fbc:geneProduct fbc:id="G_SCO3961" fbc:label="SCO3961" fbc:name="SCO3961" />
-      <fbc:geneProduct fbc:id="G_SCO1663" fbc:label="SCO1663" fbc:name="SCO1663" />
-      <fbc:geneProduct fbc:id="G_SCO1531" fbc:label="SCO1531" fbc:name="SCO1531" />
-      <fbc:geneProduct fbc:id="G_SCO3792" fbc:label="SCO3792" fbc:name="SCO3792" />
-      <fbc:geneProduct fbc:id="G_SCO1594" fbc:label="SCO1594" fbc:name="SCO1594" />
-      <fbc:geneProduct fbc:id="G_SCO4235" fbc:label="SCO4235" fbc:name="SCO4235" />
-      <fbc:geneProduct fbc:id="G_SCO2615" fbc:label="SCO2615" fbc:name="SCO2615" />
-      <fbc:geneProduct fbc:id="G_SCO3795" fbc:label="SCO3795" fbc:name="SCO3795" />
-      <fbc:geneProduct fbc:id="G_SCO1473" fbc:label="SCO1473" fbc:name="SCO1473" />
-      <fbc:geneProduct fbc:id="G_SCO1818" fbc:label="SCO1818" fbc:name="SCO1818" />
-      <fbc:geneProduct fbc:id="G_SCO3304" fbc:label="SCO3304" fbc:name="SCO3304" />
-      <fbc:geneProduct fbc:id="G_SCO1326" fbc:label="SCO1326" fbc:name="SCO1326" />
-      <fbc:geneProduct fbc:id="G_SCO2089" fbc:label="SCO2089" fbc:name="SCO2089" />
-      <fbc:geneProduct fbc:id="G_SCO6060" fbc:label="SCO6060" fbc:name="SCO6060" />
-      <fbc:geneProduct fbc:id="G_SCO2088" fbc:label="SCO2088" fbc:name="SCO2088" />
-      <fbc:geneProduct fbc:id="G_SCO2084" fbc:label="SCO2084" fbc:name="SCO2084" />
-      <fbc:geneProduct fbc:id="G_SCO7047" fbc:label="SCO7047" fbc:name="SCO7047" />
-      <fbc:geneProduct fbc:id="G_SCO2086" fbc:label="SCO2086" fbc:name="SCO2086" />
-      <fbc:geneProduct fbc:id="G_SCO2087" fbc:label="SCO2087" fbc:name="SCO2087" />
-      <fbc:geneProduct fbc:id="G_SCO5088" fbc:label="SCO5088" fbc:name="SCO5088" />
-      <fbc:geneProduct fbc:id="G_SCO5085" fbc:label="SCO5085" fbc:name="SCO5085" />
-      <fbc:geneProduct fbc:id="G_SCO5084" fbc:label="SCO5084" fbc:name="SCO5084" />
-      <fbc:geneProduct fbc:id="G_SCO5087" fbc:label="SCO5087" fbc:name="SCO5087" />
-      <fbc:geneProduct fbc:id="G_SCO5082" fbc:label="SCO5082" fbc:name="SCO5082" />
-      <fbc:geneProduct fbc:id="G_SCO5089" fbc:label="SCO5089" fbc:name="SCO5089" />
-      <fbc:geneProduct fbc:id="G_SCO5086" fbc:label="SCO5086" fbc:name="SCO5086" />
-      <fbc:geneProduct fbc:id="G_SCO5090" fbc:label="SCO5090" fbc:name="SCO5090" />
-      <fbc:geneProduct fbc:id="G_SCO5091" fbc:label="SCO5091" fbc:name="SCO5091" />
-      <fbc:geneProduct fbc:id="G_SCO5076" fbc:label="SCO5076" fbc:name="SCO5076" />
-      <fbc:geneProduct fbc:id="G_SCO5077" fbc:label="SCO5077" fbc:name="SCO5077" />
-      <fbc:geneProduct fbc:id="G_SCO5081" fbc:label="SCO5081" fbc:name="SCO5081" />
-      <fbc:geneProduct fbc:id="G_SCO5079" fbc:label="SCO5079" fbc:name="SCO5079" />
-      <fbc:geneProduct fbc:id="G_SCO5078" fbc:label="SCO5078" fbc:name="SCO5078" />
-      <fbc:geneProduct fbc:id="G_SCO5080" fbc:label="SCO5080" fbc:name="SCO5080" />
-      <fbc:geneProduct fbc:id="G_SCO5092" fbc:label="SCO5092" fbc:name="SCO5092" />
-      <fbc:geneProduct fbc:id="G_SCO3213" fbc:label="SCO3213" fbc:name="SCO3213" />
-      <fbc:geneProduct fbc:id="G_SCO3214" fbc:label="SCO3214" fbc:name="SCO3214" />
-      <fbc:geneProduct fbc:id="G_SCO3212" fbc:label="SCO3212" fbc:name="SCO3212" />
-      <fbc:geneProduct fbc:id="G_SCO3211" fbc:label="SCO3211" fbc:name="SCO3211" />
-      <fbc:geneProduct fbc:id="G_SCO3247" fbc:label="SCO3247" fbc:name="SCO3247" />
-      <fbc:geneProduct fbc:id="G_SCO3245" fbc:label="SCO3245" fbc:name="SCO3245" />
-      <fbc:geneProduct fbc:id="G_SCO3215" fbc:label="SCO3215" fbc:name="SCO3215" />
-      <fbc:geneProduct fbc:id="G_SCO3236" fbc:label="SCO3236" fbc:name="SCO3236" />
-      <fbc:geneProduct fbc:id="G_SCO3243" fbc:label="SCO3243" fbc:name="SCO3243" />
-      <fbc:geneProduct fbc:id="G_SCO3229" fbc:label="SCO3229" fbc:name="SCO3229" />
-      <fbc:geneProduct fbc:id="G_SCO3227" fbc:label="SCO3227" fbc:name="SCO3227" />
-      <fbc:geneProduct fbc:id="G_SCO3231" fbc:label="SCO3231" fbc:name="SCO3231" />
-      <fbc:geneProduct fbc:id="G_SCO3230" fbc:label="SCO3230" fbc:name="SCO3230" />
-      <fbc:geneProduct fbc:id="G_SCO3232" fbc:label="SCO3232" fbc:name="SCO3232" />
-      <fbc:geneProduct fbc:id="G_SCO5891" fbc:label="SCO5891" fbc:name="SCO5891" />
-      <fbc:geneProduct fbc:id="G_SCO5877" fbc:label="SCO5877" fbc:name="SCO5877" />
-      <fbc:geneProduct fbc:id="G_SCO5889" fbc:label="SCO5889" fbc:name="SCO5889" />
-      <fbc:geneProduct fbc:id="G_SCO5879" fbc:label="SCO5879" fbc:name="SCO5879" />
-      <fbc:geneProduct fbc:id="G_SCO5083" fbc:label="SCO5083" fbc:name="SCO5083" />
-      <fbc:geneProduct fbc:id="G_SCO1659" fbc:label="SCO1659" fbc:name="SCO1659" />
-      <fbc:geneProduct fbc:id="G_SCO6734" fbc:label="SCO6734" fbc:name="SCO6734" />
-      <fbc:geneProduct fbc:id="G_SCO2796" fbc:label="SCO2796" fbc:name="SCO2796" />
-      <fbc:geneProduct fbc:id="G_SCO2797" fbc:label="SCO2797" fbc:name="SCO2797" />
-      <fbc:geneProduct fbc:id="G_SCO5777" fbc:label="SCO5777" fbc:name="SCO5777" />
-      <fbc:geneProduct fbc:id="G_SCO5776" fbc:label="SCO5776" fbc:name="SCO5776" />
-      <fbc:geneProduct fbc:id="G_SCO5775" fbc:label="SCO5775" fbc:name="SCO5775" />
-      <fbc:geneProduct fbc:id="G_SCO2229" fbc:label="SCO2229" fbc:name="SCO2229" />
-      <fbc:geneProduct fbc:id="G_SCO2230" fbc:label="SCO2230" fbc:name="SCO2230" />
-      <fbc:geneProduct fbc:id="G_SCO4240" fbc:label="SCO4240" fbc:name="SCO4240" />
-      <fbc:geneProduct fbc:id="G_SCO2231" fbc:label="SCO2231" fbc:name="SCO2231" />
-      <fbc:geneProduct fbc:id="G_SCO4140" fbc:label="SCO4140" fbc:name="SCO4140" />
-      <fbc:geneProduct fbc:id="G_SCO4142" fbc:label="SCO4142" fbc:name="SCO4142" />
-      <fbc:geneProduct fbc:id="G_SCO4139" fbc:label="SCO4139" fbc:name="SCO4139" />
-      <fbc:geneProduct fbc:id="G_SCO4141" fbc:label="SCO4141" fbc:name="SCO4141" />
-      <fbc:geneProduct fbc:id="G_SCO0572" fbc:label="SCO0572" fbc:name="SCO0572" />
-      <fbc:geneProduct fbc:id="G_SCO1680" fbc:label="SCO1680" fbc:name="SCO1680" />
-      <fbc:geneProduct fbc:id="G_SCO3029" fbc:label="SCO3029" fbc:name="SCO3029" />
-      <fbc:geneProduct fbc:id="G_SCO4138" fbc:label="SCO4138" fbc:name="SCO4138" />
-      <fbc:geneProduct fbc:id="G_SCO1391" fbc:label="SCO1391" fbc:name="SCO1391" />
-      <fbc:geneProduct fbc:id="G_SCO1390" fbc:label="SCO1390" fbc:name="SCO1390" />
-      <fbc:geneProduct fbc:id="G_SCO5841" fbc:label="SCO5841" fbc:name="SCO5841" />
-      <fbc:geneProduct fbc:id="G_SCO2907" fbc:label="SCO2907" fbc:name="SCO2907" />
-      <fbc:geneProduct fbc:id="G_SCO2906" fbc:label="SCO2906" fbc:name="SCO2906" />
-      <fbc:geneProduct fbc:id="G_SCO3196" fbc:label="SCO3196" fbc:name="SCO3196" />
-      <fbc:geneProduct fbc:id="G_SCO0434" fbc:label="SCO0434" fbc:name="SCO0434" />
-      <fbc:geneProduct fbc:id="G_SCO0136" fbc:label="SCO0136" fbc:name="SCO0136" />
-      <fbc:geneProduct fbc:id="G_SCO2144" fbc:label="SCO2144" fbc:name="SCO2144" />
-      <fbc:geneProduct fbc:id="G_SCO3139" fbc:label="SCO3139" fbc:name="SCO3139" />
-      <fbc:geneProduct fbc:id="G_SCO3564" fbc:label="SCO3564" fbc:name="SCO3564" />
-      <fbc:geneProduct fbc:id="G_SCO3185" fbc:label="SCO3185" fbc:name="SCO3185" />
-      <fbc:geneProduct fbc:id="G_SCO3603" fbc:label="SCO3603" fbc:name="SCO3603" />
-      <fbc:geneProduct fbc:id="G_SCO5246" fbc:label="SCO5246" fbc:name="SCO5246" />
+      <fbc:geneProduct fbc:id="G_SCO7638" fbc:label="SCO7638" fbc:name="SCO7638" />
     </fbc:listOfGeneProducts>
     <listOfReactions>
       <reaction fast="false" id="R_r0001" name="glycerol kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -1620,8 +1620,8 @@
       </reaction>
       <reaction fast="false" id="R_r0034" name="fructokinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_FRU" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_FRU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -1886,8 +1886,8 @@
           <speciesReference constant="true" species="M_MNT1P" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_F6P" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_F6P" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_r0057" name="L-rhamnose isomerase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -2420,8 +2420,8 @@
           <speciesReference constant="true" species="M_PTRSC" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_SPRMD" stoichiometry="1" />
           <speciesReference constant="true" species="M_5MTA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_SPRMD" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO2455" />
@@ -3122,8 +3122,8 @@
       </reaction>
       <reaction fast="false" id="R_r0154" name="dihydrolipoyllysine-residue acetyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_COA" stoichiometry="1" />
           <speciesReference constant="true" species="M_IBUTLIPO" stoichiometry="1" />
+          <speciesReference constant="true" species="M_COA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_DLIPO" stoichiometry="1" />
@@ -4813,8 +4813,8 @@
       </reaction>
       <reaction fast="false" id="R_r0291" name="2-oxoglutarate synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
           <speciesReference constant="true" species="M_FERI" stoichiometry="2" />
+          <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
           <speciesReference constant="true" species="M_COA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -4831,8 +4831,8 @@
       </reaction>
       <reaction fast="false" id="R_r0292" name="2-oxoglutarate synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
           <speciesReference constant="true" species="M_FERI" stoichiometry="2" />
+          <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
           <speciesReference constant="true" species="M_COA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -4854,8 +4854,8 @@
           <speciesReference constant="true" species="M_SUCCOA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
           <speciesReference constant="true" species="M_COA" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -4872,8 +4872,8 @@
           <speciesReference constant="true" species="M_SUCCOA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
           <speciesReference constant="true" species="M_COA" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -5128,8 +5128,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
           <speciesReference constant="true" species="M_MALCOA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO2445" />
@@ -5245,8 +5245,8 @@
           <speciesReference constant="true" species="M_PROPANOATE" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PROPIONYLP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO5424" />
@@ -5761,8 +5761,8 @@
           <speciesReference constant="true" species="M_R5P" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_S7P" stoichiometry="1" />
           <speciesReference constant="true" species="M_G3P" stoichiometry="1" />
+          <speciesReference constant="true" species="M_S7P" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO1935" />
@@ -5787,8 +5787,8 @@
           <speciesReference constant="true" species="M_R5P" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_S7P" stoichiometry="1" />
           <speciesReference constant="true" species="M_G3P" stoichiometry="1" />
+          <speciesReference constant="true" species="M_S7P" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO6497" />
@@ -5813,8 +5813,8 @@
           <speciesReference constant="true" species="M_R5P" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_S7P" stoichiometry="1" />
           <speciesReference constant="true" species="M_G3P" stoichiometry="1" />
+          <speciesReference constant="true" species="M_S7P" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO6663" />
@@ -6002,8 +6002,8 @@
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_OA" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_OA" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -6507,8 +6507,8 @@
       </reaction>
       <reaction fast="false" id="R_r0419" name="glutamine synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6522,8 +6522,8 @@
       </reaction>
       <reaction fast="false" id="R_r0420" name="glutamine synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6537,8 +6537,8 @@
       </reaction>
       <reaction fast="false" id="R_r0421" name="glutamine synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6552,8 +6552,8 @@
       </reaction>
       <reaction fast="false" id="R_r0422" name="glutamine synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6647,9 +6647,9 @@
       </reaction>
       <reaction fast="false" id="R_r0429" name="pyrroline-5-carboxylate reductase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_P5C" stoichiometry="1" />
-          <speciesReference constant="true" species="M_NADPH" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NADPH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_P5C" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
@@ -6672,8 +6672,8 @@
       </reaction>
       <reaction fast="false" id="R_r0431" name="acetylglutamate kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NAGLU" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NAGLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -6725,15 +6725,15 @@
       </reaction>
       <reaction fast="false" id="R_r0435" name="carbamoyl-phosphate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="2" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="2" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="2" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
-          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
           <speciesReference constant="true" species="M_CAP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -6802,8 +6802,8 @@
           <speciesReference constant="true" species="M_ACLAC" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_DHMVA" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_DHMVA" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO5514" />
@@ -6815,8 +6815,8 @@
           <speciesReference constant="true" species="M_ACLAC" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_DHMVA" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_DHMVA" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO7154" />
@@ -7149,8 +7149,8 @@
       </reaction>
       <reaction fast="false" id="R_r0468" name="asparagine synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -7219,8 +7219,8 @@
       </reaction>
       <reaction fast="false" id="R_r0473" name="homoserine kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_HSER" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_HSER" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -7443,8 +7443,8 @@
           <speciesReference constant="true" species="M_HCYS" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_THPTGLU" stoichiometry="1" />
           <speciesReference constant="true" species="M_MET" stoichiometry="1" />
+          <speciesReference constant="true" species="M_THPTGLU" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO0985" />
@@ -7496,8 +7496,8 @@
           <speciesReference constant="true" species="M_PHP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
           <speciesReference constant="true" species="M_3PSER" stoichiometry="1" />
+          <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO4366" />
@@ -7955,8 +7955,8 @@
       </reaction>
       <reaction fast="false" id="R_r0533" name="anthranilate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_CHOR" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_CHOR" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_AN" stoichiometry="1" />
@@ -8009,8 +8009,8 @@
           <speciesReference constant="true" species="M_SER" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_G3P" stoichiometry="1" />
           <speciesReference constant="true" species="M_TRP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_G3P" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -8330,8 +8330,8 @@
       </reaction>
       <reaction fast="false" id="R_r0562" name="CTP synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_UTP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -8451,8 +8451,8 @@
       <reaction fast="false" id="R_r0571" name="thymidylate synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_FADH2" stoichiometry="1" />
-          <speciesReference constant="true" species="M_METTHF" stoichiometry="1" />
           <speciesReference constant="true" species="M_DUMP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_METTHF" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_FAD" stoichiometry="1" />
@@ -8659,8 +8659,8 @@
       </reaction>
       <reaction fast="false" id="R_r0587" name="phosphoribosylformylglycinamidine synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_FGAR" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -8847,12 +8847,12 @@
       </reaction>
       <reaction fast="false" id="R_r0601" name="nucleoside-diphosphate kinase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_IDP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ITP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO2612" />
@@ -9426,8 +9426,8 @@
       </reaction>
       <reaction fast="false" id="R_r0646" name="GMP synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_XMP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -9618,9 +9618,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="10" />
-          <speciesReference constant="true" species="M_C120ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="5" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="5" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="5" />
+          <speciesReference constant="true" species="M_C120ACP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9655,9 +9655,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="12" />
+          <speciesReference constant="true" species="M_C140ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="6" />
           <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
-          <speciesReference constant="true" species="M_C140ACP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9693,8 +9693,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="11" />
           <speciesReference constant="true" species="M_C141ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="6" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9730,8 +9730,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="14" />
           <speciesReference constant="true" species="M_C160ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="7" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9767,8 +9767,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_C161ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="13" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="7" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9840,9 +9840,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="15" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="8" />
-          <speciesReference constant="true" species="M_C181ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="8" />
+          <speciesReference constant="true" species="M_C181ACP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="8" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9878,8 +9878,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="14" />
           <speciesReference constant="true" species="M_C182ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="8" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="8" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="8" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9937,8 +9937,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="12" />
           <speciesReference constant="true" species="M_C150ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="6" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9974,8 +9974,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="14" />
           <speciesReference constant="true" species="M_C170ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="7" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -10011,8 +10011,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="4" />
           <speciesReference constant="true" species="M_C060ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="2" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="2" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="2" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -10195,8 +10195,8 @@
           <speciesReference constant="true" species="M_C181ACP" stoichiometry="0.057" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADHAP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_r0674" name="acylglycerone-phosphate reductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -10219,8 +10219,8 @@
           <speciesReference constant="true" species="M_C181ACP" stoichiometry="0.057" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO1228" />
@@ -10236,8 +10236,8 @@
           <speciesReference constant="true" species="M_C181ACP" stoichiometry="0.057" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO1566" />
@@ -10253,8 +10253,8 @@
           <speciesReference constant="true" species="M_C181ACP" stoichiometry="0.057" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO2122" />
@@ -10300,8 +10300,8 @@
       </reaction>
       <reaction fast="false" id="R_r0681" name="glycerol-3-phosphate dehydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_DHAP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_DHAP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
@@ -10361,8 +10361,8 @@
       </reaction>
       <reaction fast="false" id="R_r0686" name="cardiolipin synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_PG" stoichiometry="1" />
           <speciesReference constant="true" species="M_CDPDG" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PG" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_CL" stoichiometry="1" />
@@ -10582,8 +10582,8 @@
       </reaction>
       <reaction fast="false" id="R_r0704" name="dimethylallyltranstransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_IPP" stoichiometry="1" />
           <speciesReference constant="true" species="M_GGPP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_IPP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
@@ -10595,8 +10595,8 @@
       </reaction>
       <reaction fast="false" id="R_r0705" name="dimethylallyltranstransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_IPP" stoichiometry="1" />
           <speciesReference constant="true" species="M_GGPP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_IPP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
@@ -10680,8 +10680,8 @@
           <speciesReference constant="true" species="M_DALA" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ALAALA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10785,8 +10785,8 @@
       </reaction>
       <reaction fast="false" id="R_r0721" name="L-aspartate oxidase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_FUM" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_FUM" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ISUCC" stoichiometry="1" />
@@ -10876,8 +10876,8 @@
       </reaction>
       <reaction fast="false" id="R_r0728" name="NAD synthetase (NH3-dependent)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
           <speciesReference constant="true" species="M_NAAD" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -10963,8 +10963,8 @@
           <speciesReference constant="true" species="M_NADPH" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -10975,8 +10975,8 @@
       </reaction>
       <reaction fast="false" id="R_r0735" name="NAD kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -11261,8 +11261,8 @@
       </reaction>
       <reaction fast="false" id="R_r0758" name="dephospho-CoA kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_DPCOA" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_DPCOA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -11509,8 +11509,8 @@
           <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_SHCHC" stoichiometry="1" />
           <speciesReference constant="true" species="M_PYR" stoichiometry="1" />
+          <speciesReference constant="true" species="M_SHCHC" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -11550,8 +11550,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
-          <speciesReference constant="true" species="M_DMK" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
+          <speciesReference constant="true" species="M_DMK" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_r0783" name="demethylmenaquinone methyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11601,8 +11601,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1.25" />
-          <speciesReference constant="true" species="M_PPI" stoichiometry="3.119" />
           <speciesReference constant="true" species="M_RNA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PPI" stoichiometry="3.119" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1.25" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -11617,23 +11617,23 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_PHE" stoichiometry="0.238" />
           <speciesReference constant="true" species="M_ALA" stoichiometry="1.35" />
-          <speciesReference constant="true" species="M_SER" stoichiometry="0.459" />
-          <speciesReference constant="true" species="M_PRO" stoichiometry="0.422" />
-          <speciesReference constant="true" species="M_TRP" stoichiometry="0.059" />
-          <speciesReference constant="true" species="M_GLN" stoichiometry="0.382" />
-          <speciesReference constant="true" species="M_LYS" stoichiometry="0.499" />
-          <speciesReference constant="true" species="M_LEU" stoichiometry="0.742" />
-          <speciesReference constant="true" species="M_ASN" stoichiometry="0.394" />
-          <speciesReference constant="true" species="M_HIS" stoichiometry="0.131" />
-          <speciesReference constant="true" species="M_ILE" stoichiometry="0.477" />
-          <speciesReference constant="true" species="M_TYR" stoichiometry="0.159" />
-          <speciesReference constant="true" species="M_ATP" stoichiometry="40" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="0.379" />
           <speciesReference constant="true" species="M_THR" stoichiometry="0.465" />
-          <speciesReference constant="true" species="M_ASP" stoichiometry="0.391" />
-          <speciesReference constant="true" species="M_VAL" stoichiometry="0.797" />
-          <speciesReference constant="true" species="M_ARG" stoichiometry="0.352" />
+          <speciesReference constant="true" species="M_PRO" stoichiometry="0.422" />
+          <speciesReference constant="true" species="M_ILE" stoichiometry="0.477" />
+          <speciesReference constant="true" species="M_LEU" stoichiometry="0.742" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="0.382" />
+          <speciesReference constant="true" species="M_LYS" stoichiometry="0.499" />
+          <speciesReference constant="true" species="M_SER" stoichiometry="0.459" />
+          <speciesReference constant="true" species="M_HIS" stoichiometry="0.131" />
+          <speciesReference constant="true" species="M_TRP" stoichiometry="0.059" />
           <speciesReference constant="true" species="M_MET" stoichiometry="0.221" />
+          <speciesReference constant="true" species="M_TYR" stoichiometry="0.159" />
+          <speciesReference constant="true" species="M_VAL" stoichiometry="0.797" />
+          <speciesReference constant="true" species="M_ASN" stoichiometry="0.394" />
+          <speciesReference constant="true" species="M_ASP" stoichiometry="0.391" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="40" />
+          <speciesReference constant="true" species="M_ARG" stoichiometry="0.352" />
           <speciesReference constant="true" species="M_CYS" stoichiometry="0.165" />
           <speciesReference constant="true" species="M_GLY" stoichiometry="2.015" />
         </listOfReactants>
@@ -11679,8 +11679,8 @@
           <speciesReference constant="true" species="M_C181ACP" stoichiometry="0.014" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_TAG" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1.244" />
+          <speciesReference constant="true" species="M_TAG" stoichiometry="1" />
           <speciesReference constant="true" species="M_ACP" stoichiometry="3.732" />
         </listOfProducts>
       </reaction>
@@ -11751,12 +11751,12 @@
       </reaction>
       <reaction fast="false" id="R_r0792" name="small molecules pool (artificial reaction)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_FAD" stoichiometry="0.159" />
+          <speciesReference constant="true" species="M_MK" stoichiometry="0.146" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="0.168" />
           <speciesReference constant="true" species="M_COA" stoichiometry="0.163" />
-          <speciesReference constant="true" species="M_MK" stoichiometry="0.146" />
           <speciesReference constant="true" species="M_THF" stoichiometry="0.281" />
           <speciesReference constant="true" species="M_NAD" stoichiometry="0.188" />
+          <speciesReference constant="true" species="M_FAD" stoichiometry="0.159" />
           <speciesReference constant="true" species="M_ACP" stoichiometry="0.012" />
           <speciesReference constant="true" species="M_FMN" stoichiometry="0.274" />
         </listOfReactants>
@@ -11769,13 +11769,13 @@
           <speciesReference constant="true" species="M_RNA" stoichiometry="0.167" />
           <speciesReference constant="true" species="M_TEICH" stoichiometry="0.066" />
           <speciesReference constant="true" species="M_CARBOHYDRATE" stoichiometry="0.044" />
-          <speciesReference constant="true" species="M_PEPTIDOGLYCAN" stoichiometry="0.11" />
           <speciesReference constant="true" species="M_SMALL_MOLECULES" stoichiometry="0.03" />
+          <speciesReference constant="true" species="M_TAG" stoichiometry="0.018" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="47" />
           <speciesReference constant="true" species="M_PHOSPHOLIPID" stoichiometry="0.027" />
           <speciesReference constant="true" species="M_DNA" stoichiometry="0.036" />
           <speciesReference constant="true" species="M_PROTEIN" stoichiometry="0.412" />
-          <speciesReference constant="true" species="M_TAG" stoichiometry="0.018" />
+          <speciesReference constant="true" species="M_PEPTIDOGLYCAN" stoichiometry="0.11" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="47" />
@@ -11874,8 +11874,8 @@
           <speciesReference constant="true" species="M_C16H14O6_2" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_C32H26O12" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_C32H26O12" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO5092" />
@@ -11895,8 +11895,8 @@
       </reaction>
       <reaction fast="false" id="R_r0802" name="anthranilate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_CHOR" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_CHOR" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_AN" stoichiometry="1" />
@@ -11968,8 +11968,8 @@
           <speciesReference constant="true" species="M_MTHF" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_THF" stoichiometry="1" />
           <speciesReference constant="true" species="M_NRP1" stoichiometry="1" />
+          <speciesReference constant="true" species="M_THF" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_SCO3215" />
@@ -12040,14 +12040,14 @@
       </reaction>
       <reaction fast="false" id="R_r0813" name="tailoring" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_THR" stoichiometry="1" />
+          <speciesReference constant="true" species="M_SER" stoichiometry="1" />
           <speciesReference constant="true" species="M_NRP2" stoichiometry="1" />
           <speciesReference constant="true" species="M_NRP3" stoichiometry="1" />
           <speciesReference constant="true" species="M_NRP1" stoichiometry="1" />
-          <speciesReference constant="true" species="M_SER" stoichiometry="1" />
+          <speciesReference constant="true" species="M_TRP" stoichiometry="2" />
           <speciesReference constant="true" species="M_EPOXY" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="3" />
-          <speciesReference constant="true" species="M_TRP" stoichiometry="2" />
+          <speciesReference constant="true" species="M_THR" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLY" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -12289,8 +12289,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_r0846" name="cellobiose transport via ABC system/putative cellobiose transport permease" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -12384,8 +12384,8 @@
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -12441,8 +12441,8 @@
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_LARABINOSE" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_LARABINOSE" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -12491,8 +12491,8 @@
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_MLT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_MLT" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>

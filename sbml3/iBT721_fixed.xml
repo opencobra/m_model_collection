@@ -691,730 +691,730 @@
       <species boundaryCondition="false" compartment="default" constant="false" hasOnlySubstanceUnits="false" id="M_val__L_LSQBKTc_RSQBKT" name="L-Valine" fbc:chemicalFormula="C5H11NO2" />
     </listOfSpecies>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct fbc:id="G_lp_2349" fbc:label="lp_2349" fbc:name="lp_2349" />
-      <fbc:geneProduct fbc:id="G_lp_0350" fbc:label="lp_0350" fbc:name="lp_0350" />
-      <fbc:geneProduct fbc:id="G_lp_1245" fbc:label="lp_1245" fbc:name="lp_1245" />
-      <fbc:geneProduct fbc:id="G_lp_3054" fbc:label="lp_3054" fbc:name="lp_3054" />
-      <fbc:geneProduct fbc:id="G_lp_1721" fbc:label="lp_1721" fbc:name="lp_1721" />
-      <fbc:geneProduct fbc:id="G_lp_0329" fbc:label="lp_0329" fbc:name="lp_0329" />
-      <fbc:geneProduct fbc:id="G_lp_3662" fbc:label="lp_3662" fbc:name="lp_3662" />
-      <fbc:geneProduct fbc:id="G_lp_0592" fbc:label="lp_0592" fbc:name="lp_0592" />
-      <fbc:geneProduct fbc:id="G_lp_1678" fbc:label="lp_1678" fbc:name="lp_1678" />
-      <fbc:geneProduct fbc:id="G_lp_0590" fbc:label="lp_0590" fbc:name="lp_0590" />
-      <fbc:geneProduct fbc:id="G_lp_0362" fbc:label="lp_0362" fbc:name="lp_0362" />
-      <fbc:geneProduct fbc:id="G_lp_1679" fbc:label="lp_1679" fbc:name="lp_1679" />
-      <fbc:geneProduct fbc:id="G_lp_1676" fbc:label="lp_1676" fbc:name="lp_1676" />
-      <fbc:geneProduct fbc:id="G_lp_0589" fbc:label="lp_0589" fbc:name="lp_0589" />
-      <fbc:geneProduct fbc:id="G_lp_0854" fbc:label="lp_0854" fbc:name="lp_0854" />
-      <fbc:geneProduct fbc:id="G_lp_0337" fbc:label="lp_0337" fbc:name="lp_0337" />
-      <fbc:geneProduct fbc:id="G_lp_0591" fbc:label="lp_0591" fbc:name="lp_0591" />
-      <fbc:geneProduct fbc:id="G_lp_1680" fbc:label="lp_1680" fbc:name="lp_1680" />
-      <fbc:geneProduct fbc:id="G_lp_2649" fbc:label="lp_2649" fbc:name="lp_2649" />
-      <fbc:geneProduct fbc:id="G_lp_1274" fbc:label="lp_1274" fbc:name="lp_1274" />
-      <fbc:geneProduct fbc:id="G_lp_2650" fbc:label="lp_2650" fbc:name="lp_2650" />
-      <fbc:geneProduct fbc:id="G_lp_2647" fbc:label="lp_2647" fbc:name="lp_2647" />
-      <fbc:geneProduct fbc:id="G_lp_1273" fbc:label="lp_1273" fbc:name="lp_1273" />
-      <fbc:geneProduct fbc:id="G_lp_2648" fbc:label="lp_2648" fbc:name="lp_2648" />
-      <fbc:geneProduct fbc:id="G_lp_0730" fbc:label="lp_0730" fbc:name="lp_0730" />
-      <fbc:geneProduct fbc:id="G_lp_2531" fbc:label="lp_2531" fbc:name="lp_2531" />
-      <fbc:geneProduct fbc:id="G_lp_2969" fbc:label="lp_2969" fbc:name="lp_2969" />
-      <fbc:geneProduct fbc:id="G_lp_0488" fbc:label="lp_0488" fbc:name="lp_0488" />
-      <fbc:geneProduct fbc:id="G_lp_0530" fbc:label="lp_0530" fbc:name="lp_0530" />
-      <fbc:geneProduct fbc:id="G_lp_1005" fbc:label="lp_1005" fbc:name="lp_1005" />
-      <fbc:geneProduct fbc:id="G_lp_0210" fbc:label="lp_0210" fbc:name="lp_0210" />
-      <fbc:geneProduct fbc:id="G_lp_2242" fbc:label="lp_2242" fbc:name="lp_2242" />
-      <fbc:geneProduct fbc:id="G_lp_0310" fbc:label="lp_0310" fbc:name="lp_0310" />
-      <fbc:geneProduct fbc:id="G_lp_2030" fbc:label="lp_2030" fbc:name="lp_2030" />
-      <fbc:geneProduct fbc:id="G_lp_3568" fbc:label="lp_3568" fbc:name="lp_3568" />
-      <fbc:geneProduct fbc:id="G_lp_0531" fbc:label="lp_0531" fbc:name="lp_0531" />
-      <fbc:geneProduct fbc:id="G_lp_1672" fbc:label="lp_1672" fbc:name="lp_1672" />
-      <fbc:geneProduct fbc:id="G_lp_1629" fbc:label="lp_1629" fbc:name="lp_1629" />
-      <fbc:geneProduct fbc:id="G_lp_0522" fbc:label="lp_0522" fbc:name="lp_0522" />
-      <fbc:geneProduct fbc:id="G_lp_1554" fbc:label="lp_1554" fbc:name="lp_1554" />
-      <fbc:geneProduct fbc:id="G_lp_0696" fbc:label="lp_0696" fbc:name="lp_0696" />
-      <fbc:geneProduct fbc:id="G_lp_3334" fbc:label="lp_3334" fbc:name="lp_3334" />
-      <fbc:geneProduct fbc:id="G_lp_3374" fbc:label="lp_3374" fbc:name="lp_3374" />
-      <fbc:geneProduct fbc:id="G_lp_1058" fbc:label="lp_1058" fbc:name="lp_1058" />
-      <fbc:geneProduct fbc:id="G_lp_2825" fbc:label="lp_2825" fbc:name="lp_2825" />
-      <fbc:geneProduct fbc:id="G_lp_2591" fbc:label="lp_2591" fbc:name="lp_2591" />
-      <fbc:geneProduct fbc:id="G_lp_0363" fbc:label="lp_0363" fbc:name="lp_0363" />
-      <fbc:geneProduct fbc:id="G_lp_2263" fbc:label="lp_2263" fbc:name="lp_2263" />
-      <fbc:geneProduct fbc:id="G_lp_2762" fbc:label="lp_2762" fbc:name="lp_2762" />
-      <fbc:geneProduct fbc:id="G_lp_2183" fbc:label="lp_2183" fbc:name="lp_2183" />
-      <fbc:geneProduct fbc:id="G_lp_1790" fbc:label="lp_1790" fbc:name="lp_1790" />
-      <fbc:geneProduct fbc:id="G_lp_2086" fbc:label="lp_2086" fbc:name="lp_2086" />
-      <fbc:geneProduct fbc:id="G_lp_1379" fbc:label="lp_1379" fbc:name="lp_1379" />
-      <fbc:geneProduct fbc:id="G_lp_3269" fbc:label="lp_3269" fbc:name="lp_3269" />
-      <fbc:geneProduct fbc:id="G_lp_3270" fbc:label="lp_3270" fbc:name="lp_3270" />
-      <fbc:geneProduct fbc:id="G_lp_0710" fbc:label="lp_0710" fbc:name="lp_0710" />
-      <fbc:geneProduct fbc:id="G_lp_0712" fbc:label="lp_0712" fbc:name="lp_0712" />
-      <fbc:geneProduct fbc:id="G_lp_0715" fbc:label="lp_0715" fbc:name="lp_0715" />
-      <fbc:geneProduct fbc:id="G_lp_0713" fbc:label="lp_0713" fbc:name="lp_0713" />
-      <fbc:geneProduct fbc:id="G_lp_0714" fbc:label="lp_0714" fbc:name="lp_0714" />
-      <fbc:geneProduct fbc:id="G_lp_2060" fbc:label="lp_2060" fbc:name="lp_2060" />
-      <fbc:geneProduct fbc:id="G_lp_0562" fbc:label="lp_0562" fbc:name="lp_0562" />
-      <fbc:geneProduct fbc:id="G_lp_0487" fbc:label="lp_0487" fbc:name="lp_0487" />
-      <fbc:geneProduct fbc:id="G_lp_0528" fbc:label="lp_0528" fbc:name="lp_0528" />
-      <fbc:geneProduct fbc:id="G_lp_2181" fbc:label="lp_2181" fbc:name="lp_2181" />
-      <fbc:geneProduct fbc:id="G_lp_2936" fbc:label="lp_2936" fbc:name="lp_2936" />
-      <fbc:geneProduct fbc:id="G_lp_3492" fbc:label="lp_3492" fbc:name="lp_3492" />
-      <fbc:geneProduct fbc:id="G_lp_1072" fbc:label="lp_1072" fbc:name="lp_1072" />
-      <fbc:geneProduct fbc:id="G_lp_2720" fbc:label="lp_2720" fbc:name="lp_2720" />
-      <fbc:geneProduct fbc:id="G_lp_1141" fbc:label="lp_1141" fbc:name="lp_1141" />
-      <fbc:geneProduct fbc:id="G_lp_2729" fbc:label="lp_2729" fbc:name="lp_2729" />
-      <fbc:geneProduct fbc:id="G_lp_2728" fbc:label="lp_2728" fbc:name="lp_2728" />
-      <fbc:geneProduct fbc:id="G_lp_2345" fbc:label="lp_2345" fbc:name="lp_2345" />
-      <fbc:geneProduct fbc:id="G_lp_0523" fbc:label="lp_0523" fbc:name="lp_0523" />
-      <fbc:geneProduct fbc:id="G_lp_2277" fbc:label="lp_2277" fbc:name="lp_2277" />
-      <fbc:geneProduct fbc:id="G_lp_1665" fbc:label="lp_1665" fbc:name="lp_1665" />
-      <fbc:geneProduct fbc:id="G_lp_2873" fbc:label="lp_2873" fbc:name="lp_2873" />
-      <fbc:geneProduct fbc:id="G_lp_0047" fbc:label="lp_0047" fbc:name="lp_0047" />
-      <fbc:geneProduct fbc:id="G_lp_1982" fbc:label="lp_1982" fbc:name="lp_1982" />
-      <fbc:geneProduct fbc:id="G_lp_3571" fbc:label="lp_3571" fbc:name="lp_3571" />
-      <fbc:geneProduct fbc:id="G_lp_3567" fbc:label="lp_3567" fbc:name="lp_3567" />
-      <fbc:geneProduct fbc:id="G_lp_1654" fbc:label="lp_1654" fbc:name="lp_1654" />
-      <fbc:geneProduct fbc:id="G_lp_1653" fbc:label="lp_1653" fbc:name="lp_1653" />
-      <fbc:geneProduct fbc:id="G_lp_1652" fbc:label="lp_1652" fbc:name="lp_1652" />
-      <fbc:geneProduct fbc:id="G_lp_2264" fbc:label="lp_2264" fbc:name="lp_2264" />
-      <fbc:geneProduct fbc:id="G_lp_3557" fbc:label="lp_3557" fbc:name="lp_3557" />
-      <fbc:geneProduct fbc:id="G_lp_3554" fbc:label="lp_3554" fbc:name="lp_3554" />
-      <fbc:geneProduct fbc:id="G_lp_0776" fbc:label="lp_0776" fbc:name="lp_0776" />
-      <fbc:geneProduct fbc:id="G_lp_0775" fbc:label="lp_0775" fbc:name="lp_0775" />
-      <fbc:geneProduct fbc:id="G_lp_1391" fbc:label="lp_1391" fbc:name="lp_1391" />
-      <fbc:geneProduct fbc:id="G_lp_1346" fbc:label="lp_1346" fbc:name="lp_1346" />
-      <fbc:geneProduct fbc:id="G_lp_2570" fbc:label="lp_2570" fbc:name="lp_2570" />
-      <fbc:geneProduct fbc:id="G_lp_2738" fbc:label="lp_2738" fbc:name="lp_2738" />
-      <fbc:geneProduct fbc:id="G_lp_3085" fbc:label="lp_3085" fbc:name="lp_3085" />
-      <fbc:geneProduct fbc:id="G_lp_0980" fbc:label="lp_0980" fbc:name="lp_0980" />
-      <fbc:geneProduct fbc:id="G_lp_0957" fbc:label="lp_0957" fbc:name="lp_0957" />
-      <fbc:geneProduct fbc:id="G_lp_1740" fbc:label="lp_1740" fbc:name="lp_1740" />
-      <fbc:geneProduct fbc:id="G_lp_0956" fbc:label="lp_0956" fbc:name="lp_0956" />
-      <fbc:geneProduct fbc:id="G_lp_0579" fbc:label="lp_0579" fbc:name="lp_0579" />
-      <fbc:geneProduct fbc:id="G_lp_2703" fbc:label="lp_2703" fbc:name="lp_2703" />
-      <fbc:geneProduct fbc:id="G_lp_2308" fbc:label="lp_2308" fbc:name="lp_2308" />
-      <fbc:geneProduct fbc:id="G_lp_0979" fbc:label="lp_0979" fbc:name="lp_0979" />
-      <fbc:geneProduct fbc:id="G_lp_1523" fbc:label="lp_1523" fbc:name="lp_1523" />
-      <fbc:geneProduct fbc:id="G_lp_2830" fbc:label="lp_2830" fbc:name="lp_2830" />
-      <fbc:geneProduct fbc:id="G_lp_1739" fbc:label="lp_1739" fbc:name="lp_1739" />
-      <fbc:geneProduct fbc:id="G_lp_1980" fbc:label="lp_1980" fbc:name="lp_1980" />
-      <fbc:geneProduct fbc:id="G_lp_2560" fbc:label="lp_2560" fbc:name="lp_2560" />
-      <fbc:geneProduct fbc:id="G_lp_2370" fbc:label="lp_2370" fbc:name="lp_2370" />
-      <fbc:geneProduct fbc:id="G_lp_2363" fbc:label="lp_2363" fbc:name="lp_2363" />
-      <fbc:geneProduct fbc:id="G_lp_2367" fbc:label="lp_2367" fbc:name="lp_2367" />
-      <fbc:geneProduct fbc:id="G_lp_2368" fbc:label="lp_2368" fbc:name="lp_2368" />
-      <fbc:geneProduct fbc:id="G_lp_2366" fbc:label="lp_2366" fbc:name="lp_2366" />
-      <fbc:geneProduct fbc:id="G_lp_2365" fbc:label="lp_2365" fbc:name="lp_2365" />
-      <fbc:geneProduct fbc:id="G_lp_2364" fbc:label="lp_2364" fbc:name="lp_2364" />
-      <fbc:geneProduct fbc:id="G_lp_2369" fbc:label="lp_2369" fbc:name="lp_2369" />
-      <fbc:geneProduct fbc:id="G_lp_2778" fbc:label="lp_2778" fbc:name="lp_2778" />
-      <fbc:geneProduct fbc:id="G_lp_3011" fbc:label="lp_3011" fbc:name="lp_3011" />
-      <fbc:geneProduct fbc:id="G_lp_2777" fbc:label="lp_2777" fbc:name="lp_2777" />
-      <fbc:geneProduct fbc:id="G_lp_0440" fbc:label="lp_0440" fbc:name="lp_0440" />
-      <fbc:geneProduct fbc:id="G_lp_1681" fbc:label="lp_1681" fbc:name="lp_1681" />
-      <fbc:geneProduct fbc:id="G_lp_3578" fbc:label="lp_3578" fbc:name="lp_3578" />
-      <fbc:geneProduct fbc:id="G_lp_0526" fbc:label="lp_0526" fbc:name="lp_0526" />
-      <fbc:geneProduct fbc:id="G_lp_2701" fbc:label="lp_2701" fbc:name="lp_2701" />
-      <fbc:geneProduct fbc:id="G_lp_0527" fbc:label="lp_0527" fbc:name="lp_0527" />
-      <fbc:geneProduct fbc:id="G_lp_2700" fbc:label="lp_2700" fbc:name="lp_2700" />
-      <fbc:geneProduct fbc:id="G_lp_0460" fbc:label="lp_0460" fbc:name="lp_0460" />
-      <fbc:geneProduct fbc:id="G_lp_2780" fbc:label="lp_2780" fbc:name="lp_2780" />
-      <fbc:geneProduct fbc:id="G_lp_2781" fbc:label="lp_2781" fbc:name="lp_2781" />
-      <fbc:geneProduct fbc:id="G_lp_3008" fbc:label="lp_3008" fbc:name="lp_3008" />
-      <fbc:geneProduct fbc:id="G_lp_3010" fbc:label="lp_3010" fbc:name="lp_3010" />
-      <fbc:geneProduct fbc:id="G_lp_3009" fbc:label="lp_3009" fbc:name="lp_3009" />
-      <fbc:geneProduct fbc:id="G_lp_1696" fbc:label="lp_1696" fbc:name="lp_1696" />
-      <fbc:geneProduct fbc:id="G_lp_3174" fbc:label="lp_3174" fbc:name="lp_3174" />
-      <fbc:geneProduct fbc:id="G_lp_0269" fbc:label="lp_0269" fbc:name="lp_0269" />
-      <fbc:geneProduct fbc:id="G_lp_0268" fbc:label="lp_0268" fbc:name="lp_0268" />
-      <fbc:geneProduct fbc:id="G_lp_1609" fbc:label="lp_1609" fbc:name="lp_1609" />
-      <fbc:geneProduct fbc:id="G_lp_1607" fbc:label="lp_1607" fbc:name="lp_1607" />
-      <fbc:geneProduct fbc:id="G_lp_0367" fbc:label="lp_0367" fbc:name="lp_0367" />
-      <fbc:geneProduct fbc:id="G_lp_1610" fbc:label="lp_1610" fbc:name="lp_1610" />
-      <fbc:geneProduct fbc:id="G_lp_0368" fbc:label="lp_0368" fbc:name="lp_0368" />
-      <fbc:geneProduct fbc:id="G_lp_1608" fbc:label="lp_1608" fbc:name="lp_1608" />
-      <fbc:geneProduct fbc:id="G_lp_3324" fbc:label="lp_3324" fbc:name="lp_3324" />
-      <fbc:geneProduct fbc:id="G_lp_1085" fbc:label="lp_1085" fbc:name="lp_1085" />
-      <fbc:geneProduct fbc:id="G_lp_2037" fbc:label="lp_2037" fbc:name="lp_2037" />
-      <fbc:geneProduct fbc:id="G_lp_1108" fbc:label="lp_1108" fbc:name="lp_1108" />
-      <fbc:geneProduct fbc:id="G_lp_1114" fbc:label="lp_1114" fbc:name="lp_1114" />
-      <fbc:geneProduct fbc:id="G_lp_1106" fbc:label="lp_1106" fbc:name="lp_1106" />
-      <fbc:geneProduct fbc:id="G_lp_1093" fbc:label="lp_1093" fbc:name="lp_1093" />
-      <fbc:geneProduct fbc:id="G_lp_1109" fbc:label="lp_1109" fbc:name="lp_1109" />
-      <fbc:geneProduct fbc:id="G_lp_1107" fbc:label="lp_1107" fbc:name="lp_1107" />
-      <fbc:geneProduct fbc:id="G_lp_0594" fbc:label="lp_0594" fbc:name="lp_0594" />
-      <fbc:geneProduct fbc:id="G_lp_3273" fbc:label="lp_3273" fbc:name="lp_3273" />
-      <fbc:geneProduct fbc:id="G_lp_2852" fbc:label="lp_2852" fbc:name="lp_2852" />
-      <fbc:geneProduct fbc:id="G_lp_3665" fbc:label="lp_3665" fbc:name="lp_3665" />
-      <fbc:geneProduct fbc:id="G_lp_1180" fbc:label="lp_1180" fbc:name="lp_1180" />
-      <fbc:geneProduct fbc:id="G_lp_1198" fbc:label="lp_1198" fbc:name="lp_1198" />
-      <fbc:geneProduct fbc:id="G_lp_1181" fbc:label="lp_1181" fbc:name="lp_1181" />
-      <fbc:geneProduct fbc:id="G_lp_2099" fbc:label="lp_2099" fbc:name="lp_2099" />
-      <fbc:geneProduct fbc:id="G_lp_1182" fbc:label="lp_1182" fbc:name="lp_1182" />
-      <fbc:geneProduct fbc:id="G_lp_2108" fbc:label="lp_2108" fbc:name="lp_2108" />
-      <fbc:geneProduct fbc:id="G_lp_1197" fbc:label="lp_1197" fbc:name="lp_1197" />
-      <fbc:geneProduct fbc:id="G_lp_1185" fbc:label="lp_1185" fbc:name="lp_1185" />
-      <fbc:geneProduct fbc:id="G_lp_1199" fbc:label="lp_1199" fbc:name="lp_1199" />
-      <fbc:geneProduct fbc:id="G_lp_1216" fbc:label="lp_1216" fbc:name="lp_1216" />
-      <fbc:geneProduct fbc:id="G_lp_1215" fbc:label="lp_1215" fbc:name="lp_1215" />
-      <fbc:geneProduct fbc:id="G_lp_2100" fbc:label="lp_2100" fbc:name="lp_2100" />
-      <fbc:geneProduct fbc:id="G_lp_1184" fbc:label="lp_1184" fbc:name="lp_1184" />
-      <fbc:geneProduct fbc:id="G_lp_1177" fbc:label="lp_1177" fbc:name="lp_1177" />
-      <fbc:geneProduct fbc:id="G_lp_2102" fbc:label="lp_2102" fbc:name="lp_2102" />
-      <fbc:geneProduct fbc:id="G_lp_1179" fbc:label="lp_1179" fbc:name="lp_1179" />
-      <fbc:geneProduct fbc:id="G_lp_1178" fbc:label="lp_1178" fbc:name="lp_1178" />
-      <fbc:geneProduct fbc:id="G_lp_1202" fbc:label="lp_1202" fbc:name="lp_1202" />
-      <fbc:geneProduct fbc:id="G_lp_2104" fbc:label="lp_2104" fbc:name="lp_2104" />
-      <fbc:geneProduct fbc:id="G_lp_1203" fbc:label="lp_1203" fbc:name="lp_1203" />
-      <fbc:geneProduct fbc:id="G_lp_2107" fbc:label="lp_2107" fbc:name="lp_2107" />
-      <fbc:geneProduct fbc:id="G_lp_2101" fbc:label="lp_2101" fbc:name="lp_2101" />
-      <fbc:geneProduct fbc:id="G_lp_2106" fbc:label="lp_2106" fbc:name="lp_2106" />
-      <fbc:geneProduct fbc:id="G_lp_1204" fbc:label="lp_1204" fbc:name="lp_1204" />
-      <fbc:geneProduct fbc:id="G_lp_1206" fbc:label="lp_1206" fbc:name="lp_1206" />
-      <fbc:geneProduct fbc:id="G_lp_2103" fbc:label="lp_2103" fbc:name="lp_2103" />
-      <fbc:geneProduct fbc:id="G_lp_1201" fbc:label="lp_1201" fbc:name="lp_1201" />
-      <fbc:geneProduct fbc:id="G_lp_1225" fbc:label="lp_1225" fbc:name="lp_1225" />
-      <fbc:geneProduct fbc:id="G_lp_1224" fbc:label="lp_1224" fbc:name="lp_1224" />
-      <fbc:geneProduct fbc:id="G_lp_1205" fbc:label="lp_1205" fbc:name="lp_1205" />
-      <fbc:geneProduct fbc:id="G_lp_1221" fbc:label="lp_1221" fbc:name="lp_1221" />
-      <fbc:geneProduct fbc:id="G_lp_1183" fbc:label="lp_1183" fbc:name="lp_1183" />
-      <fbc:geneProduct fbc:id="G_lp_1220" fbc:label="lp_1220" fbc:name="lp_1220" />
-      <fbc:geneProduct fbc:id="G_lp_1227" fbc:label="lp_1227" fbc:name="lp_1227" />
-      <fbc:geneProduct fbc:id="G_lp_1226" fbc:label="lp_1226" fbc:name="lp_1226" />
-      <fbc:geneProduct fbc:id="G_lp_1222" fbc:label="lp_1222" fbc:name="lp_1222" />
-      <fbc:geneProduct fbc:id="G_lp_1816" fbc:label="lp_1816" fbc:name="lp_1816" />
-      <fbc:geneProduct fbc:id="G_lp_1819" fbc:label="lp_1819" fbc:name="lp_1819" />
-      <fbc:geneProduct fbc:id="G_lp_1977" fbc:label="lp_1977" fbc:name="lp_1977" />
-      <fbc:geneProduct fbc:id="G_lp_0343" fbc:label="lp_0343" fbc:name="lp_0343" />
-      <fbc:geneProduct fbc:id="G_lp_0344" fbc:label="lp_0344" fbc:name="lp_0344" />
-      <fbc:geneProduct fbc:id="G_lp_1818" fbc:label="lp_1818" fbc:name="lp_1818" />
-      <fbc:geneProduct fbc:id="G_lp_0481" fbc:label="lp_0481" fbc:name="lp_0481" />
-      <fbc:geneProduct fbc:id="G_lp_0256" fbc:label="lp_0256" fbc:name="lp_0256" />
-      <fbc:geneProduct fbc:id="G_lp_3517" fbc:label="lp_3517" fbc:name="lp_3517" />
-      <fbc:geneProduct fbc:id="G_lp_0255" fbc:label="lp_0255" fbc:name="lp_0255" />
-      <fbc:geneProduct fbc:id="G_lp_0610" fbc:label="lp_0610" fbc:name="lp_0610" />
-      <fbc:geneProduct fbc:id="G_lp_1126" fbc:label="lp_1126" fbc:name="lp_1126" />
-      <fbc:geneProduct fbc:id="G_lp_1129" fbc:label="lp_1129" fbc:name="lp_1129" />
-      <fbc:geneProduct fbc:id="G_lp_1125" fbc:label="lp_1125" fbc:name="lp_1125" />
-      <fbc:geneProduct fbc:id="G_lp_1128" fbc:label="lp_1128" fbc:name="lp_1128" />
-      <fbc:geneProduct fbc:id="G_lp_1562" fbc:label="lp_1562" fbc:name="lp_1562" />
-      <fbc:geneProduct fbc:id="G_lp_1883" fbc:label="lp_1883" fbc:name="lp_1883" />
-      <fbc:geneProduct fbc:id="G_lp_1329" fbc:label="lp_1329" fbc:name="lp_1329" />
-      <fbc:geneProduct fbc:id="G_lp_1011" fbc:label="lp_1011" fbc:name="lp_1011" />
-      <fbc:geneProduct fbc:id="G_lp_1275" fbc:label="lp_1275" fbc:name="lp_1275" />
-      <fbc:geneProduct fbc:id="G_lp_1276" fbc:label="lp_1276" fbc:name="lp_1276" />
-      <fbc:geneProduct fbc:id="G_lp_1968" fbc:label="lp_1968" fbc:name="lp_1968" />
-      <fbc:geneProduct fbc:id="G_lp_2018" fbc:label="lp_2018" fbc:name="lp_2018" />
-      <fbc:geneProduct fbc:id="G_lp_2017" fbc:label="lp_2017" fbc:name="lp_2017" />
-      <fbc:geneProduct fbc:id="G_lp_2019" fbc:label="lp_2019" fbc:name="lp_2019" />
-      <fbc:geneProduct fbc:id="G_lp_2016" fbc:label="lp_2016" fbc:name="lp_2016" />
-      <fbc:geneProduct fbc:id="G_lp_1406" fbc:label="lp_1406" fbc:name="lp_1406" />
-      <fbc:geneProduct fbc:id="G_lp_1713" fbc:label="lp_1713" fbc:name="lp_1713" />
-      <fbc:geneProduct fbc:id="G_lp_2185" fbc:label="lp_2185" fbc:name="lp_2185" />
-      <fbc:geneProduct fbc:id="G_lp_2050" fbc:label="lp_2050" fbc:name="lp_2050" />
-      <fbc:geneProduct fbc:id="G_lp_1437" fbc:label="lp_1437" fbc:name="lp_1437" />
-      <fbc:geneProduct fbc:id="G_lp_0253" fbc:label="lp_0253" fbc:name="lp_0253" />
-      <fbc:geneProduct fbc:id="G_lp_0168" fbc:label="lp_0168" fbc:name="lp_0168" />
-      <fbc:geneProduct fbc:id="G_lp_0170" fbc:label="lp_0170" fbc:name="lp_0170" />
-      <fbc:geneProduct fbc:id="G_lp_0169" fbc:label="lp_0169" fbc:name="lp_0169" />
-      <fbc:geneProduct fbc:id="G_lp_0166" fbc:label="lp_0166" fbc:name="lp_0166" />
-      <fbc:geneProduct fbc:id="G_lp_0171" fbc:label="lp_0171" fbc:name="lp_0171" />
-      <fbc:geneProduct fbc:id="G_lp_1874" fbc:label="lp_1874" fbc:name="lp_1874" />
-      <fbc:geneProduct fbc:id="G_lp_2685" fbc:label="lp_2685" fbc:name="lp_2685" />
-      <fbc:geneProduct fbc:id="G_lp_2123" fbc:label="lp_2123" fbc:name="lp_2123" />
-      <fbc:geneProduct fbc:id="G_lp_1869" fbc:label="lp_1869" fbc:name="lp_1869" />
-      <fbc:geneProduct fbc:id="G_lp_2321" fbc:label="lp_2321" fbc:name="lp_2321" />
-      <fbc:geneProduct fbc:id="G_lp_3296" fbc:label="lp_3296" fbc:name="lp_3296" />
-      <fbc:geneProduct fbc:id="G_lp_3299" fbc:label="lp_3299" fbc:name="lp_3299" />
-      <fbc:geneProduct fbc:id="G_lp_2699" fbc:label="lp_2699" fbc:name="lp_2699" />
-      <fbc:geneProduct fbc:id="G_lp_2702" fbc:label="lp_2702" fbc:name="lp_2702" />
-      <fbc:geneProduct fbc:id="G_lp_3294" fbc:label="lp_3294" fbc:name="lp_3294" />
-      <fbc:geneProduct fbc:id="G_lp_2798" fbc:label="lp_2798" fbc:name="lp_2798" />
-      <fbc:geneProduct fbc:id="G_lp_3493" fbc:label="lp_3493" fbc:name="lp_3493" />
-      <fbc:geneProduct fbc:id="G_lp_1086" fbc:label="lp_1086" fbc:name="lp_1086" />
-      <fbc:geneProduct fbc:id="G_lp_1602" fbc:label="lp_1602" fbc:name="lp_1602" />
-      <fbc:geneProduct fbc:id="G_lp_3295" fbc:label="lp_3295" fbc:name="lp_3295" />
-      <fbc:geneProduct fbc:id="G_lp_1510" fbc:label="lp_1510" fbc:name="lp_1510" />
-      <fbc:geneProduct fbc:id="G_lp_1734" fbc:label="lp_1734" fbc:name="lp_1734" />
-      <fbc:geneProduct fbc:id="G_lp_2532" fbc:label="lp_2532" fbc:name="lp_2532" />
-      <fbc:geneProduct fbc:id="G_lp_2788" fbc:label="lp_2788" fbc:name="lp_2788" />
-      <fbc:geneProduct fbc:id="G_lp_0500" fbc:label="lp_0500" fbc:name="lp_0500" />
-      <fbc:geneProduct fbc:id="G_lp_3660" fbc:label="lp_3660" fbc:name="lp_3660" />
-      <fbc:geneProduct fbc:id="G_lp_2251" fbc:label="lp_2251" fbc:name="lp_2251" />
-      <fbc:geneProduct fbc:id="G_lp_0498" fbc:label="lp_0498" fbc:name="lp_0498" />
-      <fbc:geneProduct fbc:id="G_lp_0497" fbc:label="lp_0497" fbc:name="lp_0497" />
-      <fbc:geneProduct fbc:id="G_lp_0703" fbc:label="lp_0703" fbc:name="lp_0703" />
-      <fbc:geneProduct fbc:id="G_lp_2379" fbc:label="lp_2379" fbc:name="lp_2379" />
-      <fbc:geneProduct fbc:id="G_lp_0125" fbc:label="lp_0125" fbc:name="lp_0125" />
-      <fbc:geneProduct fbc:id="G_lp_0604" fbc:label="lp_0604" fbc:name="lp_0604" />
-      <fbc:geneProduct fbc:id="G_lp_2610" fbc:label="lp_2610" fbc:name="lp_2610" />
-      <fbc:geneProduct fbc:id="G_lp_1814" fbc:label="lp_1814" fbc:name="lp_1814" />
-      <fbc:geneProduct fbc:id="G_lp_0792" fbc:label="lp_0792" fbc:name="lp_0792" />
-      <fbc:geneProduct fbc:id="G_lp_1920" fbc:label="lp_1920" fbc:name="lp_1920" />
-      <fbc:geneProduct fbc:id="G_lp_0841" fbc:label="lp_0841" fbc:name="lp_0841" />
-      <fbc:geneProduct fbc:id="G_lp_0843" fbc:label="lp_0843" fbc:name="lp_0843" />
-      <fbc:geneProduct fbc:id="G_lp_0446" fbc:label="lp_0446" fbc:name="lp_0446" />
-      <fbc:geneProduct fbc:id="G_lp_2600" fbc:label="lp_2600" fbc:name="lp_2600" />
-      <fbc:geneProduct fbc:id="G_lp_3617" fbc:label="lp_3617" fbc:name="lp_3617" />
-      <fbc:geneProduct fbc:id="G_lp_0330" fbc:label="lp_0330" fbc:name="lp_0330" />
-      <fbc:geneProduct fbc:id="G_lp_0187" fbc:label="lp_0187" fbc:name="lp_0187" />
-      <fbc:geneProduct fbc:id="G_lp_0829" fbc:label="lp_0829" fbc:name="lp_0829" />
-      <fbc:geneProduct fbc:id="G_lp_2155" fbc:label="lp_2155" fbc:name="lp_2155" />
-      <fbc:geneProduct fbc:id="G_lp_2935" fbc:label="lp_2935" fbc:name="lp_2935" />
-      <fbc:geneProduct fbc:id="G_lp_0850" fbc:label="lp_0850" fbc:name="lp_0850" />
-      <fbc:geneProduct fbc:id="G_lp_2031" fbc:label="lp_2031" fbc:name="lp_2031" />
-      <fbc:geneProduct fbc:id="G_lp_2096" fbc:label="lp_2096" fbc:name="lp_2096" />
-      <fbc:geneProduct fbc:id="G_lp_2097" fbc:label="lp_2097" fbc:name="lp_2097" />
-      <fbc:geneProduct fbc:id="G_lp_1570" fbc:label="lp_1570" fbc:name="lp_1570" />
-      <fbc:geneProduct fbc:id="G_lp_1779" fbc:label="lp_1779" fbc:name="lp_1779" />
-      <fbc:geneProduct fbc:id="G_lp_1112" fbc:label="lp_1112" fbc:name="lp_1112" />
-      <fbc:geneProduct fbc:id="G_lp_0467" fbc:label="lp_0467" fbc:name="lp_0467" />
-      <fbc:geneProduct fbc:id="G_lp_1186" fbc:label="lp_1186" fbc:name="lp_1186" />
-      <fbc:geneProduct fbc:id="G_lp_1248" fbc:label="lp_1248" fbc:name="lp_1248" />
-      <fbc:geneProduct fbc:id="G_lp_0267" fbc:label="lp_0267" fbc:name="lp_0267" />
-      <fbc:geneProduct fbc:id="G_lp_0756" fbc:label="lp_0756" fbc:name="lp_0756" />
-      <fbc:geneProduct fbc:id="G_lp_0371" fbc:label="lp_0371" fbc:name="lp_0371" />
+      <fbc:geneProduct fbc:id="G_lp_0016" fbc:label="lp_0016" fbc:name="lp_0016" />
       <fbc:geneProduct fbc:id="G_lp_0017" fbc:label="lp_0017" fbc:name="lp_0017" />
-      <fbc:geneProduct fbc:id="G_lp_0226" fbc:label="lp_0226" fbc:name="lp_0226" />
-      <fbc:geneProduct fbc:id="G_lp_2681" fbc:label="lp_2681" fbc:name="lp_2681" />
-      <fbc:geneProduct fbc:id="G_lp_2502" fbc:label="lp_2502" fbc:name="lp_2502" />
-      <fbc:geneProduct fbc:id="G_lp_3482" fbc:label="lp_3482" fbc:name="lp_3482" />
-      <fbc:geneProduct fbc:id="G_lp_3487" fbc:label="lp_3487" fbc:name="lp_3487" />
-      <fbc:geneProduct fbc:id="G_lp_0826" fbc:label="lp_0826" fbc:name="lp_0826" />
-      <fbc:geneProduct fbc:id="G_lp_1731" fbc:label="lp_1731" fbc:name="lp_1731" />
-      <fbc:geneProduct fbc:id="G_lp_3485" fbc:label="lp_3485" fbc:name="lp_3485" />
-      <fbc:geneProduct fbc:id="G_lp_3480" fbc:label="lp_3480" fbc:name="lp_3480" />
-      <fbc:geneProduct fbc:id="G_lp_3547" fbc:label="lp_3547" fbc:name="lp_3547" />
-      <fbc:geneProduct fbc:id="G_lp_3600" fbc:label="lp_3600" fbc:name="lp_3600" />
-      <fbc:geneProduct fbc:id="G_lp_3548" fbc:label="lp_3548" fbc:name="lp_3548" />
-      <fbc:geneProduct fbc:id="G_lp_3546" fbc:label="lp_3546" fbc:name="lp_3546" />
-      <fbc:geneProduct fbc:id="G_lp_3601" fbc:label="lp_3601" fbc:name="lp_3601" />
-      <fbc:geneProduct fbc:id="G_lp_3599" fbc:label="lp_3599" fbc:name="lp_3599" />
-      <fbc:geneProduct fbc:id="G_lp_0757" fbc:label="lp_0757" fbc:name="lp_0757" />
-      <fbc:geneProduct fbc:id="G_lp_0789" fbc:label="lp_0789" fbc:name="lp_0789" />
-      <fbc:geneProduct fbc:id="G_lp_2721" fbc:label="lp_2721" fbc:name="lp_2721" />
-      <fbc:geneProduct fbc:id="G_lp_0822" fbc:label="lp_0822" fbc:name="lp_0822" />
-      <fbc:geneProduct fbc:id="G_lp_2375" fbc:label="lp_2375" fbc:name="lp_2375" />
-      <fbc:geneProduct fbc:id="G_lp_1612" fbc:label="lp_1612" fbc:name="lp_1612" />
-      <fbc:geneProduct fbc:id="G_lp_0866" fbc:label="lp_0866" fbc:name="lp_0866" />
-      <fbc:geneProduct fbc:id="G_lp_1249" fbc:label="lp_1249" fbc:name="lp_1249" />
+      <fbc:geneProduct fbc:id="G_lp_0020" fbc:label="lp_0020" fbc:name="lp_0020" />
+      <fbc:geneProduct fbc:id="G_lp_0021" fbc:label="lp_0021" fbc:name="lp_0021" />
+      <fbc:geneProduct fbc:id="G_lp_0022" fbc:label="lp_0022" fbc:name="lp_0022" />
+      <fbc:geneProduct fbc:id="G_lp_0023" fbc:label="lp_0023" fbc:name="lp_0023" />
       <fbc:geneProduct fbc:id="G_lp_0024" fbc:label="lp_0024" fbc:name="lp_0024" />
       <fbc:geneProduct fbc:id="G_lp_0025" fbc:label="lp_0025" fbc:name="lp_0025" />
-      <fbc:geneProduct fbc:id="G_lp_0023" fbc:label="lp_0023" fbc:name="lp_0023" />
-      <fbc:geneProduct fbc:id="G_lp_0020" fbc:label="lp_0020" fbc:name="lp_0020" />
-      <fbc:geneProduct fbc:id="G_lp_3520" fbc:label="lp_3520" fbc:name="lp_3520" />
-      <fbc:geneProduct fbc:id="G_lp_3522" fbc:label="lp_3522" fbc:name="lp_3522" />
-      <fbc:geneProduct fbc:id="G_lp_0022" fbc:label="lp_0022" fbc:name="lp_0022" />
-      <fbc:geneProduct fbc:id="G_lp_0021" fbc:label="lp_0021" fbc:name="lp_0021" />
-      <fbc:geneProduct fbc:id="G_lp_1581" fbc:label="lp_1581" fbc:name="lp_1581" />
-      <fbc:geneProduct fbc:id="G_lp_1149" fbc:label="lp_1149" fbc:name="lp_1149" />
-      <fbc:geneProduct fbc:id="G_lp_1148" fbc:label="lp_1148" fbc:name="lp_1148" />
-      <fbc:geneProduct fbc:id="G_lp_1147" fbc:label="lp_1147" fbc:name="lp_1147" />
-      <fbc:geneProduct fbc:id="G_lp_2110" fbc:label="lp_2110" fbc:name="lp_2110" />
-      <fbc:geneProduct fbc:id="G_lp_0803" fbc:label="lp_0803" fbc:name="lp_0803" />
-      <fbc:geneProduct fbc:id="G_lp_2314" fbc:label="lp_2314" fbc:name="lp_2314" />
-      <fbc:geneProduct fbc:id="G_lp_2313" fbc:label="lp_2313" fbc:name="lp_2313" />
-      <fbc:geneProduct fbc:id="G_lp_2111" fbc:label="lp_2111" fbc:name="lp_2111" />
-      <fbc:geneProduct fbc:id="G_lp_0881" fbc:label="lp_0881" fbc:name="lp_0881" />
-      <fbc:geneProduct fbc:id="G_lp_0802" fbc:label="lp_0802" fbc:name="lp_0802" />
-      <fbc:geneProduct fbc:id="G_lp_2312" fbc:label="lp_2312" fbc:name="lp_2312" />
-      <fbc:geneProduct fbc:id="G_lp_0883" fbc:label="lp_0883" fbc:name="lp_0883" />
-      <fbc:geneProduct fbc:id="G_lp_0882" fbc:label="lp_0882" fbc:name="lp_0882" />
-      <fbc:geneProduct fbc:id="G_lp_0878" fbc:label="lp_0878" fbc:name="lp_0878" />
-      <fbc:geneProduct fbc:id="G_lp_2498" fbc:label="lp_2498" fbc:name="lp_2498" />
-      <fbc:geneProduct fbc:id="G_lp_2844" fbc:label="lp_2844" fbc:name="lp_2844" />
-      <fbc:geneProduct fbc:id="G_lp_1299" fbc:label="lp_1299" fbc:name="lp_1299" />
-      <fbc:geneProduct fbc:id="G_lp_1311" fbc:label="lp_1311" fbc:name="lp_1311" />
-      <fbc:geneProduct fbc:id="G_lp_2843" fbc:label="lp_2843" fbc:name="lp_2843" />
-      <fbc:geneProduct fbc:id="G_lp_1312" fbc:label="lp_1312" fbc:name="lp_1312" />
-      <fbc:geneProduct fbc:id="G_lp_0016" fbc:label="lp_0016" fbc:name="lp_0016" />
-      <fbc:geneProduct fbc:id="G_lp_2324" fbc:label="lp_2324" fbc:name="lp_2324" />
-      <fbc:geneProduct fbc:id="G_lp_2336" fbc:label="lp_2336" fbc:name="lp_2336" />
-      <fbc:geneProduct fbc:id="G_lp_3420" fbc:label="lp_3420" fbc:name="lp_3420" />
-      <fbc:geneProduct fbc:id="G_lp_1169" fbc:label="lp_1169" fbc:name="lp_1169" />
-      <fbc:geneProduct fbc:id="G_lp_2723" fbc:label="lp_2723" fbc:name="lp_2723" />
-      <fbc:geneProduct fbc:id="G_lp_2268" fbc:label="lp_2268" fbc:name="lp_2268" />
-      <fbc:geneProduct fbc:id="G_lp_0609" fbc:label="lp_0609" fbc:name="lp_0609" />
-      <fbc:geneProduct fbc:id="G_lp_2818" fbc:label="lp_2818" fbc:name="lp_2818" />
-      <fbc:geneProduct fbc:id="G_lp_3266" fbc:label="lp_3266" fbc:name="lp_3266" />
-      <fbc:geneProduct fbc:id="G_lp_0372" fbc:label="lp_0372" fbc:name="lp_0372" />
-      <fbc:geneProduct fbc:id="G_lp_1175" fbc:label="lp_1175" fbc:name="lp_1175" />
-      <fbc:geneProduct fbc:id="G_lp_3463" fbc:label="lp_3463" fbc:name="lp_3463" />
-      <fbc:geneProduct fbc:id="G_lp_3436" fbc:label="lp_3436" fbc:name="lp_3436" />
-      <fbc:geneProduct fbc:id="G_lp_0370" fbc:label="lp_0370" fbc:name="lp_0370" />
-      <fbc:geneProduct fbc:id="G_lp_0834" fbc:label="lp_0834" fbc:name="lp_0834" />
-      <fbc:geneProduct fbc:id="G_lp_1964" fbc:label="lp_1964" fbc:name="lp_1964" />
-      <fbc:geneProduct fbc:id="G_lp_1965" fbc:label="lp_1965" fbc:name="lp_1965" />
-      <fbc:geneProduct fbc:id="G_lp_3271" fbc:label="lp_3271" fbc:name="lp_3271" />
-      <fbc:geneProduct fbc:id="G_lp_0914" fbc:label="lp_0914" fbc:name="lp_0914" />
-      <fbc:geneProduct fbc:id="G_lp_1251" fbc:label="lp_1251" fbc:name="lp_1251" />
-      <fbc:geneProduct fbc:id="G_lp_1541" fbc:label="lp_1541" fbc:name="lp_1541" />
-      <fbc:geneProduct fbc:id="G_lp_1250" fbc:label="lp_1250" fbc:name="lp_1250" />
-      <fbc:geneProduct fbc:id="G_lp_1578" fbc:label="lp_1578" fbc:name="lp_1578" />
-      <fbc:geneProduct fbc:id="G_lp_2344" fbc:label="lp_2344" fbc:name="lp_2344" />
-      <fbc:geneProduct fbc:id="G_lp_2582" fbc:label="lp_2582" fbc:name="lp_2582" />
-      <fbc:geneProduct fbc:id="G_lp_1328" fbc:label="lp_1328" fbc:name="lp_1328" />
-      <fbc:geneProduct fbc:id="G_lp_2747" fbc:label="lp_2747" fbc:name="lp_2747" />
-      <fbc:geneProduct fbc:id="G_lp_2989" fbc:label="lp_2989" fbc:name="lp_2989" />
-      <fbc:geneProduct fbc:id="G_lp_1372" fbc:label="lp_1372" fbc:name="lp_1372" />
-      <fbc:geneProduct fbc:id="G_lp_0220" fbc:label="lp_0220" fbc:name="lp_0220" />
-      <fbc:geneProduct fbc:id="G_lp_3267" fbc:label="lp_3267" fbc:name="lp_3267" />
-      <fbc:geneProduct fbc:id="G_lp_0369" fbc:label="lp_0369" fbc:name="lp_0369" />
-      <fbc:geneProduct fbc:id="G_lp_1822" fbc:label="lp_1822" fbc:name="lp_1822" />
-      <fbc:geneProduct fbc:id="G_lp_1253" fbc:label="lp_1253" fbc:name="lp_1253" />
-      <fbc:geneProduct fbc:id="G_lp_3297" fbc:label="lp_3297" fbc:name="lp_3297" />
-      <fbc:geneProduct fbc:id="G_lp_0293" fbc:label="lp_0293" fbc:name="lp_0293" />
-      <fbc:geneProduct fbc:id="G_lp_1987" fbc:label="lp_1987" fbc:name="lp_1987" />
-      <fbc:geneProduct fbc:id="G_lp_2223" fbc:label="lp_2223" fbc:name="lp_2223" />
-      <fbc:geneProduct fbc:id="G_lp_0546" fbc:label="lp_0546" fbc:name="lp_0546" />
-      <fbc:geneProduct fbc:id="G_lp_0848" fbc:label="lp_0848" fbc:name="lp_0848" />
-      <fbc:geneProduct fbc:id="G_lp_1677" fbc:label="lp_1677" fbc:name="lp_1677" />
-      <fbc:geneProduct fbc:id="G_lp_1670" fbc:label="lp_1670" fbc:name="lp_1670" />
-      <fbc:geneProduct fbc:id="G_lp_1674" fbc:label="lp_1674" fbc:name="lp_1674" />
-      <fbc:geneProduct fbc:id="G_lp_2736" fbc:label="lp_2736" fbc:name="lp_2736" />
-      <fbc:geneProduct fbc:id="G_lp_1298" fbc:label="lp_1298" fbc:name="lp_1298" />
-      <fbc:geneProduct fbc:id="G_lp_0113" fbc:label="lp_0113" fbc:name="lp_0113" />
-      <fbc:geneProduct fbc:id="G_lp_1573" fbc:label="lp_1573" fbc:name="lp_1573" />
-      <fbc:geneProduct fbc:id="G_lp_2548" fbc:label="lp_2548" fbc:name="lp_2548" />
-      <fbc:geneProduct fbc:id="G_lp_2559" fbc:label="lp_2559" fbc:name="lp_2559" />
-      <fbc:geneProduct fbc:id="G_lp_2558" fbc:label="lp_2558" fbc:name="lp_2558" />
-      <fbc:geneProduct fbc:id="G_lp_2563" fbc:label="lp_2563" fbc:name="lp_2563" />
-      <fbc:geneProduct fbc:id="G_lp_2561" fbc:label="lp_2561" fbc:name="lp_2561" />
-      <fbc:geneProduct fbc:id="G_lp_1981" fbc:label="lp_1981" fbc:name="lp_1981" />
-      <fbc:geneProduct fbc:id="G_lp_0447" fbc:label="lp_0447" fbc:name="lp_0447" />
-      <fbc:geneProduct fbc:id="G_lp_2067" fbc:label="lp_2067" fbc:name="lp_2067" />
-      <fbc:geneProduct fbc:id="G_lp_0114" fbc:label="lp_0114" fbc:name="lp_0114" />
+      <fbc:geneProduct fbc:id="G_lp_0027" fbc:label="lp_0027" fbc:name="lp_0027" />
+      <fbc:geneProduct fbc:id="G_lp_0028" fbc:label="lp_0028" fbc:name="lp_0028" />
+      <fbc:geneProduct fbc:id="G_lp_0047" fbc:label="lp_0047" fbc:name="lp_0047" />
+      <fbc:geneProduct fbc:id="G_lp_0055" fbc:label="lp_0055" fbc:name="lp_0055" />
+      <fbc:geneProduct fbc:id="G_lp_0066" fbc:label="lp_0066" fbc:name="lp_0066" />
       <fbc:geneProduct fbc:id="G_lp_0070" fbc:label="lp_0070" fbc:name="lp_0070" />
-      <fbc:geneProduct fbc:id="G_lp_3298" fbc:label="lp_3298" fbc:name="lp_3298" />
-      <fbc:geneProduct fbc:id="G_lp_0571" fbc:label="lp_0571" fbc:name="lp_0571" />
-      <fbc:geneProduct fbc:id="G_lp_2535" fbc:label="lp_2535" fbc:name="lp_2535" />
-      <fbc:geneProduct fbc:id="G_lp_2537" fbc:label="lp_2537" fbc:name="lp_2537" />
-      <fbc:geneProduct fbc:id="G_lp_0572" fbc:label="lp_0572" fbc:name="lp_0572" />
-      <fbc:geneProduct fbc:id="G_lp_2551" fbc:label="lp_2551" fbc:name="lp_2551" />
-      <fbc:geneProduct fbc:id="G_lp_2554" fbc:label="lp_2554" fbc:name="lp_2554" />
-      <fbc:geneProduct fbc:id="G_lp_2557" fbc:label="lp_2557" fbc:name="lp_2557" />
-      <fbc:geneProduct fbc:id="G_lp_1655" fbc:label="lp_1655" fbc:name="lp_1655" />
-      <fbc:geneProduct fbc:id="G_lp_2390" fbc:label="lp_2390" fbc:name="lp_2390" />
-      <fbc:geneProduct fbc:id="G_lp_2187" fbc:label="lp_2187" fbc:name="lp_2187" />
-      <fbc:geneProduct fbc:id="G_lp_2984" fbc:label="lp_2984" fbc:name="lp_2984" />
-      <fbc:geneProduct fbc:id="G_lp_2982" fbc:label="lp_2982" fbc:name="lp_2982" />
-      <fbc:geneProduct fbc:id="G_lp_2981" fbc:label="lp_2981" fbc:name="lp_2981" />
-      <fbc:geneProduct fbc:id="G_lp_2985" fbc:label="lp_2985" fbc:name="lp_2985" />
-      <fbc:geneProduct fbc:id="G_lp_2983" fbc:label="lp_2983" fbc:name="lp_2983" />
-      <fbc:geneProduct fbc:id="G_lp_0399" fbc:label="lp_0399" fbc:name="lp_0399" />
-      <fbc:geneProduct fbc:id="G_lp_2213" fbc:label="lp_2213" fbc:name="lp_2213" />
-      <fbc:geneProduct fbc:id="G_lp_3466" fbc:label="lp_3466" fbc:name="lp_3466" />
-      <fbc:geneProduct fbc:id="G_lp_3185" fbc:label="lp_3185" fbc:name="lp_3185" />
-      <fbc:geneProduct fbc:id="G_lp_3194" fbc:label="lp_3194" fbc:name="lp_3194" />
-      <fbc:geneProduct fbc:id="G_lp_3612" fbc:label="lp_3612" fbc:name="lp_3612" />
-      <fbc:geneProduct fbc:id="G_lp_3606" fbc:label="lp_3606" fbc:name="lp_3606" />
-      <fbc:geneProduct fbc:id="G_lp_3608" fbc:label="lp_3608" fbc:name="lp_3608" />
-      <fbc:geneProduct fbc:id="G_lp_3605" fbc:label="lp_3605" fbc:name="lp_3605" />
-      <fbc:geneProduct fbc:id="G_lp_1732" fbc:label="lp_1732" fbc:name="lp_1732" />
-      <fbc:geneProduct fbc:id="G_lp_3484" fbc:label="lp_3484" fbc:name="lp_3484" />
-      <fbc:geneProduct fbc:id="G_lp_3483" fbc:label="lp_3483" fbc:name="lp_3483" />
-      <fbc:geneProduct fbc:id="G_lp_2057" fbc:label="lp_2057" fbc:name="lp_2057" />
-      <fbc:geneProduct fbc:id="G_lp_1101" fbc:label="lp_1101" fbc:name="lp_1101" />
-      <fbc:geneProduct fbc:id="G_lp_0537" fbc:label="lp_0537" fbc:name="lp_0537" />
-      <fbc:geneProduct fbc:id="G_lp_1316" fbc:label="lp_1316" fbc:name="lp_1316" />
-      <fbc:geneProduct fbc:id="G_lp_0291" fbc:label="lp_0291" fbc:name="lp_0291" />
-      <fbc:geneProduct fbc:id="G_lp_3586" fbc:label="lp_3586" fbc:name="lp_3586" />
-      <fbc:geneProduct fbc:id="G_lp_0690" fbc:label="lp_0690" fbc:name="lp_0690" />
-      <fbc:geneProduct fbc:id="G_lp_0550" fbc:label="lp_0550" fbc:name="lp_0550" />
-      <fbc:geneProduct fbc:id="G_lp_1008" fbc:label="lp_1008" fbc:name="lp_1008" />
-      <fbc:geneProduct fbc:id="G_lp_0109" fbc:label="lp_0109" fbc:name="lp_0109" />
+      <fbc:geneProduct fbc:id="G_lp_0104" fbc:label="lp_0104" fbc:name="lp_0104" />
       <fbc:geneProduct fbc:id="G_lp_0105" fbc:label="lp_0105" fbc:name="lp_0105" />
       <fbc:geneProduct fbc:id="G_lp_0106" fbc:label="lp_0106" fbc:name="lp_0106" />
-      <fbc:geneProduct fbc:id="G_lp_0104" fbc:label="lp_0104" fbc:name="lp_0104" />
       <fbc:geneProduct fbc:id="G_lp_0107" fbc:label="lp_0107" fbc:name="lp_0107" />
-      <fbc:geneProduct fbc:id="G_lp_0233" fbc:label="lp_0233" fbc:name="lp_0233" />
-      <fbc:geneProduct fbc:id="G_lp_1673" fbc:label="lp_1673" fbc:name="lp_1673" />
-      <fbc:geneProduct fbc:id="G_lp_1118" fbc:label="lp_1118" fbc:name="lp_1118" />
+      <fbc:geneProduct fbc:id="G_lp_0109" fbc:label="lp_0109" fbc:name="lp_0109" />
+      <fbc:geneProduct fbc:id="G_lp_0113" fbc:label="lp_0113" fbc:name="lp_0113" />
+      <fbc:geneProduct fbc:id="G_lp_0114" fbc:label="lp_0114" fbc:name="lp_0114" />
+      <fbc:geneProduct fbc:id="G_lp_0115" fbc:label="lp_0115" fbc:name="lp_0115" />
+      <fbc:geneProduct fbc:id="G_lp_0125" fbc:label="lp_0125" fbc:name="lp_0125" />
+      <fbc:geneProduct fbc:id="G_lp_0166" fbc:label="lp_0166" fbc:name="lp_0166" />
+      <fbc:geneProduct fbc:id="G_lp_0168" fbc:label="lp_0168" fbc:name="lp_0168" />
+      <fbc:geneProduct fbc:id="G_lp_0169" fbc:label="lp_0169" fbc:name="lp_0169" />
+      <fbc:geneProduct fbc:id="G_lp_0170" fbc:label="lp_0170" fbc:name="lp_0170" />
+      <fbc:geneProduct fbc:id="G_lp_0171" fbc:label="lp_0171" fbc:name="lp_0171" />
       <fbc:geneProduct fbc:id="G_lp_0174" fbc:label="lp_0174" fbc:name="lp_0174" />
-      <fbc:geneProduct fbc:id="G_lp_2878" fbc:label="lp_2878" fbc:name="lp_2878" />
-      <fbc:geneProduct fbc:id="G_lp_3553" fbc:label="lp_3553" fbc:name="lp_3553" />
-      <fbc:geneProduct fbc:id="G_lp_2550" fbc:label="lp_2550" fbc:name="lp_2550" />
-      <fbc:geneProduct fbc:id="G_lp_0176" fbc:label="lp_0176" fbc:name="lp_0176" />
-      <fbc:geneProduct fbc:id="G_lp_0180" fbc:label="lp_0180" fbc:name="lp_0180" />
       <fbc:geneProduct fbc:id="G_lp_0175" fbc:label="lp_0175" fbc:name="lp_0175" />
-      <fbc:geneProduct fbc:id="G_lp_0178" fbc:label="lp_0178" fbc:name="lp_0178" />
+      <fbc:geneProduct fbc:id="G_lp_0176" fbc:label="lp_0176" fbc:name="lp_0176" />
       <fbc:geneProduct fbc:id="G_lp_0177" fbc:label="lp_0177" fbc:name="lp_0177" />
-      <fbc:geneProduct fbc:id="G_lp_1729" fbc:label="lp_1729" fbc:name="lp_1729" />
-      <fbc:geneProduct fbc:id="G_lp_1119" fbc:label="lp_1119" fbc:name="lp_1119" />
-      <fbc:geneProduct fbc:id="G_lp_2829" fbc:label="lp_2829" fbc:name="lp_2829" />
-      <fbc:geneProduct fbc:id="G_lp_2384" fbc:label="lp_2384" fbc:name="lp_2384" />
-      <fbc:geneProduct fbc:id="G_lp_0587" fbc:label="lp_0587" fbc:name="lp_0587" />
-      <fbc:geneProduct fbc:id="G_lp_0586" fbc:label="lp_0586" fbc:name="lp_0586" />
-      <fbc:geneProduct fbc:id="G_lp_0576" fbc:label="lp_0576" fbc:name="lp_0576" />
-      <fbc:geneProduct fbc:id="G_lp_0577" fbc:label="lp_0577" fbc:name="lp_0577" />
-      <fbc:geneProduct fbc:id="G_lp_0575" fbc:label="lp_0575" fbc:name="lp_0575" />
-      <fbc:geneProduct fbc:id="G_lp_1675" fbc:label="lp_1675" fbc:name="lp_1675" />
-      <fbc:geneProduct fbc:id="G_lp_3150" fbc:label="lp_3150" fbc:name="lp_3150" />
-      <fbc:geneProduct fbc:id="G_lp_1105" fbc:label="lp_1105" fbc:name="lp_1105" />
-      <fbc:geneProduct fbc:id="G_lp_3486" fbc:label="lp_3486" fbc:name="lp_3486" />
-      <fbc:geneProduct fbc:id="G_lp_2536" fbc:label="lp_2536" fbc:name="lp_2536" />
-      <fbc:geneProduct fbc:id="G_lp_1301" fbc:label="lp_1301" fbc:name="lp_1301" />
-      <fbc:geneProduct fbc:id="G_lp_1374" fbc:label="lp_1374" fbc:name="lp_1374" />
-      <fbc:geneProduct fbc:id="G_lp_0454" fbc:label="lp_0454" fbc:name="lp_0454" />
-      <fbc:geneProduct fbc:id="G_lp_1735" fbc:label="lp_1735" fbc:name="lp_1735" />
-      <fbc:geneProduct fbc:id="G_lp_1493" fbc:label="lp_1493" fbc:name="lp_1493" />
-      <fbc:geneProduct fbc:id="G_lp_1491" fbc:label="lp_1491" fbc:name="lp_1491" />
-      <fbc:geneProduct fbc:id="G_lp_2147" fbc:label="lp_2147" fbc:name="lp_2147" />
-      <fbc:geneProduct fbc:id="G_lp_0028" fbc:label="lp_0028" fbc:name="lp_0028" />
+      <fbc:geneProduct fbc:id="G_lp_0178" fbc:label="lp_0178" fbc:name="lp_0178" />
+      <fbc:geneProduct fbc:id="G_lp_0180" fbc:label="lp_0180" fbc:name="lp_0180" />
       <fbc:geneProduct fbc:id="G_lp_0181" fbc:label="lp_0181" fbc:name="lp_0181" />
-      <fbc:geneProduct fbc:id="G_lp_3530" fbc:label="lp_3530" fbc:name="lp_3530" />
-      <fbc:geneProduct fbc:id="G_lp_1730" fbc:label="lp_1730" fbc:name="lp_1730" />
+      <fbc:geneProduct fbc:id="G_lp_0185" fbc:label="lp_0185" fbc:name="lp_0185" />
+      <fbc:geneProduct fbc:id="G_lp_0187" fbc:label="lp_0187" fbc:name="lp_0187" />
+      <fbc:geneProduct fbc:id="G_lp_0203" fbc:label="lp_0203" fbc:name="lp_0203" />
+      <fbc:geneProduct fbc:id="G_lp_0204" fbc:label="lp_0204" fbc:name="lp_0204" />
+      <fbc:geneProduct fbc:id="G_lp_0205" fbc:label="lp_0205" fbc:name="lp_0205" />
+      <fbc:geneProduct fbc:id="G_lp_0210" fbc:label="lp_0210" fbc:name="lp_0210" />
+      <fbc:geneProduct fbc:id="G_lp_0220" fbc:label="lp_0220" fbc:name="lp_0220" />
+      <fbc:geneProduct fbc:id="G_lp_0226" fbc:label="lp_0226" fbc:name="lp_0226" />
       <fbc:geneProduct fbc:id="G_lp_0230" fbc:label="lp_0230" fbc:name="lp_0230" />
       <fbc:geneProduct fbc:id="G_lp_0232" fbc:label="lp_0232" fbc:name="lp_0232" />
-      <fbc:geneProduct fbc:id="G_lp_1095" fbc:label="lp_1095" fbc:name="lp_1095" />
-      <fbc:geneProduct fbc:id="G_lp_1097" fbc:label="lp_1097" fbc:name="lp_1097" />
-      <fbc:geneProduct fbc:id="G_lp_1919" fbc:label="lp_1919" fbc:name="lp_1919" />
-      <fbc:geneProduct fbc:id="G_lp_1096" fbc:label="lp_1096" fbc:name="lp_1096" />
-      <fbc:geneProduct fbc:id="G_lp_2179" fbc:label="lp_2179" fbc:name="lp_2179" />
-      <fbc:geneProduct fbc:id="G_lp_2180" fbc:label="lp_2180" fbc:name="lp_2180" />
-      <fbc:geneProduct fbc:id="G_lp_2326" fbc:label="lp_2326" fbc:name="lp_2326" />
-      <fbc:geneProduct fbc:id="G_lp_2325" fbc:label="lp_2325" fbc:name="lp_2325" />
-      <fbc:geneProduct fbc:id="G_lp_1496" fbc:label="lp_1496" fbc:name="lp_1496" />
-      <fbc:geneProduct fbc:id="G_lp_1479" fbc:label="lp_1479" fbc:name="lp_1479" />
-      <fbc:geneProduct fbc:id="G_lp_1494" fbc:label="lp_1494" fbc:name="lp_1494" />
-      <fbc:geneProduct fbc:id="G_lp_1478" fbc:label="lp_1478" fbc:name="lp_1478" />
-      <fbc:geneProduct fbc:id="G_lp_1599" fbc:label="lp_1599" fbc:name="lp_1599" />
-      <fbc:geneProduct fbc:id="G_lp_1375" fbc:label="lp_1375" fbc:name="lp_1375" />
-      <fbc:geneProduct fbc:id="G_lp_1069" fbc:label="lp_1069" fbc:name="lp_1069" />
-      <fbc:geneProduct fbc:id="G_lp_0313" fbc:label="lp_0313" fbc:name="lp_0313" />
-      <fbc:geneProduct fbc:id="G_lp_2222" fbc:label="lp_2222" fbc:name="lp_2222" />
-      <fbc:geneProduct fbc:id="G_lp_0566" fbc:label="lp_0566" fbc:name="lp_0566" />
-      <fbc:geneProduct fbc:id="G_lp_0565" fbc:label="lp_0565" fbc:name="lp_0565" />
-      <fbc:geneProduct fbc:id="G_lp_2771" fbc:label="lp_2771" fbc:name="lp_2771" />
+      <fbc:geneProduct fbc:id="G_lp_0233" fbc:label="lp_0233" fbc:name="lp_0233" />
       <fbc:geneProduct fbc:id="G_lp_0242" fbc:label="lp_0242" fbc:name="lp_0242" />
-      <fbc:geneProduct fbc:id="G_lp_0349" fbc:label="lp_0349" fbc:name="lp_0349" />
-      <fbc:geneProduct fbc:id="G_lp_2612" fbc:label="lp_2612" fbc:name="lp_2612" />
-      <fbc:geneProduct fbc:id="G_lp_1530" fbc:label="lp_1530" fbc:name="lp_1530" />
-      <fbc:geneProduct fbc:id="G_lp_1481" fbc:label="lp_1481" fbc:name="lp_1481" />
-      <fbc:geneProduct fbc:id="G_lp_2076" fbc:label="lp_2076" fbc:name="lp_2076" />
-      <fbc:geneProduct fbc:id="G_lp_2077" fbc:label="lp_2077" fbc:name="lp_2077" />
-      <fbc:geneProduct fbc:id="G_lp_1941" fbc:label="lp_1941" fbc:name="lp_1941" />
-      <fbc:geneProduct fbc:id="G_lp_1925" fbc:label="lp_1925" fbc:name="lp_1925" />
-      <fbc:geneProduct fbc:id="G_lp_3449" fbc:label="lp_3449" fbc:name="lp_3449" />
-      <fbc:geneProduct fbc:id="G_lp_0760" fbc:label="lp_0760" fbc:name="lp_0760" />
-      <fbc:geneProduct fbc:id="G_lp_0766" fbc:label="lp_0766" fbc:name="lp_0766" />
-      <fbc:geneProduct fbc:id="G_lp_1350" fbc:label="lp_1350" fbc:name="lp_1350" />
-      <fbc:geneProduct fbc:id="G_lp_0912" fbc:label="lp_0912" fbc:name="lp_0912" />
-      <fbc:geneProduct fbc:id="G_lp_2544" fbc:label="lp_2544" fbc:name="lp_2544" />
-      <fbc:geneProduct fbc:id="G_lp_1445" fbc:label="lp_1445" fbc:name="lp_1445" />
-      <fbc:geneProduct fbc:id="G_lp_1498" fbc:label="lp_1498" fbc:name="lp_1498" />
-      <fbc:geneProduct fbc:id="G_lp_1499" fbc:label="lp_1499" fbc:name="lp_1499" />
-      <fbc:geneProduct fbc:id="G_lp_1497" fbc:label="lp_1497" fbc:name="lp_1497" />
-      <fbc:geneProduct fbc:id="G_lp_1500" fbc:label="lp_1500" fbc:name="lp_1500" />
-      <fbc:geneProduct fbc:id="G_lp_0532" fbc:label="lp_0532" fbc:name="lp_0532" />
-      <fbc:geneProduct fbc:id="G_lp_2698" fbc:label="lp_2698" fbc:name="lp_2698" />
-      <fbc:geneProduct fbc:id="G_lp_0271" fbc:label="lp_0271" fbc:name="lp_0271" />
-      <fbc:geneProduct fbc:id="G_lp_0529" fbc:label="lp_0529" fbc:name="lp_0529" />
-      <fbc:geneProduct fbc:id="G_lp_2697" fbc:label="lp_2697" fbc:name="lp_2697" />
-      <fbc:geneProduct fbc:id="G_lp_0561" fbc:label="lp_0561" fbc:name="lp_0561" />
-      <fbc:geneProduct fbc:id="G_lp_0711" fbc:label="lp_0711" fbc:name="lp_0711" />
-      <fbc:geneProduct fbc:id="G_lp_2199" fbc:label="lp_2199" fbc:name="lp_2199" />
-      <fbc:geneProduct fbc:id="G_lp_2136" fbc:label="lp_2136" fbc:name="lp_2136" />
-      <fbc:geneProduct fbc:id="G_lp_3251" fbc:label="lp_3251" fbc:name="lp_3251" />
-      <fbc:geneProduct fbc:id="G_lp_2152" fbc:label="lp_2152" fbc:name="lp_2152" />
-      <fbc:geneProduct fbc:id="G_lp_2154" fbc:label="lp_2154" fbc:name="lp_2154" />
-      <fbc:geneProduct fbc:id="G_lp_2151" fbc:label="lp_2151" fbc:name="lp_2151" />
-      <fbc:geneProduct fbc:id="G_lp_2153" fbc:label="lp_2153" fbc:name="lp_2153" />
-      <fbc:geneProduct fbc:id="G_lp_1898" fbc:label="lp_1898" fbc:name="lp_1898" />
-      <fbc:geneProduct fbc:id="G_lp_2598" fbc:label="lp_2598" fbc:name="lp_2598" />
-      <fbc:geneProduct fbc:id="G_lp_3314" fbc:label="lp_3314" fbc:name="lp_3314" />
-      <fbc:geneProduct fbc:id="G_lp_3313" fbc:label="lp_3313" fbc:name="lp_3313" />
-      <fbc:geneProduct fbc:id="G_lp_2596" fbc:label="lp_2596" fbc:name="lp_2596" />
-      <fbc:geneProduct fbc:id="G_lp_0820" fbc:label="lp_0820" fbc:name="lp_0820" />
-      <fbc:geneProduct fbc:id="G_lp_2790" fbc:label="lp_2790" fbc:name="lp_2790" />
-      <fbc:geneProduct fbc:id="G_lp_0203" fbc:label="lp_0203" fbc:name="lp_0203" />
-      <fbc:geneProduct fbc:id="G_lp_0785" fbc:label="lp_0785" fbc:name="lp_0785" />
-      <fbc:geneProduct fbc:id="G_lp_1751" fbc:label="lp_1751" fbc:name="lp_1751" />
-      <fbc:geneProduct fbc:id="G_lp_1413" fbc:label="lp_1413" fbc:name="lp_1413" />
-      <fbc:geneProduct fbc:id="G_lp_1568" fbc:label="lp_1568" fbc:name="lp_1568" />
-      <fbc:geneProduct fbc:id="G_lp_2200" fbc:label="lp_2200" fbc:name="lp_2200" />
-      <fbc:geneProduct fbc:id="G_lp_0790" fbc:label="lp_0790" fbc:name="lp_0790" />
-      <fbc:geneProduct fbc:id="G_lp_2219" fbc:label="lp_2219" fbc:name="lp_2219" />
-      <fbc:geneProduct fbc:id="G_lp_1932" fbc:label="lp_1932" fbc:name="lp_1932" />
-      <fbc:geneProduct fbc:id="G_lp_3544" fbc:label="lp_3544" fbc:name="lp_3544" />
-      <fbc:geneProduct fbc:id="G_lp_0872" fbc:label="lp_0872" fbc:name="lp_0872" />
-      <fbc:geneProduct fbc:id="G_lp_0205" fbc:label="lp_0205" fbc:name="lp_0205" />
-      <fbc:geneProduct fbc:id="G_lp_0901" fbc:label="lp_0901" fbc:name="lp_0901" />
-      <fbc:geneProduct fbc:id="G_lp_0900" fbc:label="lp_0900" fbc:name="lp_0900" />
-      <fbc:geneProduct fbc:id="G_lp_3170" fbc:label="lp_3170" fbc:name="lp_3170" />
-      <fbc:geneProduct fbc:id="G_lp_2785" fbc:label="lp_2785" fbc:name="lp_2785" />
-      <fbc:geneProduct fbc:id="G_lp_2170" fbc:label="lp_2170" fbc:name="lp_2170" />
-      <fbc:geneProduct fbc:id="G_lp_2868" fbc:label="lp_2868" fbc:name="lp_2868" />
-      <fbc:geneProduct fbc:id="G_lp_0597" fbc:label="lp_0597" fbc:name="lp_0597" />
-      <fbc:geneProduct fbc:id="G_lp_1785" fbc:label="lp_1785" fbc:name="lp_1785" />
-      <fbc:geneProduct fbc:id="G_lp_0764" fbc:label="lp_0764" fbc:name="lp_0764" />
-      <fbc:geneProduct fbc:id="G_lp_0027" fbc:label="lp_0027" fbc:name="lp_0027" />
-      <fbc:geneProduct fbc:id="G_lp_0066" fbc:label="lp_0066" fbc:name="lp_0066" />
-      <fbc:geneProduct fbc:id="G_lp_2303" fbc:label="lp_2303" fbc:name="lp_2303" />
-      <fbc:geneProduct fbc:id="G_lp_2684" fbc:label="lp_2684" fbc:name="lp_2684" />
-      <fbc:geneProduct fbc:id="G_lp_1280" fbc:label="lp_1280" fbc:name="lp_1280" />
-      <fbc:geneProduct fbc:id="G_lp_1558" fbc:label="lp_1558" fbc:name="lp_1558" />
-      <fbc:geneProduct fbc:id="G_lp_1559" fbc:label="lp_1559" fbc:name="lp_1559" />
-      <fbc:geneProduct fbc:id="G_lp_0733" fbc:label="lp_0733" fbc:name="lp_0733" />
-      <fbc:geneProduct fbc:id="G_lp_0747" fbc:label="lp_0747" fbc:name="lp_0747" />
-      <fbc:geneProduct fbc:id="G_lp_0746" fbc:label="lp_0746" fbc:name="lp_0746" />
-      <fbc:geneProduct fbc:id="G_lp_0750" fbc:label="lp_0750" fbc:name="lp_0750" />
-      <fbc:geneProduct fbc:id="G_lp_0751" fbc:label="lp_0751" fbc:name="lp_0751" />
-      <fbc:geneProduct fbc:id="G_lp_0749" fbc:label="lp_0749" fbc:name="lp_0749" />
-      <fbc:geneProduct fbc:id="G_lp_0748" fbc:label="lp_0748" fbc:name="lp_0748" />
-      <fbc:geneProduct fbc:id="G_lp_2659" fbc:label="lp_2659" fbc:name="lp_2659" />
-      <fbc:geneProduct fbc:id="G_lp_3551" fbc:label="lp_3551" fbc:name="lp_3551" />
-      <fbc:geneProduct fbc:id="G_lp_1733" fbc:label="lp_1733" fbc:name="lp_1733" />
-      <fbc:geneProduct fbc:id="G_lp_0913" fbc:label="lp_0913" fbc:name="lp_0913" />
-      <fbc:geneProduct fbc:id="G_lp_1837" fbc:label="lp_1837" fbc:name="lp_1837" />
-      <fbc:geneProduct fbc:id="G_lp_1614" fbc:label="lp_1614" fbc:name="lp_1614" />
-      <fbc:geneProduct fbc:id="G_lp_3418" fbc:label="lp_3418" fbc:name="lp_3418" />
-      <fbc:geneProduct fbc:id="G_lp_0842" fbc:label="lp_0842" fbc:name="lp_0842" />
-      <fbc:geneProduct fbc:id="G_lp_3051" fbc:label="lp_3051" fbc:name="lp_3051" />
-      <fbc:geneProduct fbc:id="G_lp_2034" fbc:label="lp_2034" fbc:name="lp_2034" />
-      <fbc:geneProduct fbc:id="G_lp_1912" fbc:label="lp_1912" fbc:name="lp_1912" />
-      <fbc:geneProduct fbc:id="G_lp_2719" fbc:label="lp_2719" fbc:name="lp_2719" />
-      <fbc:geneProduct fbc:id="G_lp_1656" fbc:label="lp_1656" fbc:name="lp_1656" />
-      <fbc:geneProduct fbc:id="G_lp_2722" fbc:label="lp_2722" fbc:name="lp_2722" />
-      <fbc:geneProduct fbc:id="G_lp_2553" fbc:label="lp_2553" fbc:name="lp_2553" />
-      <fbc:geneProduct fbc:id="G_lp_2727" fbc:label="lp_2727" fbc:name="lp_2727" />
-      <fbc:geneProduct fbc:id="G_lp_2552" fbc:label="lp_2552" fbc:name="lp_2552" />
-      <fbc:geneProduct fbc:id="G_lp_2726" fbc:label="lp_2726" fbc:name="lp_2726" />
-      <fbc:geneProduct fbc:id="G_lp_2725" fbc:label="lp_2725" fbc:name="lp_2725" />
-      <fbc:geneProduct fbc:id="G_lp_2724" fbc:label="lp_2724" fbc:name="lp_2724" />
-      <fbc:geneProduct fbc:id="G_lp_2556" fbc:label="lp_2556" fbc:name="lp_2556" />
-      <fbc:geneProduct fbc:id="G_lp_2048" fbc:label="lp_2048" fbc:name="lp_2048" />
-      <fbc:geneProduct fbc:id="G_lp_0471" fbc:label="lp_0471" fbc:name="lp_0471" />
-      <fbc:geneProduct fbc:id="G_lp_2166" fbc:label="lp_2166" fbc:name="lp_2166" />
-      <fbc:geneProduct fbc:id="G_lp_2035" fbc:label="lp_2035" fbc:name="lp_2035" />
-      <fbc:geneProduct fbc:id="G_lp_0204" fbc:label="lp_0204" fbc:name="lp_0204" />
-      <fbc:geneProduct fbc:id="G_lp_0963" fbc:label="lp_0963" fbc:name="lp_0963" />
-      <fbc:geneProduct fbc:id="G_lp_1781" fbc:label="lp_1781" fbc:name="lp_1781" />
-      <fbc:geneProduct fbc:id="G_lp_1319" fbc:label="lp_1319" fbc:name="lp_1319" />
-      <fbc:geneProduct fbc:id="G_lp_2653" fbc:label="lp_2653" fbc:name="lp_2653" />
-      <fbc:geneProduct fbc:id="G_lp_2032" fbc:label="lp_2032" fbc:name="lp_2032" />
-      <fbc:geneProduct fbc:id="G_lp_1888" fbc:label="lp_1888" fbc:name="lp_1888" />
-      <fbc:geneProduct fbc:id="G_lp_2221" fbc:label="lp_2221" fbc:name="lp_2221" />
-      <fbc:geneProduct fbc:id="G_lp_1076" fbc:label="lp_1076" fbc:name="lp_1076" />
-      <fbc:geneProduct fbc:id="G_lp_0807" fbc:label="lp_0807" fbc:name="lp_0807" />
-      <fbc:geneProduct fbc:id="G_lp_2133" fbc:label="lp_2133" fbc:name="lp_2133" />
-      <fbc:geneProduct fbc:id="G_lp_0315" fbc:label="lp_0315" fbc:name="lp_0315" />
-      <fbc:geneProduct fbc:id="G_lp_0318" fbc:label="lp_0318" fbc:name="lp_0318" />
-      <fbc:geneProduct fbc:id="G_lp_0316" fbc:label="lp_0316" fbc:name="lp_0316" />
-      <fbc:geneProduct fbc:id="G_lp_0317" fbc:label="lp_0317" fbc:name="lp_0317" />
-      <fbc:geneProduct fbc:id="G_lp_0863" fbc:label="lp_0863" fbc:name="lp_0863" />
-      <fbc:geneProduct fbc:id="G_lp_1897" fbc:label="lp_1897" fbc:name="lp_1897" />
-      <fbc:geneProduct fbc:id="G_lp_3587" fbc:label="lp_3587" fbc:name="lp_3587" />
-      <fbc:geneProduct fbc:id="G_lp_0849" fbc:label="lp_0849" fbc:name="lp_0849" />
-      <fbc:geneProduct fbc:id="G_lp_3589" fbc:label="lp_3589" fbc:name="lp_3589" />
-      <fbc:geneProduct fbc:id="G_lp_0852" fbc:label="lp_0852" fbc:name="lp_0852" />
-      <fbc:geneProduct fbc:id="G_lp_2629" fbc:label="lp_2629" fbc:name="lp_2629" />
-      <fbc:geneProduct fbc:id="G_lp_1492" fbc:label="lp_1492" fbc:name="lp_1492" />
-      <fbc:geneProduct fbc:id="G_lp_1480" fbc:label="lp_1480" fbc:name="lp_1480" />
-      <fbc:geneProduct fbc:id="G_lp_1495" fbc:label="lp_1495" fbc:name="lp_1495" />
-      <fbc:geneProduct fbc:id="G_lp_3556" fbc:label="lp_3556" fbc:name="lp_3556" />
-      <fbc:geneProduct fbc:id="G_lp_3555" fbc:label="lp_3555" fbc:name="lp_3555" />
-      <fbc:geneProduct fbc:id="G_lp_1817" fbc:label="lp_1817" fbc:name="lp_1817" />
-      <fbc:geneProduct fbc:id="G_lp_3658" fbc:label="lp_3658" fbc:name="lp_3658" />
-      <fbc:geneProduct fbc:id="G_lp_3593" fbc:label="lp_3593" fbc:name="lp_3593" />
-      <fbc:geneProduct fbc:id="G_lp_3595" fbc:label="lp_3595" fbc:name="lp_3595" />
-      <fbc:geneProduct fbc:id="G_lp_3592" fbc:label="lp_3592" fbc:name="lp_3592" />
-      <fbc:geneProduct fbc:id="G_lp_0693" fbc:label="lp_0693" fbc:name="lp_0693" />
-      <fbc:geneProduct fbc:id="G_lp_0692" fbc:label="lp_0692" fbc:name="lp_0692" />
-      <fbc:geneProduct fbc:id="G_lp_2932" fbc:label="lp_2932" fbc:name="lp_2932" />
-      <fbc:geneProduct fbc:id="G_lp_2673" fbc:label="lp_2673" fbc:name="lp_2673" />
-      <fbc:geneProduct fbc:id="G_lp_1621" fbc:label="lp_1621" fbc:name="lp_1621" />
-      <fbc:geneProduct fbc:id="G_lp_0602" fbc:label="lp_0602" fbc:name="lp_0602" />
-      <fbc:geneProduct fbc:id="G_lp_0354" fbc:label="lp_0354" fbc:name="lp_0354" />
-      <fbc:geneProduct fbc:id="G_lp_1378" fbc:label="lp_1378" fbc:name="lp_1378" />
-      <fbc:geneProduct fbc:id="G_lp_3545" fbc:label="lp_3545" fbc:name="lp_3545" />
-      <fbc:geneProduct fbc:id="G_lp_3623" fbc:label="lp_3623" fbc:name="lp_3623" />
-      <fbc:geneProduct fbc:id="G_lp_3657" fbc:label="lp_3657" fbc:name="lp_3657" />
-      <fbc:geneProduct fbc:id="G_lp_3654" fbc:label="lp_3654" fbc:name="lp_3654" />
-      <fbc:geneProduct fbc:id="G_lp_3618" fbc:label="lp_3618" fbc:name="lp_3618" />
-      <fbc:geneProduct fbc:id="G_lp_3619" fbc:label="lp_3619" fbc:name="lp_3619" />
-      <fbc:geneProduct fbc:id="G_lp_3620" fbc:label="lp_3620" fbc:name="lp_3620" />
-      <fbc:geneProduct fbc:id="G_lp_3652" fbc:label="lp_3652" fbc:name="lp_3652" />
-      <fbc:geneProduct fbc:id="G_lp_3653" fbc:label="lp_3653" fbc:name="lp_3653" />
-      <fbc:geneProduct fbc:id="G_lp_1923" fbc:label="lp_1923" fbc:name="lp_1923" />
-      <fbc:geneProduct fbc:id="G_lp_2855" fbc:label="lp_2855" fbc:name="lp_2855" />
-      <fbc:geneProduct fbc:id="G_lp_0339" fbc:label="lp_0339" fbc:name="lp_0339" />
+      <fbc:geneProduct fbc:id="G_lp_0253" fbc:label="lp_0253" fbc:name="lp_0253" />
       <fbc:geneProduct fbc:id="G_lp_0254" fbc:label="lp_0254" fbc:name="lp_0254" />
-      <fbc:geneProduct fbc:id="G_lp_2776" fbc:label="lp_2776" fbc:name="lp_2776" />
-      <fbc:geneProduct fbc:id="G_lp_0505" fbc:label="lp_0505" fbc:name="lp_0505" />
-      <fbc:geneProduct fbc:id="G_lp_0506" fbc:label="lp_0506" fbc:name="lp_0506" />
-      <fbc:geneProduct fbc:id="G_lp_0501" fbc:label="lp_0501" fbc:name="lp_0501" />
-      <fbc:geneProduct fbc:id="G_lp_1012" fbc:label="lp_1012" fbc:name="lp_1012" />
-      <fbc:geneProduct fbc:id="G_lp_0502" fbc:label="lp_0502" fbc:name="lp_0502" />
-      <fbc:geneProduct fbc:id="G_lp_1084" fbc:label="lp_1084" fbc:name="lp_1084" />
-      <fbc:geneProduct fbc:id="G_lp_3494" fbc:label="lp_3494" fbc:name="lp_3494" />
-      <fbc:geneProduct fbc:id="G_lp_3498" fbc:label="lp_3498" fbc:name="lp_3498" />
-      <fbc:geneProduct fbc:id="G_lp_3499" fbc:label="lp_3499" fbc:name="lp_3499" />
-      <fbc:geneProduct fbc:id="G_lp_2033" fbc:label="lp_2033" fbc:name="lp_2033" />
-      <fbc:geneProduct fbc:id="G_lp_2634" fbc:label="lp_2634" fbc:name="lp_2634" />
-      <fbc:geneProduct fbc:id="G_lp_1385" fbc:label="lp_1385" fbc:name="lp_1385" />
-      <fbc:geneProduct fbc:id="G_lp_3092" fbc:label="lp_3092" fbc:name="lp_3092" />
-      <fbc:geneProduct fbc:id="G_lp_1425" fbc:label="lp_1425" fbc:name="lp_1425" />
-      <fbc:geneProduct fbc:id="G_lp_3491" fbc:label="lp_3491" fbc:name="lp_3491" />
-      <fbc:geneProduct fbc:id="G_lp_0055" fbc:label="lp_0055" fbc:name="lp_0055" />
-      <fbc:geneProduct fbc:id="G_lp_0952" fbc:label="lp_0952" fbc:name="lp_0952" />
-      <fbc:geneProduct fbc:id="G_lp_3220" fbc:label="lp_3220" fbc:name="lp_3220" />
-      <fbc:geneProduct fbc:id="G_lp_0185" fbc:label="lp_0185" fbc:name="lp_0185" />
-      <fbc:geneProduct fbc:id="G_lp_3219" fbc:label="lp_3219" fbc:name="lp_3219" />
-      <fbc:geneProduct fbc:id="G_lp_3539" fbc:label="lp_3539" fbc:name="lp_3539" />
-      <fbc:geneProduct fbc:id="G_lp_1090" fbc:label="lp_1090" fbc:name="lp_1090" />
-      <fbc:geneProduct fbc:id="G_lp_1089" fbc:label="lp_1089" fbc:name="lp_1089" />
-      <fbc:geneProduct fbc:id="G_lp_1188" fbc:label="lp_1188" fbc:name="lp_1188" />
-      <fbc:geneProduct fbc:id="G_lp_1190" fbc:label="lp_1190" fbc:name="lp_1190" />
-      <fbc:geneProduct fbc:id="G_lp_1189" fbc:label="lp_1189" fbc:name="lp_1189" />
-      <fbc:geneProduct fbc:id="G_lp_3204" fbc:label="lp_3204" fbc:name="lp_3204" />
-      <fbc:geneProduct fbc:id="G_lp_2758" fbc:label="lp_2758" fbc:name="lp_2758" />
-      <fbc:geneProduct fbc:id="G_lp_1514" fbc:label="lp_1514" fbc:name="lp_1514" />
-      <fbc:geneProduct fbc:id="G_lp_3538" fbc:label="lp_3538" fbc:name="lp_3538" />
-      <fbc:geneProduct fbc:id="G_lp_3135" fbc:label="lp_3135" fbc:name="lp_3135" />
-      <fbc:geneProduct fbc:id="G_lp_1083" fbc:label="lp_1083" fbc:name="lp_1083" />
-      <fbc:geneProduct fbc:id="G_lp_1622" fbc:label="lp_1622" fbc:name="lp_1622" />
-      <fbc:geneProduct fbc:id="G_lp_1870" fbc:label="lp_1870" fbc:name="lp_1870" />
-      <fbc:geneProduct fbc:id="G_lp_0115" fbc:label="lp_0115" fbc:name="lp_0115" />
-      <fbc:geneProduct fbc:id="G_lp_0791" fbc:label="lp_0791" fbc:name="lp_0791" />
-      <fbc:geneProduct fbc:id="G_lp_0761" fbc:label="lp_0761" fbc:name="lp_0761" />
-      <fbc:geneProduct fbc:id="G_lp_2585" fbc:label="lp_2585" fbc:name="lp_2585" />
+      <fbc:geneProduct fbc:id="G_lp_0255" fbc:label="lp_0255" fbc:name="lp_0255" />
+      <fbc:geneProduct fbc:id="G_lp_0256" fbc:label="lp_0256" fbc:name="lp_0256" />
       <fbc:geneProduct fbc:id="G_lp_0263" fbc:label="lp_0263" fbc:name="lp_0263" />
       <fbc:geneProduct fbc:id="G_lp_0264" fbc:label="lp_0264" fbc:name="lp_0264" />
       <fbc:geneProduct fbc:id="G_lp_0265" fbc:label="lp_0265" fbc:name="lp_0265" />
+      <fbc:geneProduct fbc:id="G_lp_0267" fbc:label="lp_0267" fbc:name="lp_0267" />
+      <fbc:geneProduct fbc:id="G_lp_0268" fbc:label="lp_0268" fbc:name="lp_0268" />
+      <fbc:geneProduct fbc:id="G_lp_0269" fbc:label="lp_0269" fbc:name="lp_0269" />
+      <fbc:geneProduct fbc:id="G_lp_0271" fbc:label="lp_0271" fbc:name="lp_0271" />
+      <fbc:geneProduct fbc:id="G_lp_0291" fbc:label="lp_0291" fbc:name="lp_0291" />
+      <fbc:geneProduct fbc:id="G_lp_0293" fbc:label="lp_0293" fbc:name="lp_0293" />
+      <fbc:geneProduct fbc:id="G_lp_0310" fbc:label="lp_0310" fbc:name="lp_0310" />
+      <fbc:geneProduct fbc:id="G_lp_0313" fbc:label="lp_0313" fbc:name="lp_0313" />
+      <fbc:geneProduct fbc:id="G_lp_0315" fbc:label="lp_0315" fbc:name="lp_0315" />
+      <fbc:geneProduct fbc:id="G_lp_0316" fbc:label="lp_0316" fbc:name="lp_0316" />
+      <fbc:geneProduct fbc:id="G_lp_0317" fbc:label="lp_0317" fbc:name="lp_0317" />
+      <fbc:geneProduct fbc:id="G_lp_0318" fbc:label="lp_0318" fbc:name="lp_0318" />
+      <fbc:geneProduct fbc:id="G_lp_0329" fbc:label="lp_0329" fbc:name="lp_0329" />
+      <fbc:geneProduct fbc:id="G_lp_0330" fbc:label="lp_0330" fbc:name="lp_0330" />
+      <fbc:geneProduct fbc:id="G_lp_0337" fbc:label="lp_0337" fbc:name="lp_0337" />
+      <fbc:geneProduct fbc:id="G_lp_0339" fbc:label="lp_0339" fbc:name="lp_0339" />
+      <fbc:geneProduct fbc:id="G_lp_0343" fbc:label="lp_0343" fbc:name="lp_0343" />
+      <fbc:geneProduct fbc:id="G_lp_0344" fbc:label="lp_0344" fbc:name="lp_0344" />
+      <fbc:geneProduct fbc:id="G_lp_0349" fbc:label="lp_0349" fbc:name="lp_0349" />
+      <fbc:geneProduct fbc:id="G_lp_0350" fbc:label="lp_0350" fbc:name="lp_0350" />
+      <fbc:geneProduct fbc:id="G_lp_0354" fbc:label="lp_0354" fbc:name="lp_0354" />
+      <fbc:geneProduct fbc:id="G_lp_0362" fbc:label="lp_0362" fbc:name="lp_0362" />
+      <fbc:geneProduct fbc:id="G_lp_0363" fbc:label="lp_0363" fbc:name="lp_0363" />
+      <fbc:geneProduct fbc:id="G_lp_0367" fbc:label="lp_0367" fbc:name="lp_0367" />
+      <fbc:geneProduct fbc:id="G_lp_0368" fbc:label="lp_0368" fbc:name="lp_0368" />
+      <fbc:geneProduct fbc:id="G_lp_0369" fbc:label="lp_0369" fbc:name="lp_0369" />
+      <fbc:geneProduct fbc:id="G_lp_0370" fbc:label="lp_0370" fbc:name="lp_0370" />
+      <fbc:geneProduct fbc:id="G_lp_0371" fbc:label="lp_0371" fbc:name="lp_0371" />
+      <fbc:geneProduct fbc:id="G_lp_0372" fbc:label="lp_0372" fbc:name="lp_0372" />
+      <fbc:geneProduct fbc:id="G_lp_0399" fbc:label="lp_0399" fbc:name="lp_0399" />
+      <fbc:geneProduct fbc:id="G_lp_0434" fbc:label="lp_0434" fbc:name="lp_0434" />
+      <fbc:geneProduct fbc:id="G_lp_0440" fbc:label="lp_0440" fbc:name="lp_0440" />
+      <fbc:geneProduct fbc:id="G_lp_0446" fbc:label="lp_0446" fbc:name="lp_0446" />
+      <fbc:geneProduct fbc:id="G_lp_0447" fbc:label="lp_0447" fbc:name="lp_0447" />
+      <fbc:geneProduct fbc:id="G_lp_0454" fbc:label="lp_0454" fbc:name="lp_0454" />
+      <fbc:geneProduct fbc:id="G_lp_0460" fbc:label="lp_0460" fbc:name="lp_0460" />
+      <fbc:geneProduct fbc:id="G_lp_0467" fbc:label="lp_0467" fbc:name="lp_0467" />
+      <fbc:geneProduct fbc:id="G_lp_0471" fbc:label="lp_0471" fbc:name="lp_0471" />
+      <fbc:geneProduct fbc:id="G_lp_0481" fbc:label="lp_0481" fbc:name="lp_0481" />
+      <fbc:geneProduct fbc:id="G_lp_0487" fbc:label="lp_0487" fbc:name="lp_0487" />
+      <fbc:geneProduct fbc:id="G_lp_0488" fbc:label="lp_0488" fbc:name="lp_0488" />
+      <fbc:geneProduct fbc:id="G_lp_0497" fbc:label="lp_0497" fbc:name="lp_0497" />
+      <fbc:geneProduct fbc:id="G_lp_0498" fbc:label="lp_0498" fbc:name="lp_0498" />
+      <fbc:geneProduct fbc:id="G_lp_0500" fbc:label="lp_0500" fbc:name="lp_0500" />
+      <fbc:geneProduct fbc:id="G_lp_0501" fbc:label="lp_0501" fbc:name="lp_0501" />
+      <fbc:geneProduct fbc:id="G_lp_0502" fbc:label="lp_0502" fbc:name="lp_0502" />
+      <fbc:geneProduct fbc:id="G_lp_0505" fbc:label="lp_0505" fbc:name="lp_0505" />
+      <fbc:geneProduct fbc:id="G_lp_0506" fbc:label="lp_0506" fbc:name="lp_0506" />
+      <fbc:geneProduct fbc:id="G_lp_0510" fbc:label="lp_0510" fbc:name="lp_0510" />
+      <fbc:geneProduct fbc:id="G_lp_0518" fbc:label="lp_0518" fbc:name="lp_0518" />
+      <fbc:geneProduct fbc:id="G_lp_0522" fbc:label="lp_0522" fbc:name="lp_0522" />
+      <fbc:geneProduct fbc:id="G_lp_0523" fbc:label="lp_0523" fbc:name="lp_0523" />
+      <fbc:geneProduct fbc:id="G_lp_0526" fbc:label="lp_0526" fbc:name="lp_0526" />
+      <fbc:geneProduct fbc:id="G_lp_0527" fbc:label="lp_0527" fbc:name="lp_0527" />
+      <fbc:geneProduct fbc:id="G_lp_0528" fbc:label="lp_0528" fbc:name="lp_0528" />
+      <fbc:geneProduct fbc:id="G_lp_0529" fbc:label="lp_0529" fbc:name="lp_0529" />
+      <fbc:geneProduct fbc:id="G_lp_0530" fbc:label="lp_0530" fbc:name="lp_0530" />
+      <fbc:geneProduct fbc:id="G_lp_0531" fbc:label="lp_0531" fbc:name="lp_0531" />
+      <fbc:geneProduct fbc:id="G_lp_0532" fbc:label="lp_0532" fbc:name="lp_0532" />
+      <fbc:geneProduct fbc:id="G_lp_0537" fbc:label="lp_0537" fbc:name="lp_0537" />
+      <fbc:geneProduct fbc:id="G_lp_0546" fbc:label="lp_0546" fbc:name="lp_0546" />
+      <fbc:geneProduct fbc:id="G_lp_0550" fbc:label="lp_0550" fbc:name="lp_0550" />
+      <fbc:geneProduct fbc:id="G_lp_0561" fbc:label="lp_0561" fbc:name="lp_0561" />
+      <fbc:geneProduct fbc:id="G_lp_0562" fbc:label="lp_0562" fbc:name="lp_0562" />
+      <fbc:geneProduct fbc:id="G_lp_0564" fbc:label="lp_0564" fbc:name="lp_0564" />
+      <fbc:geneProduct fbc:id="G_lp_0565" fbc:label="lp_0565" fbc:name="lp_0565" />
+      <fbc:geneProduct fbc:id="G_lp_0566" fbc:label="lp_0566" fbc:name="lp_0566" />
+      <fbc:geneProduct fbc:id="G_lp_0571" fbc:label="lp_0571" fbc:name="lp_0571" />
+      <fbc:geneProduct fbc:id="G_lp_0572" fbc:label="lp_0572" fbc:name="lp_0572" />
+      <fbc:geneProduct fbc:id="G_lp_0575" fbc:label="lp_0575" fbc:name="lp_0575" />
+      <fbc:geneProduct fbc:id="G_lp_0576" fbc:label="lp_0576" fbc:name="lp_0576" />
+      <fbc:geneProduct fbc:id="G_lp_0577" fbc:label="lp_0577" fbc:name="lp_0577" />
+      <fbc:geneProduct fbc:id="G_lp_0579" fbc:label="lp_0579" fbc:name="lp_0579" />
+      <fbc:geneProduct fbc:id="G_lp_0586" fbc:label="lp_0586" fbc:name="lp_0586" />
+      <fbc:geneProduct fbc:id="G_lp_0587" fbc:label="lp_0587" fbc:name="lp_0587" />
+      <fbc:geneProduct fbc:id="G_lp_0588" fbc:label="lp_0588" fbc:name="lp_0588" />
+      <fbc:geneProduct fbc:id="G_lp_0589" fbc:label="lp_0589" fbc:name="lp_0589" />
+      <fbc:geneProduct fbc:id="G_lp_0590" fbc:label="lp_0590" fbc:name="lp_0590" />
+      <fbc:geneProduct fbc:id="G_lp_0591" fbc:label="lp_0591" fbc:name="lp_0591" />
+      <fbc:geneProduct fbc:id="G_lp_0592" fbc:label="lp_0592" fbc:name="lp_0592" />
+      <fbc:geneProduct fbc:id="G_lp_0594" fbc:label="lp_0594" fbc:name="lp_0594" />
+      <fbc:geneProduct fbc:id="G_lp_0597" fbc:label="lp_0597" fbc:name="lp_0597" />
+      <fbc:geneProduct fbc:id="G_lp_0602" fbc:label="lp_0602" fbc:name="lp_0602" />
+      <fbc:geneProduct fbc:id="G_lp_0604" fbc:label="lp_0604" fbc:name="lp_0604" />
+      <fbc:geneProduct fbc:id="G_lp_0609" fbc:label="lp_0609" fbc:name="lp_0609" />
+      <fbc:geneProduct fbc:id="G_lp_0610" fbc:label="lp_0610" fbc:name="lp_0610" />
+      <fbc:geneProduct fbc:id="G_lp_0690" fbc:label="lp_0690" fbc:name="lp_0690" />
+      <fbc:geneProduct fbc:id="G_lp_0692" fbc:label="lp_0692" fbc:name="lp_0692" />
+      <fbc:geneProduct fbc:id="G_lp_0693" fbc:label="lp_0693" fbc:name="lp_0693" />
+      <fbc:geneProduct fbc:id="G_lp_0696" fbc:label="lp_0696" fbc:name="lp_0696" />
+      <fbc:geneProduct fbc:id="G_lp_0703" fbc:label="lp_0703" fbc:name="lp_0703" />
+      <fbc:geneProduct fbc:id="G_lp_0709" fbc:label="lp_0709" fbc:name="lp_0709" />
+      <fbc:geneProduct fbc:id="G_lp_0710" fbc:label="lp_0710" fbc:name="lp_0710" />
+      <fbc:geneProduct fbc:id="G_lp_0711" fbc:label="lp_0711" fbc:name="lp_0711" />
+      <fbc:geneProduct fbc:id="G_lp_0712" fbc:label="lp_0712" fbc:name="lp_0712" />
+      <fbc:geneProduct fbc:id="G_lp_0713" fbc:label="lp_0713" fbc:name="lp_0713" />
+      <fbc:geneProduct fbc:id="G_lp_0714" fbc:label="lp_0714" fbc:name="lp_0714" />
+      <fbc:geneProduct fbc:id="G_lp_0715" fbc:label="lp_0715" fbc:name="lp_0715" />
+      <fbc:geneProduct fbc:id="G_lp_0730" fbc:label="lp_0730" fbc:name="lp_0730" />
+      <fbc:geneProduct fbc:id="G_lp_0733" fbc:label="lp_0733" fbc:name="lp_0733" />
+      <fbc:geneProduct fbc:id="G_lp_0746" fbc:label="lp_0746" fbc:name="lp_0746" />
+      <fbc:geneProduct fbc:id="G_lp_0747" fbc:label="lp_0747" fbc:name="lp_0747" />
+      <fbc:geneProduct fbc:id="G_lp_0748" fbc:label="lp_0748" fbc:name="lp_0748" />
+      <fbc:geneProduct fbc:id="G_lp_0749" fbc:label="lp_0749" fbc:name="lp_0749" />
+      <fbc:geneProduct fbc:id="G_lp_0750" fbc:label="lp_0750" fbc:name="lp_0750" />
+      <fbc:geneProduct fbc:id="G_lp_0751" fbc:label="lp_0751" fbc:name="lp_0751" />
+      <fbc:geneProduct fbc:id="G_lp_0756" fbc:label="lp_0756" fbc:name="lp_0756" />
+      <fbc:geneProduct fbc:id="G_lp_0757" fbc:label="lp_0757" fbc:name="lp_0757" />
+      <fbc:geneProduct fbc:id="G_lp_0760" fbc:label="lp_0760" fbc:name="lp_0760" />
+      <fbc:geneProduct fbc:id="G_lp_0761" fbc:label="lp_0761" fbc:name="lp_0761" />
+      <fbc:geneProduct fbc:id="G_lp_0764" fbc:label="lp_0764" fbc:name="lp_0764" />
+      <fbc:geneProduct fbc:id="G_lp_0766" fbc:label="lp_0766" fbc:name="lp_0766" />
+      <fbc:geneProduct fbc:id="G_lp_0775" fbc:label="lp_0775" fbc:name="lp_0775" />
+      <fbc:geneProduct fbc:id="G_lp_0776" fbc:label="lp_0776" fbc:name="lp_0776" />
+      <fbc:geneProduct fbc:id="G_lp_0785" fbc:label="lp_0785" fbc:name="lp_0785" />
+      <fbc:geneProduct fbc:id="G_lp_0789" fbc:label="lp_0789" fbc:name="lp_0789" />
+      <fbc:geneProduct fbc:id="G_lp_0790" fbc:label="lp_0790" fbc:name="lp_0790" />
+      <fbc:geneProduct fbc:id="G_lp_0791" fbc:label="lp_0791" fbc:name="lp_0791" />
+      <fbc:geneProduct fbc:id="G_lp_0792" fbc:label="lp_0792" fbc:name="lp_0792" />
+      <fbc:geneProduct fbc:id="G_lp_0802" fbc:label="lp_0802" fbc:name="lp_0802" />
+      <fbc:geneProduct fbc:id="G_lp_0803" fbc:label="lp_0803" fbc:name="lp_0803" />
+      <fbc:geneProduct fbc:id="G_lp_0807" fbc:label="lp_0807" fbc:name="lp_0807" />
+      <fbc:geneProduct fbc:id="G_lp_0814" fbc:label="lp_0814" fbc:name="lp_0814" />
+      <fbc:geneProduct fbc:id="G_lp_0820" fbc:label="lp_0820" fbc:name="lp_0820" />
+      <fbc:geneProduct fbc:id="G_lp_0822" fbc:label="lp_0822" fbc:name="lp_0822" />
+      <fbc:geneProduct fbc:id="G_lp_0826" fbc:label="lp_0826" fbc:name="lp_0826" />
+      <fbc:geneProduct fbc:id="G_lp_0829" fbc:label="lp_0829" fbc:name="lp_0829" />
+      <fbc:geneProduct fbc:id="G_lp_0834" fbc:label="lp_0834" fbc:name="lp_0834" />
+      <fbc:geneProduct fbc:id="G_lp_0841" fbc:label="lp_0841" fbc:name="lp_0841" />
+      <fbc:geneProduct fbc:id="G_lp_0842" fbc:label="lp_0842" fbc:name="lp_0842" />
+      <fbc:geneProduct fbc:id="G_lp_0843" fbc:label="lp_0843" fbc:name="lp_0843" />
+      <fbc:geneProduct fbc:id="G_lp_0848" fbc:label="lp_0848" fbc:name="lp_0848" />
+      <fbc:geneProduct fbc:id="G_lp_0849" fbc:label="lp_0849" fbc:name="lp_0849" />
+      <fbc:geneProduct fbc:id="G_lp_0850" fbc:label="lp_0850" fbc:name="lp_0850" />
+      <fbc:geneProduct fbc:id="G_lp_0852" fbc:label="lp_0852" fbc:name="lp_0852" />
+      <fbc:geneProduct fbc:id="G_lp_0854" fbc:label="lp_0854" fbc:name="lp_0854" />
+      <fbc:geneProduct fbc:id="G_lp_0863" fbc:label="lp_0863" fbc:name="lp_0863" />
+      <fbc:geneProduct fbc:id="G_lp_0866" fbc:label="lp_0866" fbc:name="lp_0866" />
+      <fbc:geneProduct fbc:id="G_lp_0872" fbc:label="lp_0872" fbc:name="lp_0872" />
+      <fbc:geneProduct fbc:id="G_lp_0878" fbc:label="lp_0878" fbc:name="lp_0878" />
+      <fbc:geneProduct fbc:id="G_lp_0881" fbc:label="lp_0881" fbc:name="lp_0881" />
+      <fbc:geneProduct fbc:id="G_lp_0882" fbc:label="lp_0882" fbc:name="lp_0882" />
+      <fbc:geneProduct fbc:id="G_lp_0883" fbc:label="lp_0883" fbc:name="lp_0883" />
+      <fbc:geneProduct fbc:id="G_lp_0900" fbc:label="lp_0900" fbc:name="lp_0900" />
+      <fbc:geneProduct fbc:id="G_lp_0901" fbc:label="lp_0901" fbc:name="lp_0901" />
+      <fbc:geneProduct fbc:id="G_lp_0912" fbc:label="lp_0912" fbc:name="lp_0912" />
+      <fbc:geneProduct fbc:id="G_lp_0913" fbc:label="lp_0913" fbc:name="lp_0913" />
+      <fbc:geneProduct fbc:id="G_lp_0914" fbc:label="lp_0914" fbc:name="lp_0914" />
+      <fbc:geneProduct fbc:id="G_lp_0952" fbc:label="lp_0952" fbc:name="lp_0952" />
+      <fbc:geneProduct fbc:id="G_lp_0956" fbc:label="lp_0956" fbc:name="lp_0956" />
+      <fbc:geneProduct fbc:id="G_lp_0957" fbc:label="lp_0957" fbc:name="lp_0957" />
+      <fbc:geneProduct fbc:id="G_lp_0963" fbc:label="lp_0963" fbc:name="lp_0963" />
+      <fbc:geneProduct fbc:id="G_lp_0977" fbc:label="lp_0977" fbc:name="lp_0977" />
+      <fbc:geneProduct fbc:id="G_lp_0979" fbc:label="lp_0979" fbc:name="lp_0979" />
+      <fbc:geneProduct fbc:id="G_lp_0980" fbc:label="lp_0980" fbc:name="lp_0980" />
+      <fbc:geneProduct fbc:id="G_lp_1005" fbc:label="lp_1005" fbc:name="lp_1005" />
+      <fbc:geneProduct fbc:id="G_lp_1008" fbc:label="lp_1008" fbc:name="lp_1008" />
+      <fbc:geneProduct fbc:id="G_lp_1011" fbc:label="lp_1011" fbc:name="lp_1011" />
+      <fbc:geneProduct fbc:id="G_lp_1012" fbc:label="lp_1012" fbc:name="lp_1012" />
+      <fbc:geneProduct fbc:id="G_lp_1058" fbc:label="lp_1058" fbc:name="lp_1058" />
+      <fbc:geneProduct fbc:id="G_lp_1066" fbc:label="lp_1066" fbc:name="lp_1066" />
+      <fbc:geneProduct fbc:id="G_lp_1069" fbc:label="lp_1069" fbc:name="lp_1069" />
+      <fbc:geneProduct fbc:id="G_lp_1072" fbc:label="lp_1072" fbc:name="lp_1072" />
+      <fbc:geneProduct fbc:id="G_lp_1076" fbc:label="lp_1076" fbc:name="lp_1076" />
+      <fbc:geneProduct fbc:id="G_lp_1083" fbc:label="lp_1083" fbc:name="lp_1083" />
+      <fbc:geneProduct fbc:id="G_lp_1084" fbc:label="lp_1084" fbc:name="lp_1084" />
+      <fbc:geneProduct fbc:id="G_lp_1085" fbc:label="lp_1085" fbc:name="lp_1085" />
+      <fbc:geneProduct fbc:id="G_lp_1086" fbc:label="lp_1086" fbc:name="lp_1086" />
+      <fbc:geneProduct fbc:id="G_lp_1089" fbc:label="lp_1089" fbc:name="lp_1089" />
+      <fbc:geneProduct fbc:id="G_lp_1090" fbc:label="lp_1090" fbc:name="lp_1090" />
+      <fbc:geneProduct fbc:id="G_lp_1093" fbc:label="lp_1093" fbc:name="lp_1093" />
+      <fbc:geneProduct fbc:id="G_lp_1095" fbc:label="lp_1095" fbc:name="lp_1095" />
+      <fbc:geneProduct fbc:id="G_lp_1096" fbc:label="lp_1096" fbc:name="lp_1096" />
+      <fbc:geneProduct fbc:id="G_lp_1097" fbc:label="lp_1097" fbc:name="lp_1097" />
+      <fbc:geneProduct fbc:id="G_lp_1101" fbc:label="lp_1101" fbc:name="lp_1101" />
+      <fbc:geneProduct fbc:id="G_lp_1105" fbc:label="lp_1105" fbc:name="lp_1105" />
+      <fbc:geneProduct fbc:id="G_lp_1106" fbc:label="lp_1106" fbc:name="lp_1106" />
+      <fbc:geneProduct fbc:id="G_lp_1107" fbc:label="lp_1107" fbc:name="lp_1107" />
+      <fbc:geneProduct fbc:id="G_lp_1108" fbc:label="lp_1108" fbc:name="lp_1108" />
+      <fbc:geneProduct fbc:id="G_lp_1109" fbc:label="lp_1109" fbc:name="lp_1109" />
+      <fbc:geneProduct fbc:id="G_lp_1112" fbc:label="lp_1112" fbc:name="lp_1112" />
+      <fbc:geneProduct fbc:id="G_lp_1114" fbc:label="lp_1114" fbc:name="lp_1114" />
+      <fbc:geneProduct fbc:id="G_lp_1118" fbc:label="lp_1118" fbc:name="lp_1118" />
+      <fbc:geneProduct fbc:id="G_lp_1119" fbc:label="lp_1119" fbc:name="lp_1119" />
+      <fbc:geneProduct fbc:id="G_lp_1125" fbc:label="lp_1125" fbc:name="lp_1125" />
+      <fbc:geneProduct fbc:id="G_lp_1126" fbc:label="lp_1126" fbc:name="lp_1126" />
+      <fbc:geneProduct fbc:id="G_lp_1128" fbc:label="lp_1128" fbc:name="lp_1128" />
+      <fbc:geneProduct fbc:id="G_lp_1129" fbc:label="lp_1129" fbc:name="lp_1129" />
+      <fbc:geneProduct fbc:id="G_lp_1134" fbc:label="lp_1134" fbc:name="lp_1134" />
+      <fbc:geneProduct fbc:id="G_lp_1139" fbc:label="lp_1139" fbc:name="lp_1139" />
+      <fbc:geneProduct fbc:id="G_lp_1141" fbc:label="lp_1141" fbc:name="lp_1141" />
+      <fbc:geneProduct fbc:id="G_lp_1147" fbc:label="lp_1147" fbc:name="lp_1147" />
+      <fbc:geneProduct fbc:id="G_lp_1148" fbc:label="lp_1148" fbc:name="lp_1148" />
+      <fbc:geneProduct fbc:id="G_lp_1149" fbc:label="lp_1149" fbc:name="lp_1149" />
+      <fbc:geneProduct fbc:id="G_lp_1169" fbc:label="lp_1169" fbc:name="lp_1169" />
+      <fbc:geneProduct fbc:id="G_lp_1173" fbc:label="lp_1173" fbc:name="lp_1173" />
+      <fbc:geneProduct fbc:id="G_lp_1175" fbc:label="lp_1175" fbc:name="lp_1175" />
+      <fbc:geneProduct fbc:id="G_lp_1176" fbc:label="lp_1176" fbc:name="lp_1176" />
+      <fbc:geneProduct fbc:id="G_lp_1177" fbc:label="lp_1177" fbc:name="lp_1177" />
+      <fbc:geneProduct fbc:id="G_lp_1178" fbc:label="lp_1178" fbc:name="lp_1178" />
+      <fbc:geneProduct fbc:id="G_lp_1179" fbc:label="lp_1179" fbc:name="lp_1179" />
+      <fbc:geneProduct fbc:id="G_lp_1180" fbc:label="lp_1180" fbc:name="lp_1180" />
+      <fbc:geneProduct fbc:id="G_lp_1181" fbc:label="lp_1181" fbc:name="lp_1181" />
+      <fbc:geneProduct fbc:id="G_lp_1182" fbc:label="lp_1182" fbc:name="lp_1182" />
+      <fbc:geneProduct fbc:id="G_lp_1183" fbc:label="lp_1183" fbc:name="lp_1183" />
+      <fbc:geneProduct fbc:id="G_lp_1184" fbc:label="lp_1184" fbc:name="lp_1184" />
+      <fbc:geneProduct fbc:id="G_lp_1185" fbc:label="lp_1185" fbc:name="lp_1185" />
+      <fbc:geneProduct fbc:id="G_lp_1186" fbc:label="lp_1186" fbc:name="lp_1186" />
+      <fbc:geneProduct fbc:id="G_lp_1188" fbc:label="lp_1188" fbc:name="lp_1188" />
+      <fbc:geneProduct fbc:id="G_lp_1189" fbc:label="lp_1189" fbc:name="lp_1189" />
+      <fbc:geneProduct fbc:id="G_lp_1190" fbc:label="lp_1190" fbc:name="lp_1190" />
+      <fbc:geneProduct fbc:id="G_lp_1197" fbc:label="lp_1197" fbc:name="lp_1197" />
+      <fbc:geneProduct fbc:id="G_lp_1198" fbc:label="lp_1198" fbc:name="lp_1198" />
+      <fbc:geneProduct fbc:id="G_lp_1199" fbc:label="lp_1199" fbc:name="lp_1199" />
+      <fbc:geneProduct fbc:id="G_lp_1200" fbc:label="lp_1200" fbc:name="lp_1200" />
+      <fbc:geneProduct fbc:id="G_lp_1201" fbc:label="lp_1201" fbc:name="lp_1201" />
+      <fbc:geneProduct fbc:id="G_lp_1202" fbc:label="lp_1202" fbc:name="lp_1202" />
+      <fbc:geneProduct fbc:id="G_lp_1203" fbc:label="lp_1203" fbc:name="lp_1203" />
+      <fbc:geneProduct fbc:id="G_lp_1204" fbc:label="lp_1204" fbc:name="lp_1204" />
+      <fbc:geneProduct fbc:id="G_lp_1205" fbc:label="lp_1205" fbc:name="lp_1205" />
+      <fbc:geneProduct fbc:id="G_lp_1206" fbc:label="lp_1206" fbc:name="lp_1206" />
+      <fbc:geneProduct fbc:id="G_lp_1215" fbc:label="lp_1215" fbc:name="lp_1215" />
+      <fbc:geneProduct fbc:id="G_lp_1216" fbc:label="lp_1216" fbc:name="lp_1216" />
+      <fbc:geneProduct fbc:id="G_lp_1219" fbc:label="lp_1219" fbc:name="lp_1219" />
+      <fbc:geneProduct fbc:id="G_lp_1220" fbc:label="lp_1220" fbc:name="lp_1220" />
+      <fbc:geneProduct fbc:id="G_lp_1221" fbc:label="lp_1221" fbc:name="lp_1221" />
+      <fbc:geneProduct fbc:id="G_lp_1222" fbc:label="lp_1222" fbc:name="lp_1222" />
+      <fbc:geneProduct fbc:id="G_lp_1224" fbc:label="lp_1224" fbc:name="lp_1224" />
+      <fbc:geneProduct fbc:id="G_lp_1225" fbc:label="lp_1225" fbc:name="lp_1225" />
+      <fbc:geneProduct fbc:id="G_lp_1226" fbc:label="lp_1226" fbc:name="lp_1226" />
+      <fbc:geneProduct fbc:id="G_lp_1227" fbc:label="lp_1227" fbc:name="lp_1227" />
+      <fbc:geneProduct fbc:id="G_lp_1245" fbc:label="lp_1245" fbc:name="lp_1245" />
+      <fbc:geneProduct fbc:id="G_lp_1248" fbc:label="lp_1248" fbc:name="lp_1248" />
+      <fbc:geneProduct fbc:id="G_lp_1249" fbc:label="lp_1249" fbc:name="lp_1249" />
+      <fbc:geneProduct fbc:id="G_lp_1250" fbc:label="lp_1250" fbc:name="lp_1250" />
+      <fbc:geneProduct fbc:id="G_lp_1251" fbc:label="lp_1251" fbc:name="lp_1251" />
+      <fbc:geneProduct fbc:id="G_lp_1253" fbc:label="lp_1253" fbc:name="lp_1253" />
+      <fbc:geneProduct fbc:id="G_lp_1273" fbc:label="lp_1273" fbc:name="lp_1273" />
+      <fbc:geneProduct fbc:id="G_lp_1274" fbc:label="lp_1274" fbc:name="lp_1274" />
+      <fbc:geneProduct fbc:id="G_lp_1275" fbc:label="lp_1275" fbc:name="lp_1275" />
+      <fbc:geneProduct fbc:id="G_lp_1276" fbc:label="lp_1276" fbc:name="lp_1276" />
+      <fbc:geneProduct fbc:id="G_lp_1280" fbc:label="lp_1280" fbc:name="lp_1280" />
+      <fbc:geneProduct fbc:id="G_lp_1298" fbc:label="lp_1298" fbc:name="lp_1298" />
+      <fbc:geneProduct fbc:id="G_lp_1299" fbc:label="lp_1299" fbc:name="lp_1299" />
+      <fbc:geneProduct fbc:id="G_lp_1301" fbc:label="lp_1301" fbc:name="lp_1301" />
+      <fbc:geneProduct fbc:id="G_lp_1311" fbc:label="lp_1311" fbc:name="lp_1311" />
+      <fbc:geneProduct fbc:id="G_lp_1312" fbc:label="lp_1312" fbc:name="lp_1312" />
+      <fbc:geneProduct fbc:id="G_lp_1316" fbc:label="lp_1316" fbc:name="lp_1316" />
+      <fbc:geneProduct fbc:id="G_lp_1319" fbc:label="lp_1319" fbc:name="lp_1319" />
+      <fbc:geneProduct fbc:id="G_lp_1328" fbc:label="lp_1328" fbc:name="lp_1328" />
+      <fbc:geneProduct fbc:id="G_lp_1329" fbc:label="lp_1329" fbc:name="lp_1329" />
+      <fbc:geneProduct fbc:id="G_lp_1346" fbc:label="lp_1346" fbc:name="lp_1346" />
+      <fbc:geneProduct fbc:id="G_lp_1350" fbc:label="lp_1350" fbc:name="lp_1350" />
+      <fbc:geneProduct fbc:id="G_lp_1372" fbc:label="lp_1372" fbc:name="lp_1372" />
+      <fbc:geneProduct fbc:id="G_lp_1374" fbc:label="lp_1374" fbc:name="lp_1374" />
+      <fbc:geneProduct fbc:id="G_lp_1375" fbc:label="lp_1375" fbc:name="lp_1375" />
+      <fbc:geneProduct fbc:id="G_lp_1378" fbc:label="lp_1378" fbc:name="lp_1378" />
+      <fbc:geneProduct fbc:id="G_lp_1379" fbc:label="lp_1379" fbc:name="lp_1379" />
+      <fbc:geneProduct fbc:id="G_lp_1385" fbc:label="lp_1385" fbc:name="lp_1385" />
+      <fbc:geneProduct fbc:id="G_lp_1391" fbc:label="lp_1391" fbc:name="lp_1391" />
+      <fbc:geneProduct fbc:id="G_lp_1406" fbc:label="lp_1406" fbc:name="lp_1406" />
+      <fbc:geneProduct fbc:id="G_lp_1413" fbc:label="lp_1413" fbc:name="lp_1413" />
+      <fbc:geneProduct fbc:id="G_lp_1425" fbc:label="lp_1425" fbc:name="lp_1425" />
+      <fbc:geneProduct fbc:id="G_lp_1437" fbc:label="lp_1437" fbc:name="lp_1437" />
+      <fbc:geneProduct fbc:id="G_lp_1445" fbc:label="lp_1445" fbc:name="lp_1445" />
+      <fbc:geneProduct fbc:id="G_lp_1462" fbc:label="lp_1462" fbc:name="lp_1462" />
+      <fbc:geneProduct fbc:id="G_lp_1478" fbc:label="lp_1478" fbc:name="lp_1478" />
+      <fbc:geneProduct fbc:id="G_lp_1479" fbc:label="lp_1479" fbc:name="lp_1479" />
+      <fbc:geneProduct fbc:id="G_lp_1480" fbc:label="lp_1480" fbc:name="lp_1480" />
+      <fbc:geneProduct fbc:id="G_lp_1481" fbc:label="lp_1481" fbc:name="lp_1481" />
+      <fbc:geneProduct fbc:id="G_lp_1491" fbc:label="lp_1491" fbc:name="lp_1491" />
+      <fbc:geneProduct fbc:id="G_lp_1492" fbc:label="lp_1492" fbc:name="lp_1492" />
+      <fbc:geneProduct fbc:id="G_lp_1493" fbc:label="lp_1493" fbc:name="lp_1493" />
+      <fbc:geneProduct fbc:id="G_lp_1494" fbc:label="lp_1494" fbc:name="lp_1494" />
+      <fbc:geneProduct fbc:id="G_lp_1495" fbc:label="lp_1495" fbc:name="lp_1495" />
+      <fbc:geneProduct fbc:id="G_lp_1496" fbc:label="lp_1496" fbc:name="lp_1496" />
+      <fbc:geneProduct fbc:id="G_lp_1497" fbc:label="lp_1497" fbc:name="lp_1497" />
+      <fbc:geneProduct fbc:id="G_lp_1498" fbc:label="lp_1498" fbc:name="lp_1498" />
+      <fbc:geneProduct fbc:id="G_lp_1499" fbc:label="lp_1499" fbc:name="lp_1499" />
+      <fbc:geneProduct fbc:id="G_lp_1500" fbc:label="lp_1500" fbc:name="lp_1500" />
+      <fbc:geneProduct fbc:id="G_lp_1510" fbc:label="lp_1510" fbc:name="lp_1510" />
+      <fbc:geneProduct fbc:id="G_lp_1514" fbc:label="lp_1514" fbc:name="lp_1514" />
+      <fbc:geneProduct fbc:id="G_lp_1523" fbc:label="lp_1523" fbc:name="lp_1523" />
+      <fbc:geneProduct fbc:id="G_lp_1530" fbc:label="lp_1530" fbc:name="lp_1530" />
+      <fbc:geneProduct fbc:id="G_lp_1541" fbc:label="lp_1541" fbc:name="lp_1541" />
+      <fbc:geneProduct fbc:id="G_lp_1554" fbc:label="lp_1554" fbc:name="lp_1554" />
+      <fbc:geneProduct fbc:id="G_lp_1558" fbc:label="lp_1558" fbc:name="lp_1558" />
+      <fbc:geneProduct fbc:id="G_lp_1559" fbc:label="lp_1559" fbc:name="lp_1559" />
+      <fbc:geneProduct fbc:id="G_lp_1562" fbc:label="lp_1562" fbc:name="lp_1562" />
+      <fbc:geneProduct fbc:id="G_lp_1568" fbc:label="lp_1568" fbc:name="lp_1568" />
+      <fbc:geneProduct fbc:id="G_lp_1570" fbc:label="lp_1570" fbc:name="lp_1570" />
+      <fbc:geneProduct fbc:id="G_lp_1573" fbc:label="lp_1573" fbc:name="lp_1573" />
+      <fbc:geneProduct fbc:id="G_lp_1578" fbc:label="lp_1578" fbc:name="lp_1578" />
+      <fbc:geneProduct fbc:id="G_lp_1581" fbc:label="lp_1581" fbc:name="lp_1581" />
+      <fbc:geneProduct fbc:id="G_lp_1599" fbc:label="lp_1599" fbc:name="lp_1599" />
+      <fbc:geneProduct fbc:id="G_lp_1602" fbc:label="lp_1602" fbc:name="lp_1602" />
+      <fbc:geneProduct fbc:id="G_lp_1607" fbc:label="lp_1607" fbc:name="lp_1607" />
+      <fbc:geneProduct fbc:id="G_lp_1608" fbc:label="lp_1608" fbc:name="lp_1608" />
+      <fbc:geneProduct fbc:id="G_lp_1609" fbc:label="lp_1609" fbc:name="lp_1609" />
+      <fbc:geneProduct fbc:id="G_lp_1610" fbc:label="lp_1610" fbc:name="lp_1610" />
+      <fbc:geneProduct fbc:id="G_lp_1612" fbc:label="lp_1612" fbc:name="lp_1612" />
+      <fbc:geneProduct fbc:id="G_lp_1614" fbc:label="lp_1614" fbc:name="lp_1614" />
+      <fbc:geneProduct fbc:id="G_lp_1621" fbc:label="lp_1621" fbc:name="lp_1621" />
+      <fbc:geneProduct fbc:id="G_lp_1622" fbc:label="lp_1622" fbc:name="lp_1622" />
+      <fbc:geneProduct fbc:id="G_lp_1629" fbc:label="lp_1629" fbc:name="lp_1629" />
+      <fbc:geneProduct fbc:id="G_lp_1652" fbc:label="lp_1652" fbc:name="lp_1652" />
+      <fbc:geneProduct fbc:id="G_lp_1653" fbc:label="lp_1653" fbc:name="lp_1653" />
+      <fbc:geneProduct fbc:id="G_lp_1654" fbc:label="lp_1654" fbc:name="lp_1654" />
+      <fbc:geneProduct fbc:id="G_lp_1655" fbc:label="lp_1655" fbc:name="lp_1655" />
+      <fbc:geneProduct fbc:id="G_lp_1656" fbc:label="lp_1656" fbc:name="lp_1656" />
       <fbc:geneProduct fbc:id="G_lp_1657" fbc:label="lp_1657" fbc:name="lp_1657" />
       <fbc:geneProduct fbc:id="G_lp_1658" fbc:label="lp_1658" fbc:name="lp_1658" />
-      <fbc:geneProduct fbc:id="G_lp_0434" fbc:label="lp_0434" fbc:name="lp_0434" />
-      <fbc:geneProduct fbc:id="G_lp_2807" fbc:label="lp_2807" fbc:name="lp_2807" />
-      <fbc:geneProduct fbc:id="G_lp_0977" fbc:label="lp_0977" fbc:name="lp_0977" />
-      <fbc:geneProduct fbc:id="G_lp_2380" fbc:label="lp_2380" fbc:name="lp_2380" />
-      <fbc:geneProduct fbc:id="G_lp_1173" fbc:label="lp_1173" fbc:name="lp_1173" />
-      <fbc:geneProduct fbc:id="G_lp_2361" fbc:label="lp_2361" fbc:name="lp_2361" />
-      <fbc:geneProduct fbc:id="G_lp_0510" fbc:label="lp_0510" fbc:name="lp_0510" />
+      <fbc:geneProduct fbc:id="G_lp_1665" fbc:label="lp_1665" fbc:name="lp_1665" />
+      <fbc:geneProduct fbc:id="G_lp_1670" fbc:label="lp_1670" fbc:name="lp_1670" />
+      <fbc:geneProduct fbc:id="G_lp_1671" fbc:label="lp_1671" fbc:name="lp_1671" />
+      <fbc:geneProduct fbc:id="G_lp_1672" fbc:label="lp_1672" fbc:name="lp_1672" />
+      <fbc:geneProduct fbc:id="G_lp_1673" fbc:label="lp_1673" fbc:name="lp_1673" />
+      <fbc:geneProduct fbc:id="G_lp_1674" fbc:label="lp_1674" fbc:name="lp_1674" />
+      <fbc:geneProduct fbc:id="G_lp_1675" fbc:label="lp_1675" fbc:name="lp_1675" />
+      <fbc:geneProduct fbc:id="G_lp_1676" fbc:label="lp_1676" fbc:name="lp_1676" />
+      <fbc:geneProduct fbc:id="G_lp_1677" fbc:label="lp_1677" fbc:name="lp_1677" />
+      <fbc:geneProduct fbc:id="G_lp_1678" fbc:label="lp_1678" fbc:name="lp_1678" />
+      <fbc:geneProduct fbc:id="G_lp_1679" fbc:label="lp_1679" fbc:name="lp_1679" />
+      <fbc:geneProduct fbc:id="G_lp_1680" fbc:label="lp_1680" fbc:name="lp_1680" />
+      <fbc:geneProduct fbc:id="G_lp_1681" fbc:label="lp_1681" fbc:name="lp_1681" />
+      <fbc:geneProduct fbc:id="G_lp_1696" fbc:label="lp_1696" fbc:name="lp_1696" />
+      <fbc:geneProduct fbc:id="G_lp_1713" fbc:label="lp_1713" fbc:name="lp_1713" />
+      <fbc:geneProduct fbc:id="G_lp_1721" fbc:label="lp_1721" fbc:name="lp_1721" />
+      <fbc:geneProduct fbc:id="G_lp_1729" fbc:label="lp_1729" fbc:name="lp_1729" />
+      <fbc:geneProduct fbc:id="G_lp_1730" fbc:label="lp_1730" fbc:name="lp_1730" />
+      <fbc:geneProduct fbc:id="G_lp_1731" fbc:label="lp_1731" fbc:name="lp_1731" />
+      <fbc:geneProduct fbc:id="G_lp_1732" fbc:label="lp_1732" fbc:name="lp_1732" />
+      <fbc:geneProduct fbc:id="G_lp_1733" fbc:label="lp_1733" fbc:name="lp_1733" />
+      <fbc:geneProduct fbc:id="G_lp_1734" fbc:label="lp_1734" fbc:name="lp_1734" />
+      <fbc:geneProduct fbc:id="G_lp_1735" fbc:label="lp_1735" fbc:name="lp_1735" />
+      <fbc:geneProduct fbc:id="G_lp_1739" fbc:label="lp_1739" fbc:name="lp_1739" />
+      <fbc:geneProduct fbc:id="G_lp_1740" fbc:label="lp_1740" fbc:name="lp_1740" />
+      <fbc:geneProduct fbc:id="G_lp_1751" fbc:label="lp_1751" fbc:name="lp_1751" />
+      <fbc:geneProduct fbc:id="G_lp_1779" fbc:label="lp_1779" fbc:name="lp_1779" />
+      <fbc:geneProduct fbc:id="G_lp_1781" fbc:label="lp_1781" fbc:name="lp_1781" />
+      <fbc:geneProduct fbc:id="G_lp_1785" fbc:label="lp_1785" fbc:name="lp_1785" />
+      <fbc:geneProduct fbc:id="G_lp_1790" fbc:label="lp_1790" fbc:name="lp_1790" />
+      <fbc:geneProduct fbc:id="G_lp_1814" fbc:label="lp_1814" fbc:name="lp_1814" />
+      <fbc:geneProduct fbc:id="G_lp_1816" fbc:label="lp_1816" fbc:name="lp_1816" />
+      <fbc:geneProduct fbc:id="G_lp_1817" fbc:label="lp_1817" fbc:name="lp_1817" />
+      <fbc:geneProduct fbc:id="G_lp_1818" fbc:label="lp_1818" fbc:name="lp_1818" />
+      <fbc:geneProduct fbc:id="G_lp_1819" fbc:label="lp_1819" fbc:name="lp_1819" />
+      <fbc:geneProduct fbc:id="G_lp_1822" fbc:label="lp_1822" fbc:name="lp_1822" />
+      <fbc:geneProduct fbc:id="G_lp_1837" fbc:label="lp_1837" fbc:name="lp_1837" />
+      <fbc:geneProduct fbc:id="G_lp_1869" fbc:label="lp_1869" fbc:name="lp_1869" />
+      <fbc:geneProduct fbc:id="G_lp_1870" fbc:label="lp_1870" fbc:name="lp_1870" />
+      <fbc:geneProduct fbc:id="G_lp_1874" fbc:label="lp_1874" fbc:name="lp_1874" />
+      <fbc:geneProduct fbc:id="G_lp_1883" fbc:label="lp_1883" fbc:name="lp_1883" />
+      <fbc:geneProduct fbc:id="G_lp_1888" fbc:label="lp_1888" fbc:name="lp_1888" />
+      <fbc:geneProduct fbc:id="G_lp_1897" fbc:label="lp_1897" fbc:name="lp_1897" />
+      <fbc:geneProduct fbc:id="G_lp_1898" fbc:label="lp_1898" fbc:name="lp_1898" />
+      <fbc:geneProduct fbc:id="G_lp_1912" fbc:label="lp_1912" fbc:name="lp_1912" />
+      <fbc:geneProduct fbc:id="G_lp_1919" fbc:label="lp_1919" fbc:name="lp_1919" />
+      <fbc:geneProduct fbc:id="G_lp_1920" fbc:label="lp_1920" fbc:name="lp_1920" />
+      <fbc:geneProduct fbc:id="G_lp_1923" fbc:label="lp_1923" fbc:name="lp_1923" />
+      <fbc:geneProduct fbc:id="G_lp_1925" fbc:label="lp_1925" fbc:name="lp_1925" />
+      <fbc:geneProduct fbc:id="G_lp_1932" fbc:label="lp_1932" fbc:name="lp_1932" />
+      <fbc:geneProduct fbc:id="G_lp_1941" fbc:label="lp_1941" fbc:name="lp_1941" />
+      <fbc:geneProduct fbc:id="G_lp_1964" fbc:label="lp_1964" fbc:name="lp_1964" />
+      <fbc:geneProduct fbc:id="G_lp_1965" fbc:label="lp_1965" fbc:name="lp_1965" />
+      <fbc:geneProduct fbc:id="G_lp_1968" fbc:label="lp_1968" fbc:name="lp_1968" />
+      <fbc:geneProduct fbc:id="G_lp_1977" fbc:label="lp_1977" fbc:name="lp_1977" />
+      <fbc:geneProduct fbc:id="G_lp_1980" fbc:label="lp_1980" fbc:name="lp_1980" />
+      <fbc:geneProduct fbc:id="G_lp_1981" fbc:label="lp_1981" fbc:name="lp_1981" />
+      <fbc:geneProduct fbc:id="G_lp_1982" fbc:label="lp_1982" fbc:name="lp_1982" />
+      <fbc:geneProduct fbc:id="G_lp_1987" fbc:label="lp_1987" fbc:name="lp_1987" />
+      <fbc:geneProduct fbc:id="G_lp_2016" fbc:label="lp_2016" fbc:name="lp_2016" />
+      <fbc:geneProduct fbc:id="G_lp_2017" fbc:label="lp_2017" fbc:name="lp_2017" />
+      <fbc:geneProduct fbc:id="G_lp_2018" fbc:label="lp_2018" fbc:name="lp_2018" />
+      <fbc:geneProduct fbc:id="G_lp_2019" fbc:label="lp_2019" fbc:name="lp_2019" />
+      <fbc:geneProduct fbc:id="G_lp_2030" fbc:label="lp_2030" fbc:name="lp_2030" />
+      <fbc:geneProduct fbc:id="G_lp_2031" fbc:label="lp_2031" fbc:name="lp_2031" />
+      <fbc:geneProduct fbc:id="G_lp_2032" fbc:label="lp_2032" fbc:name="lp_2032" />
+      <fbc:geneProduct fbc:id="G_lp_2033" fbc:label="lp_2033" fbc:name="lp_2033" />
+      <fbc:geneProduct fbc:id="G_lp_2034" fbc:label="lp_2034" fbc:name="lp_2034" />
+      <fbc:geneProduct fbc:id="G_lp_2035" fbc:label="lp_2035" fbc:name="lp_2035" />
+      <fbc:geneProduct fbc:id="G_lp_2037" fbc:label="lp_2037" fbc:name="lp_2037" />
+      <fbc:geneProduct fbc:id="G_lp_2048" fbc:label="lp_2048" fbc:name="lp_2048" />
+      <fbc:geneProduct fbc:id="G_lp_2050" fbc:label="lp_2050" fbc:name="lp_2050" />
+      <fbc:geneProduct fbc:id="G_lp_2051" fbc:label="lp_2051" fbc:name="lp_2051" />
+      <fbc:geneProduct fbc:id="G_lp_2053" fbc:label="lp_2053" fbc:name="lp_2053" />
+      <fbc:geneProduct fbc:id="G_lp_2057" fbc:label="lp_2057" fbc:name="lp_2057" />
+      <fbc:geneProduct fbc:id="G_lp_2060" fbc:label="lp_2060" fbc:name="lp_2060" />
+      <fbc:geneProduct fbc:id="G_lp_2067" fbc:label="lp_2067" fbc:name="lp_2067" />
+      <fbc:geneProduct fbc:id="G_lp_2076" fbc:label="lp_2076" fbc:name="lp_2076" />
+      <fbc:geneProduct fbc:id="G_lp_2077" fbc:label="lp_2077" fbc:name="lp_2077" />
+      <fbc:geneProduct fbc:id="G_lp_2086" fbc:label="lp_2086" fbc:name="lp_2086" />
+      <fbc:geneProduct fbc:id="G_lp_2096" fbc:label="lp_2096" fbc:name="lp_2096" />
+      <fbc:geneProduct fbc:id="G_lp_2097" fbc:label="lp_2097" fbc:name="lp_2097" />
+      <fbc:geneProduct fbc:id="G_lp_2099" fbc:label="lp_2099" fbc:name="lp_2099" />
+      <fbc:geneProduct fbc:id="G_lp_2100" fbc:label="lp_2100" fbc:name="lp_2100" />
+      <fbc:geneProduct fbc:id="G_lp_2101" fbc:label="lp_2101" fbc:name="lp_2101" />
+      <fbc:geneProduct fbc:id="G_lp_2102" fbc:label="lp_2102" fbc:name="lp_2102" />
+      <fbc:geneProduct fbc:id="G_lp_2103" fbc:label="lp_2103" fbc:name="lp_2103" />
+      <fbc:geneProduct fbc:id="G_lp_2104" fbc:label="lp_2104" fbc:name="lp_2104" />
+      <fbc:geneProduct fbc:id="G_lp_2105" fbc:label="lp_2105" fbc:name="lp_2105" />
+      <fbc:geneProduct fbc:id="G_lp_2106" fbc:label="lp_2106" fbc:name="lp_2106" />
+      <fbc:geneProduct fbc:id="G_lp_2107" fbc:label="lp_2107" fbc:name="lp_2107" />
+      <fbc:geneProduct fbc:id="G_lp_2108" fbc:label="lp_2108" fbc:name="lp_2108" />
+      <fbc:geneProduct fbc:id="G_lp_2110" fbc:label="lp_2110" fbc:name="lp_2110" />
+      <fbc:geneProduct fbc:id="G_lp_2111" fbc:label="lp_2111" fbc:name="lp_2111" />
+      <fbc:geneProduct fbc:id="G_lp_2123" fbc:label="lp_2123" fbc:name="lp_2123" />
+      <fbc:geneProduct fbc:id="G_lp_2133" fbc:label="lp_2133" fbc:name="lp_2133" />
+      <fbc:geneProduct fbc:id="G_lp_2136" fbc:label="lp_2136" fbc:name="lp_2136" />
+      <fbc:geneProduct fbc:id="G_lp_2147" fbc:label="lp_2147" fbc:name="lp_2147" />
+      <fbc:geneProduct fbc:id="G_lp_2151" fbc:label="lp_2151" fbc:name="lp_2151" />
+      <fbc:geneProduct fbc:id="G_lp_2152" fbc:label="lp_2152" fbc:name="lp_2152" />
+      <fbc:geneProduct fbc:id="G_lp_2153" fbc:label="lp_2153" fbc:name="lp_2153" />
+      <fbc:geneProduct fbc:id="G_lp_2154" fbc:label="lp_2154" fbc:name="lp_2154" />
+      <fbc:geneProduct fbc:id="G_lp_2155" fbc:label="lp_2155" fbc:name="lp_2155" />
+      <fbc:geneProduct fbc:id="G_lp_2166" fbc:label="lp_2166" fbc:name="lp_2166" />
+      <fbc:geneProduct fbc:id="G_lp_2170" fbc:label="lp_2170" fbc:name="lp_2170" />
+      <fbc:geneProduct fbc:id="G_lp_2179" fbc:label="lp_2179" fbc:name="lp_2179" />
+      <fbc:geneProduct fbc:id="G_lp_2180" fbc:label="lp_2180" fbc:name="lp_2180" />
+      <fbc:geneProduct fbc:id="G_lp_2181" fbc:label="lp_2181" fbc:name="lp_2181" />
+      <fbc:geneProduct fbc:id="G_lp_2183" fbc:label="lp_2183" fbc:name="lp_2183" />
+      <fbc:geneProduct fbc:id="G_lp_2185" fbc:label="lp_2185" fbc:name="lp_2185" />
+      <fbc:geneProduct fbc:id="G_lp_2187" fbc:label="lp_2187" fbc:name="lp_2187" />
       <fbc:geneProduct fbc:id="G_lp_2196" fbc:label="lp_2196" fbc:name="lp_2196" />
       <fbc:geneProduct fbc:id="G_lp_2197" fbc:label="lp_2197" fbc:name="lp_2197" />
-      <fbc:geneProduct fbc:id="G_lp_1462" fbc:label="lp_1462" fbc:name="lp_1462" />
-      <fbc:geneProduct fbc:id="G_lp_0814" fbc:label="lp_0814" fbc:name="lp_0814" />
-      <fbc:geneProduct fbc:id="G_lp_1066" fbc:label="lp_1066" fbc:name="lp_1066" />
-      <fbc:geneProduct fbc:id="G_lp_2051" fbc:label="lp_2051" fbc:name="lp_2051" />
-      <fbc:geneProduct fbc:id="G_lp_1134" fbc:label="lp_1134" fbc:name="lp_1134" />
-      <fbc:geneProduct fbc:id="G_lp_3407" fbc:label="lp_3407" fbc:name="lp_3407" />
-      <fbc:geneProduct fbc:id="G_lp_2105" fbc:label="lp_2105" fbc:name="lp_2105" />
-      <fbc:geneProduct fbc:id="G_lp_1200" fbc:label="lp_1200" fbc:name="lp_1200" />
-      <fbc:geneProduct fbc:id="G_lp_0709" fbc:label="lp_0709" fbc:name="lp_0709" />
-      <fbc:geneProduct fbc:id="G_lp_3481" fbc:label="lp_3481" fbc:name="lp_3481" />
-      <fbc:geneProduct fbc:id="G_lp_1219" fbc:label="lp_1219" fbc:name="lp_1219" />
-      <fbc:geneProduct fbc:id="G_lp_1176" fbc:label="lp_1176" fbc:name="lp_1176" />
-      <fbc:geneProduct fbc:id="G_lp_0518" fbc:label="lp_0518" fbc:name="lp_0518" />
-      <fbc:geneProduct fbc:id="G_lp_0564" fbc:label="lp_0564" fbc:name="lp_0564" />
-      <fbc:geneProduct fbc:id="G_lp_2374" fbc:label="lp_2374" fbc:name="lp_2374" />
-      <fbc:geneProduct fbc:id="G_lp_2371" fbc:label="lp_2371" fbc:name="lp_2371" />
-      <fbc:geneProduct fbc:id="G_lp_2053" fbc:label="lp_2053" fbc:name="lp_2053" />
-      <fbc:geneProduct fbc:id="G_lp_3615" fbc:label="lp_3615" fbc:name="lp_3615" />
+      <fbc:geneProduct fbc:id="G_lp_2199" fbc:label="lp_2199" fbc:name="lp_2199" />
+      <fbc:geneProduct fbc:id="G_lp_2200" fbc:label="lp_2200" fbc:name="lp_2200" />
+      <fbc:geneProduct fbc:id="G_lp_2213" fbc:label="lp_2213" fbc:name="lp_2213" />
+      <fbc:geneProduct fbc:id="G_lp_2219" fbc:label="lp_2219" fbc:name="lp_2219" />
+      <fbc:geneProduct fbc:id="G_lp_2221" fbc:label="lp_2221" fbc:name="lp_2221" />
+      <fbc:geneProduct fbc:id="G_lp_2222" fbc:label="lp_2222" fbc:name="lp_2222" />
+      <fbc:geneProduct fbc:id="G_lp_2223" fbc:label="lp_2223" fbc:name="lp_2223" />
+      <fbc:geneProduct fbc:id="G_lp_2242" fbc:label="lp_2242" fbc:name="lp_2242" />
+      <fbc:geneProduct fbc:id="G_lp_2251" fbc:label="lp_2251" fbc:name="lp_2251" />
+      <fbc:geneProduct fbc:id="G_lp_2263" fbc:label="lp_2263" fbc:name="lp_2263" />
+      <fbc:geneProduct fbc:id="G_lp_2264" fbc:label="lp_2264" fbc:name="lp_2264" />
+      <fbc:geneProduct fbc:id="G_lp_2268" fbc:label="lp_2268" fbc:name="lp_2268" />
+      <fbc:geneProduct fbc:id="G_lp_2277" fbc:label="lp_2277" fbc:name="lp_2277" />
+      <fbc:geneProduct fbc:id="G_lp_2303" fbc:label="lp_2303" fbc:name="lp_2303" />
+      <fbc:geneProduct fbc:id="G_lp_2308" fbc:label="lp_2308" fbc:name="lp_2308" />
+      <fbc:geneProduct fbc:id="G_lp_2312" fbc:label="lp_2312" fbc:name="lp_2312" />
+      <fbc:geneProduct fbc:id="G_lp_2313" fbc:label="lp_2313" fbc:name="lp_2313" />
+      <fbc:geneProduct fbc:id="G_lp_2314" fbc:label="lp_2314" fbc:name="lp_2314" />
+      <fbc:geneProduct fbc:id="G_lp_2321" fbc:label="lp_2321" fbc:name="lp_2321" />
       <fbc:geneProduct fbc:id="G_lp_2322" fbc:label="lp_2322" fbc:name="lp_2322" />
+      <fbc:geneProduct fbc:id="G_lp_2324" fbc:label="lp_2324" fbc:name="lp_2324" />
+      <fbc:geneProduct fbc:id="G_lp_2325" fbc:label="lp_2325" fbc:name="lp_2325" />
+      <fbc:geneProduct fbc:id="G_lp_2326" fbc:label="lp_2326" fbc:name="lp_2326" />
+      <fbc:geneProduct fbc:id="G_lp_2336" fbc:label="lp_2336" fbc:name="lp_2336" />
+      <fbc:geneProduct fbc:id="G_lp_2344" fbc:label="lp_2344" fbc:name="lp_2344" />
+      <fbc:geneProduct fbc:id="G_lp_2345" fbc:label="lp_2345" fbc:name="lp_2345" />
+      <fbc:geneProduct fbc:id="G_lp_2349" fbc:label="lp_2349" fbc:name="lp_2349" />
+      <fbc:geneProduct fbc:id="G_lp_2361" fbc:label="lp_2361" fbc:name="lp_2361" />
+      <fbc:geneProduct fbc:id="G_lp_2363" fbc:label="lp_2363" fbc:name="lp_2363" />
+      <fbc:geneProduct fbc:id="G_lp_2364" fbc:label="lp_2364" fbc:name="lp_2364" />
+      <fbc:geneProduct fbc:id="G_lp_2365" fbc:label="lp_2365" fbc:name="lp_2365" />
+      <fbc:geneProduct fbc:id="G_lp_2366" fbc:label="lp_2366" fbc:name="lp_2366" />
+      <fbc:geneProduct fbc:id="G_lp_2367" fbc:label="lp_2367" fbc:name="lp_2367" />
+      <fbc:geneProduct fbc:id="G_lp_2368" fbc:label="lp_2368" fbc:name="lp_2368" />
+      <fbc:geneProduct fbc:id="G_lp_2369" fbc:label="lp_2369" fbc:name="lp_2369" />
+      <fbc:geneProduct fbc:id="G_lp_2370" fbc:label="lp_2370" fbc:name="lp_2370" />
+      <fbc:geneProduct fbc:id="G_lp_2371" fbc:label="lp_2371" fbc:name="lp_2371" />
+      <fbc:geneProduct fbc:id="G_lp_2374" fbc:label="lp_2374" fbc:name="lp_2374" />
+      <fbc:geneProduct fbc:id="G_lp_2375" fbc:label="lp_2375" fbc:name="lp_2375" />
+      <fbc:geneProduct fbc:id="G_lp_2379" fbc:label="lp_2379" fbc:name="lp_2379" />
+      <fbc:geneProduct fbc:id="G_lp_2380" fbc:label="lp_2380" fbc:name="lp_2380" />
+      <fbc:geneProduct fbc:id="G_lp_2384" fbc:label="lp_2384" fbc:name="lp_2384" />
+      <fbc:geneProduct fbc:id="G_lp_2390" fbc:label="lp_2390" fbc:name="lp_2390" />
+      <fbc:geneProduct fbc:id="G_lp_2498" fbc:label="lp_2498" fbc:name="lp_2498" />
+      <fbc:geneProduct fbc:id="G_lp_2502" fbc:label="lp_2502" fbc:name="lp_2502" />
+      <fbc:geneProduct fbc:id="G_lp_2531" fbc:label="lp_2531" fbc:name="lp_2531" />
+      <fbc:geneProduct fbc:id="G_lp_2532" fbc:label="lp_2532" fbc:name="lp_2532" />
+      <fbc:geneProduct fbc:id="G_lp_2535" fbc:label="lp_2535" fbc:name="lp_2535" />
+      <fbc:geneProduct fbc:id="G_lp_2536" fbc:label="lp_2536" fbc:name="lp_2536" />
+      <fbc:geneProduct fbc:id="G_lp_2537" fbc:label="lp_2537" fbc:name="lp_2537" />
+      <fbc:geneProduct fbc:id="G_lp_2544" fbc:label="lp_2544" fbc:name="lp_2544" />
+      <fbc:geneProduct fbc:id="G_lp_2548" fbc:label="lp_2548" fbc:name="lp_2548" />
+      <fbc:geneProduct fbc:id="G_lp_2550" fbc:label="lp_2550" fbc:name="lp_2550" />
+      <fbc:geneProduct fbc:id="G_lp_2551" fbc:label="lp_2551" fbc:name="lp_2551" />
+      <fbc:geneProduct fbc:id="G_lp_2552" fbc:label="lp_2552" fbc:name="lp_2552" />
+      <fbc:geneProduct fbc:id="G_lp_2553" fbc:label="lp_2553" fbc:name="lp_2553" />
+      <fbc:geneProduct fbc:id="G_lp_2554" fbc:label="lp_2554" fbc:name="lp_2554" />
+      <fbc:geneProduct fbc:id="G_lp_2556" fbc:label="lp_2556" fbc:name="lp_2556" />
+      <fbc:geneProduct fbc:id="G_lp_2557" fbc:label="lp_2557" fbc:name="lp_2557" />
+      <fbc:geneProduct fbc:id="G_lp_2558" fbc:label="lp_2558" fbc:name="lp_2558" />
+      <fbc:geneProduct fbc:id="G_lp_2559" fbc:label="lp_2559" fbc:name="lp_2559" />
+      <fbc:geneProduct fbc:id="G_lp_2560" fbc:label="lp_2560" fbc:name="lp_2560" />
+      <fbc:geneProduct fbc:id="G_lp_2561" fbc:label="lp_2561" fbc:name="lp_2561" />
+      <fbc:geneProduct fbc:id="G_lp_2563" fbc:label="lp_2563" fbc:name="lp_2563" />
+      <fbc:geneProduct fbc:id="G_lp_2570" fbc:label="lp_2570" fbc:name="lp_2570" />
+      <fbc:geneProduct fbc:id="G_lp_2582" fbc:label="lp_2582" fbc:name="lp_2582" />
+      <fbc:geneProduct fbc:id="G_lp_2585" fbc:label="lp_2585" fbc:name="lp_2585" />
+      <fbc:geneProduct fbc:id="G_lp_2591" fbc:label="lp_2591" fbc:name="lp_2591" />
+      <fbc:geneProduct fbc:id="G_lp_2596" fbc:label="lp_2596" fbc:name="lp_2596" />
+      <fbc:geneProduct fbc:id="G_lp_2598" fbc:label="lp_2598" fbc:name="lp_2598" />
+      <fbc:geneProduct fbc:id="G_lp_2600" fbc:label="lp_2600" fbc:name="lp_2600" />
+      <fbc:geneProduct fbc:id="G_lp_2610" fbc:label="lp_2610" fbc:name="lp_2610" />
+      <fbc:geneProduct fbc:id="G_lp_2612" fbc:label="lp_2612" fbc:name="lp_2612" />
+      <fbc:geneProduct fbc:id="G_lp_2629" fbc:label="lp_2629" fbc:name="lp_2629" />
+      <fbc:geneProduct fbc:id="G_lp_2634" fbc:label="lp_2634" fbc:name="lp_2634" />
+      <fbc:geneProduct fbc:id="G_lp_2647" fbc:label="lp_2647" fbc:name="lp_2647" />
+      <fbc:geneProduct fbc:id="G_lp_2648" fbc:label="lp_2648" fbc:name="lp_2648" />
+      <fbc:geneProduct fbc:id="G_lp_2649" fbc:label="lp_2649" fbc:name="lp_2649" />
+      <fbc:geneProduct fbc:id="G_lp_2650" fbc:label="lp_2650" fbc:name="lp_2650" />
+      <fbc:geneProduct fbc:id="G_lp_2653" fbc:label="lp_2653" fbc:name="lp_2653" />
+      <fbc:geneProduct fbc:id="G_lp_2659" fbc:label="lp_2659" fbc:name="lp_2659" />
+      <fbc:geneProduct fbc:id="G_lp_2673" fbc:label="lp_2673" fbc:name="lp_2673" />
+      <fbc:geneProduct fbc:id="G_lp_2681" fbc:label="lp_2681" fbc:name="lp_2681" />
+      <fbc:geneProduct fbc:id="G_lp_2684" fbc:label="lp_2684" fbc:name="lp_2684" />
+      <fbc:geneProduct fbc:id="G_lp_2685" fbc:label="lp_2685" fbc:name="lp_2685" />
+      <fbc:geneProduct fbc:id="G_lp_2697" fbc:label="lp_2697" fbc:name="lp_2697" />
+      <fbc:geneProduct fbc:id="G_lp_2698" fbc:label="lp_2698" fbc:name="lp_2698" />
+      <fbc:geneProduct fbc:id="G_lp_2699" fbc:label="lp_2699" fbc:name="lp_2699" />
+      <fbc:geneProduct fbc:id="G_lp_2700" fbc:label="lp_2700" fbc:name="lp_2700" />
+      <fbc:geneProduct fbc:id="G_lp_2701" fbc:label="lp_2701" fbc:name="lp_2701" />
+      <fbc:geneProduct fbc:id="G_lp_2702" fbc:label="lp_2702" fbc:name="lp_2702" />
+      <fbc:geneProduct fbc:id="G_lp_2703" fbc:label="lp_2703" fbc:name="lp_2703" />
       <fbc:geneProduct fbc:id="G_lp_2710" fbc:label="lp_2710" fbc:name="lp_2710" />
-      <fbc:geneProduct fbc:id="G_lp_1139" fbc:label="lp_1139" fbc:name="lp_1139" />
-      <fbc:geneProduct fbc:id="G_lp_0588" fbc:label="lp_0588" fbc:name="lp_0588" />
-      <fbc:geneProduct fbc:id="G_lp_1671" fbc:label="lp_1671" fbc:name="lp_1671" />
+      <fbc:geneProduct fbc:id="G_lp_2719" fbc:label="lp_2719" fbc:name="lp_2719" />
+      <fbc:geneProduct fbc:id="G_lp_2720" fbc:label="lp_2720" fbc:name="lp_2720" />
+      <fbc:geneProduct fbc:id="G_lp_2721" fbc:label="lp_2721" fbc:name="lp_2721" />
+      <fbc:geneProduct fbc:id="G_lp_2722" fbc:label="lp_2722" fbc:name="lp_2722" />
+      <fbc:geneProduct fbc:id="G_lp_2723" fbc:label="lp_2723" fbc:name="lp_2723" />
+      <fbc:geneProduct fbc:id="G_lp_2724" fbc:label="lp_2724" fbc:name="lp_2724" />
+      <fbc:geneProduct fbc:id="G_lp_2725" fbc:label="lp_2725" fbc:name="lp_2725" />
+      <fbc:geneProduct fbc:id="G_lp_2726" fbc:label="lp_2726" fbc:name="lp_2726" />
+      <fbc:geneProduct fbc:id="G_lp_2727" fbc:label="lp_2727" fbc:name="lp_2727" />
+      <fbc:geneProduct fbc:id="G_lp_2728" fbc:label="lp_2728" fbc:name="lp_2728" />
+      <fbc:geneProduct fbc:id="G_lp_2729" fbc:label="lp_2729" fbc:name="lp_2729" />
+      <fbc:geneProduct fbc:id="G_lp_2736" fbc:label="lp_2736" fbc:name="lp_2736" />
+      <fbc:geneProduct fbc:id="G_lp_2738" fbc:label="lp_2738" fbc:name="lp_2738" />
+      <fbc:geneProduct fbc:id="G_lp_2747" fbc:label="lp_2747" fbc:name="lp_2747" />
+      <fbc:geneProduct fbc:id="G_lp_2758" fbc:label="lp_2758" fbc:name="lp_2758" />
+      <fbc:geneProduct fbc:id="G_lp_2762" fbc:label="lp_2762" fbc:name="lp_2762" />
+      <fbc:geneProduct fbc:id="G_lp_2771" fbc:label="lp_2771" fbc:name="lp_2771" />
+      <fbc:geneProduct fbc:id="G_lp_2776" fbc:label="lp_2776" fbc:name="lp_2776" />
+      <fbc:geneProduct fbc:id="G_lp_2777" fbc:label="lp_2777" fbc:name="lp_2777" />
+      <fbc:geneProduct fbc:id="G_lp_2778" fbc:label="lp_2778" fbc:name="lp_2778" />
+      <fbc:geneProduct fbc:id="G_lp_2780" fbc:label="lp_2780" fbc:name="lp_2780" />
+      <fbc:geneProduct fbc:id="G_lp_2781" fbc:label="lp_2781" fbc:name="lp_2781" />
+      <fbc:geneProduct fbc:id="G_lp_2785" fbc:label="lp_2785" fbc:name="lp_2785" />
+      <fbc:geneProduct fbc:id="G_lp_2788" fbc:label="lp_2788" fbc:name="lp_2788" />
+      <fbc:geneProduct fbc:id="G_lp_2790" fbc:label="lp_2790" fbc:name="lp_2790" />
+      <fbc:geneProduct fbc:id="G_lp_2798" fbc:label="lp_2798" fbc:name="lp_2798" />
+      <fbc:geneProduct fbc:id="G_lp_2807" fbc:label="lp_2807" fbc:name="lp_2807" />
+      <fbc:geneProduct fbc:id="G_lp_2818" fbc:label="lp_2818" fbc:name="lp_2818" />
+      <fbc:geneProduct fbc:id="G_lp_2825" fbc:label="lp_2825" fbc:name="lp_2825" />
+      <fbc:geneProduct fbc:id="G_lp_2829" fbc:label="lp_2829" fbc:name="lp_2829" />
+      <fbc:geneProduct fbc:id="G_lp_2830" fbc:label="lp_2830" fbc:name="lp_2830" />
+      <fbc:geneProduct fbc:id="G_lp_2843" fbc:label="lp_2843" fbc:name="lp_2843" />
+      <fbc:geneProduct fbc:id="G_lp_2844" fbc:label="lp_2844" fbc:name="lp_2844" />
+      <fbc:geneProduct fbc:id="G_lp_2852" fbc:label="lp_2852" fbc:name="lp_2852" />
+      <fbc:geneProduct fbc:id="G_lp_2855" fbc:label="lp_2855" fbc:name="lp_2855" />
+      <fbc:geneProduct fbc:id="G_lp_2868" fbc:label="lp_2868" fbc:name="lp_2868" />
+      <fbc:geneProduct fbc:id="G_lp_2873" fbc:label="lp_2873" fbc:name="lp_2873" />
+      <fbc:geneProduct fbc:id="G_lp_2878" fbc:label="lp_2878" fbc:name="lp_2878" />
+      <fbc:geneProduct fbc:id="G_lp_2932" fbc:label="lp_2932" fbc:name="lp_2932" />
+      <fbc:geneProduct fbc:id="G_lp_2935" fbc:label="lp_2935" fbc:name="lp_2935" />
+      <fbc:geneProduct fbc:id="G_lp_2936" fbc:label="lp_2936" fbc:name="lp_2936" />
+      <fbc:geneProduct fbc:id="G_lp_2969" fbc:label="lp_2969" fbc:name="lp_2969" />
+      <fbc:geneProduct fbc:id="G_lp_2981" fbc:label="lp_2981" fbc:name="lp_2981" />
+      <fbc:geneProduct fbc:id="G_lp_2982" fbc:label="lp_2982" fbc:name="lp_2982" />
+      <fbc:geneProduct fbc:id="G_lp_2983" fbc:label="lp_2983" fbc:name="lp_2983" />
+      <fbc:geneProduct fbc:id="G_lp_2984" fbc:label="lp_2984" fbc:name="lp_2984" />
+      <fbc:geneProduct fbc:id="G_lp_2985" fbc:label="lp_2985" fbc:name="lp_2985" />
+      <fbc:geneProduct fbc:id="G_lp_2989" fbc:label="lp_2989" fbc:name="lp_2989" />
+      <fbc:geneProduct fbc:id="G_lp_3008" fbc:label="lp_3008" fbc:name="lp_3008" />
+      <fbc:geneProduct fbc:id="G_lp_3009" fbc:label="lp_3009" fbc:name="lp_3009" />
+      <fbc:geneProduct fbc:id="G_lp_3010" fbc:label="lp_3010" fbc:name="lp_3010" />
+      <fbc:geneProduct fbc:id="G_lp_3011" fbc:label="lp_3011" fbc:name="lp_3011" />
+      <fbc:geneProduct fbc:id="G_lp_3051" fbc:label="lp_3051" fbc:name="lp_3051" />
+      <fbc:geneProduct fbc:id="G_lp_3054" fbc:label="lp_3054" fbc:name="lp_3054" />
+      <fbc:geneProduct fbc:id="G_lp_3085" fbc:label="lp_3085" fbc:name="lp_3085" />
+      <fbc:geneProduct fbc:id="G_lp_3092" fbc:label="lp_3092" fbc:name="lp_3092" />
+      <fbc:geneProduct fbc:id="G_lp_3135" fbc:label="lp_3135" fbc:name="lp_3135" />
+      <fbc:geneProduct fbc:id="G_lp_3150" fbc:label="lp_3150" fbc:name="lp_3150" />
+      <fbc:geneProduct fbc:id="G_lp_3170" fbc:label="lp_3170" fbc:name="lp_3170" />
+      <fbc:geneProduct fbc:id="G_lp_3174" fbc:label="lp_3174" fbc:name="lp_3174" />
+      <fbc:geneProduct fbc:id="G_lp_3185" fbc:label="lp_3185" fbc:name="lp_3185" />
+      <fbc:geneProduct fbc:id="G_lp_3194" fbc:label="lp_3194" fbc:name="lp_3194" />
+      <fbc:geneProduct fbc:id="G_lp_3204" fbc:label="lp_3204" fbc:name="lp_3204" />
+      <fbc:geneProduct fbc:id="G_lp_3219" fbc:label="lp_3219" fbc:name="lp_3219" />
+      <fbc:geneProduct fbc:id="G_lp_3220" fbc:label="lp_3220" fbc:name="lp_3220" />
+      <fbc:geneProduct fbc:id="G_lp_3251" fbc:label="lp_3251" fbc:name="lp_3251" />
+      <fbc:geneProduct fbc:id="G_lp_3266" fbc:label="lp_3266" fbc:name="lp_3266" />
+      <fbc:geneProduct fbc:id="G_lp_3267" fbc:label="lp_3267" fbc:name="lp_3267" />
+      <fbc:geneProduct fbc:id="G_lp_3269" fbc:label="lp_3269" fbc:name="lp_3269" />
+      <fbc:geneProduct fbc:id="G_lp_3270" fbc:label="lp_3270" fbc:name="lp_3270" />
+      <fbc:geneProduct fbc:id="G_lp_3271" fbc:label="lp_3271" fbc:name="lp_3271" />
+      <fbc:geneProduct fbc:id="G_lp_3273" fbc:label="lp_3273" fbc:name="lp_3273" />
+      <fbc:geneProduct fbc:id="G_lp_3294" fbc:label="lp_3294" fbc:name="lp_3294" />
+      <fbc:geneProduct fbc:id="G_lp_3295" fbc:label="lp_3295" fbc:name="lp_3295" />
+      <fbc:geneProduct fbc:id="G_lp_3296" fbc:label="lp_3296" fbc:name="lp_3296" />
+      <fbc:geneProduct fbc:id="G_lp_3297" fbc:label="lp_3297" fbc:name="lp_3297" />
+      <fbc:geneProduct fbc:id="G_lp_3298" fbc:label="lp_3298" fbc:name="lp_3298" />
+      <fbc:geneProduct fbc:id="G_lp_3299" fbc:label="lp_3299" fbc:name="lp_3299" />
+      <fbc:geneProduct fbc:id="G_lp_3313" fbc:label="lp_3313" fbc:name="lp_3313" />
+      <fbc:geneProduct fbc:id="G_lp_3314" fbc:label="lp_3314" fbc:name="lp_3314" />
+      <fbc:geneProduct fbc:id="G_lp_3324" fbc:label="lp_3324" fbc:name="lp_3324" />
+      <fbc:geneProduct fbc:id="G_lp_3334" fbc:label="lp_3334" fbc:name="lp_3334" />
+      <fbc:geneProduct fbc:id="G_lp_3374" fbc:label="lp_3374" fbc:name="lp_3374" />
+      <fbc:geneProduct fbc:id="G_lp_3407" fbc:label="lp_3407" fbc:name="lp_3407" />
+      <fbc:geneProduct fbc:id="G_lp_3418" fbc:label="lp_3418" fbc:name="lp_3418" />
+      <fbc:geneProduct fbc:id="G_lp_3420" fbc:label="lp_3420" fbc:name="lp_3420" />
+      <fbc:geneProduct fbc:id="G_lp_3436" fbc:label="lp_3436" fbc:name="lp_3436" />
+      <fbc:geneProduct fbc:id="G_lp_3449" fbc:label="lp_3449" fbc:name="lp_3449" />
+      <fbc:geneProduct fbc:id="G_lp_3463" fbc:label="lp_3463" fbc:name="lp_3463" />
+      <fbc:geneProduct fbc:id="G_lp_3466" fbc:label="lp_3466" fbc:name="lp_3466" />
+      <fbc:geneProduct fbc:id="G_lp_3480" fbc:label="lp_3480" fbc:name="lp_3480" />
+      <fbc:geneProduct fbc:id="G_lp_3481" fbc:label="lp_3481" fbc:name="lp_3481" />
+      <fbc:geneProduct fbc:id="G_lp_3482" fbc:label="lp_3482" fbc:name="lp_3482" />
+      <fbc:geneProduct fbc:id="G_lp_3483" fbc:label="lp_3483" fbc:name="lp_3483" />
+      <fbc:geneProduct fbc:id="G_lp_3484" fbc:label="lp_3484" fbc:name="lp_3484" />
+      <fbc:geneProduct fbc:id="G_lp_3485" fbc:label="lp_3485" fbc:name="lp_3485" />
+      <fbc:geneProduct fbc:id="G_lp_3486" fbc:label="lp_3486" fbc:name="lp_3486" />
+      <fbc:geneProduct fbc:id="G_lp_3487" fbc:label="lp_3487" fbc:name="lp_3487" />
+      <fbc:geneProduct fbc:id="G_lp_3491" fbc:label="lp_3491" fbc:name="lp_3491" />
+      <fbc:geneProduct fbc:id="G_lp_3492" fbc:label="lp_3492" fbc:name="lp_3492" />
+      <fbc:geneProduct fbc:id="G_lp_3493" fbc:label="lp_3493" fbc:name="lp_3493" />
+      <fbc:geneProduct fbc:id="G_lp_3494" fbc:label="lp_3494" fbc:name="lp_3494" />
+      <fbc:geneProduct fbc:id="G_lp_3498" fbc:label="lp_3498" fbc:name="lp_3498" />
+      <fbc:geneProduct fbc:id="G_lp_3499" fbc:label="lp_3499" fbc:name="lp_3499" />
+      <fbc:geneProduct fbc:id="G_lp_3517" fbc:label="lp_3517" fbc:name="lp_3517" />
+      <fbc:geneProduct fbc:id="G_lp_3520" fbc:label="lp_3520" fbc:name="lp_3520" />
+      <fbc:geneProduct fbc:id="G_lp_3522" fbc:label="lp_3522" fbc:name="lp_3522" />
+      <fbc:geneProduct fbc:id="G_lp_3530" fbc:label="lp_3530" fbc:name="lp_3530" />
+      <fbc:geneProduct fbc:id="G_lp_3538" fbc:label="lp_3538" fbc:name="lp_3538" />
+      <fbc:geneProduct fbc:id="G_lp_3539" fbc:label="lp_3539" fbc:name="lp_3539" />
+      <fbc:geneProduct fbc:id="G_lp_3544" fbc:label="lp_3544" fbc:name="lp_3544" />
+      <fbc:geneProduct fbc:id="G_lp_3545" fbc:label="lp_3545" fbc:name="lp_3545" />
+      <fbc:geneProduct fbc:id="G_lp_3546" fbc:label="lp_3546" fbc:name="lp_3546" />
+      <fbc:geneProduct fbc:id="G_lp_3547" fbc:label="lp_3547" fbc:name="lp_3547" />
+      <fbc:geneProduct fbc:id="G_lp_3548" fbc:label="lp_3548" fbc:name="lp_3548" />
+      <fbc:geneProduct fbc:id="G_lp_3551" fbc:label="lp_3551" fbc:name="lp_3551" />
+      <fbc:geneProduct fbc:id="G_lp_3553" fbc:label="lp_3553" fbc:name="lp_3553" />
+      <fbc:geneProduct fbc:id="G_lp_3554" fbc:label="lp_3554" fbc:name="lp_3554" />
+      <fbc:geneProduct fbc:id="G_lp_3555" fbc:label="lp_3555" fbc:name="lp_3555" />
+      <fbc:geneProduct fbc:id="G_lp_3556" fbc:label="lp_3556" fbc:name="lp_3556" />
+      <fbc:geneProduct fbc:id="G_lp_3557" fbc:label="lp_3557" fbc:name="lp_3557" />
+      <fbc:geneProduct fbc:id="G_lp_3567" fbc:label="lp_3567" fbc:name="lp_3567" />
+      <fbc:geneProduct fbc:id="G_lp_3568" fbc:label="lp_3568" fbc:name="lp_3568" />
+      <fbc:geneProduct fbc:id="G_lp_3571" fbc:label="lp_3571" fbc:name="lp_3571" />
+      <fbc:geneProduct fbc:id="G_lp_3578" fbc:label="lp_3578" fbc:name="lp_3578" />
+      <fbc:geneProduct fbc:id="G_lp_3586" fbc:label="lp_3586" fbc:name="lp_3586" />
+      <fbc:geneProduct fbc:id="G_lp_3587" fbc:label="lp_3587" fbc:name="lp_3587" />
+      <fbc:geneProduct fbc:id="G_lp_3589" fbc:label="lp_3589" fbc:name="lp_3589" />
+      <fbc:geneProduct fbc:id="G_lp_3592" fbc:label="lp_3592" fbc:name="lp_3592" />
+      <fbc:geneProduct fbc:id="G_lp_3593" fbc:label="lp_3593" fbc:name="lp_3593" />
+      <fbc:geneProduct fbc:id="G_lp_3595" fbc:label="lp_3595" fbc:name="lp_3595" />
+      <fbc:geneProduct fbc:id="G_lp_3599" fbc:label="lp_3599" fbc:name="lp_3599" />
+      <fbc:geneProduct fbc:id="G_lp_3600" fbc:label="lp_3600" fbc:name="lp_3600" />
+      <fbc:geneProduct fbc:id="G_lp_3601" fbc:label="lp_3601" fbc:name="lp_3601" />
+      <fbc:geneProduct fbc:id="G_lp_3605" fbc:label="lp_3605" fbc:name="lp_3605" />
+      <fbc:geneProduct fbc:id="G_lp_3606" fbc:label="lp_3606" fbc:name="lp_3606" />
+      <fbc:geneProduct fbc:id="G_lp_3608" fbc:label="lp_3608" fbc:name="lp_3608" />
+      <fbc:geneProduct fbc:id="G_lp_3612" fbc:label="lp_3612" fbc:name="lp_3612" />
+      <fbc:geneProduct fbc:id="G_lp_3615" fbc:label="lp_3615" fbc:name="lp_3615" />
+      <fbc:geneProduct fbc:id="G_lp_3617" fbc:label="lp_3617" fbc:name="lp_3617" />
+      <fbc:geneProduct fbc:id="G_lp_3618" fbc:label="lp_3618" fbc:name="lp_3618" />
+      <fbc:geneProduct fbc:id="G_lp_3619" fbc:label="lp_3619" fbc:name="lp_3619" />
+      <fbc:geneProduct fbc:id="G_lp_3620" fbc:label="lp_3620" fbc:name="lp_3620" />
+      <fbc:geneProduct fbc:id="G_lp_3623" fbc:label="lp_3623" fbc:name="lp_3623" />
+      <fbc:geneProduct fbc:id="G_lp_3652" fbc:label="lp_3652" fbc:name="lp_3652" />
+      <fbc:geneProduct fbc:id="G_lp_3653" fbc:label="lp_3653" fbc:name="lp_3653" />
+      <fbc:geneProduct fbc:id="G_lp_3654" fbc:label="lp_3654" fbc:name="lp_3654" />
+      <fbc:geneProduct fbc:id="G_lp_3657" fbc:label="lp_3657" fbc:name="lp_3657" />
+      <fbc:geneProduct fbc:id="G_lp_3658" fbc:label="lp_3658" fbc:name="lp_3658" />
+      <fbc:geneProduct fbc:id="G_lp_3660" fbc:label="lp_3660" fbc:name="lp_3660" />
+      <fbc:geneProduct fbc:id="G_lp_3662" fbc:label="lp_3662" fbc:name="lp_3662" />
+      <fbc:geneProduct fbc:id="G_lp_3665" fbc:label="lp_3665" fbc:name="lp_3665" />
     </fbc:listOfGeneProducts>
     <listOfReactions>
       <reaction fast="false" id="R_2HXICDH" name="L 2 hydroxyisocaproate dehydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -1718,10 +1718,10 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_malcoa_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_malcoa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -2315,8 +2315,8 @@
       </reaction>
       <reaction fast="false" id="R_AICART" name="phosphoribosylaminoimidazolecarboxamide formyltransferase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_aicar_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_10fthf_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_aicar_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_thf_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -2351,8 +2351,8 @@
       <reaction fast="false" id="R_ALALAC" name="D alanine D lactate ligase reversible" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ala__D_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_lac__D_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ala__D_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_alalac_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -2654,8 +2654,8 @@
       <reaction fast="false" id="R_ARGTRS" name="Arginyl tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_trnaarg_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_arg__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnaarg_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -2717,10 +2717,10 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_asn__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_amp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_asn__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -2882,15 +2882,15 @@
       </reaction>
       <reaction fast="false" id="R_ASPTRS" name="Aspartyl tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_trnaasp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_asp__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnaasp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_asptrna_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_amp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_amp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_asptrna_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_1980" />
@@ -3054,8 +3054,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_cbp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="2" />
+          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -3221,8 +3221,8 @@
           <speciesReference constant="true" species="M_cit_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ac_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_oaa_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ac_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3304,9 +3304,9 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_udp_LSQBKTc_RSQBKT" stoichiometry="3" />
           <speciesReference constant="true" species="M_CPS_LPL_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="6" />
-          <speciesReference constant="true" species="M_dtdp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ump_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_dtdp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="6" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -3367,9 +3367,9 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_udp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_CPS_LPL2_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="5" />
-          <speciesReference constant="true" species="M_dtdp_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_ump_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_dtdp_LSQBKTc_RSQBKT" stoichiometry="2" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="5" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -3521,9 +3521,9 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ctp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ctp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -3588,8 +3588,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_amp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_cystrna_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_0610" />
@@ -3607,9 +3607,9 @@
       </reaction>
       <reaction fast="false" id="R_CYTB_B2" name="menaquinol oxidase 71 protons" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_o2_LSQBKTc_RSQBKT" stoichiometry="0.5" />
-          <speciesReference constant="true" species="M_mql7_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
+          <speciesReference constant="true" species="M_mql7_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_o2_LSQBKTc_RSQBKT" stoichiometry="0.5" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -3719,8 +3719,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_udp_LSQBKTc_RSQBKT" stoichiometry="2" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_dgdag_LPL_LSQBKTc_RSQBKT" stoichiometry="0.01" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -3880,8 +3880,8 @@
       </reaction>
       <reaction fast="false" id="R_DDPA" name="3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_e4p_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_e4p_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pep_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -4226,8 +4226,8 @@
           <speciesReference constant="true" species="M_5dpmev_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ipdp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -5251,8 +5251,8 @@
           <speciesReference constant="true" species="M_glyc3p_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dhap_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -5285,8 +5285,8 @@
       <reaction fast="false" id="R_G5SD" name="glutamate 5 semialdehyde dehydrogenase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_glu5p_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadph_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadp_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -5473,15 +5473,15 @@
           <speciesReference constant="true" species="M_cpocdacp_LSQBKTc_RSQBKT" stoichiometry="0.25" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_agly3p_LPL_LSQBKTc_RSQBKT" stoichiometry="0.01" />
+          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_GCALDD" name="Glycolaldehyde dehydrogenase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_gcald_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -5670,9 +5670,9 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_glntrna_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glntrna_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -5804,8 +5804,8 @@
       </reaction>
       <reaction fast="false" id="R_GLUPRT" name="glutamine phosphoribosyldiphosphate amidotransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_prpp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_prpp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_gln__L_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -5830,9 +5830,9 @@
       </reaction>
       <reaction fast="false" id="R_GLUTRS" name="Glutamyl tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_trnaglu_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnaglu_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -5859,8 +5859,8 @@
       </reaction>
       <reaction fast="false" id="R_GLYBabc" name="glycine betaine transport via ABC system" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_glyb_LSQBKTe_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -6134,8 +6134,8 @@
           <speciesReference constant="true" species="M_g3ps_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_glyc3p_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ser__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glyc3p_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -6154,8 +6154,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_glyc3p_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_glyc_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -6435,9 +6435,9 @@
       </reaction>
       <reaction fast="false" id="R_HDER4" name="3R 3 Hydroxydecanoyl acyl carrier proteinNADP oxidoreductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_3oxdeacp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nadph_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadph_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_3oxdeacp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadp_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -6643,10 +6643,10 @@
           <speciesReference constant="true" species="M_trnahis_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_histrna_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_amp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_amp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_histrna_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -6672,9 +6672,9 @@
           <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
-          <speciesReference constant="true" species="M_nadph_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_hmgcoa_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nadph_LSQBKTc_RSQBKT" stoichiometry="2" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_0447" />
@@ -6682,9 +6682,9 @@
       </reaction>
       <reaction fast="false" id="R_HMGCOAS" name="Hydroxymethylglutaryl CoA synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_hmgcoa_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -6771,8 +6771,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_4hphac_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_o2_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -6868,9 +6868,9 @@
           <speciesReference constant="true" species="M_imacp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
+          <speciesReference constant="true" species="M_hisp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_akg_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_hisp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_2551" />
@@ -6949,8 +6949,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_aicar_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_eig3p_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -6978,9 +6978,9 @@
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3ig3p_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_1655" />
@@ -7198,8 +7198,8 @@
       <reaction fast="false" id="R_LCAD" name="lactaldehyde dehydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_lald__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -7264,8 +7264,8 @@
       <reaction fast="false" id="R_LEUTRS" name="Leucyl tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_leu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_trnaleu_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnaleu_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -7284,8 +7284,8 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_leu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_leu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -7483,8 +7483,8 @@
           <speciesReference constant="true" species="M_accoa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_acmalt_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_acmalt_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -7590,13 +7590,13 @@
       </reaction>
       <reaction fast="false" id="R_MCMAT2" name="Butyryl acyl carrier proteinmalonyl acyl carrier proteinC acyltransferase decarboxylating" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_malacp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_butacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_malacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3oxhacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -7610,8 +7610,8 @@
           <speciesReference constant="true" species="M_hexacp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3oxocacp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -7620,14 +7620,14 @@
       </reaction>
       <reaction fast="false" id="R_MCMAT4" name="Octanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase decarboxylating" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
+          <speciesReference constant="true" species="M_malacp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_octacp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_malacp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3oxdeacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_1675" />
@@ -7641,8 +7641,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3oxddacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_1675" />
@@ -7650,14 +7650,14 @@
       </reaction>
       <reaction fast="false" id="R_MCMAT6" name="Dodecanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_malacp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_ddeacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_malacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3oxtdacp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_1675" />
@@ -7671,8 +7671,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_3oxhdacp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_acp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_1675" />
@@ -7695,8 +7695,8 @@
       </reaction>
       <reaction fast="false" id="R_MDH" name="malate dehydrogenase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_mal__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_mal__L_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -7709,8 +7709,8 @@
       </reaction>
       <reaction fast="false" id="R_ME1" name="malic enzyme (NAD)" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_mal__L_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_pyr_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -7864,8 +7864,8 @@
           <speciesReference constant="true" species="M_gtp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_MGD_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -8021,8 +8021,8 @@
       <reaction fast="false" id="R_MPTS" name="molybdopterin synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_MCOSH_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_PreZ_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_MCOSH_LSQBKTc_RSQBKT" stoichiometry="2" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_MPT_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -8277,8 +8277,8 @@
       </reaction>
       <reaction fast="false" id="R_NDPK9" name="nucleoside diphophate kinase ATPIDP" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_idp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_idp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_itp_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -8323,8 +8323,8 @@
           <speciesReference constant="true" species="M_ncam_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_nac_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_nh4_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nac_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_2612" />
@@ -8364,10 +8364,10 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_no3_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_no3_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -8594,8 +8594,8 @@
           <speciesReference constant="true" species="M_orot5p_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_orot_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_prpp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_orot_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_2697" />
@@ -8668,8 +8668,8 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_oaa_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_oaa_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -8749,8 +8749,8 @@
           <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_accoa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -8802,8 +8802,8 @@
           <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_accoa_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_for_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_accoa_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
@@ -9073,8 +9073,8 @@
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_pacald_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_co2_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pacald_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_PHPYROX" name="phenylpyruvate oxidation chemical" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -9267,8 +9267,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_nadh_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_3hppnl_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_3051" />
@@ -9292,8 +9292,8 @@
       </reaction>
       <reaction fast="false" id="R_PPND" name="prephenate dehydrogenase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pphn_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_34hpp_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -9306,8 +9306,8 @@
       </reaction>
       <reaction fast="false" id="R_PPS" name="phosphoenolpyruvate synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_pyr_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pyr_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -9327,8 +9327,8 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_gar_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -9382,10 +9382,10 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_25aics_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_25aics_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_2727" />
@@ -9413,9 +9413,9 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_fpram_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_fpram_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="2" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -9665,8 +9665,8 @@
       </reaction>
       <reaction fast="false" id="R_PUNP2" name="purine nucleoside phosphorylase Deoxyadenosine" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_dad__2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_dad__2_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_2dr1p_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -9678,8 +9678,8 @@
       </reaction>
       <reaction fast="false" id="R_PUNP3" name="purine nucleoside phosphorylase Guanosine" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_gsn_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_gua_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -9704,8 +9704,8 @@
       </reaction>
       <reaction fast="false" id="R_PUNP5" name="purine nucleoside phosphorylase Inosine" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ins_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ins_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_r1p_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -9730,8 +9730,8 @@
       </reaction>
       <reaction fast="false" id="R_PUNP7" name="purine nucleoside phosphorylase Xanthosine" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_xtsn_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_xtsn_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_r1p_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -9806,8 +9806,8 @@
       </reaction>
       <reaction fast="false" id="R_PYROX" name="pyruvate oxidase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_o2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pyr_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_o2_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
@@ -9858,8 +9858,8 @@
           <speciesReference constant="true" species="M_raffin_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_gal_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_sucr_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_gal_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_3485" />
@@ -9984,8 +9984,8 @@
       </reaction>
       <reaction fast="false" id="R_RIBt2" name="ribose transport in via proton symporter" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_rib__D_LSQBKTe_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTe_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_rib__D_LSQBKTe_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_rib__D_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -10008,8 +10008,8 @@
       </reaction>
       <reaction fast="false" id="R_RMK" name="rhamnulokinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_rml_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_rml1p_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -10054,8 +10054,8 @@
           <speciesReference constant="true" species="M_trdrd_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dadp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10071,8 +10071,8 @@
           <speciesReference constant="true" species="M_gdp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dgdp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10088,8 +10088,8 @@
           <speciesReference constant="true" species="M_trdrd_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dcdp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10105,8 +10105,8 @@
           <speciesReference constant="true" species="M_trdrd_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dudp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10122,8 +10122,8 @@
           <speciesReference constant="true" species="M_trdrd_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_datp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10139,8 +10139,8 @@
           <speciesReference constant="true" species="M_gtp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dgtp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10156,8 +10156,8 @@
           <speciesReference constant="true" species="M_trdrd_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dctp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10173,8 +10173,8 @@
           <speciesReference constant="true" species="M_trdrd_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_trdox_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_dutp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -10457,8 +10457,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_skm5p_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_2033" />
@@ -10498,8 +10498,8 @@
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_spmd_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_spmd_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -10793,9 +10793,9 @@
       </reaction>
       <reaction fast="false" id="R_THRTRS" name="Threonyl tRNA synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_trnathr_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_thr__L_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_trnathr_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ppi_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -10967,8 +10967,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_phenol_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_pyr_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_nh4_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_pyr_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_TRDR" name="thioredoxin reductase NADPH" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11126,8 +11126,8 @@
       <reaction fast="false" id="R_UAAGDS" name="UDP N acetylmuramoyl L alanyl D glutamyl meso 2 6 diaminopimelate synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_26dap__M_LSQBKTc_RSQBKT" stoichiometry="1" />
-          <speciesReference constant="true" species="M_uamag_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_uamag_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ugmd_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -11141,8 +11141,8 @@
       </reaction>
       <reaction fast="false" id="R_UAAGLS1" name="UDP N acetylmuramoyl L alanyl D glutamate lysine synthetase alpha glutamate" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_uamag_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_uamag_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_lys__L_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -11168,8 +11168,8 @@
       </reaction>
       <reaction fast="false" id="R_UAGCVT" name="UDP N acetylglucosamine 1 carboxyvinyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_uacgam_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pep_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_uacgam_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_uaccg_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -11212,13 +11212,13 @@
       </reaction>
       <reaction fast="false" id="R_UAMAGS" name="UDP N acetylmuramoyl L alanyl D glutamate synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_glu__D_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_glu__D_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_uama_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_uamag_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_uamag_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_h_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_pi_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
@@ -11249,8 +11249,8 @@
           <speciesReference constant="true" species="M_nadph_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_uamr_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_nadp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_uamr_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_lp_0814" />
@@ -11286,8 +11286,8 @@
       </reaction>
       <reaction fast="false" id="R_UDCPK" name="undecaprenol kinase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
           <speciesReference constant="true" species="M_udcp_LSQBKTc_RSQBKT" stoichiometry="1" />
+          <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_udcpp_LSQBKTc_RSQBKT" stoichiometry="1" />
@@ -11593,26 +11593,26 @@
       </reaction>
       <reaction fast="false" id="R_biomass_LPL60" name="biomass equation LPL specific" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_CPS_LPL2_LSQBKTc_RSQBKT" stoichiometry="0.1294" />
+          <speciesReference constant="true" species="M_DNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000617" />
+          <speciesReference constant="true" species="M_lyspg_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000164" />
           <speciesReference constant="true" species="M_PROT_LPL_v60_LSQBKTc_RSQBKT" stoichiometry="0.00243" />
           <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="0.0002" />
-          <speciesReference constant="true" species="M_lyspg_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000164" />
+          <speciesReference constant="true" species="M_CPS_LPL2_LSQBKTc_RSQBKT" stoichiometry="0.1294" />
           <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="0.002" />
           <speciesReference constant="true" species="M_udcpdp_LSQBKTc_RSQBKT" stoichiometry="0.0002" />
           <speciesReference constant="true" species="M_RTAglc_LSQBKTc_RSQBKT" stoichiometry="0.01378" />
           <speciesReference constant="true" species="M_atp_LSQBKTc_RSQBKT" stoichiometry="27.2" />
-          <speciesReference constant="true" species="M_DNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000617" />
           <speciesReference constant="true" species="M_PGlac2_LSQBKTc_RSQBKT" stoichiometry="0.1462" />
           <speciesReference constant="true" species="M_h2o_LSQBKTc_RSQBKT" stoichiometry="27.2" />
           <speciesReference constant="true" species="M_thf_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
           <speciesReference constant="true" species="M_btn_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
-          <speciesReference constant="true" species="M_RNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.002784" />
-          <speciesReference constant="true" species="M_pydx5p_LSQBKTc_RSQBKT" stoichiometry="1e-06" />
-          <speciesReference constant="true" species="M_MGD_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
           <speciesReference constant="true" species="M_clpn_LPL_LSQBKTc_RSQBKT" stoichiometry="1.8e-05" />
+          <speciesReference constant="true" species="M_pg_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000625" />
+          <speciesReference constant="true" species="M_MGD_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
           <speciesReference constant="true" species="M_thmpp_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
           <speciesReference constant="true" species="M_LTA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.00013" />
-          <speciesReference constant="true" species="M_pg_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000625" />
+          <speciesReference constant="true" species="M_pydx5p_LSQBKTc_RSQBKT" stoichiometry="1e-06" />
+          <speciesReference constant="true" species="M_RNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.002784" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_adp_LSQBKTc_RSQBKT" stoichiometry="27.2" />
@@ -11623,16 +11623,16 @@
       <reaction fast="false" id="R_biomass_LPL_RETB_t576_NoATP" name="biomass equation LPL Retentostat B t576h No ATP costs" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_DNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000596" />
+          <speciesReference constant="true" species="M_btn_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
           <speciesReference constant="true" species="M_PROT_LPL_v60_LSQBKTc_RSQBKT" stoichiometry="0.001717" />
           <speciesReference constant="true" species="M_coa_LSQBKTc_RSQBKT" stoichiometry="0.0002" />
-          <speciesReference constant="true" species="M_RTAglc_LSQBKTc_RSQBKT" stoichiometry="0.01378" />
-          <speciesReference constant="true" species="M_udcpdp_LSQBKTc_RSQBKT" stoichiometry="0.0002" />
           <speciesReference constant="true" species="M_lyspg_LPL_LSQBKTc_RSQBKT" stoichiometry="0.000164" />
+          <speciesReference constant="true" species="M_udcpdp_LSQBKTc_RSQBKT" stoichiometry="0.0002" />
+          <speciesReference constant="true" species="M_RTAglc_LSQBKTc_RSQBKT" stoichiometry="0.01378" />
           <speciesReference constant="true" species="M_nad_LSQBKTc_RSQBKT" stoichiometry="0.002" />
           <speciesReference constant="true" species="M_PGlac2_LSQBKTc_RSQBKT" stoichiometry="0.1462" />
-          <speciesReference constant="true" species="M_RNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.002906" />
           <speciesReference constant="true" species="M_thf_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
-          <speciesReference constant="true" species="M_btn_LSQBKTc_RSQBKT" stoichiometry="1e-05" />
+          <speciesReference constant="true" species="M_RNA_LPL_LSQBKTc_RSQBKT" stoichiometry="0.002906" />
           <speciesReference constant="true" species="M_clpn_LPL_LSQBKTc_RSQBKT" stoichiometry="1.8e-05" />
           <speciesReference constant="true" species="M_pydx5p_LSQBKTc_RSQBKT" stoichiometry="1e-06" />
           <speciesReference constant="true" species="M_MGD_LSQBKTc_RSQBKT" stoichiometry="1e-05" />

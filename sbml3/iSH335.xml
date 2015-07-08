@@ -351,8 +351,8 @@
           <speciesReference constant="true" species="M_GLC" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_G6P" stoichiometry="1" />
           <speciesReference constant="true" species="M_PYR" stoichiometry="1" />
+          <speciesReference constant="true" species="M_G6P" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R002" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -448,8 +448,8 @@
       </reaction>
       <reaction fast="false" id="R_R012" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_OA" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_OA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -613,8 +613,8 @@
       </reaction>
       <reaction fast="false" id="R_R029" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
           <speciesReference constant="true" species="M_ACAL" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ETHANOL" stoichiometry="1" />
@@ -724,8 +724,8 @@
       </reaction>
       <reaction fast="false" id="R_R040" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_FAD" stoichiometry="1" />
           <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
+          <speciesReference constant="true" species="M_FAD" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_FADH2" stoichiometry="1" />
@@ -738,8 +738,8 @@
           <speciesReference constant="true" species="M_FUM" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_FAD" stoichiometry="1" />
           <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
+          <speciesReference constant="true" species="M_FAD" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R042" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -850,21 +850,21 @@
       </reaction>
       <reaction fast="false" id="R_R053" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
           <speciesReference constant="true" species="M_AMP" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R054" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -886,13 +886,13 @@
       </reaction>
       <reaction fast="false" id="R_R056" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -929,8 +929,8 @@
       </reaction>
       <reaction fast="false" id="R_R060" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NAGLU" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NAGLU" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -969,15 +969,15 @@
       </reaction>
       <reaction fast="false" id="R_R064" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="2" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="2" />
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
-          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
           <speciesReference constant="true" species="M_CAP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R065" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -1022,8 +1022,8 @@
       </reaction>
       <reaction fast="false" id="R_R069" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_PTRSC" stoichiometry="1" />
           <speciesReference constant="true" species="M_DSAM" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PTRSC" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_a5MTA" stoichiometry="1" />
@@ -1087,8 +1087,8 @@
       </reaction>
       <reaction fast="false" id="R_R076" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_GLUGSAL" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADPH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLUGSAL" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
@@ -1353,8 +1353,8 @@
       </reaction>
       <reaction fast="false" id="R_R104" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_CHOR" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
+          <speciesReference constant="true" species="M_CHOR" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_AN" stoichiometry="1" />
@@ -1446,8 +1446,8 @@
       </reaction>
       <reaction fast="false" id="R_R114" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_PRLP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_GLU" stoichiometry="1" />
@@ -1534,8 +1534,8 @@
       <reaction fast="false" id="R_R123" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
-          <speciesReference constant="true" species="M_THF" stoichiometry="1" />
           <speciesReference constant="true" species="M_GLY" stoichiometry="1" />
+          <speciesReference constant="true" species="M_THF" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
@@ -1550,8 +1550,8 @@
           <speciesReference constant="true" species="M_THR" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_AABK" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_AABK" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R125" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -1591,8 +1591,8 @@
           <speciesReference constant="true" species="M_FTHF" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_FORMATE" stoichiometry="1" />
           <speciesReference constant="true" species="M_THF" stoichiometry="1" />
+          <speciesReference constant="true" species="M_FORMATE" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R129" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -1716,8 +1716,8 @@
       </reaction>
       <reaction fast="false" id="R_R141" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_HSER" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_HSER" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -1814,8 +1814,8 @@
           <speciesReference constant="true" species="M_CYS" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
           <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
+          <speciesReference constant="true" species="M_SUCC" stoichiometry="1" />
           <speciesReference constant="true" species="M_PYR" stoichiometry="1" />
           <speciesReference constant="true" species="M_HCYS" stoichiometry="1" />
         </listOfProducts>
@@ -1835,8 +1835,8 @@
           <speciesReference constant="true" species="M_HCYS" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_MET" stoichiometry="1" />
           <speciesReference constant="true" species="M_THF" stoichiometry="1" />
+          <speciesReference constant="true" species="M_MET" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R154" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2027,8 +2027,8 @@
       </reaction>
       <reaction fast="false" id="R_R172" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_XMP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2074,8 +2074,8 @@
           <speciesReference constant="true" species="M_GDP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
           <speciesReference constant="true" species="M_DGDP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R177" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2094,8 +2094,8 @@
           <speciesReference constant="true" species="M_GTP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_DGTP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_DGTP" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R179" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -2138,8 +2138,8 @@
       </reaction>
       <reaction fast="false" id="R_R183" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_CAP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_CAP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
@@ -2203,8 +2203,8 @@
       </reaction>
       <reaction fast="false" id="R_R190" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_GLN" stoichiometry="1" />
           <speciesReference constant="true" species="M_UTP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2398,18 +2398,18 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
           <speciesReference constant="true" species="M_MALCOA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R210" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_MALCOA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_COA" stoichiometry="1" />
           <speciesReference constant="true" species="M_MALACP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_COA" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R211" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2439,9 +2439,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="12" />
-          <speciesReference constant="true" species="M_CO2" stoichiometry="6" />
           <speciesReference constant="true" species="M_C140ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
+          <speciesReference constant="true" species="M_CO2" stoichiometry="6" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R214" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2453,8 +2453,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="11" />
           <speciesReference constant="true" species="M_C141ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="6" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="6" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R215" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2466,8 +2466,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="14" />
           <speciesReference constant="true" species="M_C160ACP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="7" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R216" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2479,8 +2479,8 @@
         <listOfProducts>
           <speciesReference constant="true" species="M_C161ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADP" stoichiometry="13" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="7" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="7" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R217" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2491,9 +2491,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="15" />
-          <speciesReference constant="true" species="M_ACP" stoichiometry="8" />
-          <speciesReference constant="true" species="M_C181ACP" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="8" />
+          <speciesReference constant="true" species="M_C181ACP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="8" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R218" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -2516,8 +2516,8 @@
           <speciesReference constant="true" species="M_C181ACP" stoichiometry="0.85" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_ACP" stoichiometry="1.69" />
           <speciesReference constant="true" species="M_PA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ACP" stoichiometry="1.69" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R220" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -2640,8 +2640,8 @@
       </reaction>
       <reaction fast="false" id="R_R232" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_MCCOA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2687,8 +2687,8 @@
           <speciesReference constant="true" species="M_GGPP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_a2PPP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
+          <speciesReference constant="true" species="M_a2PPP" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -2837,8 +2837,8 @@
       </reaction>
       <reaction fast="false" id="R_R252" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_AN" stoichiometry="1" />
           <speciesReference constant="true" species="M_AHHMD" stoichiometry="1" />
+          <speciesReference constant="true" species="M_AN" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
@@ -2862,18 +2862,18 @@
           <speciesReference constant="true" species="M_ALA" stoichiometry="1" />
           <speciesReference constant="true" species="M_CTP" stoichiometry="1" />
           <speciesReference constant="true" species="M_METTHF" stoichiometry="1" />
-          <speciesReference constant="true" species="M_OIVAL" stoichiometry="1" />
+          <speciesReference constant="true" species="M_CYS" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="4" />
           <speciesReference constant="true" species="M_NADPH" stoichiometry="1" />
-          <speciesReference constant="true" species="M_CYS" stoichiometry="1" />
+          <speciesReference constant="true" species="M_OIVAL" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_NADP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PPI" stoichiometry="2" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="2" />
-          <speciesReference constant="true" species="M_THF" stoichiometry="1" />
-          <speciesReference constant="true" species="M_COA" stoichiometry="1" />
           <speciesReference constant="true" species="M_AMP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_COA" stoichiometry="1" />
+          <speciesReference constant="true" species="M_THF" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -2930,8 +2930,8 @@
       </reaction>
       <reaction fast="false" id="R_R260" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_0_bound">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_NH3" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_DANAD" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
@@ -2942,8 +2942,8 @@
       </reaction>
       <reaction fast="false" id="R_R261" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_NAD" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -3036,8 +3036,8 @@
       </reaction>
       <reaction fast="false" id="R_R271" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_UDPGA" stoichiometry="1" />
           <speciesReference constant="true" species="M_PEP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_UDPGA" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_UDPGC" stoichiometry="1" />
@@ -3056,9 +3056,9 @@
       </reaction>
       <reaction fast="false" id="R_R273" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_CTP" stoichiometry="1" />
-          <speciesReference constant="true" species="M_R5P" stoichiometry="1" />
           <speciesReference constant="true" species="M_PEP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_R5P" stoichiometry="1" />
+          <speciesReference constant="true" species="M_CTP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_PPI" stoichiometry="1" />
@@ -3078,8 +3078,8 @@
       </reaction>
       <reaction fast="false" id="R_R275" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_PE" stoichiometry="1" />
           <speciesReference constant="true" species="M_CMP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PE" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_CDPETN" stoichiometry="1" />
@@ -3268,18 +3268,18 @@
           <speciesReference constant="true" species="M_TRP" stoichiometry="1.06" />
           <speciesReference constant="true" species="M_GLN" stoichiometry="4.91" />
           <speciesReference constant="true" species="M_LYS" stoichiometry="6.42" />
-          <speciesReference constant="true" species="M_LEU" stoichiometry="8.42" />
+          <speciesReference constant="true" species="M_ASN" stoichiometry="4.51" />
           <speciesReference constant="true" species="M_HIS" stoichiometry="1.77" />
           <speciesReference constant="true" species="M_ASP" stoichiometry="4.51" />
           <speciesReference constant="true" species="M_TYR" stoichiometry="2.58" />
-          <speciesReference constant="true" species="M_VAL" stoichiometry="7.91" />
-          <speciesReference constant="true" species="M_GLU" stoichiometry="4.91" />
-          <speciesReference constant="true" species="M_CYS" stoichiometry="1.71" />
           <speciesReference constant="true" species="M_ATP" stoichiometry="430.6" />
+          <speciesReference constant="true" species="M_LEU" stoichiometry="8.42" />
+          <speciesReference constant="true" species="M_GLU" stoichiometry="4.91" />
+          <speciesReference constant="true" species="M_VAL" stoichiometry="7.91" />
           <speciesReference constant="true" species="M_ARG" stoichiometry="5.53" />
           <speciesReference constant="true" species="M_SER" stoichiometry="4.03" />
           <speciesReference constant="true" species="M_MET" stoichiometry="2.87" />
-          <speciesReference constant="true" species="M_ASN" stoichiometry="4.51" />
+          <speciesReference constant="true" species="M_CYS" stoichiometry="1.71" />
           <speciesReference constant="true" species="M_GLY" stoichiometry="4.91" />
         </listOfReactants>
         <listOfProducts>
@@ -3301,9 +3301,9 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_ATP" stoichiometry="1.372" />
           <speciesReference constant="true" species="M_DGTP" stoichiometry="0.254" />
+          <speciesReference constant="true" species="M_DATP" stoichiometry="0.247" />
           <speciesReference constant="true" species="M_DCTP" stoichiometry="0.254" />
           <speciesReference constant="true" species="M_TTP" stoichiometry="0.247" />
-          <speciesReference constant="true" species="M_DATP" stoichiometry="0.247" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_DNA" stoichiometry="1" />
@@ -3311,9 +3311,9 @@
       </reaction>
       <reaction fast="false" id="R_R301" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_PE" stoichiometry="0.728" />
-          <speciesReference constant="true" species="M_PG" stoichiometry="0.198" />
           <speciesReference constant="true" species="M_CL" stoichiometry="0.034" />
+          <speciesReference constant="true" species="M_PG" stoichiometry="0.198" />
+          <speciesReference constant="true" species="M_PE" stoichiometry="0.728" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_LIPID" stoichiometry="1" />
@@ -3337,9 +3337,9 @@
           <speciesReference constant="true" species="M_PTRSC" stoichiometry="0.35" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="0.02" />
           <speciesReference constant="true" species="M_MTHF" stoichiometry="0.5" />
-          <speciesReference constant="true" species="M_ATP" stoichiometry="0.04" />
-          <speciesReference constant="true" species="M_AMP" stoichiometry="0.01" />
           <speciesReference constant="true" species="M_NAD" stoichiometry="0.0215" />
+          <speciesReference constant="true" species="M_AMP" stoichiometry="0.01" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="0.04" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="0.0005" />
           <speciesReference constant="true" species="M_NADPH" stoichiometry="0.004" />
         </listOfReactants>
@@ -3391,10 +3391,10 @@
           <speciesReference constant="true" species="M_SSALTPP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_TPP" stoichiometry="1" />
           <speciesReference constant="true" species="M_SHCHC" stoichiometry="1" />
           <speciesReference constant="true" species="M_PYR" stoichiometry="1" />
           <speciesReference constant="true" species="M_CO2" stoichiometry="1" />
+          <speciesReference constant="true" species="M_TPP" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R311" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3606,8 +3606,8 @@
           <speciesReference constant="true" species="M_MNT6P" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_F6P" stoichiometry="1" />
           <speciesReference constant="true" species="M_NADH" stoichiometry="1" />
+          <speciesReference constant="true" species="M_F6P" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R334" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3772,8 +3772,8 @@
       </reaction>
       <reaction fast="false" id="R_R351" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PL" stoichiometry="1" />
+          <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
@@ -3828,8 +3828,8 @@
           <speciesReference constant="true" species="M_PL5P" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_PDLA5P" stoichiometry="1" />
           <speciesReference constant="true" species="M_AKG" stoichiometry="1" />
+          <speciesReference constant="true" species="M_PDLA5P" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R357" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -3862,8 +3862,8 @@
           <speciesReference constant="true" species="M_PEP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_F1P" stoichiometry="1" />
           <speciesReference constant="true" species="M_PYR" stoichiometry="1" />
+          <speciesReference constant="true" species="M_F1P" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R361" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_0_bound">
@@ -3881,8 +3881,8 @@
           <speciesReference constant="true" species="M_PEP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_MLT6P" stoichiometry="1" />
           <speciesReference constant="true" species="M_PYR" stoichiometry="1" />
+          <speciesReference constant="true" species="M_MLT6P" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_R363" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_0_bound">
@@ -3959,8 +3959,8 @@
           <speciesReference constant="true" species="M_ATP" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_OPEP" stoichiometry="1" />
           <speciesReference constant="true" species="M_ADP" stoichiometry="1" />
+          <speciesReference constant="true" species="M_OPEP" stoichiometry="1" />
           <speciesReference constant="true" species="M_PI" stoichiometry="1" />
         </listOfProducts>
       </reaction>

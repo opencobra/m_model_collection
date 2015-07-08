@@ -1039,625 +1039,625 @@
       <species boundaryCondition="false" compartment="e" constant="false" hasOnlySubstanceUnits="false" id="M_m798" name="zymosterol_C27H44O" fbc:charge="0" />
     </listOfSpecies>
     <fbc:listOfGeneProducts>
-      <fbc:geneProduct fbc:id="G_YCL040W" fbc:label="YCL040W" fbc:name="YCL040W" />
-      <fbc:geneProduct fbc:id="G_YFR053C" fbc:label="YFR053C" fbc:name="YFR053C" />
-      <fbc:geneProduct fbc:id="G_YGL253W" fbc:label="YGL253W" fbc:name="YGL253W" />
-      <fbc:geneProduct fbc:id="G_YBR196C" fbc:label="YBR196C" fbc:name="YBR196C" />
-      <fbc:geneProduct fbc:id="G_YMR205C" fbc:label="YMR205C" fbc:name="YMR205C" />
-      <fbc:geneProduct fbc:id="G_YGR240C" fbc:label="YGR240C" fbc:name="YGR240C" />
-      <fbc:geneProduct fbc:id="G_YKL060C" fbc:label="YKL060C" fbc:name="YKL060C" />
-      <fbc:geneProduct fbc:id="G_YDR050C" fbc:label="YDR050C" fbc:name="YDR050C" />
-      <fbc:geneProduct fbc:id="G_YJL052W" fbc:label="YJL052W" fbc:name="YJL052W" />
-      <fbc:geneProduct fbc:id="G_YJR009C" fbc:label="YJR009C" fbc:name="YJR009C" />
-      <fbc:geneProduct fbc:id="G_YGR192C" fbc:label="YGR192C" fbc:name="YGR192C" />
-      <fbc:geneProduct fbc:id="G_YCR012W" fbc:label="YCR012W" fbc:name="YCR012W" />
-      <fbc:geneProduct fbc:id="G_YKL152C" fbc:label="YKL152C" fbc:name="YKL152C" />
-      <fbc:geneProduct fbc:id="G_YDL021W" fbc:label="YDL021W" fbc:name="YDL021W" />
-      <fbc:geneProduct fbc:id="G_YOL056W" fbc:label="YOL056W" fbc:name="YOL056W" />
-      <fbc:geneProduct fbc:id="G_YGR254W" fbc:label="YGR254W" fbc:name="YGR254W" />
-      <fbc:geneProduct fbc:id="G_YHR174W" fbc:label="YHR174W" fbc:name="YHR174W" />
-      <fbc:geneProduct fbc:id="G_YOR393W" fbc:label="YOR393W" fbc:name="YOR393W" />
-      <fbc:geneProduct fbc:id="G_YPL281C" fbc:label="YPL281C" fbc:name="YPL281C" />
+      <fbc:geneProduct fbc:id="G_Q0045" fbc:label="Q0045" fbc:name="Q0045" />
+      <fbc:geneProduct fbc:id="G_YAL012W" fbc:label="YAL012W" fbc:name="YAL012W" />
+      <fbc:geneProduct fbc:id="G_YAL023C" fbc:label="YAL023C" fbc:name="YAL023C" />
       <fbc:geneProduct fbc:id="G_YAL038W" fbc:label="YAL038W" fbc:name="YAL038W" />
-      <fbc:geneProduct fbc:id="G_YOR347C" fbc:label="YOR347C" fbc:name="YOR347C" />
-      <fbc:geneProduct fbc:id="G_YER178W" fbc:label="YER178W" fbc:name="YER178W" />
-      <fbc:geneProduct fbc:id="G_YNR001C" fbc:label="YNR001C" fbc:name="YNR001C" />
-      <fbc:geneProduct fbc:id="G_YCR005C" fbc:label="YCR005C" fbc:name="YCR005C" />
-      <fbc:geneProduct fbc:id="G_YPR001W" fbc:label="YPR001W" fbc:name="YPR001W" />
-      <fbc:geneProduct fbc:id="G_YLR304C" fbc:label="YLR304C" fbc:name="YLR304C" />
-      <fbc:geneProduct fbc:id="G_YJL200C" fbc:label="YJL200C" fbc:name="YJL200C" />
-      <fbc:geneProduct fbc:id="G_YNL037C" fbc:label="YNL037C" fbc:name="YNL037C" />
-      <fbc:geneProduct fbc:id="G_YDL066W" fbc:label="YDL066W" fbc:name="YDL066W" />
-      <fbc:geneProduct fbc:id="G_YLR174W" fbc:label="YLR174W" fbc:name="YLR174W" />
-      <fbc:geneProduct fbc:id="G_YNL009W" fbc:label="YNL009W" fbc:name="YNL009W" />
-      <fbc:geneProduct fbc:id="G_YIL125W" fbc:label="YIL125W" fbc:name="YIL125W" />
-      <fbc:geneProduct fbc:id="G_YGR244C" fbc:label="YGR244C" fbc:name="YGR244C" />
-      <fbc:geneProduct fbc:id="G_YOR142W" fbc:label="YOR142W" fbc:name="YOR142W" />
-      <fbc:geneProduct fbc:id="G_YKL141W" fbc:label="YKL141W" fbc:name="YKL141W" />
-      <fbc:geneProduct fbc:id="G_YEL047C" fbc:label="YEL047C" fbc:name="YEL047C" />
-      <fbc:geneProduct fbc:id="G_YJR051W" fbc:label="YJR051W" fbc:name="YJR051W" />
-      <fbc:geneProduct fbc:id="G_YPL262W" fbc:label="YPL262W" fbc:name="YPL262W" />
-      <fbc:geneProduct fbc:id="G_YKL085W" fbc:label="YKL085W" fbc:name="YKL085W" />
-      <fbc:geneProduct fbc:id="G_YDL078C" fbc:label="YDL078C" fbc:name="YDL078C" />
-      <fbc:geneProduct fbc:id="G_YOL126C" fbc:label="YOL126C" fbc:name="YOL126C" />
-      <fbc:geneProduct fbc:id="G_YER065C" fbc:label="YER065C" fbc:name="YER065C" />
-      <fbc:geneProduct fbc:id="G_YPR006C" fbc:label="YPR006C" fbc:name="YPR006C" />
-      <fbc:geneProduct fbc:id="G_YIR031C" fbc:label="YIR031C" fbc:name="YIR031C" />
-      <fbc:geneProduct fbc:id="G_YNL117W" fbc:label="YNL117W" fbc:name="YNL117W" />
-      <fbc:geneProduct fbc:id="G_YKR097W" fbc:label="YKR097W" fbc:name="YKR097W" />
-      <fbc:geneProduct fbc:id="G_YLR377C" fbc:label="YLR377C" fbc:name="YLR377C" />
-      <fbc:geneProduct fbc:id="G_YGL062W" fbc:label="YGL062W" fbc:name="YGL062W" />
-      <fbc:geneProduct fbc:id="G_YBR218C" fbc:label="YBR218C" fbc:name="YBR218C" />
-      <fbc:geneProduct fbc:id="G_YKL029C" fbc:label="YKL029C" fbc:name="YKL029C" />
-      <fbc:geneProduct fbc:id="G_YNL241C" fbc:label="YNL241C" fbc:name="YNL241C" />
-      <fbc:geneProduct fbc:id="G_YNR034W" fbc:label="YNR034W" fbc:name="YNR034W" />
-      <fbc:geneProduct fbc:id="G_YCR073W__A" fbc:label="YCR073W__A" fbc:name="YCR073W-A" />
-      <fbc:geneProduct fbc:id="G_YHR163W" fbc:label="YHR163W" fbc:name="YHR163W" />
-      <fbc:geneProduct fbc:id="G_YGR248W" fbc:label="YGR248W" fbc:name="YGR248W" />
-      <fbc:geneProduct fbc:id="G_YGR256W" fbc:label="YGR256W" fbc:name="YGR256W" />
-      <fbc:geneProduct fbc:id="G_YHR183W" fbc:label="YHR183W" fbc:name="YHR183W" />
-      <fbc:geneProduct fbc:id="G_YJL121C" fbc:label="YJL121C" fbc:name="YJL121C" />
-      <fbc:geneProduct fbc:id="G_YOR095C" fbc:label="YOR095C" fbc:name="YOR095C" />
-      <fbc:geneProduct fbc:id="G_YBR117C" fbc:label="YBR117C" fbc:name="YBR117C" />
-      <fbc:geneProduct fbc:id="G_YPR074C" fbc:label="YPR074C" fbc:name="YPR074C" />
-      <fbc:geneProduct fbc:id="G_YLR354C" fbc:label="YLR354C" fbc:name="YLR354C" />
-      <fbc:geneProduct fbc:id="G_YGR043C" fbc:label="YGR043C" fbc:name="YGR043C" />
-      <fbc:geneProduct fbc:id="G_YCR036W" fbc:label="YCR036W" fbc:name="YCR036W" />
-      <fbc:geneProduct fbc:id="G_YKL127W" fbc:label="YKL127W" fbc:name="YKL127W" />
-      <fbc:geneProduct fbc:id="G_YMR105C" fbc:label="YMR105C" fbc:name="YMR105C" />
-      <fbc:geneProduct fbc:id="G_YER003C" fbc:label="YER003C" fbc:name="YER003C" />
-      <fbc:geneProduct fbc:id="G_YFL045C" fbc:label="YFL045C" fbc:name="YFL045C" />
-      <fbc:geneProduct fbc:id="G_YDL055C" fbc:label="YDL055C" fbc:name="YDL055C" />
-      <fbc:geneProduct fbc:id="G_YIL107C" fbc:label="YIL107C" fbc:name="YIL107C" />
-      <fbc:geneProduct fbc:id="G_YOL136C" fbc:label="YOL136C" fbc:name="YOL136C" />
-      <fbc:geneProduct fbc:id="G_YJL155C" fbc:label="YJL155C" fbc:name="YJL155C" />
-      <fbc:geneProduct fbc:id="G_YJR159W" fbc:label="YJR159W" fbc:name="YJR159W" />
-      <fbc:geneProduct fbc:id="G_YBR020W" fbc:label="YBR020W" fbc:name="YBR020W" />
+      <fbc:geneProduct fbc:id="G_YAL054C" fbc:label="YAL054C" fbc:name="YAL054C" />
+      <fbc:geneProduct fbc:id="G_YAL062W" fbc:label="YAL062W" fbc:name="YAL062W" />
+      <fbc:geneProduct fbc:id="G_YAR015W" fbc:label="YAR015W" fbc:name="YAR015W" />
+      <fbc:geneProduct fbc:id="G_YAR035W" fbc:label="YAR035W" fbc:name="YAR035W" />
+      <fbc:geneProduct fbc:id="G_YAR071W" fbc:label="YAR071W" fbc:name="YAR071W" />
+      <fbc:geneProduct fbc:id="G_YAR073W" fbc:label="YAR073W" fbc:name="YAR073W" />
+      <fbc:geneProduct fbc:id="G_YAR075W" fbc:label="YAR075W" fbc:name="YAR075W" />
+      <fbc:geneProduct fbc:id="G_YBL013W" fbc:label="YBL013W" fbc:name="YBL013W" />
+      <fbc:geneProduct fbc:id="G_YBL015W" fbc:label="YBL015W" fbc:name="YBL015W" />
+      <fbc:geneProduct fbc:id="G_YBL030C" fbc:label="YBL030C" fbc:name="YBL030C" />
+      <fbc:geneProduct fbc:id="G_YBL033C" fbc:label="YBL033C" fbc:name="YBL033C" />
+      <fbc:geneProduct fbc:id="G_YBL039C" fbc:label="YBL039C" fbc:name="YBL039C" />
+      <fbc:geneProduct fbc:id="G_YBL042C" fbc:label="YBL042C" fbc:name="YBL042C" />
+      <fbc:geneProduct fbc:id="G_YBL068W" fbc:label="YBL068W" fbc:name="YBL068W" />
+      <fbc:geneProduct fbc:id="G_YBL098W" fbc:label="YBL098W" fbc:name="YBL098W" />
+      <fbc:geneProduct fbc:id="G_YBL099W" fbc:label="YBL099W" fbc:name="YBL099W" />
+      <fbc:geneProduct fbc:id="G_YBR001C" fbc:label="YBR001C" fbc:name="YBR001C" />
+      <fbc:geneProduct fbc:id="G_YBR002C" fbc:label="YBR002C" fbc:name="YBR002C" />
+      <fbc:geneProduct fbc:id="G_YBR003W" fbc:label="YBR003W" fbc:name="YBR003W" />
+      <fbc:geneProduct fbc:id="G_YBR006W" fbc:label="YBR006W" fbc:name="YBR006W" />
+      <fbc:geneProduct fbc:id="G_YBR011C" fbc:label="YBR011C" fbc:name="YBR011C" />
       <fbc:geneProduct fbc:id="G_YBR018C" fbc:label="YBR018C" fbc:name="YBR018C" />
       <fbc:geneProduct fbc:id="G_YBR019C" fbc:label="YBR019C" fbc:name="YBR019C" />
-      <fbc:geneProduct fbc:id="G_YHL012W" fbc:label="YHL012W" fbc:name="YHL012W" />
-      <fbc:geneProduct fbc:id="G_YKL035W" fbc:label="YKL035W" fbc:name="YKL035W" />
+      <fbc:geneProduct fbc:id="G_YBR020W" fbc:label="YBR020W" fbc:name="YBR020W" />
+      <fbc:geneProduct fbc:id="G_YBR021W" fbc:label="YBR021W" fbc:name="YBR021W" />
+      <fbc:geneProduct fbc:id="G_YBR023C" fbc:label="YBR023C" fbc:name="YBR023C" />
+      <fbc:geneProduct fbc:id="G_YBR029C" fbc:label="YBR029C" fbc:name="YBR029C" />
+      <fbc:geneProduct fbc:id="G_YBR034C" fbc:label="YBR034C" fbc:name="YBR034C" />
+      <fbc:geneProduct fbc:id="G_YBR035C" fbc:label="YBR035C" fbc:name="YBR035C" />
+      <fbc:geneProduct fbc:id="G_YBR036C" fbc:label="YBR036C" fbc:name="YBR036C" />
+      <fbc:geneProduct fbc:id="G_YBR038W" fbc:label="YBR038W" fbc:name="YBR038W" />
+      <fbc:geneProduct fbc:id="G_YBR068C" fbc:label="YBR068C" fbc:name="YBR068C" />
+      <fbc:geneProduct fbc:id="G_YBR069C" fbc:label="YBR069C" fbc:name="YBR069C" />
+      <fbc:geneProduct fbc:id="G_YBR084W" fbc:label="YBR084W" fbc:name="YBR084W" />
+      <fbc:geneProduct fbc:id="G_YBR085W" fbc:label="YBR085W" fbc:name="YBR085W" />
+      <fbc:geneProduct fbc:id="G_YBR115C" fbc:label="YBR115C" fbc:name="YBR115C" />
+      <fbc:geneProduct fbc:id="G_YBR117C" fbc:label="YBR117C" fbc:name="YBR117C" />
+      <fbc:geneProduct fbc:id="G_YBR126C" fbc:label="YBR126C" fbc:name="YBR126C" />
+      <fbc:geneProduct fbc:id="G_YBR132C" fbc:label="YBR132C" fbc:name="YBR132C" />
+      <fbc:geneProduct fbc:id="G_YBR145W" fbc:label="YBR145W" fbc:name="YBR145W" />
+      <fbc:geneProduct fbc:id="G_YBR149W" fbc:label="YBR149W" fbc:name="YBR149W" />
+      <fbc:geneProduct fbc:id="G_YBR153W" fbc:label="YBR153W" fbc:name="YBR153W" />
+      <fbc:geneProduct fbc:id="G_YBR166C" fbc:label="YBR166C" fbc:name="YBR166C" />
+      <fbc:geneProduct fbc:id="G_YBR176W" fbc:label="YBR176W" fbc:name="YBR176W" />
       <fbc:geneProduct fbc:id="G_YBR184W" fbc:label="YBR184W" fbc:name="YBR184W" />
+      <fbc:geneProduct fbc:id="G_YBR196C" fbc:label="YBR196C" fbc:name="YBR196C" />
+      <fbc:geneProduct fbc:id="G_YBR199W" fbc:label="YBR199W" fbc:name="YBR199W" />
+      <fbc:geneProduct fbc:id="G_YBR205W" fbc:label="YBR205W" fbc:name="YBR205W" />
+      <fbc:geneProduct fbc:id="G_YBR208C" fbc:label="YBR208C" fbc:name="YBR208C" />
+      <fbc:geneProduct fbc:id="G_YBR218C" fbc:label="YBR218C" fbc:name="YBR218C" />
+      <fbc:geneProduct fbc:id="G_YBR244W" fbc:label="YBR244W" fbc:name="YBR244W" />
+      <fbc:geneProduct fbc:id="G_YBR248C" fbc:label="YBR248C" fbc:name="YBR248C" />
+      <fbc:geneProduct fbc:id="G_YBR249C" fbc:label="YBR249C" fbc:name="YBR249C" />
+      <fbc:geneProduct fbc:id="G_YBR252W" fbc:label="YBR252W" fbc:name="YBR252W" />
+      <fbc:geneProduct fbc:id="G_YBR256C" fbc:label="YBR256C" fbc:name="YBR256C" />
+      <fbc:geneProduct fbc:id="G_YBR263W" fbc:label="YBR263W" fbc:name="YBR263W" />
+      <fbc:geneProduct fbc:id="G_YBR265W" fbc:label="YBR265W" fbc:name="YBR265W" />
+      <fbc:geneProduct fbc:id="G_YBR284W" fbc:label="YBR284W" fbc:name="YBR284W" />
+      <fbc:geneProduct fbc:id="G_YBR291C" fbc:label="YBR291C" fbc:name="YBR291C" />
+      <fbc:geneProduct fbc:id="G_YBR294W" fbc:label="YBR294W" fbc:name="YBR294W" />
+      <fbc:geneProduct fbc:id="G_YBR298C" fbc:label="YBR298C" fbc:name="YBR298C" />
       <fbc:geneProduct fbc:id="G_YBR299W" fbc:label="YBR299W" fbc:name="YBR299W" />
+      <fbc:geneProduct fbc:id="G_YCL004W" fbc:label="YCL004W" fbc:name="YCL004W" />
+      <fbc:geneProduct fbc:id="G_YCL018W" fbc:label="YCL018W" fbc:name="YCL018W" />
+      <fbc:geneProduct fbc:id="G_YCL025C" fbc:label="YCL025C" fbc:name="YCL025C" />
+      <fbc:geneProduct fbc:id="G_YCL030C" fbc:label="YCL030C" fbc:name="YCL030C" />
+      <fbc:geneProduct fbc:id="G_YCL040W" fbc:label="YCL040W" fbc:name="YCL040W" />
+      <fbc:geneProduct fbc:id="G_YCL050C" fbc:label="YCL050C" fbc:name="YCL050C" />
+      <fbc:geneProduct fbc:id="G_YCL064C" fbc:label="YCL064C" fbc:name="YCL064C" />
+      <fbc:geneProduct fbc:id="G_YCR005C" fbc:label="YCR005C" fbc:name="YCR005C" />
+      <fbc:geneProduct fbc:id="G_YCR012W" fbc:label="YCR012W" fbc:name="YCR012W" />
+      <fbc:geneProduct fbc:id="G_YCR024C" fbc:label="YCR024C" fbc:name="YCR024C" />
+      <fbc:geneProduct fbc:id="G_YCR024C__A" fbc:label="YCR024C__A" fbc:name="YCR024C-A" />
+      <fbc:geneProduct fbc:id="G_YCR028C" fbc:label="YCR028C" fbc:name="YCR028C" />
+      <fbc:geneProduct fbc:id="G_YCR032W" fbc:label="YCR032W" fbc:name="YCR032W" />
+      <fbc:geneProduct fbc:id="G_YCR036W" fbc:label="YCR036W" fbc:name="YCR036W" />
+      <fbc:geneProduct fbc:id="G_YCR053W" fbc:label="YCR053W" fbc:name="YCR053W" />
+      <fbc:geneProduct fbc:id="G_YCR073W__A" fbc:label="YCR073W__A" fbc:name="YCR073W-A" />
+      <fbc:geneProduct fbc:id="G_YDL021W" fbc:label="YDL021W" fbc:name="YDL021W" />
+      <fbc:geneProduct fbc:id="G_YDL022W" fbc:label="YDL022W" fbc:name="YDL022W" />
+      <fbc:geneProduct fbc:id="G_YDL040C" fbc:label="YDL040C" fbc:name="YDL040C" />
+      <fbc:geneProduct fbc:id="G_YDL045C" fbc:label="YDL045C" fbc:name="YDL045C" />
+      <fbc:geneProduct fbc:id="G_YDL052C" fbc:label="YDL052C" fbc:name="YDL052C" />
+      <fbc:geneProduct fbc:id="G_YDL055C" fbc:label="YDL055C" fbc:name="YDL055C" />
+      <fbc:geneProduct fbc:id="G_YDL066W" fbc:label="YDL066W" fbc:name="YDL066W" />
+      <fbc:geneProduct fbc:id="G_YDL078C" fbc:label="YDL078C" fbc:name="YDL078C" />
+      <fbc:geneProduct fbc:id="G_YDL085W" fbc:label="YDL085W" fbc:name="YDL085W" />
+      <fbc:geneProduct fbc:id="G_YDL090C" fbc:label="YDL090C" fbc:name="YDL090C" />
+      <fbc:geneProduct fbc:id="G_YDL093W" fbc:label="YDL093W" fbc:name="YDL093W" />
+      <fbc:geneProduct fbc:id="G_YDL095W" fbc:label="YDL095W" fbc:name="YDL095W" />
+      <fbc:geneProduct fbc:id="G_YDL100C" fbc:label="YDL100C" fbc:name="YDL100C" />
+      <fbc:geneProduct fbc:id="G_YDL103C" fbc:label="YDL103C" fbc:name="YDL103C" />
+      <fbc:geneProduct fbc:id="G_YDL131W" fbc:label="YDL131W" fbc:name="YDL131W" />
+      <fbc:geneProduct fbc:id="G_YDL142C" fbc:label="YDL142C" fbc:name="YDL142C" />
+      <fbc:geneProduct fbc:id="G_YDL168W" fbc:label="YDL168W" fbc:name="YDL168W" />
+      <fbc:geneProduct fbc:id="G_YDL171C" fbc:label="YDL171C" fbc:name="YDL171C" />
+      <fbc:geneProduct fbc:id="G_YDL174C" fbc:label="YDL174C" fbc:name="YDL174C" />
+      <fbc:geneProduct fbc:id="G_YDL182W" fbc:label="YDL182W" fbc:name="YDL182W" />
+      <fbc:geneProduct fbc:id="G_YDL205C" fbc:label="YDL205C" fbc:name="YDL205C" />
+      <fbc:geneProduct fbc:id="G_YDL210W" fbc:label="YDL210W" fbc:name="YDL210W" />
+      <fbc:geneProduct fbc:id="G_YDL215C" fbc:label="YDL215C" fbc:name="YDL215C" />
+      <fbc:geneProduct fbc:id="G_YDL245C" fbc:label="YDL245C" fbc:name="YDL245C" />
+      <fbc:geneProduct fbc:id="G_YDR001C" fbc:label="YDR001C" fbc:name="YDR001C" />
+      <fbc:geneProduct fbc:id="G_YDR007W" fbc:label="YDR007W" fbc:name="YDR007W" />
+      <fbc:geneProduct fbc:id="G_YDR019C" fbc:label="YDR019C" fbc:name="YDR019C" />
+      <fbc:geneProduct fbc:id="G_YDR035W" fbc:label="YDR035W" fbc:name="YDR035W" />
+      <fbc:geneProduct fbc:id="G_YDR037W" fbc:label="YDR037W" fbc:name="YDR037W" />
+      <fbc:geneProduct fbc:id="G_YDR044W" fbc:label="YDR044W" fbc:name="YDR044W" />
+      <fbc:geneProduct fbc:id="G_YDR046C" fbc:label="YDR046C" fbc:name="YDR046C" />
+      <fbc:geneProduct fbc:id="G_YDR047W" fbc:label="YDR047W" fbc:name="YDR047W" />
+      <fbc:geneProduct fbc:id="G_YDR050C" fbc:label="YDR050C" fbc:name="YDR050C" />
+      <fbc:geneProduct fbc:id="G_YDR062W" fbc:label="YDR062W" fbc:name="YDR062W" />
+      <fbc:geneProduct fbc:id="G_YDR072C" fbc:label="YDR072C" fbc:name="YDR072C" />
+      <fbc:geneProduct fbc:id="G_YDR074W" fbc:label="YDR074W" fbc:name="YDR074W" />
+      <fbc:geneProduct fbc:id="G_YDR111C" fbc:label="YDR111C" fbc:name="YDR111C" />
+      <fbc:geneProduct fbc:id="G_YDR127W" fbc:label="YDR127W" fbc:name="YDR127W" />
+      <fbc:geneProduct fbc:id="G_YDR147W" fbc:label="YDR147W" fbc:name="YDR147W" />
+      <fbc:geneProduct fbc:id="G_YDR158W" fbc:label="YDR158W" fbc:name="YDR158W" />
+      <fbc:geneProduct fbc:id="G_YDR208W" fbc:label="YDR208W" fbc:name="YDR208W" />
+      <fbc:geneProduct fbc:id="G_YDR226W" fbc:label="YDR226W" fbc:name="YDR226W" />
+      <fbc:geneProduct fbc:id="G_YDR232W" fbc:label="YDR232W" fbc:name="YDR232W" />
+      <fbc:geneProduct fbc:id="G_YDR234W" fbc:label="YDR234W" fbc:name="YDR234W" />
+      <fbc:geneProduct fbc:id="G_YDR236C" fbc:label="YDR236C" fbc:name="YDR236C" />
+      <fbc:geneProduct fbc:id="G_YDR242W" fbc:label="YDR242W" fbc:name="YDR242W" />
+      <fbc:geneProduct fbc:id="G_YDR256C" fbc:label="YDR256C" fbc:name="YDR256C" />
+      <fbc:geneProduct fbc:id="G_YDR261C" fbc:label="YDR261C" fbc:name="YDR261C" />
+      <fbc:geneProduct fbc:id="G_YDR268W" fbc:label="YDR268W" fbc:name="YDR268W" />
+      <fbc:geneProduct fbc:id="G_YDR272W" fbc:label="YDR272W" fbc:name="YDR272W" />
+      <fbc:geneProduct fbc:id="G_YDR284C" fbc:label="YDR284C" fbc:name="YDR284C" />
+      <fbc:geneProduct fbc:id="G_YDR294C" fbc:label="YDR294C" fbc:name="YDR294C" />
+      <fbc:geneProduct fbc:id="G_YDR297W" fbc:label="YDR297W" fbc:name="YDR297W" />
+      <fbc:geneProduct fbc:id="G_YDR300C" fbc:label="YDR300C" fbc:name="YDR300C" />
+      <fbc:geneProduct fbc:id="G_YDR321W" fbc:label="YDR321W" fbc:name="YDR321W" />
+      <fbc:geneProduct fbc:id="G_YDR341C" fbc:label="YDR341C" fbc:name="YDR341C" />
+      <fbc:geneProduct fbc:id="G_YDR342C" fbc:label="YDR342C" fbc:name="YDR342C" />
+      <fbc:geneProduct fbc:id="G_YDR343C" fbc:label="YDR343C" fbc:name="YDR343C" />
+      <fbc:geneProduct fbc:id="G_YDR345C" fbc:label="YDR345C" fbc:name="YDR345C" />
+      <fbc:geneProduct fbc:id="G_YDR353W" fbc:label="YDR353W" fbc:name="YDR353W" />
+      <fbc:geneProduct fbc:id="G_YDR354W" fbc:label="YDR354W" fbc:name="YDR354W" />
+      <fbc:geneProduct fbc:id="G_YDR399W" fbc:label="YDR399W" fbc:name="YDR399W" />
+      <fbc:geneProduct fbc:id="G_YDR400W" fbc:label="YDR400W" fbc:name="YDR400W" />
+      <fbc:geneProduct fbc:id="G_YDR408C" fbc:label="YDR408C" fbc:name="YDR408C" />
+      <fbc:geneProduct fbc:id="G_YDR441C" fbc:label="YDR441C" fbc:name="YDR441C" />
+      <fbc:geneProduct fbc:id="G_YDR454C" fbc:label="YDR454C" fbc:name="YDR454C" />
+      <fbc:geneProduct fbc:id="G_YDR481C" fbc:label="YDR481C" fbc:name="YDR481C" />
+      <fbc:geneProduct fbc:id="G_YDR483W" fbc:label="YDR483W" fbc:name="YDR483W" />
+      <fbc:geneProduct fbc:id="G_YDR497C" fbc:label="YDR497C" fbc:name="YDR497C" />
+      <fbc:geneProduct fbc:id="G_YDR502C" fbc:label="YDR502C" fbc:name="YDR502C" />
+      <fbc:geneProduct fbc:id="G_YDR503C" fbc:label="YDR503C" fbc:name="YDR503C" />
+      <fbc:geneProduct fbc:id="G_YDR508C" fbc:label="YDR508C" fbc:name="YDR508C" />
+      <fbc:geneProduct fbc:id="G_YDR530C" fbc:label="YDR530C" fbc:name="YDR530C" />
+      <fbc:geneProduct fbc:id="G_YDR531W" fbc:label="YDR531W" fbc:name="YDR531W" />
+      <fbc:geneProduct fbc:id="G_YDR536W" fbc:label="YDR536W" fbc:name="YDR536W" />
+      <fbc:geneProduct fbc:id="G_YDR538W" fbc:label="YDR538W" fbc:name="YDR538W" />
+      <fbc:geneProduct fbc:id="G_YEL011W" fbc:label="YEL011W" fbc:name="YEL011W" />
+      <fbc:geneProduct fbc:id="G_YEL017C__A" fbc:label="YEL017C__A" fbc:name="YEL017C-A" />
+      <fbc:geneProduct fbc:id="G_YEL021W" fbc:label="YEL021W" fbc:name="YEL021W" />
+      <fbc:geneProduct fbc:id="G_YEL024W" fbc:label="YEL024W" fbc:name="YEL024W" />
+      <fbc:geneProduct fbc:id="G_YEL041W" fbc:label="YEL041W" fbc:name="YEL041W" />
+      <fbc:geneProduct fbc:id="G_YEL046C" fbc:label="YEL046C" fbc:name="YEL046C" />
+      <fbc:geneProduct fbc:id="G_YEL047C" fbc:label="YEL047C" fbc:name="YEL047C" />
+      <fbc:geneProduct fbc:id="G_YEL058W" fbc:label="YEL058W" fbc:name="YEL058W" />
+      <fbc:geneProduct fbc:id="G_YEL063C" fbc:label="YEL063C" fbc:name="YEL063C" />
+      <fbc:geneProduct fbc:id="G_YEL069C" fbc:label="YEL069C" fbc:name="YEL069C" />
+      <fbc:geneProduct fbc:id="G_YER003C" fbc:label="YER003C" fbc:name="YER003C" />
+      <fbc:geneProduct fbc:id="G_YER014W" fbc:label="YER014W" fbc:name="YER014W" />
+      <fbc:geneProduct fbc:id="G_YER015W" fbc:label="YER015W" fbc:name="YER015W" />
+      <fbc:geneProduct fbc:id="G_YER023W" fbc:label="YER023W" fbc:name="YER023W" />
+      <fbc:geneProduct fbc:id="G_YER026C" fbc:label="YER026C" fbc:name="YER026C" />
+      <fbc:geneProduct fbc:id="G_YER043C" fbc:label="YER043C" fbc:name="YER043C" />
+      <fbc:geneProduct fbc:id="G_YER052C" fbc:label="YER052C" fbc:name="YER052C" />
+      <fbc:geneProduct fbc:id="G_YER053C" fbc:label="YER053C" fbc:name="YER053C" />
+      <fbc:geneProduct fbc:id="G_YER055C" fbc:label="YER055C" fbc:name="YER055C" />
+      <fbc:geneProduct fbc:id="G_YER056C" fbc:label="YER056C" fbc:name="YER056C" />
+      <fbc:geneProduct fbc:id="G_YER060W" fbc:label="YER060W" fbc:name="YER060W" />
+      <fbc:geneProduct fbc:id="G_YER060W__A" fbc:label="YER060W__A" fbc:name="YER060W-A" />
+      <fbc:geneProduct fbc:id="G_YER061C" fbc:label="YER061C" fbc:name="YER061C" />
+      <fbc:geneProduct fbc:id="G_YER062C" fbc:label="YER062C" fbc:name="YER062C" />
+      <fbc:geneProduct fbc:id="G_YER065C" fbc:label="YER065C" fbc:name="YER065C" />
+      <fbc:geneProduct fbc:id="G_YER069W" fbc:label="YER069W" fbc:name="YER069W" />
+      <fbc:geneProduct fbc:id="G_YER070W" fbc:label="YER070W" fbc:name="YER070W" />
+      <fbc:geneProduct fbc:id="G_YER073W" fbc:label="YER073W" fbc:name="YER073W" />
+      <fbc:geneProduct fbc:id="G_YER081W" fbc:label="YER081W" fbc:name="YER081W" />
+      <fbc:geneProduct fbc:id="G_YER086W" fbc:label="YER086W" fbc:name="YER086W" />
+      <fbc:geneProduct fbc:id="G_YER090W" fbc:label="YER090W" fbc:name="YER090W" />
+      <fbc:geneProduct fbc:id="G_YER091C" fbc:label="YER091C" fbc:name="YER091C" />
+      <fbc:geneProduct fbc:id="G_YER099C" fbc:label="YER099C" fbc:name="YER099C" />
+      <fbc:geneProduct fbc:id="G_YER170W" fbc:label="YER170W" fbc:name="YER170W" />
+      <fbc:geneProduct fbc:id="G_YER178W" fbc:label="YER178W" fbc:name="YER178W" />
+      <fbc:geneProduct fbc:id="G_YFL001W" fbc:label="YFL001W" fbc:name="YFL001W" />
+      <fbc:geneProduct fbc:id="G_YFL011W" fbc:label="YFL011W" fbc:name="YFL011W" />
+      <fbc:geneProduct fbc:id="G_YFL017C" fbc:label="YFL017C" fbc:name="YFL017C" />
+      <fbc:geneProduct fbc:id="G_YFL030W" fbc:label="YFL030W" fbc:name="YFL030W" />
+      <fbc:geneProduct fbc:id="G_YFL045C" fbc:label="YFL045C" fbc:name="YFL045C" />
+      <fbc:geneProduct fbc:id="G_YFL053W" fbc:label="YFL053W" fbc:name="YFL053W" />
+      <fbc:geneProduct fbc:id="G_YFL055W" fbc:label="YFL055W" fbc:name="YFL055W" />
+      <fbc:geneProduct fbc:id="G_YFR015C" fbc:label="YFR015C" fbc:name="YFR015C" />
+      <fbc:geneProduct fbc:id="G_YFR019W" fbc:label="YFR019W" fbc:name="YFR019W" />
+      <fbc:geneProduct fbc:id="G_YFR025C" fbc:label="YFR025C" fbc:name="YFR025C" />
+      <fbc:geneProduct fbc:id="G_YFR030W" fbc:label="YFR030W" fbc:name="YFR030W" />
+      <fbc:geneProduct fbc:id="G_YFR047C" fbc:label="YFR047C" fbc:name="YFR047C" />
+      <fbc:geneProduct fbc:id="G_YFR053C" fbc:label="YFR053C" fbc:name="YFR053C" />
+      <fbc:geneProduct fbc:id="G_YFR055W" fbc:label="YFR055W" fbc:name="YFR055W" />
+      <fbc:geneProduct fbc:id="G_YGL001C" fbc:label="YGL001C" fbc:name="YGL001C" />
+      <fbc:geneProduct fbc:id="G_YGL008C" fbc:label="YGL008C" fbc:name="YGL008C" />
+      <fbc:geneProduct fbc:id="G_YGL009C" fbc:label="YGL009C" fbc:name="YGL009C" />
+      <fbc:geneProduct fbc:id="G_YGL012W" fbc:label="YGL012W" fbc:name="YGL012W" />
+      <fbc:geneProduct fbc:id="G_YGL026C" fbc:label="YGL026C" fbc:name="YGL026C" />
+      <fbc:geneProduct fbc:id="G_YGL037C" fbc:label="YGL037C" fbc:name="YGL037C" />
+      <fbc:geneProduct fbc:id="G_YGL040C" fbc:label="YGL040C" fbc:name="YGL040C" />
+      <fbc:geneProduct fbc:id="G_YGL062W" fbc:label="YGL062W" fbc:name="YGL062W" />
+      <fbc:geneProduct fbc:id="G_YGL063W" fbc:label="YGL063W" fbc:name="YGL063W" />
+      <fbc:geneProduct fbc:id="G_YGL077C" fbc:label="YGL077C" fbc:name="YGL077C" />
+      <fbc:geneProduct fbc:id="G_YGL125W" fbc:label="YGL125W" fbc:name="YGL125W" />
+      <fbc:geneProduct fbc:id="G_YGL148W" fbc:label="YGL148W" fbc:name="YGL148W" />
+      <fbc:geneProduct fbc:id="G_YGL186C" fbc:label="YGL186C" fbc:name="YGL186C" />
+      <fbc:geneProduct fbc:id="G_YGL202W" fbc:label="YGL202W" fbc:name="YGL202W" />
+      <fbc:geneProduct fbc:id="G_YGL205W" fbc:label="YGL205W" fbc:name="YGL205W" />
+      <fbc:geneProduct fbc:id="G_YGL234W" fbc:label="YGL234W" fbc:name="YGL234W" />
+      <fbc:geneProduct fbc:id="G_YGL245W" fbc:label="YGL245W" fbc:name="YGL245W" />
+      <fbc:geneProduct fbc:id="G_YGL248W" fbc:label="YGL248W" fbc:name="YGL248W" />
+      <fbc:geneProduct fbc:id="G_YGL253W" fbc:label="YGL253W" fbc:name="YGL253W" />
+      <fbc:geneProduct fbc:id="G_YGL256W" fbc:label="YGL256W" fbc:name="YGL256W" />
+      <fbc:geneProduct fbc:id="G_YGR007W" fbc:label="YGR007W" fbc:name="YGR007W" />
+      <fbc:geneProduct fbc:id="G_YGR012W" fbc:label="YGR012W" fbc:name="YGR012W" />
+      <fbc:geneProduct fbc:id="G_YGR019W" fbc:label="YGR019W" fbc:name="YGR019W" />
+      <fbc:geneProduct fbc:id="G_YGR032W" fbc:label="YGR032W" fbc:name="YGR032W" />
+      <fbc:geneProduct fbc:id="G_YGR037C" fbc:label="YGR037C" fbc:name="YGR037C" />
+      <fbc:geneProduct fbc:id="G_YGR043C" fbc:label="YGR043C" fbc:name="YGR043C" />
+      <fbc:geneProduct fbc:id="G_YGR055W" fbc:label="YGR055W" fbc:name="YGR055W" />
+      <fbc:geneProduct fbc:id="G_YGR060W" fbc:label="YGR060W" fbc:name="YGR060W" />
+      <fbc:geneProduct fbc:id="G_YGR061C" fbc:label="YGR061C" fbc:name="YGR061C" />
+      <fbc:geneProduct fbc:id="G_YGR065C" fbc:label="YGR065C" fbc:name="YGR065C" />
+      <fbc:geneProduct fbc:id="G_YGR087C" fbc:label="YGR087C" fbc:name="YGR087C" />
+      <fbc:geneProduct fbc:id="G_YGR088W" fbc:label="YGR088W" fbc:name="YGR088W" />
+      <fbc:geneProduct fbc:id="G_YGR121C" fbc:label="YGR121C" fbc:name="YGR121C" />
+      <fbc:geneProduct fbc:id="G_YGR124W" fbc:label="YGR124W" fbc:name="YGR124W" />
+      <fbc:geneProduct fbc:id="G_YGR125W" fbc:label="YGR125W" fbc:name="YGR125W" />
+      <fbc:geneProduct fbc:id="G_YGR147C" fbc:label="YGR147C" fbc:name="YGR147C" />
+      <fbc:geneProduct fbc:id="G_YGR155W" fbc:label="YGR155W" fbc:name="YGR155W" />
+      <fbc:geneProduct fbc:id="G_YGR157W" fbc:label="YGR157W" fbc:name="YGR157W" />
+      <fbc:geneProduct fbc:id="G_YGR170W" fbc:label="YGR170W" fbc:name="YGR170W" />
+      <fbc:geneProduct fbc:id="G_YGR175C" fbc:label="YGR175C" fbc:name="YGR175C" />
+      <fbc:geneProduct fbc:id="G_YGR191W" fbc:label="YGR191W" fbc:name="YGR191W" />
+      <fbc:geneProduct fbc:id="G_YGR192C" fbc:label="YGR192C" fbc:name="YGR192C" />
+      <fbc:geneProduct fbc:id="G_YGR194C" fbc:label="YGR194C" fbc:name="YGR194C" />
+      <fbc:geneProduct fbc:id="G_YGR199W" fbc:label="YGR199W" fbc:name="YGR199W" />
+      <fbc:geneProduct fbc:id="G_YGR202C" fbc:label="YGR202C" fbc:name="YGR202C" />
+      <fbc:geneProduct fbc:id="G_YGR204W" fbc:label="YGR204W" fbc:name="YGR204W" />
+      <fbc:geneProduct fbc:id="G_YGR208W" fbc:label="YGR208W" fbc:name="YGR208W" />
+      <fbc:geneProduct fbc:id="G_YGR240C" fbc:label="YGR240C" fbc:name="YGR240C" />
+      <fbc:geneProduct fbc:id="G_YGR244C" fbc:label="YGR244C" fbc:name="YGR244C" />
+      <fbc:geneProduct fbc:id="G_YGR248W" fbc:label="YGR248W" fbc:name="YGR248W" />
+      <fbc:geneProduct fbc:id="G_YGR254W" fbc:label="YGR254W" fbc:name="YGR254W" />
+      <fbc:geneProduct fbc:id="G_YGR255C" fbc:label="YGR255C" fbc:name="YGR255C" />
+      <fbc:geneProduct fbc:id="G_YGR256W" fbc:label="YGR256W" fbc:name="YGR256W" />
+      <fbc:geneProduct fbc:id="G_YGR267C" fbc:label="YGR267C" fbc:name="YGR267C" />
+      <fbc:geneProduct fbc:id="G_YGR282C" fbc:label="YGR282C" fbc:name="YGR282C" />
+      <fbc:geneProduct fbc:id="G_YGR286C" fbc:label="YGR286C" fbc:name="YGR286C" />
       <fbc:geneProduct fbc:id="G_YGR287C" fbc:label="YGR287C" fbc:name="YGR287C" />
       <fbc:geneProduct fbc:id="G_YGR292W" fbc:label="YGR292W" fbc:name="YGR292W" />
-      <fbc:geneProduct fbc:id="G_YIL172C" fbc:label="YIL172C" fbc:name="YIL172C" />
-      <fbc:geneProduct fbc:id="G_YJL216C" fbc:label="YJL216C" fbc:name="YJL216C" />
-      <fbc:geneProduct fbc:id="G_YJL221C" fbc:label="YJL221C" fbc:name="YJL221C" />
-      <fbc:geneProduct fbc:id="G_YBR126C" fbc:label="YBR126C" fbc:name="YBR126C" />
-      <fbc:geneProduct fbc:id="G_YML100W" fbc:label="YML100W" fbc:name="YML100W" />
-      <fbc:geneProduct fbc:id="G_YMR261C" fbc:label="YMR261C" fbc:name="YMR261C" />
-      <fbc:geneProduct fbc:id="G_YDR074W" fbc:label="YDR074W" fbc:name="YDR074W" />
-      <fbc:geneProduct fbc:id="G_YPR026W" fbc:label="YPR026W" fbc:name="YPR026W" />
-      <fbc:geneProduct fbc:id="G_YBR001C" fbc:label="YBR001C" fbc:name="YBR001C" />
-      <fbc:geneProduct fbc:id="G_YDR001C" fbc:label="YDR001C" fbc:name="YDR001C" />
-      <fbc:geneProduct fbc:id="G_YEL011W" fbc:label="YEL011W" fbc:name="YEL011W" />
-      <fbc:geneProduct fbc:id="G_YPR160W" fbc:label="YPR160W" fbc:name="YPR160W" />
-      <fbc:geneProduct fbc:id="G_YFR015C" fbc:label="YFR015C" fbc:name="YFR015C" />
-      <fbc:geneProduct fbc:id="G_YLR258W" fbc:label="YLR258W" fbc:name="YLR258W" />
-      <fbc:geneProduct fbc:id="G_YAL054C" fbc:label="YAL054C" fbc:name="YAL054C" />
-      <fbc:geneProduct fbc:id="G_YLR153C" fbc:label="YLR153C" fbc:name="YLR153C" />
-      <fbc:geneProduct fbc:id="G_YDL168W" fbc:label="YDL168W" fbc:name="YDL168W" />
-      <fbc:geneProduct fbc:id="G_YJL068C" fbc:label="YJL068C" fbc:name="YJL068C" />
-      <fbc:geneProduct fbc:id="G_YGR087C" fbc:label="YGR087C" fbc:name="YGR087C" />
-      <fbc:geneProduct fbc:id="G_YLR134W" fbc:label="YLR134W" fbc:name="YLR134W" />
-      <fbc:geneProduct fbc:id="G_YLR044C" fbc:label="YLR044C" fbc:name="YLR044C" />
-      <fbc:geneProduct fbc:id="G_YBL015W" fbc:label="YBL015W" fbc:name="YBL015W" />
-      <fbc:geneProduct fbc:id="G_YDL131W" fbc:label="YDL131W" fbc:name="YDL131W" />
-      <fbc:geneProduct fbc:id="G_YDL182W" fbc:label="YDL182W" fbc:name="YDL182W" />
-      <fbc:geneProduct fbc:id="G_YGL256W" fbc:label="YGL256W" fbc:name="YGL256W" />
-      <fbc:geneProduct fbc:id="G_YMR083W" fbc:label="YMR083W" fbc:name="YMR083W" />
-      <fbc:geneProduct fbc:id="G_YMR303C" fbc:label="YMR303C" fbc:name="YMR303C" />
-      <fbc:geneProduct fbc:id="G_YBR145W" fbc:label="YBR145W" fbc:name="YBR145W" />
-      <fbc:geneProduct fbc:id="G_YOL086C" fbc:label="YOL086C" fbc:name="YOL086C" />
-      <fbc:geneProduct fbc:id="G_YML004C" fbc:label="YML004C" fbc:name="YML004C" />
-      <fbc:geneProduct fbc:id="G_YDR272W" fbc:label="YDR272W" fbc:name="YDR272W" />
-      <fbc:geneProduct fbc:id="G_YOR040W" fbc:label="YOR040W" fbc:name="YOR040W" />
-      <fbc:geneProduct fbc:id="G_YBR011C" fbc:label="YBR011C" fbc:name="YBR011C" />
-      <fbc:geneProduct fbc:id="G_YMR267W" fbc:label="YMR267W" fbc:name="YMR267W" />
-      <fbc:geneProduct fbc:id="G_YML120C" fbc:label="YML120C" fbc:name="YML120C" />
-      <fbc:geneProduct fbc:id="G_YDL085W" fbc:label="YDL085W" fbc:name="YDL085W" />
-      <fbc:geneProduct fbc:id="G_YMR145C" fbc:label="YMR145C" fbc:name="YMR145C" />
-      <fbc:geneProduct fbc:id="G_YHR042W" fbc:label="YHR042W" fbc:name="YHR042W" />
-      <fbc:geneProduct fbc:id="G_YEL024W" fbc:label="YEL024W" fbc:name="YEL024W" />
-      <fbc:geneProduct fbc:id="G_Q0045" fbc:label="Q0045" fbc:name="Q0045" />
-      <fbc:geneProduct fbc:id="G_YBL099W" fbc:label="YBL099W" fbc:name="YBL099W" />
-      <fbc:geneProduct fbc:id="G_YML054C" fbc:label="YML054C" fbc:name="YML054C" />
-      <fbc:geneProduct fbc:id="G_YDL174C" fbc:label="YDL174C" fbc:name="YDL174C" />
-      <fbc:geneProduct fbc:id="G_YPL275W" fbc:label="YPL275W" fbc:name="YPL275W" />
-      <fbc:geneProduct fbc:id="G_YPL276W" fbc:label="YPL276W" fbc:name="YPL276W" />
-      <fbc:geneProduct fbc:id="G_YOR388C" fbc:label="YOR388C" fbc:name="YOR388C" />
-      <fbc:geneProduct fbc:id="G_YBR208C" fbc:label="YBR208C" fbc:name="YBR208C" />
-      <fbc:geneProduct fbc:id="G_YJL126W" fbc:label="YJL126W" fbc:name="YJL126W" />
-      <fbc:geneProduct fbc:id="G_YJR137C" fbc:label="YJR137C" fbc:name="YJR137C" />
-      <fbc:geneProduct fbc:id="G_YER015W" fbc:label="YER015W" fbc:name="YER015W" />
-      <fbc:geneProduct fbc:id="G_YIL009W" fbc:label="YIL009W" fbc:name="YIL009W" />
-      <fbc:geneProduct fbc:id="G_YOR317W" fbc:label="YOR317W" fbc:name="YOR317W" />
-      <fbc:geneProduct fbc:id="G_YMR246W" fbc:label="YMR246W" fbc:name="YMR246W" />
-      <fbc:geneProduct fbc:id="G_YKR009C" fbc:label="YKR009C" fbc:name="YKR009C" />
-      <fbc:geneProduct fbc:id="G_YIL160C" fbc:label="YIL160C" fbc:name="YIL160C" />
-      <fbc:geneProduct fbc:id="G_YPL028W" fbc:label="YPL028W" fbc:name="YPL028W" />
-      <fbc:geneProduct fbc:id="G_YKL192C" fbc:label="YKL192C" fbc:name="YKL192C" />
-      <fbc:geneProduct fbc:id="G_YOR221C" fbc:label="YOR221C" fbc:name="YOR221C" />
-      <fbc:geneProduct fbc:id="G_YKL055C" fbc:label="YKL055C" fbc:name="YKL055C" />
-      <fbc:geneProduct fbc:id="G_YER061C" fbc:label="YER061C" fbc:name="YER061C" />
-      <fbc:geneProduct fbc:id="G_YNR016C" fbc:label="YNR016C" fbc:name="YNR016C" />
-      <fbc:geneProduct fbc:id="G_YKL182W" fbc:label="YKL182W" fbc:name="YKL182W" />
-      <fbc:geneProduct fbc:id="G_YGR037C" fbc:label="YGR037C" fbc:name="YGR037C" />
-      <fbc:geneProduct fbc:id="G_YPL231W" fbc:label="YPL231W" fbc:name="YPL231W" />
-      <fbc:geneProduct fbc:id="G_YGL205W" fbc:label="YGL205W" fbc:name="YGL205W" />
-      <fbc:geneProduct fbc:id="G_YDL052C" fbc:label="YDL052C" fbc:name="YDL052C" />
-      <fbc:geneProduct fbc:id="G_YBR029C" fbc:label="YBR029C" fbc:name="YBR029C" />
-      <fbc:geneProduct fbc:id="G_YER026C" fbc:label="YER026C" fbc:name="YER026C" />
-      <fbc:geneProduct fbc:id="G_YGR170W" fbc:label="YGR170W" fbc:name="YGR170W" />
-      <fbc:geneProduct fbc:id="G_YNL169C" fbc:label="YNL169C" fbc:name="YNL169C" />
-      <fbc:geneProduct fbc:id="G_YGR157W" fbc:label="YGR157W" fbc:name="YGR157W" />
-      <fbc:geneProduct fbc:id="G_YJR073C" fbc:label="YJR073C" fbc:name="YJR073C" />
-      <fbc:geneProduct fbc:id="G_YLR133W" fbc:label="YLR133W" fbc:name="YLR133W" />
-      <fbc:geneProduct fbc:id="G_YGR202C" fbc:label="YGR202C" fbc:name="YGR202C" />
-      <fbc:geneProduct fbc:id="G_YNL130C" fbc:label="YNL130C" fbc:name="YNL130C" />
-      <fbc:geneProduct fbc:id="G_YDR147W" fbc:label="YDR147W" fbc:name="YDR147W" />
-      <fbc:geneProduct fbc:id="G_YGR007W" fbc:label="YGR007W" fbc:name="YGR007W" />
-      <fbc:geneProduct fbc:id="G_YHR123W" fbc:label="YHR123W" fbc:name="YHR123W" />
-      <fbc:geneProduct fbc:id="G_YJL153C" fbc:label="YJL153C" fbc:name="YJL153C" />
-      <fbc:geneProduct fbc:id="G_YHR046C" fbc:label="YHR046C" fbc:name="YHR046C" />
-      <fbc:geneProduct fbc:id="G_YPR113W" fbc:label="YPR113W" fbc:name="YPR113W" />
-      <fbc:geneProduct fbc:id="G_YJR066W" fbc:label="YJR066W" fbc:name="YJR066W" />
-      <fbc:geneProduct fbc:id="G_YKL203C" fbc:label="YKL203C" fbc:name="YKL203C" />
-      <fbc:geneProduct fbc:id="G_YLR240W" fbc:label="YLR240W" fbc:name="YLR240W" />
-      <fbc:geneProduct fbc:id="G_YNL267W" fbc:label="YNL267W" fbc:name="YNL267W" />
-      <fbc:geneProduct fbc:id="G_YLR305C" fbc:label="YLR305C" fbc:name="YLR305C" />
-      <fbc:geneProduct fbc:id="G_YFR019W" fbc:label="YFR019W" fbc:name="YFR019W" />
-      <fbc:geneProduct fbc:id="G_YDR208W" fbc:label="YDR208W" fbc:name="YDR208W" />
-      <fbc:geneProduct fbc:id="G_YPL268W" fbc:label="YPL268W" fbc:name="YPL268W" />
-      <fbc:geneProduct fbc:id="G_YCL004W" fbc:label="YCL004W" fbc:name="YCL004W" />
-      <fbc:geneProduct fbc:id="G_YDL142C" fbc:label="YDL142C" fbc:name="YDL142C" />
-      <fbc:geneProduct fbc:id="G_YDR284C" fbc:label="YDR284C" fbc:name="YDR284C" />
-      <fbc:geneProduct fbc:id="G_YDR503C" fbc:label="YDR503C" fbc:name="YDR503C" />
-      <fbc:geneProduct fbc:id="G_YDR062W" fbc:label="YDR062W" fbc:name="YDR062W" />
-      <fbc:geneProduct fbc:id="G_YMR296C" fbc:label="YMR296C" fbc:name="YMR296C" />
-      <fbc:geneProduct fbc:id="G_YBR265W" fbc:label="YBR265W" fbc:name="YBR265W" />
-      <fbc:geneProduct fbc:id="G_YDR297W" fbc:label="YDR297W" fbc:name="YDR297W" />
-      <fbc:geneProduct fbc:id="G_YMR272C" fbc:label="YMR272C" fbc:name="YMR272C" />
-      <fbc:geneProduct fbc:id="G_YKL004W" fbc:label="YKL004W" fbc:name="YKL004W" />
-      <fbc:geneProduct fbc:id="G_YBR036C" fbc:label="YBR036C" fbc:name="YBR036C" />
-      <fbc:geneProduct fbc:id="G_YPL057C" fbc:label="YPL057C" fbc:name="YPL057C" />
-      <fbc:geneProduct fbc:id="G_YDR072C" fbc:label="YDR072C" fbc:name="YDR072C" />
-      <fbc:geneProduct fbc:id="G_YOR171C" fbc:label="YOR171C" fbc:name="YOR171C" />
-      <fbc:geneProduct fbc:id="G_YLR260W" fbc:label="YLR260W" fbc:name="YLR260W" />
-      <fbc:geneProduct fbc:id="G_YJL134W" fbc:label="YJL134W" fbc:name="YJL134W" />
-      <fbc:geneProduct fbc:id="G_YKR053C" fbc:label="YKR053C" fbc:name="YKR053C" />
-      <fbc:geneProduct fbc:id="G_YDR294C" fbc:label="YDR294C" fbc:name="YDR294C" />
-      <fbc:geneProduct fbc:id="G_YML126C" fbc:label="YML126C" fbc:name="YML126C" />
-      <fbc:geneProduct fbc:id="G_YLR450W" fbc:label="YLR450W" fbc:name="YLR450W" />
-      <fbc:geneProduct fbc:id="G_YML075C" fbc:label="YML075C" fbc:name="YML075C" />
-      <fbc:geneProduct fbc:id="G_YMR208W" fbc:label="YMR208W" fbc:name="YMR208W" />
-      <fbc:geneProduct fbc:id="G_YMR220W" fbc:label="YMR220W" fbc:name="YMR220W" />
-      <fbc:geneProduct fbc:id="G_YNR043W" fbc:label="YNR043W" fbc:name="YNR043W" />
-      <fbc:geneProduct fbc:id="G_YPL117C" fbc:label="YPL117C" fbc:name="YPL117C" />
-      <fbc:geneProduct fbc:id="G_YJL167W" fbc:label="YJL167W" fbc:name="YJL167W" />
-      <fbc:geneProduct fbc:id="G_YHR190W" fbc:label="YHR190W" fbc:name="YHR190W" />
-      <fbc:geneProduct fbc:id="G_YGR175C" fbc:label="YGR175C" fbc:name="YGR175C" />
-      <fbc:geneProduct fbc:id="G_YHR072W" fbc:label="YHR072W" fbc:name="YHR072W" />
-      <fbc:geneProduct fbc:id="G_YHR007C" fbc:label="YHR007C" fbc:name="YHR007C" />
-      <fbc:geneProduct fbc:id="G_YNL280C" fbc:label="YNL280C" fbc:name="YNL280C" />
-      <fbc:geneProduct fbc:id="G_YGR060W" fbc:label="YGR060W" fbc:name="YGR060W" />
-      <fbc:geneProduct fbc:id="G_YGL001C" fbc:label="YGL001C" fbc:name="YGL001C" />
-      <fbc:geneProduct fbc:id="G_YLR100W" fbc:label="YLR100W" fbc:name="YLR100W" />
-      <fbc:geneProduct fbc:id="G_YML008C" fbc:label="YML008C" fbc:name="YML008C" />
-      <fbc:geneProduct fbc:id="G_YMR202W" fbc:label="YMR202W" fbc:name="YMR202W" />
-      <fbc:geneProduct fbc:id="G_YLR056W" fbc:label="YLR056W" fbc:name="YLR056W" />
-      <fbc:geneProduct fbc:id="G_YMR015C" fbc:label="YMR015C" fbc:name="YMR015C" />
-      <fbc:geneProduct fbc:id="G_YGL012W" fbc:label="YGL012W" fbc:name="YGL012W" />
-      <fbc:geneProduct fbc:id="G_YOL061W" fbc:label="YOL061W" fbc:name="YOL061W" />
-      <fbc:geneProduct fbc:id="G_YBL068W" fbc:label="YBL068W" fbc:name="YBL068W" />
-      <fbc:geneProduct fbc:id="G_YER099C" fbc:label="YER099C" fbc:name="YER099C" />
       <fbc:geneProduct fbc:id="G_YHL011C" fbc:label="YHL011C" fbc:name="YHL011C" />
-      <fbc:geneProduct fbc:id="G_YKL181W" fbc:label="YKL181W" fbc:name="YKL181W" />
-      <fbc:geneProduct fbc:id="G_YIR027C" fbc:label="YIR027C" fbc:name="YIR027C" />
-      <fbc:geneProduct fbc:id="G_YIR029W" fbc:label="YIR029W" fbc:name="YIR029W" />
-      <fbc:geneProduct fbc:id="G_YIR032C" fbc:label="YIR032C" fbc:name="YIR032C" />
-      <fbc:geneProduct fbc:id="G_YJL005W" fbc:label="YJL005W" fbc:name="YJL005W" />
-      <fbc:geneProduct fbc:id="G_YDR454C" fbc:label="YDR454C" fbc:name="YDR454C" />
-      <fbc:geneProduct fbc:id="G_YMR300C" fbc:label="YMR300C" fbc:name="YMR300C" />
-      <fbc:geneProduct fbc:id="G_YGL234W" fbc:label="YGL234W" fbc:name="YGL234W" />
-      <fbc:geneProduct fbc:id="G_YDR408C" fbc:label="YDR408C" fbc:name="YDR408C" />
-      <fbc:geneProduct fbc:id="G_YGR061C" fbc:label="YGR061C" fbc:name="YGR061C" />
-      <fbc:geneProduct fbc:id="G_YOR128C" fbc:label="YOR128C" fbc:name="YOR128C" />
-      <fbc:geneProduct fbc:id="G_YAR015W" fbc:label="YAR015W" fbc:name="YAR015W" />
-      <fbc:geneProduct fbc:id="G_YLR359W" fbc:label="YLR359W" fbc:name="YLR359W" />
-      <fbc:geneProduct fbc:id="G_YLR028C" fbc:label="YLR028C" fbc:name="YLR028C" />
-      <fbc:geneProduct fbc:id="G_YMR120C" fbc:label="YMR120C" fbc:name="YMR120C" />
-      <fbc:geneProduct fbc:id="G_YNL220W" fbc:label="YNL220W" fbc:name="YNL220W" />
-      <fbc:geneProduct fbc:id="G_YAR073W" fbc:label="YAR073W" fbc:name="YAR073W" />
-      <fbc:geneProduct fbc:id="G_YHR216W" fbc:label="YHR216W" fbc:name="YHR216W" />
-      <fbc:geneProduct fbc:id="G_YML056C" fbc:label="YML056C" fbc:name="YML056C" />
-      <fbc:geneProduct fbc:id="G_YLR432W" fbc:label="YLR432W" fbc:name="YLR432W" />
-      <fbc:geneProduct fbc:id="G_YAR075W" fbc:label="YAR075W" fbc:name="YAR075W" />
-      <fbc:geneProduct fbc:id="G_YMR217W" fbc:label="YMR217W" fbc:name="YMR217W" />
-      <fbc:geneProduct fbc:id="G_YML035C" fbc:label="YML035C" fbc:name="YML035C" />
-      <fbc:geneProduct fbc:id="G_YGL248W" fbc:label="YGL248W" fbc:name="YGL248W" />
-      <fbc:geneProduct fbc:id="G_YOR360C" fbc:label="YOR360C" fbc:name="YOR360C" />
-      <fbc:geneProduct fbc:id="G_YDR530C" fbc:label="YDR530C" fbc:name="YDR530C" />
-      <fbc:geneProduct fbc:id="G_YCL050C" fbc:label="YCL050C" fbc:name="YCL050C" />
-      <fbc:geneProduct fbc:id="G_YJL130C" fbc:label="YJL130C" fbc:name="YJL130C" />
-      <fbc:geneProduct fbc:id="G_YLR420W" fbc:label="YLR420W" fbc:name="YLR420W" />
-      <fbc:geneProduct fbc:id="G_YKL216W" fbc:label="YKL216W" fbc:name="YKL216W" />
-      <fbc:geneProduct fbc:id="G_YML106W" fbc:label="YML106W" fbc:name="YML106W" />
-      <fbc:geneProduct fbc:id="G_YMR271C" fbc:label="YMR271C" fbc:name="YMR271C" />
-      <fbc:geneProduct fbc:id="G_YEL021W" fbc:label="YEL021W" fbc:name="YEL021W" />
-      <fbc:geneProduct fbc:id="G_YKL024C" fbc:label="YKL024C" fbc:name="YKL024C" />
-      <fbc:geneProduct fbc:id="G_YHR128W" fbc:label="YHR128W" fbc:name="YHR128W" />
-      <fbc:geneProduct fbc:id="G_YPR062W" fbc:label="YPR062W" fbc:name="YPR062W" />
-      <fbc:geneProduct fbc:id="G_YNR012W" fbc:label="YNR012W" fbc:name="YNR012W" />
-      <fbc:geneProduct fbc:id="G_YLR209C" fbc:label="YLR209C" fbc:name="YLR209C" />
-      <fbc:geneProduct fbc:id="G_YLR245C" fbc:label="YLR245C" fbc:name="YLR245C" />
-      <fbc:geneProduct fbc:id="G_YJR057W" fbc:label="YJR057W" fbc:name="YJR057W" />
-      <fbc:geneProduct fbc:id="G_YDR353W" fbc:label="YDR353W" fbc:name="YDR353W" />
-      <fbc:geneProduct fbc:id="G_YHR106W" fbc:label="YHR106W" fbc:name="YHR106W" />
-      <fbc:geneProduct fbc:id="G_YBR252W" fbc:label="YBR252W" fbc:name="YBR252W" />
-      <fbc:geneProduct fbc:id="G_YOR074C" fbc:label="YOR074C" fbc:name="YOR074C" />
-      <fbc:geneProduct fbc:id="G_YHR144C" fbc:label="YHR144C" fbc:name="YHR144C" />
-      <fbc:geneProduct fbc:id="G_YBL039C" fbc:label="YBL039C" fbc:name="YBL039C" />
-      <fbc:geneProduct fbc:id="G_YJR103W" fbc:label="YJR103W" fbc:name="YJR103W" />
-      <fbc:geneProduct fbc:id="G_YNL292W" fbc:label="YNL292W" fbc:name="YNL292W" />
-      <fbc:geneProduct fbc:id="G_YPL212C" fbc:label="YPL212C" fbc:name="YPL212C" />
-      <fbc:geneProduct fbc:id="G_YGL063W" fbc:label="YGL063W" fbc:name="YGL063W" />
-      <fbc:geneProduct fbc:id="G_YFL001W" fbc:label="YFL001W" fbc:name="YFL001W" />
-      <fbc:geneProduct fbc:id="G_YML022W" fbc:label="YML022W" fbc:name="YML022W" />
-      <fbc:geneProduct fbc:id="G_YDR441C" fbc:label="YDR441C" fbc:name="YDR441C" />
-      <fbc:geneProduct fbc:id="G_YNL141W" fbc:label="YNL141W" fbc:name="YNL141W" />
-      <fbc:geneProduct fbc:id="G_YJR133W" fbc:label="YJR133W" fbc:name="YJR133W" />
-      <fbc:geneProduct fbc:id="G_YDR400W" fbc:label="YDR400W" fbc:name="YDR400W" />
-      <fbc:geneProduct fbc:id="G_YJR105W" fbc:label="YJR105W" fbc:name="YJR105W" />
-      <fbc:geneProduct fbc:id="G_YDR226W" fbc:label="YDR226W" fbc:name="YDR226W" />
-      <fbc:geneProduct fbc:id="G_YER170W" fbc:label="YER170W" fbc:name="YER170W" />
-      <fbc:geneProduct fbc:id="G_YIL066C" fbc:label="YIL066C" fbc:name="YIL066C" />
-      <fbc:geneProduct fbc:id="G_YKL067W" fbc:label="YKL067W" fbc:name="YKL067W" />
-      <fbc:geneProduct fbc:id="G_YDR399W" fbc:label="YDR399W" fbc:name="YDR399W" />
-      <fbc:geneProduct fbc:id="G_YER070W" fbc:label="YER070W" fbc:name="YER070W" />
-      <fbc:geneProduct fbc:id="G_YBR284W" fbc:label="YBR284W" fbc:name="YBR284W" />
-      <fbc:geneProduct fbc:id="G_YJL070C" fbc:label="YJL070C" fbc:name="YJL070C" />
-      <fbc:geneProduct fbc:id="G_YMR250W" fbc:label="YMR250W" fbc:name="YMR250W" />
-      <fbc:geneProduct fbc:id="G_YGR019W" fbc:label="YGR019W" fbc:name="YGR019W" />
-      <fbc:geneProduct fbc:id="G_YBR006W" fbc:label="YBR006W" fbc:name="YBR006W" />
-      <fbc:geneProduct fbc:id="G_YKL104C" fbc:label="YKL104C" fbc:name="YKL104C" />
-      <fbc:geneProduct fbc:id="G_YFL017C" fbc:label="YFL017C" fbc:name="YFL017C" />
-      <fbc:geneProduct fbc:id="G_YEL058W" fbc:label="YEL058W" fbc:name="YEL058W" />
-      <fbc:geneProduct fbc:id="G_YDL103C" fbc:label="YDL103C" fbc:name="YDL103C" />
-      <fbc:geneProduct fbc:id="G_YBR023C" fbc:label="YBR023C" fbc:name="YBR023C" />
-      <fbc:geneProduct fbc:id="G_YBR038W" fbc:label="YBR038W" fbc:name="YBR038W" />
-      <fbc:geneProduct fbc:id="G_YNL192W" fbc:label="YNL192W" fbc:name="YNL192W" />
-      <fbc:geneProduct fbc:id="G_YHR037W" fbc:label="YHR037W" fbc:name="YHR037W" />
-      <fbc:geneProduct fbc:id="G_YDL171C" fbc:label="YDL171C" fbc:name="YDL171C" />
-      <fbc:geneProduct fbc:id="G_YDL215C" fbc:label="YDL215C" fbc:name="YDL215C" />
-      <fbc:geneProduct fbc:id="G_YAL062W" fbc:label="YAL062W" fbc:name="YAL062W" />
-      <fbc:geneProduct fbc:id="G_YOR375C" fbc:label="YOR375C" fbc:name="YOR375C" />
-      <fbc:geneProduct fbc:id="G_YPR035W" fbc:label="YPR035W" fbc:name="YPR035W" />
-      <fbc:geneProduct fbc:id="G_YBR149W" fbc:label="YBR149W" fbc:name="YBR149W" />
-      <fbc:geneProduct fbc:id="G_YGR194C" fbc:label="YGR194C" fbc:name="YGR194C" />
-      <fbc:geneProduct fbc:id="G_YKL106W" fbc:label="YKL106W" fbc:name="YKL106W" />
-      <fbc:geneProduct fbc:id="G_YLR027C" fbc:label="YLR027C" fbc:name="YLR027C" />
-      <fbc:geneProduct fbc:id="G_YAR035W" fbc:label="YAR035W" fbc:name="YAR035W" />
-      <fbc:geneProduct fbc:id="G_YML042W" fbc:label="YML042W" fbc:name="YML042W" />
-      <fbc:geneProduct fbc:id="G_YDR111C" fbc:label="YDR111C" fbc:name="YDR111C" />
-      <fbc:geneProduct fbc:id="G_YLR089C" fbc:label="YLR089C" fbc:name="YLR089C" />
-      <fbc:geneProduct fbc:id="G_YPR145W" fbc:label="YPR145W" fbc:name="YPR145W" />
-      <fbc:geneProduct fbc:id="G_YGR124W" fbc:label="YGR124W" fbc:name="YGR124W" />
-      <fbc:geneProduct fbc:id="G_YLL062C" fbc:label="YLL062C" fbc:name="YLL062C" />
-      <fbc:geneProduct fbc:id="G_YPL273W" fbc:label="YPL273W" fbc:name="YPL273W" />
-      <fbc:geneProduct fbc:id="G_YCR024C" fbc:label="YCR024C" fbc:name="YCR024C" />
+      <fbc:geneProduct fbc:id="G_YHL012W" fbc:label="YHL012W" fbc:name="YHL012W" />
+      <fbc:geneProduct fbc:id="G_YHL016C" fbc:label="YHL016C" fbc:name="YHL016C" />
+      <fbc:geneProduct fbc:id="G_YHL032C" fbc:label="YHL032C" fbc:name="YHL032C" />
+      <fbc:geneProduct fbc:id="G_YHL036W" fbc:label="YHL036W" fbc:name="YHL036W" />
+      <fbc:geneProduct fbc:id="G_YHR007C" fbc:label="YHR007C" fbc:name="YHR007C" />
+      <fbc:geneProduct fbc:id="G_YHR018C" fbc:label="YHR018C" fbc:name="YHR018C" />
       <fbc:geneProduct fbc:id="G_YHR019C" fbc:label="YHR019C" fbc:name="YHR019C" />
+      <fbc:geneProduct fbc:id="G_YHR025W" fbc:label="YHR025W" fbc:name="YHR025W" />
+      <fbc:geneProduct fbc:id="G_YHR037W" fbc:label="YHR037W" fbc:name="YHR037W" />
+      <fbc:geneProduct fbc:id="G_YHR042W" fbc:label="YHR042W" fbc:name="YHR042W" />
+      <fbc:geneProduct fbc:id="G_YHR046C" fbc:label="YHR046C" fbc:name="YHR046C" />
+      <fbc:geneProduct fbc:id="G_YHR063C" fbc:label="YHR063C" fbc:name="YHR063C" />
+      <fbc:geneProduct fbc:id="G_YHR068W" fbc:label="YHR068W" fbc:name="YHR068W" />
+      <fbc:geneProduct fbc:id="G_YHR072W" fbc:label="YHR072W" fbc:name="YHR072W" />
+      <fbc:geneProduct fbc:id="G_YHR074W" fbc:label="YHR074W" fbc:name="YHR074W" />
+      <fbc:geneProduct fbc:id="G_YHR091C" fbc:label="YHR091C" fbc:name="YHR091C" />
+      <fbc:geneProduct fbc:id="G_YHR092C" fbc:label="YHR092C" fbc:name="YHR092C" />
+      <fbc:geneProduct fbc:id="G_YHR094C" fbc:label="YHR094C" fbc:name="YHR094C" />
+      <fbc:geneProduct fbc:id="G_YHR096C" fbc:label="YHR096C" fbc:name="YHR096C" />
+      <fbc:geneProduct fbc:id="G_YHR106W" fbc:label="YHR106W" fbc:name="YHR106W" />
+      <fbc:geneProduct fbc:id="G_YHR123W" fbc:label="YHR123W" fbc:name="YHR123W" />
+      <fbc:geneProduct fbc:id="G_YHR128W" fbc:label="YHR128W" fbc:name="YHR128W" />
+      <fbc:geneProduct fbc:id="G_YHR137W" fbc:label="YHR137W" fbc:name="YHR137W" />
+      <fbc:geneProduct fbc:id="G_YHR144C" fbc:label="YHR144C" fbc:name="YHR144C" />
+      <fbc:geneProduct fbc:id="G_YHR163W" fbc:label="YHR163W" fbc:name="YHR163W" />
+      <fbc:geneProduct fbc:id="G_YHR174W" fbc:label="YHR174W" fbc:name="YHR174W" />
+      <fbc:geneProduct fbc:id="G_YHR183W" fbc:label="YHR183W" fbc:name="YHR183W" />
+      <fbc:geneProduct fbc:id="G_YHR190W" fbc:label="YHR190W" fbc:name="YHR190W" />
+      <fbc:geneProduct fbc:id="G_YHR208W" fbc:label="YHR208W" fbc:name="YHR208W" />
+      <fbc:geneProduct fbc:id="G_YHR216W" fbc:label="YHR216W" fbc:name="YHR216W" />
+      <fbc:geneProduct fbc:id="G_YIL009W" fbc:label="YIL009W" fbc:name="YIL009W" />
+      <fbc:geneProduct fbc:id="G_YIL020C" fbc:label="YIL020C" fbc:name="YIL020C" />
+      <fbc:geneProduct fbc:id="G_YIL053W" fbc:label="YIL053W" fbc:name="YIL053W" />
+      <fbc:geneProduct fbc:id="G_YIL066C" fbc:label="YIL066C" fbc:name="YIL066C" />
+      <fbc:geneProduct fbc:id="G_YIL074C" fbc:label="YIL074C" fbc:name="YIL074C" />
+      <fbc:geneProduct fbc:id="G_YIL094C" fbc:label="YIL094C" fbc:name="YIL094C" />
+      <fbc:geneProduct fbc:id="G_YIL107C" fbc:label="YIL107C" fbc:name="YIL107C" />
+      <fbc:geneProduct fbc:id="G_YIL116W" fbc:label="YIL116W" fbc:name="YIL116W" />
+      <fbc:geneProduct fbc:id="G_YIL125W" fbc:label="YIL125W" fbc:name="YIL125W" />
+      <fbc:geneProduct fbc:id="G_YIL134W" fbc:label="YIL134W" fbc:name="YIL134W" />
+      <fbc:geneProduct fbc:id="G_YIL145C" fbc:label="YIL145C" fbc:name="YIL145C" />
+      <fbc:geneProduct fbc:id="G_YIL155C" fbc:label="YIL155C" fbc:name="YIL155C" />
+      <fbc:geneProduct fbc:id="G_YIL160C" fbc:label="YIL160C" fbc:name="YIL160C" />
+      <fbc:geneProduct fbc:id="G_YIL162W" fbc:label="YIL162W" fbc:name="YIL162W" />
+      <fbc:geneProduct fbc:id="G_YIL167W" fbc:label="YIL167W" fbc:name="YIL167W" />
+      <fbc:geneProduct fbc:id="G_YIL172C" fbc:label="YIL172C" fbc:name="YIL172C" />
+      <fbc:geneProduct fbc:id="G_YIR027C" fbc:label="YIR027C" fbc:name="YIR027C" />
+      <fbc:geneProduct fbc:id="G_YIR028W" fbc:label="YIR028W" fbc:name="YIR028W" />
+      <fbc:geneProduct fbc:id="G_YIR029W" fbc:label="YIR029W" fbc:name="YIR029W" />
+      <fbc:geneProduct fbc:id="G_YIR031C" fbc:label="YIR031C" fbc:name="YIR031C" />
+      <fbc:geneProduct fbc:id="G_YIR032C" fbc:label="YIR032C" fbc:name="YIR032C" />
+      <fbc:geneProduct fbc:id="G_YIR034C" fbc:label="YIR034C" fbc:name="YIR034C" />
+      <fbc:geneProduct fbc:id="G_YIR037W" fbc:label="YIR037W" fbc:name="YIR037W" />
+      <fbc:geneProduct fbc:id="G_YJL005W" fbc:label="YJL005W" fbc:name="YJL005W" />
+      <fbc:geneProduct fbc:id="G_YJL052W" fbc:label="YJL052W" fbc:name="YJL052W" />
+      <fbc:geneProduct fbc:id="G_YJL068C" fbc:label="YJL068C" fbc:name="YJL068C" />
+      <fbc:geneProduct fbc:id="G_YJL070C" fbc:label="YJL070C" fbc:name="YJL070C" />
+      <fbc:geneProduct fbc:id="G_YJL088W" fbc:label="YJL088W" fbc:name="YJL088W" />
+      <fbc:geneProduct fbc:id="G_YJL101C" fbc:label="YJL101C" fbc:name="YJL101C" />
+      <fbc:geneProduct fbc:id="G_YJL121C" fbc:label="YJL121C" fbc:name="YJL121C" />
+      <fbc:geneProduct fbc:id="G_YJL126W" fbc:label="YJL126W" fbc:name="YJL126W" />
+      <fbc:geneProduct fbc:id="G_YJL129C" fbc:label="YJL129C" fbc:name="YJL129C" />
+      <fbc:geneProduct fbc:id="G_YJL130C" fbc:label="YJL130C" fbc:name="YJL130C" />
+      <fbc:geneProduct fbc:id="G_YJL134W" fbc:label="YJL134W" fbc:name="YJL134W" />
+      <fbc:geneProduct fbc:id="G_YJL139C" fbc:label="YJL139C" fbc:name="YJL139C" />
+      <fbc:geneProduct fbc:id="G_YJL153C" fbc:label="YJL153C" fbc:name="YJL153C" />
+      <fbc:geneProduct fbc:id="G_YJL155C" fbc:label="YJL155C" fbc:name="YJL155C" />
+      <fbc:geneProduct fbc:id="G_YJL167W" fbc:label="YJL167W" fbc:name="YJL167W" />
+      <fbc:geneProduct fbc:id="G_YJL200C" fbc:label="YJL200C" fbc:name="YJL200C" />
+      <fbc:geneProduct fbc:id="G_YJL214W" fbc:label="YJL214W" fbc:name="YJL214W" />
+      <fbc:geneProduct fbc:id="G_YJL216C" fbc:label="YJL216C" fbc:name="YJL216C" />
+      <fbc:geneProduct fbc:id="G_YJL219W" fbc:label="YJL219W" fbc:name="YJL219W" />
+      <fbc:geneProduct fbc:id="G_YJL221C" fbc:label="YJL221C" fbc:name="YJL221C" />
+      <fbc:geneProduct fbc:id="G_YJR009C" fbc:label="YJR009C" fbc:name="YJR009C" />
+      <fbc:geneProduct fbc:id="G_YJR010W" fbc:label="YJR010W" fbc:name="YJR010W" />
+      <fbc:geneProduct fbc:id="G_YJR016C" fbc:label="YJR016C" fbc:name="YJR016C" />
+      <fbc:geneProduct fbc:id="G_YJR025C" fbc:label="YJR025C" fbc:name="YJR025C" />
+      <fbc:geneProduct fbc:id="G_YJR049C" fbc:label="YJR049C" fbc:name="YJR049C" />
+      <fbc:geneProduct fbc:id="G_YJR051W" fbc:label="YJR051W" fbc:name="YJR051W" />
+      <fbc:geneProduct fbc:id="G_YJR057W" fbc:label="YJR057W" fbc:name="YJR057W" />
+      <fbc:geneProduct fbc:id="G_YJR066W" fbc:label="YJR066W" fbc:name="YJR066W" />
+      <fbc:geneProduct fbc:id="G_YJR073C" fbc:label="YJR073C" fbc:name="YJR073C" />
+      <fbc:geneProduct fbc:id="G_YJR077C" fbc:label="YJR077C" fbc:name="YJR077C" />
+      <fbc:geneProduct fbc:id="G_YJR078W" fbc:label="YJR078W" fbc:name="YJR078W" />
+      <fbc:geneProduct fbc:id="G_YJR095W" fbc:label="YJR095W" fbc:name="YJR095W" />
+      <fbc:geneProduct fbc:id="G_YJR103W" fbc:label="YJR103W" fbc:name="YJR103W" />
+      <fbc:geneProduct fbc:id="G_YJR105W" fbc:label="YJR105W" fbc:name="YJR105W" />
+      <fbc:geneProduct fbc:id="G_YJR109C" fbc:label="YJR109C" fbc:name="YJR109C" />
+      <fbc:geneProduct fbc:id="G_YJR133W" fbc:label="YJR133W" fbc:name="YJR133W" />
+      <fbc:geneProduct fbc:id="G_YJR137C" fbc:label="YJR137C" fbc:name="YJR137C" />
+      <fbc:geneProduct fbc:id="G_YJR139C" fbc:label="YJR139C" fbc:name="YJR139C" />
+      <fbc:geneProduct fbc:id="G_YJR143C" fbc:label="YJR143C" fbc:name="YJR143C" />
+      <fbc:geneProduct fbc:id="G_YJR148W" fbc:label="YJR148W" fbc:name="YJR148W" />
+      <fbc:geneProduct fbc:id="G_YJR152W" fbc:label="YJR152W" fbc:name="YJR152W" />
+      <fbc:geneProduct fbc:id="G_YJR158W" fbc:label="YJR158W" fbc:name="YJR158W" />
+      <fbc:geneProduct fbc:id="G_YJR159W" fbc:label="YJR159W" fbc:name="YJR159W" />
+      <fbc:geneProduct fbc:id="G_YKL001C" fbc:label="YKL001C" fbc:name="YKL001C" />
+      <fbc:geneProduct fbc:id="G_YKL004W" fbc:label="YKL004W" fbc:name="YKL004W" />
+      <fbc:geneProduct fbc:id="G_YKL024C" fbc:label="YKL024C" fbc:name="YKL024C" />
+      <fbc:geneProduct fbc:id="G_YKL026C" fbc:label="YKL026C" fbc:name="YKL026C" />
+      <fbc:geneProduct fbc:id="G_YKL029C" fbc:label="YKL029C" fbc:name="YKL029C" />
+      <fbc:geneProduct fbc:id="G_YKL035W" fbc:label="YKL035W" fbc:name="YKL035W" />
+      <fbc:geneProduct fbc:id="G_YKL055C" fbc:label="YKL055C" fbc:name="YKL055C" />
+      <fbc:geneProduct fbc:id="G_YKL060C" fbc:label="YKL060C" fbc:name="YKL060C" />
+      <fbc:geneProduct fbc:id="G_YKL067W" fbc:label="YKL067W" fbc:name="YKL067W" />
+      <fbc:geneProduct fbc:id="G_YKL085W" fbc:label="YKL085W" fbc:name="YKL085W" />
+      <fbc:geneProduct fbc:id="G_YKL104C" fbc:label="YKL104C" fbc:name="YKL104C" />
+      <fbc:geneProduct fbc:id="G_YKL106W" fbc:label="YKL106W" fbc:name="YKL106W" />
+      <fbc:geneProduct fbc:id="G_YKL120W" fbc:label="YKL120W" fbc:name="YKL120W" />
+      <fbc:geneProduct fbc:id="G_YKL127W" fbc:label="YKL127W" fbc:name="YKL127W" />
+      <fbc:geneProduct fbc:id="G_YKL132C" fbc:label="YKL132C" fbc:name="YKL132C" />
+      <fbc:geneProduct fbc:id="G_YKL141W" fbc:label="YKL141W" fbc:name="YKL141W" />
+      <fbc:geneProduct fbc:id="G_YKL152C" fbc:label="YKL152C" fbc:name="YKL152C" />
+      <fbc:geneProduct fbc:id="G_YKL181W" fbc:label="YKL181W" fbc:name="YKL181W" />
+      <fbc:geneProduct fbc:id="G_YKL182W" fbc:label="YKL182W" fbc:name="YKL182W" />
+      <fbc:geneProduct fbc:id="G_YKL184W" fbc:label="YKL184W" fbc:name="YKL184W" />
+      <fbc:geneProduct fbc:id="G_YKL192C" fbc:label="YKL192C" fbc:name="YKL192C" />
+      <fbc:geneProduct fbc:id="G_YKL203C" fbc:label="YKL203C" fbc:name="YKL203C" />
+      <fbc:geneProduct fbc:id="G_YKL211C" fbc:label="YKL211C" fbc:name="YKL211C" />
+      <fbc:geneProduct fbc:id="G_YKL216W" fbc:label="YKL216W" fbc:name="YKL216W" />
+      <fbc:geneProduct fbc:id="G_YKL217W" fbc:label="YKL217W" fbc:name="YKL217W" />
+      <fbc:geneProduct fbc:id="G_YKR009C" fbc:label="YKR009C" fbc:name="YKR009C" />
+      <fbc:geneProduct fbc:id="G_YKR039W" fbc:label="YKR039W" fbc:name="YKR039W" />
+      <fbc:geneProduct fbc:id="G_YKR053C" fbc:label="YKR053C" fbc:name="YKR053C" />
+      <fbc:geneProduct fbc:id="G_YKR061W" fbc:label="YKR061W" fbc:name="YKR061W" />
+      <fbc:geneProduct fbc:id="G_YKR069W" fbc:label="YKR069W" fbc:name="YKR069W" />
+      <fbc:geneProduct fbc:id="G_YKR080W" fbc:label="YKR080W" fbc:name="YKR080W" />
+      <fbc:geneProduct fbc:id="G_YKR093W" fbc:label="YKR093W" fbc:name="YKR093W" />
+      <fbc:geneProduct fbc:id="G_YKR097W" fbc:label="YKR097W" fbc:name="YKR097W" />
+      <fbc:geneProduct fbc:id="G_YLL043W" fbc:label="YLL043W" fbc:name="YLL043W" />
+      <fbc:geneProduct fbc:id="G_YLL061W" fbc:label="YLL061W" fbc:name="YLL061W" />
+      <fbc:geneProduct fbc:id="G_YLL062C" fbc:label="YLL062C" fbc:name="YLL062C" />
+      <fbc:geneProduct fbc:id="G_YLR027C" fbc:label="YLR027C" fbc:name="YLR027C" />
+      <fbc:geneProduct fbc:id="G_YLR028C" fbc:label="YLR028C" fbc:name="YLR028C" />
+      <fbc:geneProduct fbc:id="G_YLR044C" fbc:label="YLR044C" fbc:name="YLR044C" />
+      <fbc:geneProduct fbc:id="G_YLR056W" fbc:label="YLR056W" fbc:name="YLR056W" />
+      <fbc:geneProduct fbc:id="G_YLR058C" fbc:label="YLR058C" fbc:name="YLR058C" />
+      <fbc:geneProduct fbc:id="G_YLR081W" fbc:label="YLR081W" fbc:name="YLR081W" />
+      <fbc:geneProduct fbc:id="G_YLR089C" fbc:label="YLR089C" fbc:name="YLR089C" />
+      <fbc:geneProduct fbc:id="G_YLR092W" fbc:label="YLR092W" fbc:name="YLR092W" />
+      <fbc:geneProduct fbc:id="G_YLR100W" fbc:label="YLR100W" fbc:name="YLR100W" />
+      <fbc:geneProduct fbc:id="G_YLR133W" fbc:label="YLR133W" fbc:name="YLR133W" />
+      <fbc:geneProduct fbc:id="G_YLR134W" fbc:label="YLR134W" fbc:name="YLR134W" />
+      <fbc:geneProduct fbc:id="G_YLR138W" fbc:label="YLR138W" fbc:name="YLR138W" />
+      <fbc:geneProduct fbc:id="G_YLR142W" fbc:label="YLR142W" fbc:name="YLR142W" />
+      <fbc:geneProduct fbc:id="G_YLR146C" fbc:label="YLR146C" fbc:name="YLR146C" />
+      <fbc:geneProduct fbc:id="G_YLR153C" fbc:label="YLR153C" fbc:name="YLR153C" />
       <fbc:geneProduct fbc:id="G_YLR155C" fbc:label="YLR155C" fbc:name="YLR155C" />
       <fbc:geneProduct fbc:id="G_YLR157C" fbc:label="YLR157C" fbc:name="YLR157C" />
       <fbc:geneProduct fbc:id="G_YLR158C" fbc:label="YLR158C" fbc:name="YLR158C" />
       <fbc:geneProduct fbc:id="G_YLR160C" fbc:label="YLR160C" fbc:name="YLR160C" />
-      <fbc:geneProduct fbc:id="G_YDR321W" fbc:label="YDR321W" fbc:name="YDR321W" />
-      <fbc:geneProduct fbc:id="G_YER081W" fbc:label="YER081W" fbc:name="YER081W" />
-      <fbc:geneProduct fbc:id="G_YIL074C" fbc:label="YIL074C" fbc:name="YIL074C" />
-      <fbc:geneProduct fbc:id="G_YOR184W" fbc:label="YOR184W" fbc:name="YOR184W" />
-      <fbc:geneProduct fbc:id="G_YGR208W" fbc:label="YGR208W" fbc:name="YGR208W" />
-      <fbc:geneProduct fbc:id="G_YBR263W" fbc:label="YBR263W" fbc:name="YBR263W" />
-      <fbc:geneProduct fbc:id="G_YLR058C" fbc:label="YLR058C" fbc:name="YLR058C" />
-      <fbc:geneProduct fbc:id="G_YFL030W" fbc:label="YFL030W" fbc:name="YFL030W" />
-      <fbc:geneProduct fbc:id="G_YDR019C" fbc:label="YDR019C" fbc:name="YDR019C" />
-      <fbc:geneProduct fbc:id="G_YER052C" fbc:label="YER052C" fbc:name="YER052C" />
-      <fbc:geneProduct fbc:id="G_YDR158W" fbc:label="YDR158W" fbc:name="YDR158W" />
-      <fbc:geneProduct fbc:id="G_YJR139C" fbc:label="YJR139C" fbc:name="YJR139C" />
-      <fbc:geneProduct fbc:id="G_YHR025W" fbc:label="YHR025W" fbc:name="YHR025W" />
-      <fbc:geneProduct fbc:id="G_YCR053W" fbc:label="YCR053W" fbc:name="YCR053W" />
-      <fbc:geneProduct fbc:id="G_YGR155W" fbc:label="YGR155W" fbc:name="YGR155W" />
-      <fbc:geneProduct fbc:id="G_YEL046C" fbc:label="YEL046C" fbc:name="YEL046C" />
-      <fbc:geneProduct fbc:id="G_YMR189W" fbc:label="YMR189W" fbc:name="YMR189W" />
-      <fbc:geneProduct fbc:id="G_YCL064C" fbc:label="YCL064C" fbc:name="YCL064C" />
-      <fbc:geneProduct fbc:id="G_YER086W" fbc:label="YER086W" fbc:name="YER086W" />
-      <fbc:geneProduct fbc:id="G_YIL167W" fbc:label="YIL167W" fbc:name="YIL167W" />
-      <fbc:geneProduct fbc:id="G_YFR055W" fbc:label="YFR055W" fbc:name="YFR055W" />
-      <fbc:geneProduct fbc:id="G_YER043C" fbc:label="YER043C" fbc:name="YER043C" />
-      <fbc:geneProduct fbc:id="G_YER091C" fbc:label="YER091C" fbc:name="YER091C" />
-      <fbc:geneProduct fbc:id="G_YAL012W" fbc:label="YAL012W" fbc:name="YAL012W" />
-      <fbc:geneProduct fbc:id="G_YNL277W" fbc:label="YNL277W" fbc:name="YNL277W" />
-      <fbc:geneProduct fbc:id="G_YLR303W" fbc:label="YLR303W" fbc:name="YLR303W" />
-      <fbc:geneProduct fbc:id="G_YML082W" fbc:label="YML082W" fbc:name="YML082W" />
-      <fbc:geneProduct fbc:id="G_YDR502C" fbc:label="YDR502C" fbc:name="YDR502C" />
-      <fbc:geneProduct fbc:id="G_YLR180W" fbc:label="YLR180W" fbc:name="YLR180W" />
       <fbc:geneProduct fbc:id="G_YLR172C" fbc:label="YLR172C" fbc:name="YLR172C" />
-      <fbc:geneProduct fbc:id="G_YJR010W" fbc:label="YJR010W" fbc:name="YJR010W" />
-      <fbc:geneProduct fbc:id="G_YKL001C" fbc:label="YKL001C" fbc:name="YKL001C" />
-      <fbc:geneProduct fbc:id="G_YFR030W" fbc:label="YFR030W" fbc:name="YFR030W" />
-      <fbc:geneProduct fbc:id="G_YGR012W" fbc:label="YGR012W" fbc:name="YGR012W" />
-      <fbc:geneProduct fbc:id="G_YOL064C" fbc:label="YOL064C" fbc:name="YOL064C" />
-      <fbc:geneProduct fbc:id="G_YPR167C" fbc:label="YPR167C" fbc:name="YPR167C" />
-      <fbc:geneProduct fbc:id="G_YHR208W" fbc:label="YHR208W" fbc:name="YHR208W" />
-      <fbc:geneProduct fbc:id="G_YJR148W" fbc:label="YJR148W" fbc:name="YJR148W" />
-      <fbc:geneProduct fbc:id="G_YMR108W" fbc:label="YMR108W" fbc:name="YMR108W" />
-      <fbc:geneProduct fbc:id="G_YLR355C" fbc:label="YLR355C" fbc:name="YLR355C" />
-      <fbc:geneProduct fbc:id="G_YJR016C" fbc:label="YJR016C" fbc:name="YJR016C" />
-      <fbc:geneProduct fbc:id="G_YNL104C" fbc:label="YNL104C" fbc:name="YNL104C" />
-      <fbc:geneProduct fbc:id="G_YGL009C" fbc:label="YGL009C" fbc:name="YGL009C" />
-      <fbc:geneProduct fbc:id="G_YCL018W" fbc:label="YCL018W" fbc:name="YCL018W" />
-      <fbc:geneProduct fbc:id="G_YDR234W" fbc:label="YDR234W" fbc:name="YDR234W" />
-      <fbc:geneProduct fbc:id="G_YIL094C" fbc:label="YIL094C" fbc:name="YIL094C" />
-      <fbc:geneProduct fbc:id="G_YBR115C" fbc:label="YBR115C" fbc:name="YBR115C" />
-      <fbc:geneProduct fbc:id="G_YNR050C" fbc:label="YNR050C" fbc:name="YNR050C" />
-      <fbc:geneProduct fbc:id="G_YIR034C" fbc:label="YIR034C" fbc:name="YIR034C" />
-      <fbc:geneProduct fbc:id="G_YDR037W" fbc:label="YDR037W" fbc:name="YDR037W" />
-      <fbc:geneProduct fbc:id="G_YNL073W" fbc:label="YNL073W" fbc:name="YNL073W" />
-      <fbc:geneProduct fbc:id="G_YMR062C" fbc:label="YMR062C" fbc:name="YMR062C" />
-      <fbc:geneProduct fbc:id="G_YER069W" fbc:label="YER069W" fbc:name="YER069W" />
-      <fbc:geneProduct fbc:id="G_YOL140W" fbc:label="YOL140W" fbc:name="YOL140W" />
-      <fbc:geneProduct fbc:id="G_YJR109C" fbc:label="YJR109C" fbc:name="YJR109C" />
-      <fbc:geneProduct fbc:id="G_YJL088W" fbc:label="YJL088W" fbc:name="YJL088W" />
-      <fbc:geneProduct fbc:id="G_YLR438W" fbc:label="YLR438W" fbc:name="YLR438W" />
-      <fbc:geneProduct fbc:id="G_YOL058W" fbc:label="YOL058W" fbc:name="YOL058W" />
-      <fbc:geneProduct fbc:id="G_YHR018C" fbc:label="YHR018C" fbc:name="YHR018C" />
-      <fbc:geneProduct fbc:id="G_YKL184W" fbc:label="YKL184W" fbc:name="YKL184W" />
-      <fbc:geneProduct fbc:id="G_YOL052C" fbc:label="YOL052C" fbc:name="YOL052C" />
-      <fbc:geneProduct fbc:id="G_YPR069C" fbc:label="YPR069C" fbc:name="YPR069C" />
-      <fbc:geneProduct fbc:id="G_YLR146C" fbc:label="YLR146C" fbc:name="YLR146C" />
-      <fbc:geneProduct fbc:id="G_YDR242W" fbc:label="YDR242W" fbc:name="YDR242W" />
-      <fbc:geneProduct fbc:id="G_YMR293C" fbc:label="YMR293C" fbc:name="YMR293C" />
-      <fbc:geneProduct fbc:id="G_YPL111W" fbc:label="YPL111W" fbc:name="YPL111W" />
-      <fbc:geneProduct fbc:id="G_YDR341C" fbc:label="YDR341C" fbc:name="YDR341C" />
-      <fbc:geneProduct fbc:id="G_YHR091C" fbc:label="YHR091C" fbc:name="YHR091C" />
-      <fbc:geneProduct fbc:id="G_YHR068W" fbc:label="YHR068W" fbc:name="YHR068W" />
-      <fbc:geneProduct fbc:id="G_YER055C" fbc:label="YER055C" fbc:name="YER055C" />
-      <fbc:geneProduct fbc:id="G_YCL030C" fbc:label="YCL030C" fbc:name="YCL030C" />
-      <fbc:geneProduct fbc:id="G_YIL020C" fbc:label="YIL020C" fbc:name="YIL020C" />
-      <fbc:geneProduct fbc:id="G_YOR202W" fbc:label="YOR202W" fbc:name="YOR202W" />
-      <fbc:geneProduct fbc:id="G_YIL116W" fbc:label="YIL116W" fbc:name="YIL116W" />
-      <fbc:geneProduct fbc:id="G_YFR025C" fbc:label="YFR025C" fbc:name="YFR025C" />
-      <fbc:geneProduct fbc:id="G_YBR248C" fbc:label="YBR248C" fbc:name="YBR248C" />
-      <fbc:geneProduct fbc:id="G_YPR033C" fbc:label="YPR033C" fbc:name="YPR033C" />
-      <fbc:geneProduct fbc:id="G_YBR034C" fbc:label="YBR034C" fbc:name="YBR034C" />
-      <fbc:geneProduct fbc:id="G_YBR249C" fbc:label="YBR249C" fbc:name="YBR249C" />
-      <fbc:geneProduct fbc:id="G_YDR035W" fbc:label="YDR035W" fbc:name="YDR035W" />
-      <fbc:geneProduct fbc:id="G_YDR127W" fbc:label="YDR127W" fbc:name="YDR127W" />
-      <fbc:geneProduct fbc:id="G_YGL148W" fbc:label="YGL148W" fbc:name="YGL148W" />
-      <fbc:geneProduct fbc:id="G_YPR060C" fbc:label="YPR060C" fbc:name="YPR060C" />
-      <fbc:geneProduct fbc:id="G_YNL316C" fbc:label="YNL316C" fbc:name="YNL316C" />
-      <fbc:geneProduct fbc:id="G_YHR137W" fbc:label="YHR137W" fbc:name="YHR137W" />
-      <fbc:geneProduct fbc:id="G_YBR166C" fbc:label="YBR166C" fbc:name="YBR166C" />
-      <fbc:geneProduct fbc:id="G_YGL202W" fbc:label="YGL202W" fbc:name="YGL202W" />
-      <fbc:geneProduct fbc:id="G_YER090W" fbc:label="YER090W" fbc:name="YER090W" />
-      <fbc:geneProduct fbc:id="G_YKL211C" fbc:label="YKL211C" fbc:name="YKL211C" />
-      <fbc:geneProduct fbc:id="G_YDR354W" fbc:label="YDR354W" fbc:name="YDR354W" />
-      <fbc:geneProduct fbc:id="G_YDR007W" fbc:label="YDR007W" fbc:name="YDR007W" />
-      <fbc:geneProduct fbc:id="G_YGL026C" fbc:label="YGL026C" fbc:name="YGL026C" />
-      <fbc:geneProduct fbc:id="G_YDR256C" fbc:label="YDR256C" fbc:name="YDR256C" />
-      <fbc:geneProduct fbc:id="G_YGR088W" fbc:label="YGR088W" fbc:name="YGR088W" />
-      <fbc:geneProduct fbc:id="G_YMR170C" fbc:label="YMR170C" fbc:name="YMR170C" />
-      <fbc:geneProduct fbc:id="G_YMR169C" fbc:label="YMR169C" fbc:name="YMR169C" />
-      <fbc:geneProduct fbc:id="G_YOR374W" fbc:label="YOR374W" fbc:name="YOR374W" />
-      <fbc:geneProduct fbc:id="G_YER073W" fbc:label="YER073W" fbc:name="YER073W" />
-      <fbc:geneProduct fbc:id="G_YPL061W" fbc:label="YPL061W" fbc:name="YPL061W" />
-      <fbc:geneProduct fbc:id="G_YJR078W" fbc:label="YJR078W" fbc:name="YJR078W" />
-      <fbc:geneProduct fbc:id="G_YLR231C" fbc:label="YLR231C" fbc:name="YLR231C" />
-      <fbc:geneProduct fbc:id="G_YBL098W" fbc:label="YBL098W" fbc:name="YBL098W" />
-      <fbc:geneProduct fbc:id="G_YJR025C" fbc:label="YJR025C" fbc:name="YJR025C" />
-      <fbc:geneProduct fbc:id="G_YDR268W" fbc:label="YDR268W" fbc:name="YDR268W" />
-      <fbc:geneProduct fbc:id="G_YDR300C" fbc:label="YDR300C" fbc:name="YDR300C" />
-      <fbc:geneProduct fbc:id="G_YOR323C" fbc:label="YOR323C" fbc:name="YOR323C" />
-      <fbc:geneProduct fbc:id="G_YER023W" fbc:label="YER023W" fbc:name="YER023W" />
-      <fbc:geneProduct fbc:id="G_YLR142W" fbc:label="YLR142W" fbc:name="YLR142W" />
+      <fbc:geneProduct fbc:id="G_YLR174W" fbc:label="YLR174W" fbc:name="YLR174W" />
+      <fbc:geneProduct fbc:id="G_YLR180W" fbc:label="YLR180W" fbc:name="YLR180W" />
       <fbc:geneProduct fbc:id="G_YLR195C" fbc:label="YLR195C" fbc:name="YLR195C" />
-      <fbc:geneProduct fbc:id="G_YDL040C" fbc:label="YDL040C" fbc:name="YDL040C" />
-      <fbc:geneProduct fbc:id="G_YGR147C" fbc:label="YGR147C" fbc:name="YGR147C" />
-      <fbc:geneProduct fbc:id="G_YJL101C" fbc:label="YJL101C" fbc:name="YJL101C" />
-      <fbc:geneProduct fbc:id="G_YOL049W" fbc:label="YOL049W" fbc:name="YOL049W" />
-      <fbc:geneProduct fbc:id="G_YBR244W" fbc:label="YBR244W" fbc:name="YBR244W" />
-      <fbc:geneProduct fbc:id="G_YIR037W" fbc:label="YIR037W" fbc:name="YIR037W" />
-      <fbc:geneProduct fbc:id="G_YKL026C" fbc:label="YKL026C" fbc:name="YKL026C" />
-      <fbc:geneProduct fbc:id="G_YPL091W" fbc:label="YPL091W" fbc:name="YPL091W" />
+      <fbc:geneProduct fbc:id="G_YLR209C" fbc:label="YLR209C" fbc:name="YLR209C" />
+      <fbc:geneProduct fbc:id="G_YLR231C" fbc:label="YLR231C" fbc:name="YLR231C" />
+      <fbc:geneProduct fbc:id="G_YLR237W" fbc:label="YLR237W" fbc:name="YLR237W" />
+      <fbc:geneProduct fbc:id="G_YLR240W" fbc:label="YLR240W" fbc:name="YLR240W" />
+      <fbc:geneProduct fbc:id="G_YLR245C" fbc:label="YLR245C" fbc:name="YLR245C" />
+      <fbc:geneProduct fbc:id="G_YLR258W" fbc:label="YLR258W" fbc:name="YLR258W" />
+      <fbc:geneProduct fbc:id="G_YLR260W" fbc:label="YLR260W" fbc:name="YLR260W" />
       <fbc:geneProduct fbc:id="G_YLR299W" fbc:label="YLR299W" fbc:name="YLR299W" />
-      <fbc:geneProduct fbc:id="G_YGR032W" fbc:label="YGR032W" fbc:name="YGR032W" />
-      <fbc:geneProduct fbc:id="G_YLR342W" fbc:label="YLR342W" fbc:name="YLR342W" />
-      <fbc:geneProduct fbc:id="G_YMR306W" fbc:label="YMR306W" fbc:name="YMR306W" />
-      <fbc:geneProduct fbc:id="G_YDR261C" fbc:label="YDR261C" fbc:name="YDR261C" />
-      <fbc:geneProduct fbc:id="G_YGR282C" fbc:label="YGR282C" fbc:name="YGR282C" />
       <fbc:geneProduct fbc:id="G_YLR300W" fbc:label="YLR300W" fbc:name="YLR300W" />
-      <fbc:geneProduct fbc:id="G_YOR190W" fbc:label="YOR190W" fbc:name="YOR190W" />
-      <fbc:geneProduct fbc:id="G_YMR013C" fbc:label="YMR013C" fbc:name="YMR013C" />
-      <fbc:geneProduct fbc:id="G_YPR183W" fbc:label="YPR183W" fbc:name="YPR183W" />
-      <fbc:geneProduct fbc:id="G_YAL023C" fbc:label="YAL023C" fbc:name="YAL023C" />
-      <fbc:geneProduct fbc:id="G_YDL093W" fbc:label="YDL093W" fbc:name="YDL093W" />
-      <fbc:geneProduct fbc:id="G_YDL095W" fbc:label="YDL095W" fbc:name="YDL095W" />
-      <fbc:geneProduct fbc:id="G_YGR199W" fbc:label="YGR199W" fbc:name="YGR199W" />
-      <fbc:geneProduct fbc:id="G_YJR143C" fbc:label="YJR143C" fbc:name="YJR143C" />
-      <fbc:geneProduct fbc:id="G_YOR321W" fbc:label="YOR321W" fbc:name="YOR321W" />
-      <fbc:geneProduct fbc:id="G_YBR199W" fbc:label="YBR199W" fbc:name="YBR199W" />
-      <fbc:geneProduct fbc:id="G_YBR205W" fbc:label="YBR205W" fbc:name="YBR205W" />
-      <fbc:geneProduct fbc:id="G_YDR483W" fbc:label="YDR483W" fbc:name="YDR483W" />
-      <fbc:geneProduct fbc:id="G_YJL139C" fbc:label="YJL139C" fbc:name="YJL139C" />
-      <fbc:geneProduct fbc:id="G_YKR061W" fbc:label="YKR061W" fbc:name="YKR061W" />
-      <fbc:geneProduct fbc:id="G_YOR099W" fbc:label="YOR099W" fbc:name="YOR099W" />
-      <fbc:geneProduct fbc:id="G_YPL053C" fbc:label="YPL053C" fbc:name="YPL053C" />
-      <fbc:geneProduct fbc:id="G_YER062C" fbc:label="YER062C" fbc:name="YER062C" />
-      <fbc:geneProduct fbc:id="G_YIL053W" fbc:label="YIL053W" fbc:name="YIL053W" />
+      <fbc:geneProduct fbc:id="G_YLR303W" fbc:label="YLR303W" fbc:name="YLR303W" />
+      <fbc:geneProduct fbc:id="G_YLR304C" fbc:label="YLR304C" fbc:name="YLR304C" />
+      <fbc:geneProduct fbc:id="G_YLR305C" fbc:label="YLR305C" fbc:name="YLR305C" />
       <fbc:geneProduct fbc:id="G_YLR307W" fbc:label="YLR307W" fbc:name="YLR307W" />
       <fbc:geneProduct fbc:id="G_YLR308W" fbc:label="YLR308W" fbc:name="YLR308W" />
-      <fbc:geneProduct fbc:id="G_YFL053W" fbc:label="YFL053W" fbc:name="YFL053W" />
-      <fbc:geneProduct fbc:id="G_YML070W" fbc:label="YML070W" fbc:name="YML070W" />
-      <fbc:geneProduct fbc:id="G_YDL022W" fbc:label="YDL022W" fbc:name="YDL022W" />
-      <fbc:geneProduct fbc:id="G_YOL059W" fbc:label="YOL059W" fbc:name="YOL059W" />
-      <fbc:geneProduct fbc:id="G_YHL032C" fbc:label="YHL032C" fbc:name="YHL032C" />
-      <fbc:geneProduct fbc:id="G_YIL155C" fbc:label="YIL155C" fbc:name="YIL155C" />
-      <fbc:geneProduct fbc:id="G_YOR143C" fbc:label="YOR143C" fbc:name="YOR143C" />
-      <fbc:geneProduct fbc:id="G_YOL055C" fbc:label="YOL055C" fbc:name="YOL055C" />
-      <fbc:geneProduct fbc:id="G_YPL258C" fbc:label="YPL258C" fbc:name="YPL258C" />
-      <fbc:geneProduct fbc:id="G_YPR121W" fbc:label="YPR121W" fbc:name="YPR121W" />
-      <fbc:geneProduct fbc:id="G_YPL214C" fbc:label="YPL214C" fbc:name="YPL214C" />
-      <fbc:geneProduct fbc:id="G_YBL033C" fbc:label="YBL033C" fbc:name="YBL033C" />
-      <fbc:geneProduct fbc:id="G_YBR153W" fbc:label="YBR153W" fbc:name="YBR153W" />
-      <fbc:geneProduct fbc:id="G_YBR256C" fbc:label="YBR256C" fbc:name="YBR256C" />
-      <fbc:geneProduct fbc:id="G_YAR071W" fbc:label="YAR071W" fbc:name="YAR071W" />
-      <fbc:geneProduct fbc:id="G_YDR236C" fbc:label="YDR236C" fbc:name="YDR236C" />
-      <fbc:geneProduct fbc:id="G_YDL045C" fbc:label="YDL045C" fbc:name="YDL045C" />
-      <fbc:geneProduct fbc:id="G_YBR035C" fbc:label="YBR035C" fbc:name="YBR035C" />
-      <fbc:geneProduct fbc:id="G_YNR058W" fbc:label="YNR058W" fbc:name="YNR058W" />
-      <fbc:geneProduct fbc:id="G_YNR057C" fbc:label="YNR057C" fbc:name="YNR057C" />
-      <fbc:geneProduct fbc:id="G_YGR286C" fbc:label="YGR286C" fbc:name="YGR286C" />
-      <fbc:geneProduct fbc:id="G_YGR267C" fbc:label="YGR267C" fbc:name="YGR267C" />
-      <fbc:geneProduct fbc:id="G_YDR481C" fbc:label="YDR481C" fbc:name="YDR481C" />
-      <fbc:geneProduct fbc:id="G_YDL100C" fbc:label="YDL100C" fbc:name="YDL100C" />
-      <fbc:geneProduct fbc:id="G_YNL256W" fbc:label="YNL256W" fbc:name="YNL256W" />
-      <fbc:geneProduct fbc:id="G_YNR033W" fbc:label="YNR033W" fbc:name="YNR033W" />
-      <fbc:geneProduct fbc:id="G_YOR236W" fbc:label="YOR236W" fbc:name="YOR236W" />
-      <fbc:geneProduct fbc:id="G_YKL132C" fbc:label="YKL132C" fbc:name="YKL132C" />
-      <fbc:geneProduct fbc:id="G_YMR113W" fbc:label="YMR113W" fbc:name="YMR113W" />
-      <fbc:geneProduct fbc:id="G_YOR241W" fbc:label="YOR241W" fbc:name="YOR241W" />
-      <fbc:geneProduct fbc:id="G_YPL023C" fbc:label="YPL023C" fbc:name="YPL023C" />
-      <fbc:geneProduct fbc:id="G_YGL125W" fbc:label="YGL125W" fbc:name="YGL125W" />
-      <fbc:geneProduct fbc:id="G_YBR084W" fbc:label="YBR084W" fbc:name="YBR084W" />
-      <fbc:geneProduct fbc:id="G_YGR204W" fbc:label="YGR204W" fbc:name="YGR204W" />
-      <fbc:geneProduct fbc:id="G_YKR080W" fbc:label="YKR080W" fbc:name="YKR080W" />
-      <fbc:geneProduct fbc:id="G_YBL013W" fbc:label="YBL013W" fbc:name="YBL013W" />
-      <fbc:geneProduct fbc:id="G_YBR176W" fbc:label="YBR176W" fbc:name="YBR176W" />
-      <fbc:geneProduct fbc:id="G_YHR063C" fbc:label="YHR063C" fbc:name="YHR063C" />
-      <fbc:geneProduct fbc:id="G_YIL145C" fbc:label="YIL145C" fbc:name="YIL145C" />
-      <fbc:geneProduct fbc:id="G_YDR531W" fbc:label="YDR531W" fbc:name="YDR531W" />
-      <fbc:geneProduct fbc:id="G_YPL148C" fbc:label="YPL148C" fbc:name="YPL148C" />
-      <fbc:geneProduct fbc:id="G_YGL037C" fbc:label="YGL037C" fbc:name="YGL037C" />
-      <fbc:geneProduct fbc:id="G_YOR209C" fbc:label="YOR209C" fbc:name="YOR209C" />
-      <fbc:geneProduct fbc:id="G_YFR047C" fbc:label="YFR047C" fbc:name="YFR047C" />
       <fbc:geneProduct fbc:id="G_YLR328W" fbc:label="YLR328W" fbc:name="YLR328W" />
-      <fbc:geneProduct fbc:id="G_YHR074W" fbc:label="YHR074W" fbc:name="YHR074W" />
-      <fbc:geneProduct fbc:id="G_YJR049C" fbc:label="YJR049C" fbc:name="YJR049C" />
-      <fbc:geneProduct fbc:id="G_YEL041W" fbc:label="YEL041W" fbc:name="YEL041W" />
-      <fbc:geneProduct fbc:id="G_YPL188W" fbc:label="YPL188W" fbc:name="YPL188W" />
-      <fbc:geneProduct fbc:id="G_YDR232W" fbc:label="YDR232W" fbc:name="YDR232W" />
-      <fbc:geneProduct fbc:id="G_YGL040C" fbc:label="YGL040C" fbc:name="YGL040C" />
-      <fbc:geneProduct fbc:id="G_YDL205C" fbc:label="YDL205C" fbc:name="YDL205C" />
-      <fbc:geneProduct fbc:id="G_YOR278W" fbc:label="YOR278W" fbc:name="YOR278W" />
-      <fbc:geneProduct fbc:id="G_YDR047W" fbc:label="YDR047W" fbc:name="YDR047W" />
-      <fbc:geneProduct fbc:id="G_YDR044W" fbc:label="YDR044W" fbc:name="YDR044W" />
-      <fbc:geneProduct fbc:id="G_YER014W" fbc:label="YER014W" fbc:name="YER014W" />
-      <fbc:geneProduct fbc:id="G_YOR176W" fbc:label="YOR176W" fbc:name="YOR176W" />
-      <fbc:geneProduct fbc:id="G_YGL245W" fbc:label="YGL245W" fbc:name="YGL245W" />
-      <fbc:geneProduct fbc:id="G_YOL033W" fbc:label="YOL033W" fbc:name="YOL033W" />
-      <fbc:geneProduct fbc:id="G_YKR069W" fbc:label="YKR069W" fbc:name="YKR069W" />
-      <fbc:geneProduct fbc:id="G_YPR176C" fbc:label="YPR176C" fbc:name="YPR176C" />
-      <fbc:geneProduct fbc:id="G_YBR003W" fbc:label="YBR003W" fbc:name="YBR003W" />
-      <fbc:geneProduct fbc:id="G_YNR041C" fbc:label="YNR041C" fbc:name="YNR041C" />
-      <fbc:geneProduct fbc:id="G_YPL172C" fbc:label="YPL172C" fbc:name="YPL172C" />
-      <fbc:geneProduct fbc:id="G_YDL090C" fbc:label="YDL090C" fbc:name="YDL090C" />
-      <fbc:geneProduct fbc:id="G_YBR002C" fbc:label="YBR002C" fbc:name="YBR002C" />
-      <fbc:geneProduct fbc:id="G_YMR101C" fbc:label="YMR101C" fbc:name="YMR101C" />
-      <fbc:geneProduct fbc:id="G_YDR538W" fbc:label="YDR538W" fbc:name="YDR538W" />
-      <fbc:geneProduct fbc:id="G_YPL266W" fbc:label="YPL266W" fbc:name="YPL266W" />
-      <fbc:geneProduct fbc:id="G_YML110C" fbc:label="YML110C" fbc:name="YML110C" />
-      <fbc:geneProduct fbc:id="G_YGR255C" fbc:label="YGR255C" fbc:name="YGR255C" />
-      <fbc:geneProduct fbc:id="G_YOL096C" fbc:label="YOL096C" fbc:name="YOL096C" />
-      <fbc:geneProduct fbc:id="G_YMR056C" fbc:label="YMR056C" fbc:name="YMR056C" />
-      <fbc:geneProduct fbc:id="G_YBL030C" fbc:label="YBL030C" fbc:name="YBL030C" />
-      <fbc:geneProduct fbc:id="G_YBR085W" fbc:label="YBR085W" fbc:name="YBR085W" />
-      <fbc:geneProduct fbc:id="G_YJR077C" fbc:label="YJR077C" fbc:name="YJR077C" />
-      <fbc:geneProduct fbc:id="G_YER053C" fbc:label="YER053C" fbc:name="YER053C" />
+      <fbc:geneProduct fbc:id="G_YLR342W" fbc:label="YLR342W" fbc:name="YLR342W" />
       <fbc:geneProduct fbc:id="G_YLR348C" fbc:label="YLR348C" fbc:name="YLR348C" />
-      <fbc:geneProduct fbc:id="G_YKL120W" fbc:label="YKL120W" fbc:name="YKL120W" />
-      <fbc:geneProduct fbc:id="G_YBR291C" fbc:label="YBR291C" fbc:name="YBR291C" />
-      <fbc:geneProduct fbc:id="G_YOR130C" fbc:label="YOR130C" fbc:name="YOR130C" />
-      <fbc:geneProduct fbc:id="G_YOR100C" fbc:label="YOR100C" fbc:name="YOR100C" />
-      <fbc:geneProduct fbc:id="G_YIL134W" fbc:label="YIL134W" fbc:name="YIL134W" />
-      <fbc:geneProduct fbc:id="G_YJR095W" fbc:label="YJR095W" fbc:name="YJR095W" />
-      <fbc:geneProduct fbc:id="G_YPL134C" fbc:label="YPL134C" fbc:name="YPL134C" />
-      <fbc:geneProduct fbc:id="G_YOR222W" fbc:label="YOR222W" fbc:name="YOR222W" />
-      <fbc:geneProduct fbc:id="G_YHR092C" fbc:label="YHR092C" fbc:name="YHR092C" />
-      <fbc:geneProduct fbc:id="G_YLR081W" fbc:label="YLR081W" fbc:name="YLR081W" />
-      <fbc:geneProduct fbc:id="G_YOL156W" fbc:label="YOL156W" fbc:name="YOL156W" />
-      <fbc:geneProduct fbc:id="G_YDR536W" fbc:label="YDR536W" fbc:name="YDR536W" />
-      <fbc:geneProduct fbc:id="G_YHR094C" fbc:label="YHR094C" fbc:name="YHR094C" />
-      <fbc:geneProduct fbc:id="G_YEL069C" fbc:label="YEL069C" fbc:name="YEL069C" />
-      <fbc:geneProduct fbc:id="G_YDL245C" fbc:label="YDL245C" fbc:name="YDL245C" />
-      <fbc:geneProduct fbc:id="G_YJR158W" fbc:label="YJR158W" fbc:name="YJR158W" />
-      <fbc:geneProduct fbc:id="G_YFL011W" fbc:label="YFL011W" fbc:name="YFL011W" />
-      <fbc:geneProduct fbc:id="G_YNR072W" fbc:label="YNR072W" fbc:name="YNR072W" />
-      <fbc:geneProduct fbc:id="G_YMR011W" fbc:label="YMR011W" fbc:name="YMR011W" />
-      <fbc:geneProduct fbc:id="G_YDR345C" fbc:label="YDR345C" fbc:name="YDR345C" />
-      <fbc:geneProduct fbc:id="G_YHR096C" fbc:label="YHR096C" fbc:name="YHR096C" />
-      <fbc:geneProduct fbc:id="G_YDR343C" fbc:label="YDR343C" fbc:name="YDR343C" />
-      <fbc:geneProduct fbc:id="G_YDR342C" fbc:label="YDR342C" fbc:name="YDR342C" />
-      <fbc:geneProduct fbc:id="G_YJL214W" fbc:label="YJL214W" fbc:name="YJL214W" />
-      <fbc:geneProduct fbc:id="G_YJL219W" fbc:label="YJL219W" fbc:name="YJL219W" />
-      <fbc:geneProduct fbc:id="G_YNL318C" fbc:label="YNL318C" fbc:name="YNL318C" />
-      <fbc:geneProduct fbc:id="G_YFL055W" fbc:label="YFL055W" fbc:name="YFL055W" />
-      <fbc:geneProduct fbc:id="G_YKR039W" fbc:label="YKR039W" fbc:name="YKR039W" />
-      <fbc:geneProduct fbc:id="G_YCL025C" fbc:label="YCL025C" fbc:name="YCL025C" />
-      <fbc:geneProduct fbc:id="G_YPL265W" fbc:label="YPL265W" fbc:name="YPL265W" />
-      <fbc:geneProduct fbc:id="G_YDR497C" fbc:label="YDR497C" fbc:name="YDR497C" />
-      <fbc:geneProduct fbc:id="G_YOL103W" fbc:label="YOL103W" fbc:name="YOL103W" />
-      <fbc:geneProduct fbc:id="G_YIL162W" fbc:label="YIL162W" fbc:name="YIL162W" />
-      <fbc:geneProduct fbc:id="G_YBR298C" fbc:label="YBR298C" fbc:name="YBR298C" />
-      <fbc:geneProduct fbc:id="G_YLL043W" fbc:label="YLL043W" fbc:name="YLL043W" />
-      <fbc:geneProduct fbc:id="G_YKL217W" fbc:label="YKL217W" fbc:name="YKL217W" />
-      <fbc:geneProduct fbc:id="G_YOL020W" fbc:label="YOL020W" fbc:name="YOL020W" />
-      <fbc:geneProduct fbc:id="G_YOR348C" fbc:label="YOR348C" fbc:name="YOR348C" />
-      <fbc:geneProduct fbc:id="G_YEL063C" fbc:label="YEL063C" fbc:name="YEL063C" />
-      <fbc:geneProduct fbc:id="G_YNL270C" fbc:label="YNL270C" fbc:name="YNL270C" />
-      <fbc:geneProduct fbc:id="G_YDR508C" fbc:label="YDR508C" fbc:name="YDR508C" />
-      <fbc:geneProduct fbc:id="G_YBR068C" fbc:label="YBR068C" fbc:name="YBR068C" />
-      <fbc:geneProduct fbc:id="G_YDR046C" fbc:label="YDR046C" fbc:name="YDR046C" />
-      <fbc:geneProduct fbc:id="G_YBR069C" fbc:label="YBR069C" fbc:name="YBR069C" />
-      <fbc:geneProduct fbc:id="G_YGR191W" fbc:label="YGR191W" fbc:name="YGR191W" />
-      <fbc:geneProduct fbc:id="G_YGR055W" fbc:label="YGR055W" fbc:name="YGR055W" />
-      <fbc:geneProduct fbc:id="G_YHL036W" fbc:label="YHL036W" fbc:name="YHL036W" />
-      <fbc:geneProduct fbc:id="G_YNL268W" fbc:label="YNL268W" fbc:name="YNL268W" />
-      <fbc:geneProduct fbc:id="G_YLL061W" fbc:label="YLL061W" fbc:name="YLL061W" />
-      <fbc:geneProduct fbc:id="G_YPL274W" fbc:label="YPL274W" fbc:name="YPL274W" />
-      <fbc:geneProduct fbc:id="G_YDL210W" fbc:label="YDL210W" fbc:name="YDL210W" />
-      <fbc:geneProduct fbc:id="G_YBR132C" fbc:label="YBR132C" fbc:name="YBR132C" />
-      <fbc:geneProduct fbc:id="G_YGL077C" fbc:label="YGL077C" fbc:name="YGL077C" />
-      <fbc:geneProduct fbc:id="G_YNR056C" fbc:label="YNR056C" fbc:name="YNR056C" />
-      <fbc:geneProduct fbc:id="G_YKR093W" fbc:label="YKR093W" fbc:name="YKR093W" />
-      <fbc:geneProduct fbc:id="G_YBR021W" fbc:label="YBR021W" fbc:name="YBR021W" />
-      <fbc:geneProduct fbc:id="G_YER056C" fbc:label="YER056C" fbc:name="YER056C" />
-      <fbc:geneProduct fbc:id="G_YER060W" fbc:label="YER060W" fbc:name="YER060W" />
-      <fbc:geneProduct fbc:id="G_YER060W__A" fbc:label="YER060W__A" fbc:name="YER060W-A" />
-      <fbc:geneProduct fbc:id="G_YGL186C" fbc:label="YGL186C" fbc:name="YGL186C" />
-      <fbc:geneProduct fbc:id="G_YBL042C" fbc:label="YBL042C" fbc:name="YBL042C" />
-      <fbc:geneProduct fbc:id="G_YCR032W" fbc:label="YCR032W" fbc:name="YCR032W" />
-      <fbc:geneProduct fbc:id="G_YHL016C" fbc:label="YHL016C" fbc:name="YHL016C" />
-      <fbc:geneProduct fbc:id="G_YGR121C" fbc:label="YGR121C" fbc:name="YGR121C" />
-      <fbc:geneProduct fbc:id="G_YNL142W" fbc:label="YNL142W" fbc:name="YNL142W" />
-      <fbc:geneProduct fbc:id="G_YPR138C" fbc:label="YPR138C" fbc:name="YPR138C" />
-      <fbc:geneProduct fbc:id="G_YJL129C" fbc:label="YJL129C" fbc:name="YJL129C" />
-      <fbc:geneProduct fbc:id="G_YBR294W" fbc:label="YBR294W" fbc:name="YBR294W" />
-      <fbc:geneProduct fbc:id="G_YLR092W" fbc:label="YLR092W" fbc:name="YLR092W" />
-      <fbc:geneProduct fbc:id="G_YGR125W" fbc:label="YGR125W" fbc:name="YGR125W" />
+      <fbc:geneProduct fbc:id="G_YLR354C" fbc:label="YLR354C" fbc:name="YLR354C" />
+      <fbc:geneProduct fbc:id="G_YLR355C" fbc:label="YLR355C" fbc:name="YLR355C" />
+      <fbc:geneProduct fbc:id="G_YLR359W" fbc:label="YLR359W" fbc:name="YLR359W" />
+      <fbc:geneProduct fbc:id="G_YLR377C" fbc:label="YLR377C" fbc:name="YLR377C" />
+      <fbc:geneProduct fbc:id="G_YLR420W" fbc:label="YLR420W" fbc:name="YLR420W" />
+      <fbc:geneProduct fbc:id="G_YLR432W" fbc:label="YLR432W" fbc:name="YLR432W" />
+      <fbc:geneProduct fbc:id="G_YLR438W" fbc:label="YLR438W" fbc:name="YLR438W" />
+      <fbc:geneProduct fbc:id="G_YLR450W" fbc:label="YLR450W" fbc:name="YLR450W" />
+      <fbc:geneProduct fbc:id="G_YML004C" fbc:label="YML004C" fbc:name="YML004C" />
+      <fbc:geneProduct fbc:id="G_YML008C" fbc:label="YML008C" fbc:name="YML008C" />
+      <fbc:geneProduct fbc:id="G_YML022W" fbc:label="YML022W" fbc:name="YML022W" />
+      <fbc:geneProduct fbc:id="G_YML035C" fbc:label="YML035C" fbc:name="YML035C" />
+      <fbc:geneProduct fbc:id="G_YML042W" fbc:label="YML042W" fbc:name="YML042W" />
+      <fbc:geneProduct fbc:id="G_YML054C" fbc:label="YML054C" fbc:name="YML054C" />
+      <fbc:geneProduct fbc:id="G_YML056C" fbc:label="YML056C" fbc:name="YML056C" />
+      <fbc:geneProduct fbc:id="G_YML070W" fbc:label="YML070W" fbc:name="YML070W" />
+      <fbc:geneProduct fbc:id="G_YML075C" fbc:label="YML075C" fbc:name="YML075C" />
+      <fbc:geneProduct fbc:id="G_YML082W" fbc:label="YML082W" fbc:name="YML082W" />
+      <fbc:geneProduct fbc:id="G_YML100W" fbc:label="YML100W" fbc:name="YML100W" />
+      <fbc:geneProduct fbc:id="G_YML106W" fbc:label="YML106W" fbc:name="YML106W" />
+      <fbc:geneProduct fbc:id="G_YML110C" fbc:label="YML110C" fbc:name="YML110C" />
+      <fbc:geneProduct fbc:id="G_YML120C" fbc:label="YML120C" fbc:name="YML120C" />
       <fbc:geneProduct fbc:id="G_YML123C" fbc:label="YML123C" fbc:name="YML123C" />
-      <fbc:geneProduct fbc:id="G_YLR138W" fbc:label="YLR138W" fbc:name="YLR138W" />
-      <fbc:geneProduct fbc:id="G_YCR028C" fbc:label="YCR028C" fbc:name="YCR028C" />
-      <fbc:geneProduct fbc:id="G_YCR024C__A" fbc:label="YCR024C__A" fbc:name="YCR024C-A" />
-      <fbc:geneProduct fbc:id="G_YEL017C__A" fbc:label="YEL017C__A" fbc:name="YEL017C-A" />
-      <fbc:geneProduct fbc:id="G_YGL008C" fbc:label="YGL008C" fbc:name="YGL008C" />
-      <fbc:geneProduct fbc:id="G_YPL036W" fbc:label="YPL036W" fbc:name="YPL036W" />
-      <fbc:geneProduct fbc:id="G_YLR237W" fbc:label="YLR237W" fbc:name="YLR237W" />
-      <fbc:geneProduct fbc:id="G_YOR071C" fbc:label="YOR071C" fbc:name="YOR071C" />
-      <fbc:geneProduct fbc:id="G_YOR192C" fbc:label="YOR192C" fbc:name="YOR192C" />
-      <fbc:geneProduct fbc:id="G_YIR028W" fbc:label="YIR028W" fbc:name="YIR028W" />
-      <fbc:geneProduct fbc:id="G_YJR152W" fbc:label="YJR152W" fbc:name="YJR152W" />
-      <fbc:geneProduct fbc:id="G_YGR065C" fbc:label="YGR065C" fbc:name="YGR065C" />
+      <fbc:geneProduct fbc:id="G_YML126C" fbc:label="YML126C" fbc:name="YML126C" />
+      <fbc:geneProduct fbc:id="G_YMR011W" fbc:label="YMR011W" fbc:name="YMR011W" />
+      <fbc:geneProduct fbc:id="G_YMR013C" fbc:label="YMR013C" fbc:name="YMR013C" />
+      <fbc:geneProduct fbc:id="G_YMR015C" fbc:label="YMR015C" fbc:name="YMR015C" />
+      <fbc:geneProduct fbc:id="G_YMR056C" fbc:label="YMR056C" fbc:name="YMR056C" />
+      <fbc:geneProduct fbc:id="G_YMR062C" fbc:label="YMR062C" fbc:name="YMR062C" />
+      <fbc:geneProduct fbc:id="G_YMR083W" fbc:label="YMR083W" fbc:name="YMR083W" />
+      <fbc:geneProduct fbc:id="G_YMR101C" fbc:label="YMR101C" fbc:name="YMR101C" />
+      <fbc:geneProduct fbc:id="G_YMR105C" fbc:label="YMR105C" fbc:name="YMR105C" />
+      <fbc:geneProduct fbc:id="G_YMR108W" fbc:label="YMR108W" fbc:name="YMR108W" />
+      <fbc:geneProduct fbc:id="G_YMR113W" fbc:label="YMR113W" fbc:name="YMR113W" />
+      <fbc:geneProduct fbc:id="G_YMR120C" fbc:label="YMR120C" fbc:name="YMR120C" />
+      <fbc:geneProduct fbc:id="G_YMR145C" fbc:label="YMR145C" fbc:name="YMR145C" />
+      <fbc:geneProduct fbc:id="G_YMR169C" fbc:label="YMR169C" fbc:name="YMR169C" />
+      <fbc:geneProduct fbc:id="G_YMR170C" fbc:label="YMR170C" fbc:name="YMR170C" />
+      <fbc:geneProduct fbc:id="G_YMR189W" fbc:label="YMR189W" fbc:name="YMR189W" />
+      <fbc:geneProduct fbc:id="G_YMR202W" fbc:label="YMR202W" fbc:name="YMR202W" />
+      <fbc:geneProduct fbc:id="G_YMR205C" fbc:label="YMR205C" fbc:name="YMR205C" />
+      <fbc:geneProduct fbc:id="G_YMR208W" fbc:label="YMR208W" fbc:name="YMR208W" />
+      <fbc:geneProduct fbc:id="G_YMR217W" fbc:label="YMR217W" fbc:name="YMR217W" />
+      <fbc:geneProduct fbc:id="G_YMR220W" fbc:label="YMR220W" fbc:name="YMR220W" />
+      <fbc:geneProduct fbc:id="G_YMR246W" fbc:label="YMR246W" fbc:name="YMR246W" />
+      <fbc:geneProduct fbc:id="G_YMR250W" fbc:label="YMR250W" fbc:name="YMR250W" />
+      <fbc:geneProduct fbc:id="G_YMR261C" fbc:label="YMR261C" fbc:name="YMR261C" />
+      <fbc:geneProduct fbc:id="G_YMR267W" fbc:label="YMR267W" fbc:name="YMR267W" />
+      <fbc:geneProduct fbc:id="G_YMR271C" fbc:label="YMR271C" fbc:name="YMR271C" />
+      <fbc:geneProduct fbc:id="G_YMR272C" fbc:label="YMR272C" fbc:name="YMR272C" />
+      <fbc:geneProduct fbc:id="G_YMR293C" fbc:label="YMR293C" fbc:name="YMR293C" />
+      <fbc:geneProduct fbc:id="G_YMR296C" fbc:label="YMR296C" fbc:name="YMR296C" />
+      <fbc:geneProduct fbc:id="G_YMR300C" fbc:label="YMR300C" fbc:name="YMR300C" />
+      <fbc:geneProduct fbc:id="G_YMR303C" fbc:label="YMR303C" fbc:name="YMR303C" />
+      <fbc:geneProduct fbc:id="G_YMR306W" fbc:label="YMR306W" fbc:name="YMR306W" />
+      <fbc:geneProduct fbc:id="G_YNL009W" fbc:label="YNL009W" fbc:name="YNL009W" />
+      <fbc:geneProduct fbc:id="G_YNL037C" fbc:label="YNL037C" fbc:name="YNL037C" />
+      <fbc:geneProduct fbc:id="G_YNL073W" fbc:label="YNL073W" fbc:name="YNL073W" />
+      <fbc:geneProduct fbc:id="G_YNL104C" fbc:label="YNL104C" fbc:name="YNL104C" />
+      <fbc:geneProduct fbc:id="G_YNL117W" fbc:label="YNL117W" fbc:name="YNL117W" />
+      <fbc:geneProduct fbc:id="G_YNL130C" fbc:label="YNL130C" fbc:name="YNL130C" />
+      <fbc:geneProduct fbc:id="G_YNL141W" fbc:label="YNL141W" fbc:name="YNL141W" />
+      <fbc:geneProduct fbc:id="G_YNL142W" fbc:label="YNL142W" fbc:name="YNL142W" />
+      <fbc:geneProduct fbc:id="G_YNL169C" fbc:label="YNL169C" fbc:name="YNL169C" />
+      <fbc:geneProduct fbc:id="G_YNL192W" fbc:label="YNL192W" fbc:name="YNL192W" />
+      <fbc:geneProduct fbc:id="G_YNL220W" fbc:label="YNL220W" fbc:name="YNL220W" />
+      <fbc:geneProduct fbc:id="G_YNL241C" fbc:label="YNL241C" fbc:name="YNL241C" />
+      <fbc:geneProduct fbc:id="G_YNL256W" fbc:label="YNL256W" fbc:name="YNL256W" />
+      <fbc:geneProduct fbc:id="G_YNL267W" fbc:label="YNL267W" fbc:name="YNL267W" />
+      <fbc:geneProduct fbc:id="G_YNL268W" fbc:label="YNL268W" fbc:name="YNL268W" />
+      <fbc:geneProduct fbc:id="G_YNL270C" fbc:label="YNL270C" fbc:name="YNL270C" />
+      <fbc:geneProduct fbc:id="G_YNL277W" fbc:label="YNL277W" fbc:name="YNL277W" />
+      <fbc:geneProduct fbc:id="G_YNL280C" fbc:label="YNL280C" fbc:name="YNL280C" />
+      <fbc:geneProduct fbc:id="G_YNL292W" fbc:label="YNL292W" fbc:name="YNL292W" />
+      <fbc:geneProduct fbc:id="G_YNL316C" fbc:label="YNL316C" fbc:name="YNL316C" />
+      <fbc:geneProduct fbc:id="G_YNL318C" fbc:label="YNL318C" fbc:name="YNL318C" />
+      <fbc:geneProduct fbc:id="G_YNR001C" fbc:label="YNR001C" fbc:name="YNR001C" />
+      <fbc:geneProduct fbc:id="G_YNR012W" fbc:label="YNR012W" fbc:name="YNR012W" />
+      <fbc:geneProduct fbc:id="G_YNR016C" fbc:label="YNR016C" fbc:name="YNR016C" />
+      <fbc:geneProduct fbc:id="G_YNR033W" fbc:label="YNR033W" fbc:name="YNR033W" />
+      <fbc:geneProduct fbc:id="G_YNR034W" fbc:label="YNR034W" fbc:name="YNR034W" />
+      <fbc:geneProduct fbc:id="G_YNR041C" fbc:label="YNR041C" fbc:name="YNR041C" />
+      <fbc:geneProduct fbc:id="G_YNR043W" fbc:label="YNR043W" fbc:name="YNR043W" />
+      <fbc:geneProduct fbc:id="G_YNR050C" fbc:label="YNR050C" fbc:name="YNR050C" />
+      <fbc:geneProduct fbc:id="G_YNR056C" fbc:label="YNR056C" fbc:name="YNR056C" />
+      <fbc:geneProduct fbc:id="G_YNR057C" fbc:label="YNR057C" fbc:name="YNR057C" />
+      <fbc:geneProduct fbc:id="G_YNR058W" fbc:label="YNR058W" fbc:name="YNR058W" />
+      <fbc:geneProduct fbc:id="G_YNR072W" fbc:label="YNR072W" fbc:name="YNR072W" />
+      <fbc:geneProduct fbc:id="G_YOL020W" fbc:label="YOL020W" fbc:name="YOL020W" />
+      <fbc:geneProduct fbc:id="G_YOL033W" fbc:label="YOL033W" fbc:name="YOL033W" />
+      <fbc:geneProduct fbc:id="G_YOL049W" fbc:label="YOL049W" fbc:name="YOL049W" />
+      <fbc:geneProduct fbc:id="G_YOL052C" fbc:label="YOL052C" fbc:name="YOL052C" />
+      <fbc:geneProduct fbc:id="G_YOL055C" fbc:label="YOL055C" fbc:name="YOL055C" />
+      <fbc:geneProduct fbc:id="G_YOL056W" fbc:label="YOL056W" fbc:name="YOL056W" />
+      <fbc:geneProduct fbc:id="G_YOL058W" fbc:label="YOL058W" fbc:name="YOL058W" />
+      <fbc:geneProduct fbc:id="G_YOL059W" fbc:label="YOL059W" fbc:name="YOL059W" />
+      <fbc:geneProduct fbc:id="G_YOL061W" fbc:label="YOL061W" fbc:name="YOL061W" />
+      <fbc:geneProduct fbc:id="G_YOL064C" fbc:label="YOL064C" fbc:name="YOL064C" />
+      <fbc:geneProduct fbc:id="G_YOL086C" fbc:label="YOL086C" fbc:name="YOL086C" />
+      <fbc:geneProduct fbc:id="G_YOL096C" fbc:label="YOL096C" fbc:name="YOL096C" />
+      <fbc:geneProduct fbc:id="G_YOL103W" fbc:label="YOL103W" fbc:name="YOL103W" />
+      <fbc:geneProduct fbc:id="G_YOL126C" fbc:label="YOL126C" fbc:name="YOL126C" />
+      <fbc:geneProduct fbc:id="G_YOL136C" fbc:label="YOL136C" fbc:name="YOL136C" />
+      <fbc:geneProduct fbc:id="G_YOL140W" fbc:label="YOL140W" fbc:name="YOL140W" />
+      <fbc:geneProduct fbc:id="G_YOL156W" fbc:label="YOL156W" fbc:name="YOL156W" />
       <fbc:geneProduct fbc:id="G_YOR011W" fbc:label="YOR011W" fbc:name="YOR011W" />
+      <fbc:geneProduct fbc:id="G_YOR040W" fbc:label="YOR040W" fbc:name="YOR040W" />
+      <fbc:geneProduct fbc:id="G_YOR071C" fbc:label="YOR071C" fbc:name="YOR071C" />
+      <fbc:geneProduct fbc:id="G_YOR074C" fbc:label="YOR074C" fbc:name="YOR074C" />
+      <fbc:geneProduct fbc:id="G_YOR095C" fbc:label="YOR095C" fbc:name="YOR095C" />
+      <fbc:geneProduct fbc:id="G_YOR099W" fbc:label="YOR099W" fbc:name="YOR099W" />
+      <fbc:geneProduct fbc:id="G_YOR100C" fbc:label="YOR100C" fbc:name="YOR100C" />
+      <fbc:geneProduct fbc:id="G_YOR128C" fbc:label="YOR128C" fbc:name="YOR128C" />
+      <fbc:geneProduct fbc:id="G_YOR130C" fbc:label="YOR130C" fbc:name="YOR130C" />
+      <fbc:geneProduct fbc:id="G_YOR142W" fbc:label="YOR142W" fbc:name="YOR142W" />
+      <fbc:geneProduct fbc:id="G_YOR143C" fbc:label="YOR143C" fbc:name="YOR143C" />
+      <fbc:geneProduct fbc:id="G_YOR171C" fbc:label="YOR171C" fbc:name="YOR171C" />
+      <fbc:geneProduct fbc:id="G_YOR176W" fbc:label="YOR176W" fbc:name="YOR176W" />
+      <fbc:geneProduct fbc:id="G_YOR184W" fbc:label="YOR184W" fbc:name="YOR184W" />
+      <fbc:geneProduct fbc:id="G_YOR190W" fbc:label="YOR190W" fbc:name="YOR190W" />
+      <fbc:geneProduct fbc:id="G_YOR192C" fbc:label="YOR192C" fbc:name="YOR192C" />
+      <fbc:geneProduct fbc:id="G_YOR202W" fbc:label="YOR202W" fbc:name="YOR202W" />
+      <fbc:geneProduct fbc:id="G_YOR209C" fbc:label="YOR209C" fbc:name="YOR209C" />
+      <fbc:geneProduct fbc:id="G_YOR221C" fbc:label="YOR221C" fbc:name="YOR221C" />
+      <fbc:geneProduct fbc:id="G_YOR222W" fbc:label="YOR222W" fbc:name="YOR222W" />
+      <fbc:geneProduct fbc:id="G_YOR236W" fbc:label="YOR236W" fbc:name="YOR236W" />
+      <fbc:geneProduct fbc:id="G_YOR241W" fbc:label="YOR241W" fbc:name="YOR241W" />
+      <fbc:geneProduct fbc:id="G_YOR278W" fbc:label="YOR278W" fbc:name="YOR278W" />
+      <fbc:geneProduct fbc:id="G_YOR317W" fbc:label="YOR317W" fbc:name="YOR317W" />
+      <fbc:geneProduct fbc:id="G_YOR321W" fbc:label="YOR321W" fbc:name="YOR321W" />
+      <fbc:geneProduct fbc:id="G_YOR323C" fbc:label="YOR323C" fbc:name="YOR323C" />
+      <fbc:geneProduct fbc:id="G_YOR347C" fbc:label="YOR347C" fbc:name="YOR347C" />
+      <fbc:geneProduct fbc:id="G_YOR348C" fbc:label="YOR348C" fbc:name="YOR348C" />
+      <fbc:geneProduct fbc:id="G_YOR360C" fbc:label="YOR360C" fbc:name="YOR360C" />
+      <fbc:geneProduct fbc:id="G_YOR374W" fbc:label="YOR374W" fbc:name="YOR374W" />
+      <fbc:geneProduct fbc:id="G_YOR375C" fbc:label="YOR375C" fbc:name="YOR375C" />
+      <fbc:geneProduct fbc:id="G_YOR388C" fbc:label="YOR388C" fbc:name="YOR388C" />
+      <fbc:geneProduct fbc:id="G_YOR393W" fbc:label="YOR393W" fbc:name="YOR393W" />
+      <fbc:geneProduct fbc:id="G_YPL023C" fbc:label="YPL023C" fbc:name="YPL023C" />
+      <fbc:geneProduct fbc:id="G_YPL028W" fbc:label="YPL028W" fbc:name="YPL028W" />
+      <fbc:geneProduct fbc:id="G_YPL036W" fbc:label="YPL036W" fbc:name="YPL036W" />
+      <fbc:geneProduct fbc:id="G_YPL053C" fbc:label="YPL053C" fbc:name="YPL053C" />
+      <fbc:geneProduct fbc:id="G_YPL057C" fbc:label="YPL057C" fbc:name="YPL057C" />
+      <fbc:geneProduct fbc:id="G_YPL061W" fbc:label="YPL061W" fbc:name="YPL061W" />
+      <fbc:geneProduct fbc:id="G_YPL091W" fbc:label="YPL091W" fbc:name="YPL091W" />
+      <fbc:geneProduct fbc:id="G_YPL111W" fbc:label="YPL111W" fbc:name="YPL111W" />
+      <fbc:geneProduct fbc:id="G_YPL117C" fbc:label="YPL117C" fbc:name="YPL117C" />
+      <fbc:geneProduct fbc:id="G_YPL134C" fbc:label="YPL134C" fbc:name="YPL134C" />
+      <fbc:geneProduct fbc:id="G_YPL148C" fbc:label="YPL148C" fbc:name="YPL148C" />
+      <fbc:geneProduct fbc:id="G_YPL172C" fbc:label="YPL172C" fbc:name="YPL172C" />
+      <fbc:geneProduct fbc:id="G_YPL188W" fbc:label="YPL188W" fbc:name="YPL188W" />
+      <fbc:geneProduct fbc:id="G_YPL212C" fbc:label="YPL212C" fbc:name="YPL212C" />
+      <fbc:geneProduct fbc:id="G_YPL214C" fbc:label="YPL214C" fbc:name="YPL214C" />
+      <fbc:geneProduct fbc:id="G_YPL231W" fbc:label="YPL231W" fbc:name="YPL231W" />
+      <fbc:geneProduct fbc:id="G_YPL258C" fbc:label="YPL258C" fbc:name="YPL258C" />
+      <fbc:geneProduct fbc:id="G_YPL262W" fbc:label="YPL262W" fbc:name="YPL262W" />
+      <fbc:geneProduct fbc:id="G_YPL265W" fbc:label="YPL265W" fbc:name="YPL265W" />
+      <fbc:geneProduct fbc:id="G_YPL266W" fbc:label="YPL266W" fbc:name="YPL266W" />
+      <fbc:geneProduct fbc:id="G_YPL268W" fbc:label="YPL268W" fbc:name="YPL268W" />
+      <fbc:geneProduct fbc:id="G_YPL273W" fbc:label="YPL273W" fbc:name="YPL273W" />
+      <fbc:geneProduct fbc:id="G_YPL274W" fbc:label="YPL274W" fbc:name="YPL274W" />
+      <fbc:geneProduct fbc:id="G_YPL275W" fbc:label="YPL275W" fbc:name="YPL275W" />
+      <fbc:geneProduct fbc:id="G_YPL276W" fbc:label="YPL276W" fbc:name="YPL276W" />
+      <fbc:geneProduct fbc:id="G_YPL281C" fbc:label="YPL281C" fbc:name="YPL281C" />
+      <fbc:geneProduct fbc:id="G_YPR001W" fbc:label="YPR001W" fbc:name="YPR001W" />
+      <fbc:geneProduct fbc:id="G_YPR006C" fbc:label="YPR006C" fbc:name="YPR006C" />
+      <fbc:geneProduct fbc:id="G_YPR026W" fbc:label="YPR026W" fbc:name="YPR026W" />
+      <fbc:geneProduct fbc:id="G_YPR033C" fbc:label="YPR033C" fbc:name="YPR033C" />
+      <fbc:geneProduct fbc:id="G_YPR035W" fbc:label="YPR035W" fbc:name="YPR035W" />
+      <fbc:geneProduct fbc:id="G_YPR060C" fbc:label="YPR060C" fbc:name="YPR060C" />
+      <fbc:geneProduct fbc:id="G_YPR062W" fbc:label="YPR062W" fbc:name="YPR062W" />
+      <fbc:geneProduct fbc:id="G_YPR069C" fbc:label="YPR069C" fbc:name="YPR069C" />
+      <fbc:geneProduct fbc:id="G_YPR074C" fbc:label="YPR074C" fbc:name="YPR074C" />
+      <fbc:geneProduct fbc:id="G_YPR113W" fbc:label="YPR113W" fbc:name="YPR113W" />
+      <fbc:geneProduct fbc:id="G_YPR121W" fbc:label="YPR121W" fbc:name="YPR121W" />
+      <fbc:geneProduct fbc:id="G_YPR138C" fbc:label="YPR138C" fbc:name="YPR138C" />
+      <fbc:geneProduct fbc:id="G_YPR145W" fbc:label="YPR145W" fbc:name="YPR145W" />
+      <fbc:geneProduct fbc:id="G_YPR160W" fbc:label="YPR160W" fbc:name="YPR160W" />
+      <fbc:geneProduct fbc:id="G_YPR167C" fbc:label="YPR167C" fbc:name="YPR167C" />
+      <fbc:geneProduct fbc:id="G_YPR176C" fbc:label="YPR176C" fbc:name="YPR176C" />
+      <fbc:geneProduct fbc:id="G_YPR183W" fbc:label="YPR183W" fbc:name="YPR183W" />
     </fbc:listOfGeneProducts>
     <listOfReactions>
       <reaction fast="false" id="R_GLK1_1" name="Glucokinase GLK1" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -2125,8 +2125,8 @@
           <speciesReference constant="true" species="M_m170" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m260" stoichiometry="1" />
           <speciesReference constant="true" species="M_m268" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m260" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YCR005C" />
@@ -2174,8 +2174,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m584" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m83" stoichiometry="1" />
           <speciesReference constant="true" species="M_m266" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m83" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YNL037C" />
@@ -2279,8 +2279,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m188" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m739" stoichiometry="1" />
           <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m739" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YGR244C" />
@@ -2480,13 +2480,13 @@
       <reaction fast="false" id="R_PYC1" name="Pyruvate carboxylase 1" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m690" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
           <speciesReference constant="true" species="M_m265" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m625" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YGL062W" />
@@ -2495,13 +2495,13 @@
       <reaction fast="false" id="R_PYC2" name="Pyruvate carboxylase 2" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m690" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
           <speciesReference constant="true" species="M_m265" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m625" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBR218C" />
@@ -3614,8 +3614,8 @@
       <reaction fast="false" id="R_COX1" name="Cytochrome c oxidase subunit 1" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m636" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m431" stoichiometry="6" />
           <speciesReference constant="true" species="M_m377" stoichiometry="4" />
+          <speciesReference constant="true" species="M_m431" stoichiometry="6" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m376" stoichiometry="4" />
@@ -3947,9 +3947,9 @@
           <speciesReference constant="true" species="M_m174" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m586" stoichiometry="11" />
-          <speciesReference constant="true" species="M_m266" stoichiometry="6" />
           <speciesReference constant="true" species="M_m748" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m266" stoichiometry="6" />
+          <speciesReference constant="true" species="M_m586" stoichiometry="11" />
           <speciesReference constant="true" species="M_m176" stoichiometry="6" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -4069,8 +4069,8 @@
       <reaction fast="false" id="R_ACC1" name="Acetyl-CoA carboxylase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m265" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
           <speciesReference constant="true" species="M_m170" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m539" stoichiometry="1" />
@@ -4213,8 +4213,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m265" stoichiometry="7" />
-          <speciesReference constant="true" species="M_m175" stoichiometry="7" />
           <speciesReference constant="true" species="M_m434" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m175" stoichiometry="7" />
           <speciesReference constant="true" species="M_m585" stoichiometry="14" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -4338,16 +4338,16 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
           <speciesReference constant="true" species="M_m374" stoichiometry="7" />
-          <speciesReference constant="true" species="M_m581" stoichiometry="7" />
-          <speciesReference constant="true" species="M_m560" stoichiometry="1" />
           <speciesReference constant="true" species="M_m268" stoichiometry="7" />
+          <speciesReference constant="true" species="M_m560" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m581" stoichiometry="7" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m170" stoichiometry="7" />
-          <speciesReference constant="true" species="M_m583" stoichiometry="7" />
+          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
           <speciesReference constant="true" species="M_m373" stoichiometry="7" />
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m583" stoichiometry="7" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4359,18 +4359,18 @@
       </reaction>
       <reaction fast="false" id="R_YGL205W_YKR009C_YIL160C_2" name="Grouped fatty acid degradation" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
+          <speciesReference constant="true" species="M_m581" stoichiometry="8" />
+          <speciesReference constant="true" species="M_m374" stoichiometry="8" />
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
           <speciesReference constant="true" species="M_m268" stoichiometry="8" />
-          <speciesReference constant="true" species="M_m374" stoichiometry="8" />
-          <speciesReference constant="true" species="M_m581" stoichiometry="8" />
           <speciesReference constant="true" species="M_m639" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m170" stoichiometry="8" />
-          <speciesReference constant="true" species="M_m583" stoichiometry="8" />
+          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
           <speciesReference constant="true" species="M_m373" stoichiometry="8" />
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m583" stoichiometry="8" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4385,15 +4385,15 @@
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
           <speciesReference constant="true" species="M_m374" stoichiometry="9" />
           <speciesReference constant="true" species="M_m733" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m581" stoichiometry="9" />
           <speciesReference constant="true" species="M_m268" stoichiometry="9" />
+          <speciesReference constant="true" species="M_m581" stoichiometry="9" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m170" stoichiometry="9" />
-          <speciesReference constant="true" species="M_m583" stoichiometry="9" />
+          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
           <speciesReference constant="true" species="M_m373" stoichiometry="9" />
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m583" stoichiometry="9" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:and>
@@ -4405,13 +4405,13 @@
       </reaction>
       <reaction fast="false" id="R_U3_" name="Glycerol-3-phosphate acyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
+          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m734" stoichiometry="0.055" />
           <speciesReference constant="true" species="M_m336" stoichiometry="0.062" />
           <speciesReference constant="true" species="M_m640" stoichiometry="0.169" />
           <speciesReference constant="true" species="M_m503" stoichiometry="0.093" />
           <speciesReference constant="true" species="M_m434" stoichiometry="0.27" />
           <speciesReference constant="true" species="M_m721" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m613" stoichiometry="0.235" />
           <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
         </listOfReactants>
@@ -4422,13 +4422,13 @@
       </reaction>
       <reaction fast="false" id="R_U4_" name="Glycerol-3-phosphate acyltransferas" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
+          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m734" stoichiometry="0.055" />
           <speciesReference constant="true" species="M_m336" stoichiometry="0.062" />
           <speciesReference constant="true" species="M_m640" stoichiometry="0.169" />
           <speciesReference constant="true" species="M_m503" stoichiometry="0.093" />
           <speciesReference constant="true" species="M_m434" stoichiometry="0.27" />
           <speciesReference constant="true" species="M_m721" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m613" stoichiometry="0.235" />
           <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
         </listOfReactants>
@@ -4484,14 +4484,14 @@
       <reaction fast="false" id="R_SLC1" name="Probable 1-acyl-sn-glycerol-3-phosphate acyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m734" stoichiometry="0.055" />
+          <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
           <speciesReference constant="true" species="M_m336" stoichiometry="0.062" />
           <speciesReference constant="true" species="M_m640" stoichiometry="0.169" />
           <speciesReference constant="true" species="M_m503" stoichiometry="0.093" />
           <speciesReference constant="true" species="M_m434" stoichiometry="0.27" />
           <speciesReference constant="true" species="M_m179" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m613" stoichiometry="0.235" />
-          <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
+          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m175" stoichiometry="1" />
@@ -4504,14 +4504,14 @@
       <reaction fast="false" id="R_U8_" name="1-acylglycerol-3-phosphate acyltransferase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m734" stoichiometry="0.055" />
+          <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
           <speciesReference constant="true" species="M_m336" stoichiometry="0.062" />
           <speciesReference constant="true" species="M_m640" stoichiometry="0.169" />
           <speciesReference constant="true" species="M_m503" stoichiometry="0.093" />
           <speciesReference constant="true" species="M_m434" stoichiometry="0.27" />
           <speciesReference constant="true" species="M_m179" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m613" stoichiometry="0.235" />
-          <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
+          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m175" stoichiometry="1" />
@@ -4639,8 +4639,8 @@
           <speciesReference constant="true" species="M_m256" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
           <speciesReference constant="true" species="M_m257" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YLR133W" />
@@ -5233,8 +5233,8 @@
           <speciesReference constant="true" species="M_m11" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
           <speciesReference constant="true" species="M_m10" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YMR220W" />
@@ -5333,9 +5333,9 @@
       </reaction>
       <reaction fast="false" id="R_ERG11" name="Cytochrome P450 51" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m694" stoichiometry="1" />
           <speciesReference constant="true" species="M_m477" stoichiometry="1" />
           <speciesReference constant="true" species="M_m635" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m694" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m115" stoichiometry="1" />
@@ -5351,8 +5351,8 @@
           <speciesReference constant="true" species="M_m587" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m116" stoichiometry="1" />
           <speciesReference constant="true" species="M_m585" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m116" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YNL280C" />
@@ -5459,8 +5459,8 @@
       <reaction fast="false" id="R_ERG3" name="C-5 sterol desaturase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m362" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m587" stoichiometry="1" />
           <speciesReference constant="true" species="M_m635" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m587" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m585" stoichiometry="1" />
@@ -5515,8 +5515,8 @@
         <listOfReactants>
           <speciesReference constant="true" species="M_m635" stoichiometry="3" />
           <speciesReference constant="true" species="M_m587" stoichiometry="4" />
-          <speciesReference constant="true" species="M_m133" stoichiometry="1" />
           <speciesReference constant="true" species="M_m581" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m133" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m265" stoichiometry="1" />
@@ -5773,9 +5773,9 @@
       </reaction>
       <reaction fast="false" id="R_ADE1" name="Phosphoribosylaminoimidazole-succinocarboxamide synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m483" stoichiometry="1" />
           <speciesReference constant="true" species="M_m30" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m483" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m31" stoichiometry="1" />
@@ -5853,9 +5853,9 @@
           <speciesReference constant="true" species="M_m483" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m572" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m394" stoichiometry="1" />
           <speciesReference constant="true" species="M_m622" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m394" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m572" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YNL220W" />
@@ -6312,8 +6312,8 @@
           <speciesReference constant="true" species="M_m350" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
           <speciesReference constant="true" species="M_m349" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YJR057W" />
@@ -6437,13 +6437,13 @@
       <reaction fast="false" id="R_URA7_2" name="CTP synthase 1" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m594" stoichiometry="1" />
           <speciesReference constant="true" species="M_m789" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m594" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m271" stoichiometry="1" />
           <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m271" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBL039C" />
@@ -6452,13 +6452,13 @@
       <reaction fast="false" id="R_URA8_2" name="CTP synthase 2" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m594" stoichiometry="1" />
           <speciesReference constant="true" species="M_m789" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m594" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m271" stoichiometry="1" />
           <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m271" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YJR103W" />
@@ -6568,8 +6568,8 @@
           <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m444" stoichiometry="1" />
           <speciesReference constant="true" species="M_m299" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m444" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YLR209C" />
@@ -6734,8 +6734,8 @@
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
           <speciesReference constant="true" species="M_m446" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YDR226W" />
@@ -6811,8 +6811,8 @@
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m271" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m271" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YKL067W" />
@@ -6833,8 +6833,8 @@
       </reaction>
       <reaction fast="false" id="R_YNK1_4" name="Nucleoside diphosphate kinase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m354" stoichiometry="1" />
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m354" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m356" stoichiometry="1" />
@@ -7405,8 +7405,8 @@
       </reaction>
       <reaction fast="false" id="R_PUT2" name="Delta-1-pyrroline-5-carboxylate dehydrogenase, mitochondrial" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m586" stoichiometry="1" />
           <speciesReference constant="true" species="M_m494" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m586" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m405" stoichiometry="1" />
@@ -7669,10 +7669,10 @@
           <speciesReference constant="true" species="M_m483" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m492" stoichiometry="1" />
           <speciesReference constant="true" species="M_m480" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m492" stoichiometry="1" />
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YPR145W" />
@@ -7685,10 +7685,10 @@
           <speciesReference constant="true" species="M_m483" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m492" stoichiometry="1" />
           <speciesReference constant="true" species="M_m480" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m492" stoichiometry="1" />
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YGR124W" />
@@ -7722,13 +7722,13 @@
       </reaction>
       <reaction fast="false" id="R_SLM5" name="Asparaginyl-tRNA synthetase, mitochondrial" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m221" stoichiometry="1" />
           <speciesReference constant="true" species="M_m485" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m221" stoichiometry="1" />
           <speciesReference constant="true" species="M_m771" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m689" stoichiometry="1" />
           <speciesReference constant="true" species="M_m212" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m689" stoichiometry="1" />
           <speciesReference constant="true" species="M_m482" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -8239,8 +8239,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m707" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YDR502C" />
@@ -8253,8 +8253,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m707" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YLR180W" />
@@ -8262,8 +8262,8 @@
       </reaction>
       <reaction fast="false" id="R_DPH5" name="Diphthine synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m707" stoichiometry="1" />
           <speciesReference constant="true" species="M_m45" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m707" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m50" stoichiometry="1" />
@@ -8406,8 +8406,8 @@
           <speciesReference constant="true" species="M_m6" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m82" stoichiometry="1" />
           <speciesReference constant="true" species="M_m506" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m82" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YJR148W" />
@@ -8636,10 +8636,10 @@
           <speciesReference constant="true" species="M_m583" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m211" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
           <speciesReference constant="true" species="M_m581" stoichiometry="1" />
           <speciesReference constant="true" species="M_m472" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m211" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBR115C" />
@@ -8665,8 +8665,8 @@
           <speciesReference constant="true" species="M_m573" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m82" stoichiometry="1" />
           <speciesReference constant="true" species="M_m511" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m82" stoichiometry="1" />
           <speciesReference constant="true" species="M_m583" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -8695,8 +8695,8 @@
           <speciesReference constant="true" species="M_m770" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m689" stoichiometry="1" />
           <speciesReference constant="true" species="M_m212" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m689" stoichiometry="1" />
           <speciesReference constant="true" species="M_m514" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -8947,9 +8947,9 @@
           <speciesReference constant="true" species="M_m478" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m479" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m211" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m211" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m479" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YDR341C" />
@@ -8962,9 +8962,9 @@
           <speciesReference constant="true" species="M_m478" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m479" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m211" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m211" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m479" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YHR091C" />
@@ -9250,8 +9250,8 @@
           <speciesReference constant="true" species="M_m492" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m82" stoichiometry="1" />
           <speciesReference constant="true" species="M_m520" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m82" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YHR137W" />
@@ -9374,8 +9374,8 @@
       </reaction>
       <reaction fast="false" id="R_TRP5" name="Tryptophan synthase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m453" stoichiometry="1" />
           <speciesReference constant="true" species="M_m523" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m453" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m318" stoichiometry="1" />
@@ -9461,8 +9461,8 @@
       </reaction>
       <reaction fast="false" id="R_ALD4_1" name="Potassium-activated aldehyde dehydrogenase, mitochondrial" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m582" stoichiometry="1" />
           <speciesReference constant="true" species="M_m164" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m582" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m584" stoichiometry="1" />
@@ -9478,8 +9478,8 @@
           <speciesReference constant="true" species="M_m164" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m166" stoichiometry="1" />
           <speciesReference constant="true" species="M_m588" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m166" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YOR374W" />
@@ -9491,8 +9491,8 @@
           <speciesReference constant="true" species="M_m164" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m166" stoichiometry="1" />
           <speciesReference constant="true" species="M_m588" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m166" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YER073W" />
@@ -9551,8 +9551,8 @@
           <speciesReference constant="true" species="M_m508" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m101" stoichiometry="1" />
           <speciesReference constant="true" species="M_m585" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m101" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBL098W" />
@@ -9759,9 +9759,9 @@
           <speciesReference constant="true" species="M_m583" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m493" stoichiometry="1" />
           <speciesReference constant="true" species="M_m581" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m493" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YOR323C" />
@@ -9842,8 +9842,8 @@
           <speciesReference constant="true" species="M_m582" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m22" stoichiometry="1" />
           <speciesReference constant="true" species="M_m584" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m22" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YLR142W" />
@@ -9953,8 +9953,8 @@
       <reaction fast="false" id="R_GSH2" name="Glutathione synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m414" stoichiometry="1" />
           <speciesReference constant="true" species="M_m393" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m414" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m406" stoichiometry="1" />
@@ -10425,14 +10425,14 @@
       <reaction fast="false" id="R_U69_" name="Hypothetical enzyme" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
           <speciesReference constant="true" species="M_m734" stoichiometry="0.055" />
+          <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
           <speciesReference constant="true" species="M_m336" stoichiometry="0.062" />
           <speciesReference constant="true" species="M_m322" stoichiometry="1" />
           <speciesReference constant="true" species="M_m640" stoichiometry="0.169" />
           <speciesReference constant="true" species="M_m503" stoichiometry="0.093" />
           <speciesReference constant="true" species="M_m434" stoichiometry="0.27" />
-          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
           <speciesReference constant="true" species="M_m613" stoichiometry="0.235" />
-          <speciesReference constant="true" species="M_m293" stoichiometry="0.017" />
+          <speciesReference constant="true" species="M_m561" stoichiometry="0.1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m765" stoichiometry="1" />
@@ -10542,8 +10542,8 @@
           <speciesReference constant="true" species="M_m488" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m135" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m129" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -10554,8 +10554,8 @@
           <speciesReference constant="true" species="M_m488" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m135" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m129" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -10566,8 +10566,8 @@
           <speciesReference constant="true" species="M_m488" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m135" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m129" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -10578,8 +10578,8 @@
           <speciesReference constant="true" species="M_m488" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m135" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m265" stoichiometry="1" />
           <speciesReference constant="true" species="M_m129" stoichiometry="1" />
         </listOfProducts>
       </reaction>
@@ -10917,8 +10917,8 @@
           <speciesReference constant="true" species="M_m160" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m159" stoichiometry="1" />
           <speciesReference constant="true" species="M_m704" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m159" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YNR058W" />
@@ -10948,9 +10948,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m231" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m583" stoichiometry="2" />
           <speciesReference constant="true" species="M_m211" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m583" stoichiometry="2" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YGR286C" />
@@ -11081,8 +11081,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m324" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_DFR1_1" name="Dihydrofolate reductase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11129,8 +11129,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m146" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
           <speciesReference constant="true" species="M_m622" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_RMA1" name="Probable folylpolyglutamate synthase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -11232,14 +11232,14 @@
       </reaction>
       <reaction fast="false" id="R_MIS1_2" name="Formyltetrahydrofolate synthetase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m221" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m750" stoichiometry="1" />
           <speciesReference constant="true" species="M_m382" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m750" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m221" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m188" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m37" stoichiometry="1" />
           <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m37" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBR084W" />
@@ -11252,8 +11252,8 @@
           <speciesReference constant="true" species="M_m749" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m36" stoichiometry="1" />
           <speciesReference constant="true" species="M_m622" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m36" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
@@ -11327,8 +11327,8 @@
           <speciesReference constant="true" species="M_m62" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m16" stoichiometry="1" />
           <speciesReference constant="true" species="M_m585" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m16" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YHR063C" />
@@ -11349,9 +11349,9 @@
       </reaction>
       <reaction fast="false" id="R_PAN6" name="Pantoate--beta-alanine ligase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m223" stoichiometry="1" />
           <speciesReference constant="true" species="M_m16" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m223" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
@@ -11368,8 +11368,8 @@
           <speciesReference constant="true" species="M_m18" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
           <speciesReference constant="true" species="M_m279" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m187" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YDR531W" />
@@ -11377,9 +11377,9 @@
       </reaction>
       <reaction fast="false" id="R_U92_" name="Phosphopantothenate-cysteine ligase" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m279" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m488" stoichiometry="1" />
           <speciesReference constant="true" species="M_m271" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m488" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m279" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m9" stoichiometry="1" />
@@ -11498,8 +11498,8 @@
           <speciesReference constant="true" species="M_m192" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m680" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_QPT1_1" name="Nicotinate-nucleotide pyrophosphorylase [carboxylating]" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
@@ -11628,8 +11628,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m266" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m689" stoichiometry="1" />
           <speciesReference constant="true" species="M_m601" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m689" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YFR047C" />
@@ -11720,8 +11720,8 @@
           <speciesReference constant="true" species="M_m586" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m582" stoichiometry="1" />
           <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m582" stoichiometry="1" />
         </listOfProducts>
       </reaction>
       <reaction fast="false" id="R_PNP1_10" name="Purine nucleoside phosphorylase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
@@ -11739,8 +11739,8 @@
       </reaction>
       <reaction fast="false" id="R_PNP1_11" name="Purine nucleoside phosphorylase" reversible="true" fbc:lowerFluxBound="cobra_default_lb" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m429" stoichiometry="1" />
           <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m429" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m427" stoichiometry="1" />
@@ -11951,8 +11951,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YPR176C" />
@@ -11964,8 +11964,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBR003W" />
@@ -11977,8 +11977,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YNR041C" />
@@ -11990,8 +11990,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YPL172C" />
@@ -12003,8 +12003,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YDL090C" />
@@ -12016,8 +12016,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBR002C" />
@@ -12029,8 +12029,8 @@
           <speciesReference constant="true" species="M_m198" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
-          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
           <speciesReference constant="true" species="M_m688" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m107" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YMR101C" />
@@ -12106,8 +12106,8 @@
       </reaction>
       <reaction fast="false" id="R_COQ3" name="Hexaprenyldihydroxybenzoate methyltransferase, mitochondrial" reversible="false" fbc:lowerFluxBound="cobra_0_bound" fbc:upperFluxBound="cobra_default_ub">
         <listOfReactants>
-          <speciesReference constant="true" species="M_m99" stoichiometry="1" />
           <speciesReference constant="true" species="M_m708" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m99" stoichiometry="1" />
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m706" stoichiometry="1" />
@@ -12294,9 +12294,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m188" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m623" stoichiometry="1" />
           <speciesReference constant="true" species="M_m431" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YMR056C" />
@@ -12310,9 +12310,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m188" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m623" stoichiometry="1" />
           <speciesReference constant="true" species="M_m431" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBL030C" />
@@ -12326,9 +12326,9 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m188" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m623" stoichiometry="1" />
           <speciesReference constant="true" species="M_m431" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m623" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m220" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YBR085W" />
@@ -15525,8 +15525,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m430" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YCR024C__A" />
@@ -15538,8 +15538,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m430" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YEL017C__A" />
@@ -15551,8 +15551,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m430" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YGL008C" />
@@ -15564,8 +15564,8 @@
         </listOfReactants>
         <listOfProducts>
           <speciesReference constant="true" species="M_m430" stoichiometry="1" />
-          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
           <speciesReference constant="true" species="M_m187" stoichiometry="1" />
+          <speciesReference constant="true" species="M_m622" stoichiometry="1" />
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_YPL036W" />
@@ -16850,10 +16850,11 @@
           <speciesReference constant="true" species="M_m797" stoichiometry="0.0015" />
           <speciesReference constant="true" species="M_m43" stoichiometry="0.0053" />
           <speciesReference constant="true" species="M_m492" stoichiometry="0.3018" />
-          <speciesReference constant="true" species="M_m480" stoichiometry="0.1017" />
+          <speciesReference constant="true" species="M_m651" stoichiometry="0.0006" />
           <speciesReference constant="true" species="M_m743" stoichiometry="0.02" />
           <speciesReference constant="true" species="M_m483" stoichiometry="0.2975" />
-          <speciesReference constant="true" species="M_m475" stoichiometry="0.4588" />
+          <speciesReference constant="true" species="M_m211" stoichiometry="0.046" />
+          <speciesReference constant="true" species="M_m523" stoichiometry="0.1854" />
           <speciesReference constant="true" species="M_m520" stoichiometry="0.1339" />
           <speciesReference constant="true" species="M_m521" stoichiometry="0.1647" />
           <speciesReference constant="true" species="M_m509" stoichiometry="0.2964" />
@@ -16868,23 +16869,22 @@
           <speciesReference constant="true" species="M_m350" stoichiometry="0.0036" />
           <speciesReference constant="true" species="M_m199" stoichiometry="0.0234" />
           <speciesReference constant="true" species="M_m542" stoichiometry="0.8079" />
-          <speciesReference constant="true" species="M_m365" stoichiometry="0.0007" />
           <speciesReference constant="true" species="M_m34" stoichiometry="1.1348" />
           <speciesReference constant="true" species="M_m780" stoichiometry="0.0599" />
-          <speciesReference constant="true" species="M_m523" stoichiometry="0.1854" />
+          <speciesReference constant="true" species="M_m475" stoichiometry="0.4588" />
           <speciesReference constant="true" species="M_m288" stoichiometry="0.0024" />
           <speciesReference constant="true" species="M_m660" stoichiometry="0.0017" />
           <speciesReference constant="true" species="M_m281" stoichiometry="0.0036" />
-          <speciesReference constant="true" species="M_m211" stoichiometry="0.046" />
+          <speciesReference constant="true" species="M_m527" stoichiometry="0.0284" />
           <speciesReference constant="true" species="M_m531" stoichiometry="0.2646" />
           <speciesReference constant="true" species="M_m530" stoichiometry="0.102" />
           <speciesReference constant="true" species="M_m488" stoichiometry="0.0066" />
           <speciesReference constant="true" species="M_m654" stoichiometry="0.0045" />
           <speciesReference constant="true" species="M_m511" stoichiometry="0.2862" />
-          <speciesReference constant="true" species="M_m651" stoichiometry="0.0006" />
+          <speciesReference constant="true" species="M_m480" stoichiometry="0.1017" />
           <speciesReference constant="true" species="M_m515" stoichiometry="0.0507" />
           <speciesReference constant="true" species="M_m653" stoichiometry="0.006" />
-          <speciesReference constant="true" species="M_m527" stoichiometry="0.0284" />
+          <speciesReference constant="true" species="M_m365" stoichiometry="0.0007" />
           <speciesReference constant="true" species="M_m263" stoichiometry="0.0447" />
           <speciesReference constant="true" species="M_m220" stoichiometry="59.276" />
           <speciesReference constant="true" species="M_m416" stoichiometry="0.5185" />

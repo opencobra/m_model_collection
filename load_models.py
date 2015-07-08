@@ -521,6 +521,10 @@ models.iMM1415.reactions.EX_retpalm_e.remove_from_model(remove_orphans=True)
 for r in models.iCac802.reactions:
     r.name = ""
 
+# make sbml3 output deterministic by sorting genes
+for m in models:
+    m.genes.sort()
+
 
 # ## Fix Genes and GPR's
 
