@@ -521,10 +521,6 @@ models.iMM1415.reactions.EX_retpalm_e.remove_from_model(remove_orphans=True)
 for r in models.iCac802.reactions:
     r.name = ""
 
-# make sbml3 output deterministic by sorting genes
-for m in models:
-    m.genes.sort()
-
 
 # ## Fix Genes and GPR's
 
@@ -573,6 +569,11 @@ for m_id in ["iJN678", "iTL885"]:
         r.gene_reaction_rule = r.gene_reaction_rule.replace("and", " and ").replace("or", " or ")
 
 models.iCac802.reactions.R0095.gene_reaction_rule =     models.iCac802.reactions.R0095.gene_reaction_rule.replace(" AND ", " and ")
+
+
+# make sbml3 output deterministic by sorting genes
+for m in models:
+    m.genes.sort()
 
 
 # ## Ensure all ID's are SBML compliant
