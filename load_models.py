@@ -486,7 +486,7 @@ compartments = {
 
 for model in models:
     for metabolite in model.metabolites:
-        if metabolite.compartment is None or metabolite.compartment == "[":
+        if metabolite.compartment is None or len(metabolite.compartment.strip()) == 0 or metabolite.compartment == "[":
             if len(metabolite.id) > 2 and metabolite.id[-2] == "_" and metabolite.id[-1].isalpha():
                 metabolite.compartment = metabolite.id[-1]
             else:
