@@ -24,3 +24,12 @@ They also can be solved by the [MATLAB cobra toolbox](solve_in_matlab_cobra_tool
 Some of the [models](failed/README.md), however, could not be parsed correctly into
 solving models. Still, they give [consistent results between floating point and
 exact solvers](failed_models.ipynb)
+
+LICENSE
+-------
+All code in this repository is released into the public domain under the
+unlicense. Please see http://unlicense.org for details.
+
+The models themselves, however, are provided only for reproducing the results
+in the included scripts. All other uses must be consistent with the initial
+license the model was released under.
