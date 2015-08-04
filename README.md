@@ -28,7 +28,8 @@ exact solvers](failed_models.ipynb)
 LICENSE
 -------
 All code in this repository is released into the public domain under the
-unlicense. Please see http://unlicense.org for details.
+unlicense. Please see http://unlicense.org for details. The work may also
+be used under the terms of [CC0](http://creativecommons.org/publicdomain/zero/1.0/).
 
 The models themselves, however, are provided only for reproducing the results
 in the included scripts. All other uses must be consistent with the initial
