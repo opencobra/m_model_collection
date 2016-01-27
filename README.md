@@ -25,6 +25,13 @@ Some of the [models](failed/README.md), however, could not be parsed correctly i
 solving models. Still, they give [consistent results between floating point and
 exact solvers](failed_models.ipynb)
 
+Unofficial Models
+-----------------
+Please note that these models are not the official versions. Many of the models
+in here have been updated at the original source. This is merely a snapshot of
+models which were used in the analysis for
+[this study](http://dx.doi.org/10.15252/msb.20156157).
+
 LICENSE
 -------
 All code in this repository is released into the public domain under the
