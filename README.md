@@ -1,6 +1,9 @@
 M Model Collection
 ==================
 
+To view the publications and organisms associated with each model, please see
+the [key](model_key.md).
+
 A collection of M models downloaded from published studies, along with
 notebooks which parse and solve them. The notebooks can be viewed at
 [nbviewer](http://nbviewer.ipython.org/github/opencobra/m_model_collection/tree/master/).
